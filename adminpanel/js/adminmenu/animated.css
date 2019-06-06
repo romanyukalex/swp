@@ -1,0 +1,34 @@
+ul{
+	margin:0;
+	padding:0;
+}
+
+li{
+	width:100px;
+	height:50px;
+	float:left;
+
+	text-align:center;
+	overflow:hidden;
+}
+
+.whitecolor {
+	color:#FFF;
+	text-decoration:none;
+}
+
+p{
+	padding:0px 5px;
+}
+
+.subtext{
+	padding-top:15px; font-size:14px;
+}
+
+/*Menu Color Classes*/
+.green{background:#6AA63B url('green-it.jpg') top left no-repeat;list-style-image:none;}
+.yellow{background:#FBC700 url('yellow-i.jpg') top left no-repeat;list-style-image:none;}
+.red{background:#D52100 url('red-item.jpg') top left no-repeat;list-style-image:none;}
+.purple{background:#5122B4 url('purple-i.jpg') top left no-repeat;list-style-image:none;}
+.blue{background:#0292C0 url('blue-ite.jpg') top left no-repeat;list-style-image:none;}
+.orange{background:#FF6633 url('orange-i.jpg') top left no-repeat;;list-style-image:none;}
