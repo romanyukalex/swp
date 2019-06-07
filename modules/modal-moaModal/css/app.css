@@ -1,0 +1,273 @@
+
+body {
+    background-color:#ccc;
+    background-image:url(../images/opacity.png);
+}
+
+.container {
+    max-width:900px;
+    margin:0 auto;
+}
+
+
+
+h1 {
+    color:#fff;
+}
+
+
+img {
+    /*width:100%;
+    height:100%;*/
+}
+
+/*HEADER*/
+
+#header {
+    width:100%;
+    height:auto;
+    overflow:hidden;
+    background-color:#63152F;
+    background-image:url(../images/opacity2.png);
+    border-bottom:5px solid #888;
+}
+
+#header .top {
+    width:100%;
+    min-height:100px;
+    background-image:url(../images/opacity3.png);
+    position:relative;
+    margin-top:50px;
+    z-index:9999;
+}
+
+
+#header .top #logo {
+    height:100px;
+    background:url(../images/logo.png) no-repeat 50% 50%;
+    background-size:auto auto;
+}
+
+
+#footer {
+    width:100%;
+    
+    overflow:hidden;
+    background-color:#63152F;
+    background-image:url(../images/opacity2.png);
+    margin-top:50px;
+    border-top:4px solid #111;
+}
+
+#footer p {
+    color:#c0c0c0;
+    margin:15px;
+    font-size:12px;
+}
+
+#footer p a {
+    color:orange;
+    text-decoration:none;
+}
+
+#navWrapper {
+   padding:30px;
+}
+
+#navWrapper ul {
+    float:right;
+}
+
+.intro {
+    text-align:center;
+    margin:.3em;
+    padding:1.5em;
+    font-family:'Dosis';
+    
+}
+
+.intro h1 {
+    font-size:4em;
+    color:#b7b7b7;
+    
+    text-shadow:1px 2px 0px #000;
+    
+}
+
+/*BLOCKS*/
+.block {
+    margin:15px;
+    padding:10px;
+    background:#f8f8f8;
+    border:1px solid #ebebeb;
+    overflow:hidden;
+}
+
+.title {
+    margin:15px;
+    margin-bottom:0;
+    padding:10px;
+    text-align:center;
+    /*border-bottom:2px groove #f4f4f4;*/
+    border-top:2px groove #fff;
+   
+    background-color:#ddd;
+    background-image:url(../images/opacity.png);
+}
+
+.title h2,.title h3 {
+    color:#000;
+    font-size:24px;
+    font-family:'Dosis';
+    color:#1a4d81;
+    text-shadow: -2px 1px 2px #fff;
+}
+
+.bigTitle {
+    margin:15%;
+    color:#999;
+    font-size:42px;
+    font-weight:normal;
+    text-shadow:0px 0px 5px #f1f1f1;
+    
+
+}
+
+
+.tooltips p {
+    display:block;
+    padding:10px;
+    background:#eee5ff;
+    cursor:pointer;
+    border:1px solid #ccc;
+    margin-bottom:10px;
+}
+
+.tooltips p:hover {
+    background:#e8e8e8;
+}
+
+
+.grid_system p {
+    /*background:#ccc;*/
+    padding:5px;
+    font-size:10px;
+    overflow:hidden;
+    white-space:nowrap;
+    text-align:center;
+}
+
+
+
+
+/*SLIDER*/
+#slideShow {
+    width:100%;
+    height:350px;
+}
+
+/*#slideShow .slide {
+    width:100%;
+    height:350px;
+}*/
+
+.content {
+    
+    padding:10px;
+    margin:15px;
+    background:rgba(20,0,20,.8);
+    color:#fff;
+}
+
+
+.s1 .content {
+    
+}
+
+.s2 .content {
+    background:#222;
+    text-align:center;
+    font-weight:400;
+    font-family:'Dosis';
+    font-size:16px;
+}
+
+
+
+.s3 .content {
+    background:rgba(200,80,20,.9);
+    color:#ccc;
+}
+
+
+
+
+ul.slideControl {
+    list-style:none;
+    background:#efefef;
+    padding:5px;
+    margin:0 auto;
+    width:50%;
+    overflow:hidden;
+    width:200px;
+    border:5px solid #ccc;
+    border-top:none;
+    opacity:.5;
+    border-radius:0 0 20px 20px;
+    
+}
+
+ul.slideControl li {
+    float:left;
+    padding:13px;
+    background:#ccc;
+    margin:9px;
+    cursor:pointer;
+}
+
+ul.slideControl li:hover, ul.slideControl li.current {
+    background:#555;
+}
+
+
+div.opt {
+    margin:10px;
+    background:#eee;
+    padding:5px;
+}
+
+span.option {
+    font-weight:700;
+}
+
+span.description {
+    margin-left:10px;
+}
+
+
+
+/*MODALS*/
+
+.modal2 {
+    width:35%;
+    height:200px;
+    display:none;
+    border:5px solid #656565;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+.modal3 {
+    width:90%;
+    height:90%;
+    display:none;
+    border:5px solid #656565;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+

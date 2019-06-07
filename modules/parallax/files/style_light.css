@@ -1,0 +1,66 @@
+body {
+	background: rgb(255, 255, 255); color: rgb(86, 92, 97);
+}
+h1 {
+	color: rgb(130, 162, 194);
+}
+h2 {
+	
+}
+h3 {
+	color: rgb(55, 60, 64);
+}
+h4 {
+	color: rgb(71, 76, 81);
+}
+a:focus {
+	color: rgb(8, 33, 55);
+}
+a:hover {
+	color: rgb(8, 33, 55);
+}
+a {
+	color: rgb(40, 99, 156);
+}
+.cloak {
+	color: rgb(255, 255, 255);
+}
+.default {
+	color: rgb(125, 72, 25);
+}
+#header {
+	background: url("../images/bg_med_header.png"); width: 100%; height: 72px; margin-bottom: 3em;
+}
+#header h1 {
+	left: 80px; top: 24px; position: absolute;
+}
+#content {
+	margin: 0px 0px 0px 80px; width: 60em;
+}
+img.photo {
+	border: 2px solid rgb(102, 102, 102); float: right;
+}
+img.diagram {
+	margin: 0px -28px 1em 1em; float: right;
+}
+img.tl {
+	left: 0px; top: 0px; position: absolute;
+}
+img.tr {
+	top: 0px; right: 0px; position: absolute;
+}
+img.bl {
+	left: 0px; bottom: 0px; position: absolute;
+}
+img.br {
+	right: 0px; bottom: 0px; position: absolute;
+}
+#parallax {
+	background: rgb(150, 172, 193); clear: right; margin-bottom: 1.5em;
+}
+dt {
+	
+}
+.default {
+	width: 24em; text-align: left; font-style: italic; font-weight: normal; margin-right: 0px;
+}

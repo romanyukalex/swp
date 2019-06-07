@@ -1,0 +1,150 @@
+body {
+	font-family: Helvetica,Arial,sans-serif; font-size: 88%;
+}
+h1 {
+	font-weight: bold;
+}
+h2 {
+	font-weight: bold;
+}
+h3 {
+	font-weight: bold;
+}
+h4 {
+	font-weight: bold;
+}
+h5 {
+	font-weight: bold;
+}
+h6 {
+	font-weight: bold;
+}
+h1 {
+	line-height: 1em; font-size: 3em; margin-bottom: 0em;
+}
+h2 {
+	line-height: 1.6em; font-size: 1.6em; font-weight: normal; margin-bottom: 1em;
+}
+h3 {
+	line-height: 1.5em; font-size: 1.25em; margin-bottom: 0em;
+}
+h4 {
+	line-height: 1.4em; font-size: 1em; margin-bottom: 0em;
+}
+h1 img {
+	margin: 0px;
+}
+h2 img {
+	margin: 0px;
+}
+h3 img {
+	margin: 0px;
+}
+h4 img {
+	margin: 0px;
+}
+h5 img {
+	margin: 0px;
+}
+h6 img {
+	margin: 0px;
+}
+p {
+	margin: 0px 0px 1.5em;
+}
+a:focus {
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: underline;
+}
+a {
+	text-decoration: none;
+}
+blockquote {
+	margin: 1.5em; color: rgb(102, 102, 102); font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+em {
+	font-style: italic;
+}
+dfn {
+	font-style: italic;
+}
+dfn {
+	font-weight: bold;
+}
+sup {
+	line-height: 0;
+}
+sub {
+	line-height: 0;
+}
+abbr {
+	border-bottom-color: rgb(102, 102, 102); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+acronym {
+	border-bottom-color: rgb(102, 102, 102); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+address {
+	margin: 0px 0px 1.5em; font-style: italic;
+}
+del {
+	color: rgb(102, 102, 102);
+}
+pre {
+	margin: 1.5em 0px; white-space: pre;
+}
+code {
+	margin: 1.5em 0px; white-space: pre;
+}
+pre {
+	font: 1em/1.5 "andale mono", "lucida console", monospace; font-size-adjust: none; font-stretch: normal;
+}
+code {
+	font: 1em/1.5 "andale mono", "lucida console", monospace; font-size-adjust: none; font-stretch: normal;
+}
+tt {
+	font: 1em/1.5 "andale mono", "lucida console", monospace; font-size-adjust: none; font-stretch: normal;
+}
+li ul {
+	margin: 0px 1.5em;
+}
+li ol {
+	margin: 0px 1.5em;
+}
+ul {
+	margin: 0px 1.5em 1.5em;
+}
+ol {
+	margin: 0px 1.5em 1.5em;
+}
+dl ul {
+	margin: 0.4em 1.5em;
+}
+ul ul {
+	margin: 0.4em 1.5em;
+}
+ul dl {
+	margin: 0.4em 1.5em;
+}
+dl dl {
+	margin: 0.4em 1.5em;
+}
+ul {
+	list-style-type: disc;
+}
+ol {
+	list-style-type: decimal;
+}
+dl {
+	margin: 0px 0px 1.5em;
+}
+dl dt {
+	font-weight: bold;
+}
+dd {
+	margin-left: 1.5em;
+}

@@ -1,0 +1,81 @@
+
+/*Tooltip Container*/
+.tooltip {
+    opacity:.7;
+    background-color:#000;
+    color:#fff;
+    padding:.5em;
+    line-height: 1em;
+    -webkit-border-radius: .2em;
+    -moz-border-radius: .2em;
+    border-radius: .2em;
+}
+
+.tooltip p {
+    font-size:12px;
+}
+
+
+/*Reveal Container*/
+
+
+
+
+
+
+
+/*NAV MENU*/
+
+/* Root Menu */
+
+ul.nav a {
+    padding: 8px;
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, .6);
+    height: 1%;
+    margin:1px;
+}
+
+/*Adding right chvron icon to lists with nested drop down lists*/
+ul.nav .dir:before {
+    margin-left:10px;
+    content: "\f054";
+}
+
+/* Root Menu Hover Persistence */
+ul.nav a:hover,
+ul.nav li:hover a,ul.nav li.iehover a {
+    background: rgba(0, 0, 0, .5);
+    color: #FFF;
+}
+
+/* 2nd Menu */
+ul.nav li:hover li a,
+ul.nav li.iehover li a {
+    background: rgba(0, 0, 0, .5);
+}
+
+/* 2nd Menu Hover Persistence */
+ul.nav li:hover li a:hover,
+ul.nav li:hover li:hover a,
+ul.nav li.iehover li a:hover,
+ul.nav li.iehover li.iehover a {
+    background: rgba(0, 0, 0, .7);
+}
+
+/* 3rd Menu */
+ul.nav li:hover li:hover li a,
+ul.nav li.iehover li.iehover li a {
+    background: rgba(0, 0, 0, .7);
+
+}
+
+/* 3rd Menu Hover Persistence */
+ul.nav li:hover li:hover li a:hover,
+ul.nav li:hover li:hover li:hover a,
+ul.nav li.iehover li.iehover li a:hover,
+ul.nav li.iehover li.iehover li.iehover a {
+    background: rgba(0, 0, 0, .9);
+}
+

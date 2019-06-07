@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+<item>
+	<link>/?page=services</link>
+	<title>Услуги</title>
+	<page>services</page>
+	<submenues>
+		<item>
+			<link>/?page=services</link>
+			<title>Что мы умеем</title>
+			<addclasstoli></addclasstoli>
+			<addclasstoa></addclasstoa>
+			<page>services</page>
+		</item>
+		<item>
+			<link>/?page=price</link>
+			<title>Условия и Цены</title>
+			<addclasstoli></addclasstoli>
+			<addclasstoa></addclasstoa>
+			<page>price</page>
+		</item>
+	</submenues>
+</item>
+<item>
+	<link>/?page=portfolio</link>
+	<title>Портфолио</title>
+	<page>portfolio</page>
+</item>
+<item>
+	<link>/?page=faq</link>
+	<title>Вопрос</title>
+	<page>faq</page>
+	<submenues>
+		<item>
+			<link>/?page=faq</link>
+			<title>Частозадаваемые</title>
+			<page>faq</page>
+		</item>
+		<item>
+			<link>/?page=sendquestion</link>
+			<title>Оставить вопрос</title>
+			<page>sendquestion</page>
+		</item>
+	</submenues>
+</item>
+<item>
+	<link>/?page=aboutcompany</link>
+	<title>О компании</title>
+	<page>aboutcompany</page>
+	<submenues>
+		<item>
+			<link>/?page=aboutus</link>
+			<title>О нас</title>
+			<addclasstoli></addclasstoli>
+			<addclasstoa></addclasstoa>
+			<page>aboutus</page>
+		</item>
+		<item>
+			<link>/?page=contacts</link>
+			<title>Контакты</title>
+			<addclasstoli></addclasstoli>
+			<addclasstoa></addclasstoa>
+			<page>contacts</page>
+		</item>
+	</submenues>
+</item>
+</document>

@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Juiz LinkinTips in jQuery</title>
+
+		<link href="css/styles.css" rel="stylesheet" type="text/css" />
+		<link href="css/juizLinkinTips.css" rel="stylesheet" type="text/css" />
+
+	</head>
+	
+	<body>
+
+		<h1>Juiz LinkinTips</h1>		
+
+
+		<p id="images" class="center">
+			<img src="img/weeps.jpg" alt="The Weepers Circus" title="The Weepers Circus in live !" width="150" height="113" />
+			<img src="img/super-rabbit.jpg" alt="A super Rabbit" title="The smiling piece of chocolate, go to the page http://chocolat.net/ in order to learn more about chocolate" width="150" height="113" />
+			<img src="img/kiwi-confit.jpg" alt="A good breakfast" title="A kiwi banana jam aprouved by Alsacréations, go to the page http://alsacreations.fr in order to learn more information about exotism" width="150" height="113" />
+		</p>		
+		
+		<p class="back"><a href="http://www.creativejuiz.fr/plugins/plugins-jquery/linkin-tips.php" title="Return to the plugin homepage">The plugin homepage</a></p>
+
+		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="js/juizLinkinTips.min.js"></script>
+		<script type="text/javascript">
+			/*<![CDATA[*/
+			$(document).ready(function() {
+				$("img[title]").juizLinkinTips();	
+			});
+			/*]]>*/
+		</script>
+	</body>
+</html>

@@ -1,0 +1,352 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><html lang="en"><![endif]-->
+
+<head>
+<meta charset="utf-8" />
+<title>jQuery moaModal Plugin Examples</title>
+<meta name="description" content="">
+<meta name="author" content="">
+<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+<!-- Mobile Specific Metas -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<!-- CSS -->
+<link rel="stylesheet" href="css/grid.css">
+<link rel="stylesheet" href="css/sweefty-skin.css">
+<link rel="stylesheet" href="css/app.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+<script src="js/Sweefty.js" type="text/javascript"></script>
+<script src="js/moaModal.minified.js" type="text/javascript"></script>
+<script src="js/scrollTo.js" type="text/javascript"></script>
+<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Cutive' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div id="header">
+<div id="mobileMenu"></div>
+<div class="top">
+<div class="container">
+<div class="row">
+<div id="logo" class="grid_2 column"></div>
+<div class="grid_10 column">
+<div id="navWrapper" class="hide-phones">
+<ul data-trigger="menu:pretty" class="nav right">
+<li><a href="https://github.com/mamod/moaModal">Fork Me on Github</a></li>
+<li><a href="https://github.com/mamod/moaModal/archive/master.zip">Download</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<!--<div class="clear"></div>--> 
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="grid_12 column center">
+<div class="intro"> 
+<!--<h1 class="fittext" data-font=";34">ayaSlider jQuery Plugin</h1>--> 
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="grid_10 center" style="text-align: center; color:#fff;">
+<h1 style="color:#ccc;" data-font=".9" class="bigTitle fittext">Moa Modal</h1>
+</div>
+</div>
+</div>
+</div>
+<div id="body">
+<div class="container">
+<div class="row">
+<div class="grid_4 column center">
+<h1 class="bigTitle fittext" data-font=".7">Demo</h1>
+</div>
+</div>
+<div class="row">
+<div class="grid_12 column">
+<div class="row">
+<div class="grid_12 column">
+<div class="block"> <a class="button green demo0 medium saveQuestion">Simple</a> <a class="button green demo1 medium saveQuestion">Top</a> <a class="button green demo2 medium saveQuestion">Zoom</a> <a class="button green demo3 medium saveQuestion">Zoom to Left</a> <a class="button green demo4 medium saveQuestion">Bottom</a> <a class="button green demo5 medium saveQuestion">Height Expand</a> <a class="button green demo6 medium saveQuestion">From Right</a> <a class="button green demo7 medium saveQuestion">From Left</a> <a class="button green demo8 medium saveQuestion">Expand</a> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="grid_6 column center align_center">
+<h1 class="bigTitle fittext" data-font='1'>Plugin Usage</h1>
+</div>
+</div>
+<div class="row">
+<div class="grid_12 column">
+<div class="row">
+<div class="grid_12 column">
+<div class="title">
+<h2>1- HEADER</h2>
+</div>
+</div>
+<div class="grid_12 column">
+<div class="block"> 
+<script src="https://gist.github.com/mamod/6589867.js"></script> 
+</div>
+</div>
+</div>
+</div>
+<div class="grid_7 column">
+<div class="row">
+<div class="grid_12 column">
+<div class="title">
+<h2>2- HTML</h2>
+</div>
+</div>
+<div class="grid_12 column">
+<div class="block"> 
+<script src="https://gist.github.com/mamod/6589876.js"></script> 
+</div>
+</div>
+</div>
+</div>
+<div class="grid_5 column">
+<div class="row">
+<div class="grid_12 column">
+<div class="title">
+<h2>3- Javascript</h2>
+</div>
+</div>
+<div class="grid_12 column">
+<div class="block"> 
+<script src="https://gist.github.com/mamod/6589892.js"></script> 
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="grid_6 column center align_center">
+<h1 class="bigTitle fittext" data-font=".98">Plugin Options</h1>
+</div>
+</div>
+<div class="row">
+<section class="grid_12 column">
+<div class="row">
+<div class="grid_12 column">
+<div class="title">
+<h2>Custom Global Options</h2>
+</div>
+</div>
+<div class="grid_12 column">
+<div class="block">
+<div class="tabs" data-trigger="tab">
+<ul>
+<li class="active">Description</li>
+<li>Example</li>
+</ul>
+
+<!-- FIRST TAB -->
+<div>
+<p>These options goes with each modal, and if you want to override global options for all modals add these options to $(document) element <b>ex :</b><i style="background: yellow;font-weight: bold;">$(document).modal({ options .. })</i> </p>
+<div class="opt"> <span class="option">target : </span> <span class="description">selector/jQuery object of Modal element <i>(ex: '#modal')</i></span> </div>
+<div class="opt"> <span class="option">on : </span> <span class="description">Target Modal view on this jQuery event <i>(ex: 'click', 'mouseenter', ...)</i></span> </div>
+<div class="opt"> <span class="option">close : </span> <span class="description">selector/jQuery object of the closing element <i>(ex: '.closeModal')</i></span> </div>
+<div class="opt"> <span class="option">escapeClose : </span> <span class="description">Close Modal on pressing ESC button<i>(default: true)</i></span> </div>
+<div class="opt"> <span class="option">speed : </span> <span class="description">Modal view duration <i>(default: 500)</i></span> </div>
+<div class="opt"> <span class="option">easing : </span> <span class="description">jQuery Easing options <i>(default: linear)</i> need to include easing script</span> </div>
+<div class="opt"> <span class="option">position : </span> <span class="description">Modal landing position, position can be set to <b>'center'</b> to center modal or <b>'bottom'</b> to show modal at the bottom, you can also set top and left position as <b>'10px auto'</b>, <b>'auto 100px'</b>, <b>'10% 10%'</b>, ...</span> </div>
+<div class="opt"> <span class="option">animation : </span> <span class="description">Direction of Modal animation - accepts the following options</span> <br />
+<i><b>zoom : </b> zoom effect from click position to the final position</i> <br />
+<i><b>left : </b> animate from left to the final position</i> <br />
+<i><b>right : </b> animate from right to the final position</i> <br />
+<i><b>bottom : </b> animate from bottom to the final position</i> <br />
+<i><b>top : </b> animate from left to the final position</i> </div>
+<div class="opt"> <span class="option">overlayClose : </span> <span class="description">set to false if you don't want to close modal upon click on overlay area <i>(default : true)</i></span> </div>
+<div class="opt"> <span class="option">overlayColor : </span> <span class="description">Color of overlay element<i>(default : black)</i></span> </div>
+<div class="opt"> <span class="option">overlayOpacity : </span> <span class="description">overlay opacity<i>(default : 0.6)</i></span> </div>
+<div class="opt"> <span class="option">complete : </span> <span class="description">a callback function on modal final position</span> </div>
+</div>
+
+<!-- second tab -->
+<div> 
+<script src="https://gist.github.com/mamod/6589324.js"></script> 
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="grid_12 column">
+<div class="title">
+<h2>Triggering Options</h2>
+</div>
+</div>
+<div class="grid_12 column">
+<div class="block">
+<div class="tabs" data-trigger="tab">
+<ul>
+<li class="active">Description</li>
+<li>Example</li>
+</ul>
+
+<!-- FIRST TAB -->
+<div>
+<div class="opt"> <span class="option">view : </span> <span class="description">View Modal ex : <i> $('#modal').modal('view',{ options .. }) </i></span> </div>
+<div class="opt"> <span class="option">close : </span> <span class="description">Closing Modal ex : <i>$('#modal').modal('close')</i></span> </div>
+</div>
+
+<!-- second tab -->
+<div> 
+<script src="https://gist.github.com/mamod/6589362.js"></script> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="container">
+<div class="row">
+<div class="column grid_10">
+<p>From the desk of <a href="http://mamod.me" target="_blank">@mamod</a> with LOVE</p>
+</div>
+<div class="column grid_2">
+<p>Back to <a href="#" data-trigger="scrollTo:body">Top</a></p>
+</div>
+</div>
+</div>
+</div>
+<script>
+	$(document).ready(function(){
+	    
+		$(document).modal({
+			
+		});
+		
+		
+		$('.demo0').modal({
+			target : '#demoModal1',
+			speed : 250,
+			easing : 'easeInOutBounce',
+			animation : 'none',
+			position: '200px auto',
+			overlayClose : true,
+			on : 'click'
+		});
+		
+		
+		$('.demo1').modal({
+			target : '#demoModal1',
+			speed : 750,
+			easing : 'easeInOutExpo',
+			animation : 'top',
+			position: '100px auto',
+			overlayClose : true,
+			on : 'click'
+		});
+		
+		
+		$('.demo2').modal({
+			target : '#demoModal1',
+			speed : 500,
+			easing : 'easeInOutExpo',
+			animation : 'zoom',
+			position: '1% auto',
+			overlayClose : true
+		});
+		
+		
+		$('.demo3').modal({
+			target : '#demoModal1',
+			speed : 500,
+			easing : 'easeOutCirc',
+			animation : 'zoom',
+			position: '1% 1%',
+			overlayClose : true
+		});
+		
+		$('.demo4').modal({
+			target : '#demoModal1',
+			speed : 500,
+			easing : 'easeOutSine',
+			animation : 'bottom',
+			position: 'bottom',
+			overlayClose : true
+		});
+		
+		$('.demo5').modal({
+			target : '#demoModal1',
+			speed : 500,
+			easing : 'easeInOutExpo',
+			animation : 'top height',
+			position: '10% auto',
+			overlayClose : true,
+			on : 'click'
+		});
+		
+		$('.demo6').modal({
+			target : '#demoModal1',
+			speed : 500,
+			easing : 'easeOutBack',
+			animation : 'right',
+			position: 'center',
+			overlayClose : true,
+			on : 'click'
+		});
+		
+		
+		$('.demo7').modal({
+			target : '#demoModal1',
+			speed : 500,
+			easing : 'easeOutBack',
+			animation : 'left',
+			position: 'center',
+			overlayClose : true,
+			on : 'click'
+		});
+		
+		$('.demo8').click(function(){
+			$('#demoModal2').modal('view',{
+				speed : 800,
+				easing : 'easeInOutElastic',
+				animation : 'top height width',
+				position: '10% auto',
+				overlayClose : false,
+				on : 'click',
+				overlayColor : '#ccc',
+				overlayOpacity : .9,
+				close : '.close'
+			});
+		});
+		
+		
+	});
+	</script>
+<div id="demoModal1" class="block modal2" style=""> jQueryScript.Net </div>
+<div id="demoModal2" class="block modal2" style=""> 
+<div style="margin: 125px"> </div>
+<div style="background: #eee;width:100%;overflow: hidden;padding: 5px;"> <a class="button red close medium saveQuestion right">Close Me</a> <a class="button green demo4 medium saveQuestion right">Another Modal</a> </div>
+</div>
+<div id="demoModal3" class="block modal3" style="">  jQueryScript.Net </div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

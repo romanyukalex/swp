@@ -1,0 +1,90 @@
+Простое модальное окно
+$('#exampleModal1').arcticmodal();
+
+
+Окно с большой высотой
+
+var c = $('<div class="box-modal" />');
+    c.html($('.b-text').html());
+    c.prepend('<div class="box-modal_close arcticmodal-close">X</div>');
+    $.arcticmodal({
+        content: c
+});
+
+
+Кастомный оверлей
++ запрет на закрытие при клике по оверлею или нажатию на Escape
+
+$('#exampleModal3').arcticmodal({
+    closeOnEsc: false,
+    closeOnOverlayClick: false,
+    overlay: {
+        css: {
+            backgroundColor: '#fff',
+            backgroundImage: 'url(images/overlay.png)',
+            backgroundRepeat: 'repeat',
+            backgroundPosition: '50% 0',
+            opacity: .75
+        }
+    }
+});
+
+
+Пример событий
+beforeOpen, afterOpen, beforeClose, afterClose
+
+$('#exampleModal4').arcticmodal({
+    beforeOpen: function(data, el) {
+        alert('beforeOpen');
+    },
+    afterOpen: function(data, el) {
+        alert('afterOpen');
+    },
+    beforeClose: function(data, el) {
+        alert('beforeClose');
+    },
+    afterClose: function(data, el) {
+        alert('afterClose');
+    }
+});
+
+
+Несколько модальных окон
+
+$('#exampleModal5_' + $(this).data('body')).arcticmodal();
+
+
+AJAX-загрузка окна и события afterLoading и afterLoadingOnShow
+
+$.arcticmodal({
+    type: 'ajax',
+    url: 'ajax/example.html.php',
+    afterLoading: function(data, el) {
+        alert('afterLoading');
+    },
+    afterLoadingOnShow: function(data, el) {
+        alert('afterLoadingOnShow');
+    }
+});
+
+
+Сложная AJAX-загрузка со своим обработчиком
+
+$.arcticmodal({
+    type: 'ajax',
+    url: 'ajax/example.json.php',
+    ajax: {
+        type: 'POST',
+        cache: false,
+        dataType: 'json',
+        success: function(data, el, responce) {
+            var h = $('<div class="box-modal">' +
+                    '<div class="box-modal_close arcticmodal-close">X</div>' +
+                    '<p><b /></p><p />' +
+                    '</div>');
+            $('B', h).html(responce.title);
+            $('P:last', h).html(responce.text);
+            data.body.html(h);
+        }
+    }
+});

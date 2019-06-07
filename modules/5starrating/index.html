@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='UTF-8'>
+	
+	<title>Звездный рейтинг на CSS | материалы сайта RUSELLER.COM</title>
+	
+	<link rel='stylesheet' href='css/style.css'>
+	
+	<style>
+		.rating {
+		  unicode-bidi: bidi-override;
+		  direction: rtl;
+		  text-align: center;
+		}
+		.rating > span {
+		  display: inline-block;
+		  position: relative;
+		  width: 1.1em;
+		}
+		.rating > span:hover,
+		.rating > span:hover ~ span {
+		  color: transparent;
+		}
+		.rating > span:hover:before,
+		.rating > span:hover ~ span:before {
+		   content: "\2605";
+		   position: absolute;
+		   left: 0;
+		   color: gold;
+		}
+	</style>
+</head>
+
+<body>
+  
+<div id="demo-top-bar">
+	<div id="demo-bar-inside">
+		<div id="demo-bar-buttons">
+			<a class='header-button' href='http://www.ruseller.com' target="_blank">&larr;  Другие уроки на сайте RUSELLER.COM</a> 
+		</div>
+	</div>
+</div> 
+
+	<div id="page-wrap">
+		
+		<div class="rating">
+			<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+		</div>
+	
+	</div>
+	
+<br class="ignore-code">
+  
+<style type="text/css" style="display: none;">
+	
+	#source-code { 
+		z-index: 7000;
+		display: none;
+		text-align: left;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(255,255,255,0.8);
+	}
+	#source-code:target { 
+		display:block;
+	}
+	#source-code pre {
+		padding: 20px;
+		font: 14px/1.6 Monaco,Courier,MonoSpace;
+		margin: 50px auto;
+		background: rgba(0,0,0,0.8);
+		color: white;
+		width: 80%;
+		height: 80%;
+		overflow: auto
+	}
+	#source-code pre a, #source-code pre a span {
+		text-decoration :none;
+		color: #0cf !important
+	}
+	#x { 
+		position: absolute;
+		top: 30px;
+		left: 10%;
+		margin-left: -41px;
+	}
+	#x img {
+		border:0;
+	}
+		
+	.str{color:#61ff74}
+	.kwd{color:white}
+	.com{color:white}
+	.typ{color:#f1915d}
+	.lit{color:white}
+	.pun{color:white}
+	.pln{color:#ffef97}
+	.tag{color:#ffab58}
+	.atn{color:#fabb4e}
+	.atv{color:#ffd996}
+	.dec{color:red}
+	
+	#demo-top-bar {
+		height: 83px; 
+		background: lightgray url(/wp-content/themes/CSS-Tricks-9/images/bglines.png) !important;
+		color: white !important; 
+		font: 14px Georgia, Serif !important; 
+		position: relative; 
+		zoom: 1; 
+		width: 100% !important; 
+		z-index: 6000;
+		-webkit-box-shadow: 0 0 10px black;
+		-moz-box-shadow:    0 0 10px black;
+		box-shadow:         0 0 10px black; 
+	}
+	#demo-bar-inside {
+		width: 960px; height: 77px; margin: 0 auto; position: relative;
+	}
+	#demo-bar-buttons {
+		position: absolute; 
+		left: 300px; 
+		top: 7px; 
+		width: 200px;
+		text-align: center;
+		line-height: 2.4; 
+	}
+	#demo-bar-ad {
+		width: 416px; 
+		position: absolute; 
+		right: 0; top: 0;
+	}
+	#demo-bar-badge {
+		width: 270px !important;
+		height: 112px !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		background: url(/images/Example-Badge.png) no-repeat;
+		text-indent: -9999px;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+	#demo-bar-badge:before, #demo-bar-badge:after {
+		display: none !important;
+	}
+	
+	.header-button {
+	  display: inline-block;
+	  padding: 3px 15px;
+	  -webkit-border-radius: 18px;
+		-moz-border-radius:    18px;
+		border-radius:         18px;
+		font: 12px "Lucida Grande", Sans-Serif;
+	  background-color: #b6d3f4;
+	  background-image: -webkit-gradient(linear, left top, left bottom, from(#b6d3f4), to(#5483b8)) !important; 
+	  background-image: -webkit-linear-gradient(top, #b6d3f4, #5483b8) !important; 
+	  background-image:    -moz-linear-gradient(top, #b6d3f4, #5483b8) !important; 
+	  background-image:     -ms-linear-gradient(top, #b6d3f4, #5483b8) !important; 
+	  background-image:      -o-linear-gradient(top, #b6d3f4, #5483b8) !important; 
+	  color: white !important;
+	  box-shadow: inset 0 1px 1px white,
+	                    0 3px 3px rgba(0,0,0,0.6);
+	  border: 1px solid #9ac9ff !important;
+	  font-weight: 600;
+	  text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+	  text-decoration: none;
+	  margin: 0;
+	  position: relative;
+	}
+	
+	.header-button:hover {
+	  box-shadow: inset 0 2px 6px white,
+	                    0 3px 3px rgba(0,0,0,0.6);
+	}
+	
+	.header-button:active {
+	  box-shadow: inset 0 2px 6px white,
+	                    0 1px 1px rgba(0,0,0,0.6);
+	  
+	  top: 2px;
+	}
+	
+	.view-source-button {
+		position: fixed !important;
+		top: auto !important;
+		bottom: 10px;
+		right: 10px;
+		z-index: 100;
+	}
+	
+</style>
+
+<div id="source-code">
+	<a href="#" id="x"><img src="img/x.png" alt="close"></a>
+</div>
+
+<a class="view-source-button header-button" href="#source-code" id="view-source">Исходный код демонстрации</a>
+
+<script type="text/javascript" src="prettify/prettify.js"></script>
+<script>
+	if(typeof jQuery=='undefined') { 
+		function getScript(url,success) { 
+			var script=document.createElement('script');
+			script.src=url;
+			var head=document.getElementsByTagName('head')[0],done=false;script.onload=script.onreadystatechange=function() {
+				if(!done&&(!this.readyState||this.readyState=='loaded'||this.readyState=='complete')){done=true;success();
+				script.onload=script.onreadystatechange=null;head.removeChild(script)}};head.appendChild(script)};getScript('http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js',function() {
+   if(typeof jQuery=='undefined'){}else{fancyCode()}})}else{fancyCode()}
+   function fancyCode(){ var code = '&lt;!DOCTYPE html>\n&lt;html>\n' + $("html").html().replace(/[<>]/g, function(m){return{'<':'&lt;','>':'&gt;'}[m]}).replace(/((ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?)/gi,'<a href="$1">$1</a>');
+     code = code.substring(0, code.indexOf('br class="ignore-code"') - 4) + '\n&lt;/body>\n\n&lt;/html>'; $("<pre />",{"html" : code,"class":"prettyprint"}).appendTo("#source-code"); prettyPrint()}
+</script>
+   
+
+</body>
+
+</html>
