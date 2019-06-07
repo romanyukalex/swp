@@ -1,0 +1,260 @@
+
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+php_flag log_errors on
+php_flag ignore_repeated_errors off
+php_flag ignore_repeated_source off
+php_flag report_memleaks on
+php_flag track_errors on
+php_value docref_root 0
+php_value docref_ext 0
+
+php_value error_reporting 2047
+php_value log_errors_max_len 0
+
+<Files PHP_errors.log>
+    Order allow,deny
+    Deny from all
+    Satisfy All
+</Files>
+php_value short_open_tag On
+# supress php errors (On/off)
+
+#php_flag display_errors On
+
+Redirect 301 /it-services http://aromanyuk.ru/project/romanyuk/it-services/
+
+RewriteEngine on
+
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^go.nlp-course.ru$ [NC]
+RewriteRule (.*) http://psy-space.ru/$1 [L,R=301,QSA]
+
+RewriteRule robots.txt /core/robotstxt.php
+
+RewriteRule sitemap.xml /core/sitemap.php
+RewriteRule sitemap.*.xml /core/sitemap.php
+
+# Сделать для CSS и JS чтобы в них можно было писать на PHP - AddType application/x-httpd-php .html .htm
+
+#Плохие боты
+SetEnvIfNoCase User-Agent "Aboundex" bot
+SetEnvIfNoCase User-Agent "80legs" bot
+SetEnvIfNoCase User-Agent "360Spider" bot
+SetEnvIfNoCase User-Agent "^Java" bot
+SetEnvIfNoCase User-Agent "^Cogentbot" bot
+SetEnvIfNoCase User-Agent "^Alexibot" bot
+SetEnvIfNoCase User-Agent "^asterias" bot
+SetEnvIfNoCase User-Agent "^attach" bot
+SetEnvIfNoCase User-Agent "^BackDoorBot" bot
+SetEnvIfNoCase User-Agent "^BackWeb" bot
+SetEnvIfNoCase User-Agent "Bandit" bot
+SetEnvIfNoCase User-Agent "^BatchFTP" bot
+SetEnvIfNoCase User-Agent "^Bigfoot" bot
+SetEnvIfNoCase User-Agent "^Black.Hole" bot
+SetEnvIfNoCase User-Agent "^BlackWidow" bot
+SetEnvIfNoCase User-Agent "^BlowFish" bot
+SetEnvIfNoCase User-Agent "^BotALot" bot
+SetEnvIfNoCase User-Agent "Buddy" bot
+SetEnvIfNoCase User-Agent "^BuiltBotTough" bot
+SetEnvIfNoCase User-Agent "^Bullseye" bot
+SetEnvIfNoCase User-Agent "^BunnySlippers" bot
+SetEnvIfNoCase User-Agent "^Cegbfeieh" bot
+SetEnvIfNoCase User-Agent "^CheeseBot" bot
+SetEnvIfNoCase User-Agent "^CherryPicker" bot
+SetEnvIfNoCase User-Agent "^ChinaClaw" bot
+SetEnvIfNoCase User-Agent "Collector" bot
+SetEnvIfNoCase User-Agent "Copier" bot
+SetEnvIfNoCase User-Agent "^CopyRightCheck" bot
+SetEnvIfNoCase User-Agent "^cosmos" bot
+SetEnvIfNoCase User-Agent "^Crescent" bot
+SetEnvIfNoCase User-Agent "^Custo" bot
+SetEnvIfNoCase User-Agent "^AIBOT" bot
+SetEnvIfNoCase User-Agent "^DISCo" bot
+SetEnvIfNoCase User-Agent "^DIIbot" bot
+SetEnvIfNoCase User-Agent "^DittoSpyder" bot
+SetEnvIfNoCase User-Agent "^Download\ Demon" bot
+SetEnvIfNoCase User-Agent "^Download\ Devil" bot
+SetEnvIfNoCase User-Agent "^Download\ Wonder" bot
+SetEnvIfNoCase User-Agent "^dragonfly" bot
+SetEnvIfNoCase User-Agent "^Drip" bot
+SetEnvIfNoCase User-Agent "^eCatch" bot
+SetEnvIfNoCase User-Agent "^EasyDL" bot
+SetEnvIfNoCase User-Agent "^ebingbong" bot
+SetEnvIfNoCase User-Agent "^EirGrabber" bot
+SetEnvIfNoCase User-Agent "^EmailCollector" bot
+SetEnvIfNoCase User-Agent "^EmailSiphon" bot
+SetEnvIfNoCase User-Agent "^EmailWolf" bot
+SetEnvIfNoCase User-Agent "^EroCrawler" bot
+SetEnvIfNoCase User-Agent "^Exabot" bot
+SetEnvIfNoCase User-Agent "^Express\ WebPictures" bot
+SetEnvIfNoCase User-Agent "Extractor" bot
+SetEnvIfNoCase User-Agent "^EyeNetIE" bot
+SetEnvIfNoCase User-Agent "^Foobot" bot
+SetEnvIfNoCase User-Agent "^flunky" bot
+SetEnvIfNoCase User-Agent "^FrontPage" bot
+SetEnvIfNoCase User-Agent "^Go-Ahead-Got-It" bot
+SetEnvIfNoCase User-Agent "^gotit" bot
+SetEnvIfNoCase User-Agent "^GrabNet" bot
+SetEnvIfNoCase User-Agent "^Grafula" bot
+SetEnvIfNoCase User-Agent "^Harvest" bot
+SetEnvIfNoCase User-Agent "^hloader" bot
+SetEnvIfNoCase User-Agent "^HMView" bot
+SetEnvIfNoCase User-Agent "^HTTrack" bot
+SetEnvIfNoCase User-Agent "^humanlinks" bot
+SetEnvIfNoCase User-Agent "^IlseBot" bot
+SetEnvIfNoCase User-Agent "^Image\ Stripper" bot
+SetEnvIfNoCase User-Agent "^Image\ Sucker" bot
+SetEnvIfNoCase User-Agent "Indy\ Library" bot
+SetEnvIfNoCase User-Agent "^InfoNavibot" bot
+SetEnvIfNoCase User-Agent "^InfoTekies" bot
+SetEnvIfNoCase User-Agent "^Intelliseek" bot
+SetEnvIfNoCase User-Agent "^InterGET" bot
+SetEnvIfNoCase User-Agent "^Internet\ Ninja" bot
+SetEnvIfNoCase User-Agent "^Iria" bot
+SetEnvIfNoCase User-Agent "^Jakarta" bot
+SetEnvIfNoCase User-Agent "^JennyBot" bot
+SetEnvIfNoCase User-Agent "^JetCar" bot
+SetEnvIfNoCase User-Agent "^JOC" bot
+SetEnvIfNoCase User-Agent "^JustView" bot
+SetEnvIfNoCase User-Agent "^Jyxobot" bot
+SetEnvIfNoCase User-Agent "^Kenjin.Spider" bot
+SetEnvIfNoCase User-Agent "^Keyword.Density" bot
+SetEnvIfNoCase User-Agent "^larbin" bot
+SetEnvIfNoCase User-Agent "^LexiBot" bot
+SetEnvIfNoCase User-Agent "^lftp" bot
+SetEnvIfNoCase User-Agent "^libWeb/clsHTTP" bot
+SetEnvIfNoCase User-Agent "^likse" bot
+SetEnvIfNoCase User-Agent "^LinkextractorPro" bot
+SetEnvIfNoCase User-Agent "^LinkScan/8.1a.Unix" bot
+SetEnvIfNoCase User-Agent "^LNSpiderguy" bot
+SetEnvIfNoCase User-Agent "^LinkWalker" bot
+SetEnvIfNoCase User-Agent "^lwp-trivial" bot
+SetEnvIfNoCase User-Agent "^LWP::Simple" bot
+SetEnvIfNoCase User-Agent "^Magnet" bot
+SetEnvIfNoCase User-Agent "^Mag-Net" bot
+SetEnvIfNoCase User-Agent "^MarkWatch" bot
+SetEnvIfNoCase User-Agent "^Mass\ Downloader" bot
+SetEnvIfNoCase User-Agent "^Mata.Hari" bot
+SetEnvIfNoCase User-Agent "^Memo" bot
+SetEnvIfNoCase User-Agent "^Microsoft.URL" bot
+SetEnvIfNoCase User-Agent "^Microsoft\ URL\ Control" bot
+SetEnvIfNoCase User-Agent "^MIDown\ tool" bot
+SetEnvIfNoCase User-Agent "^MIIxpc" bot
+SetEnvIfNoCase User-Agent "^Mirror" bot
+SetEnvIfNoCase User-Agent "^Missigua\ Locator" bot
+SetEnvIfNoCase User-Agent "^Mister\ PiX" bot
+SetEnvIfNoCase User-Agent "^moget" bot
+SetEnvIfNoCase User-Agent "^Mozilla.*NEWT" bot
+SetEnvIfNoCase User-Agent "^NAMEPROTECT" bot
+SetEnvIfNoCase User-Agent "^Navroad" bot
+SetEnvIfNoCase User-Agent "^NearSite" bot
+SetEnvIfNoCase User-Agent "^NetAnts" bot
+SetEnvIfNoCase User-Agent "^Netcraft" bot
+SetEnvIfNoCase User-Agent "^NetMechanic" bot
+SetEnvIfNoCase User-Agent "^NetSpider" bot
+SetEnvIfNoCase User-Agent "^Net\ Vampire" bot
+SetEnvIfNoCase User-Agent "^NetZIP" bot
+SetEnvIfNoCase User-Agent "^NextGenSearchBot" bot
+SetEnvIfNoCase User-Agent "^NG" bot
+SetEnvIfNoCase User-Agent "^NICErsPRO" bot
+SetEnvIfNoCase User-Agent "^niki-bot" bot
+SetEnvIfNoCase User-Agent "^NimbleCrawler" bot
+SetEnvIfNoCase User-Agent "^Ninja" bot
+SetEnvIfNoCase User-Agent "^NPbot" bot
+SetEnvIfNoCase User-Agent "^Octopus" bot
+SetEnvIfNoCase User-Agent "^Offline\ Explorer" bot
+SetEnvIfNoCase User-Agent "^Offline\ Navigator" bot
+SetEnvIfNoCase User-Agent "^Openfind" bot
+SetEnvIfNoCase User-Agent "^OutfoxBot" bot
+SetEnvIfNoCase User-Agent "^PageGrabber" bot
+SetEnvIfNoCase User-Agent "^Papa\ Foto" bot
+SetEnvIfNoCase User-Agent "^pavuk" bot
+SetEnvIfNoCase User-Agent "^pcBrowser" bot
+SetEnvIfNoCase User-Agent "^PHP\ version\ tracker" bot
+SetEnvIfNoCase User-Agent "^Pockey" bot
+SetEnvIfNoCase User-Agent "^ProPowerBot/2.14" bot
+SetEnvIfNoCase User-Agent "^ProWebWalker" bot
+SetEnvIfNoCase User-Agent "^psbot" bot
+SetEnvIfNoCase User-Agent "^Pump" bot
+SetEnvIfNoCase User-Agent "^QueryN.Metasearch" bot
+SetEnvIfNoCase User-Agent "^RealDownload" bot
+SetEnvIfNoCase User-Agent "Reaper" bot
+SetEnvIfNoCase User-Agent "Recorder" bot
+SetEnvIfNoCase User-Agent "^ReGet" bot
+SetEnvIfNoCase User-Agent "^RepoMonkey" bot
+SetEnvIfNoCase User-Agent "^RMA" bot
+SetEnvIfNoCase User-Agent "Siphon" bot
+SetEnvIfNoCase User-Agent "^SiteSnagger" bot
+SetEnvIfNoCase User-Agent "^SlySearch" bot
+SetEnvIfNoCase User-Agent "^SmartDownload" bot
+SetEnvIfNoCase User-Agent "^Snake" bot
+SetEnvIfNoCase User-Agent "^Snapbot" bot
+SetEnvIfNoCase User-Agent "^Snoopy" bot
+SetEnvIfNoCase User-Agent "^sogou" bot
+SetEnvIfNoCase User-Agent "^SpaceBison" bot
+SetEnvIfNoCase User-Agent "^SpankBot" bot
+SetEnvIfNoCase User-Agent "^spanner" bot
+SetEnvIfNoCase User-Agent "^Sqworm" bot
+SetEnvIfNoCase User-Agent "Stripper" bot
+SetEnvIfNoCase User-Agent "Sucker" bot
+SetEnvIfNoCase User-Agent "^SuperBot" bot
+SetEnvIfNoCase User-Agent "^SuperHTTP" bot
+SetEnvIfNoCase User-Agent "^Surfbot" bot
+SetEnvIfNoCase User-Agent "^suzuran" bot
+SetEnvIfNoCase User-Agent "^Szukacz/1.4" bot
+SetEnvIfNoCase User-Agent "^tAkeOut" bot
+SetEnvIfNoCase User-Agent "^Teleport" bot
+SetEnvIfNoCase User-Agent "^Telesoft" bot
+SetEnvIfNoCase User-Agent "^TurnitinBot/1.5" bot
+SetEnvIfNoCase User-Agent "^The.Intraformant" bot
+SetEnvIfNoCase User-Agent "^TheNomad" bot
+SetEnvIfNoCase User-Agent "^TightTwatBot" bot
+SetEnvIfNoCase User-Agent "^Titan" bot
+SetEnvIfNoCase User-Agent "^True_bot" bot
+SetEnvIfNoCase User-Agent "^turingos" bot
+SetEnvIfNoCase User-Agent "^TurnitinBot" bot
+SetEnvIfNoCase User-Agent "^URLy.Warning" bot
+SetEnvIfNoCase User-Agent "^Vacuum" bot
+SetEnvIfNoCase User-Agent "^VCI" bot
+SetEnvIfNoCase User-Agent "^VoidEYE" bot
+SetEnvIfNoCase User-Agent "^Web\ Image\ Collector" bot
+SetEnvIfNoCase User-Agent "^Web\ Sucker" bot
+SetEnvIfNoCase User-Agent "^WebAuto" bot
+SetEnvIfNoCase User-Agent "^WebBandit" bot
+SetEnvIfNoCase User-Agent "^Webclipping.com" bot
+SetEnvIfNoCase User-Agent "^WebCopier" bot
+SetEnvIfNoCase User-Agent "^WebEMailExtrac.*" bot
+SetEnvIfNoCase User-Agent "^WebEnhancer" bot
+SetEnvIfNoCase User-Agent "^WebFetch" bot
+SetEnvIfNoCase User-Agent "^WebGo\ IS" bot
+SetEnvIfNoCase User-Agent "^Web.Image.Collector" bot
+SetEnvIfNoCase User-Agent "^WebLeacher" bot
+SetEnvIfNoCase User-Agent "^WebmasterWorldForumBot" bot
+SetEnvIfNoCase User-Agent "^WebReaper" bot
+SetEnvIfNoCase User-Agent "^WebSauger" bot
+SetEnvIfNoCase User-Agent "^Website\ eXtractor" bot
+SetEnvIfNoCase User-Agent "^Website\ Quester" bot
+SetEnvIfNoCase User-Agent "^Webster" bot
+SetEnvIfNoCase User-Agent "^WebStripper" bot
+SetEnvIfNoCase User-Agent "^WebWhacker" bot
+SetEnvIfNoCase User-Agent "^WebZIP" bot
+SetEnvIfNoCase User-Agent "Whacker" bot
+SetEnvIfNoCase User-Agent "^Widow" bot
+SetEnvIfNoCase User-Agent "^WISENutbot" bot
+SetEnvIfNoCase User-Agent "^WWWOFFLE" bot
+SetEnvIfNoCase User-Agent "^WWW-Collector-E" bot
+SetEnvIfNoCase User-Agent "^Xaldon" bot
+SetEnvIfNoCase User-Agent "^Xenu" bot
+SetEnvIfNoCase User-Agent "^Zeus" bot
+SetEnvIfNoCase User-Agent "ZmEu" bot
+SetEnvIfNoCase User-Agent "^Zyborg" bot
+SetEnvIfNoCase User-Agent "AhrefsBot" bot
+SetEnvIfNoCase User-Agent "HubSpot" bot
+SetEnvIfNoCase User-Agent "BLEXBot" bot
+SetEnvIfNoCase User-Agent "archive.org_bot" bot
+SetEnvIfNoCase User-Agent "^Wget" bot
+Deny from env=bot

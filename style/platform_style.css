@@ -1,0 +1,116 @@
+img {border: 0 none;}
+.hid{display: none}
+.hidden{opacity:0}
+.imgmiddle{vertical-align:middle; margin-right:10;border:none}
+#content1{display:none}
+/* # 404*/
+#AOAtxt{ margin: 0 auto; width:700px;}
+.AOAimg{height:64px;
+}
+.mainAOAimg{
+	height:128px;
+}
+/* Для скрытых блоков у микроразметочных хлебных крошек*/
+.visuallyHidden {
+	position: absolute;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	width: 1px;
+	margin: -1px;
+	padding: 0;
+	border: 0;
+}
+
+/* Округлые границы */
+.light-rounded {border-radius: 3px;}
+.heavy-rounded {border-radius: 8px;}
+.full-rounded {border-radius: 50%;}
+.barrel-rounded {border-radius: 20px/60px;}
+/* Отбрасываем тень в сторону */
+.drop-shadow.top {box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.4);}
+.drop-shadow.right {box-shadow: 4px 0 2px -2px rgba(0,0,0,0.4);}
+.drop-shadow.bottom {box-shadow: 0 4px 2px -2px rgba(0,0,0,0.4);}
+.drop-shadow.left {box-shadow: -4px 0 2px -2px rgba(0,0,0,0.4);}
+/* Отбрасываем тень во все стороны */
+.emphasize-dark {box-shadow: 0 0 5px 2px rgba(0,0,0,.35);}/* // темная*/
+.emphasize-light {box-shadow: 0 0 0 10px rgba(255,255,255,.25);}/* // светлая*/
+.emphasize-inset {box-shadow: inset 0 0 7px 4px rgba(255,255,255,.5);}/* // внутрь блока*/
+
+
+
+table.zebra {
+    *border-collapse: collapse; // IE7 and lower 
+    border-spacing: 0;
+    width: 100%;    
+}
+
+
+.zebra td, .zebra th {
+    padding: 10px;
+    border-bottom: 1px solid #f2f2f2;    
+}
+
+.zebra tbody tr:nth-child(even) {
+    background: #f5f5f5;
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset; 
+    -moz-box-shadow:0 1px 0 rgba(255,255,255,.8) inset;  
+    box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;        
+}
+
+.zebra th {
+    text-align: left;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5); 
+    border-bottom: 1px solid #ccc;
+    background-color: #eee;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#eee));
+    background-image: -webkit-linear-gradient(top, #f5f5f5, #eee);
+    background-image:    -moz-linear-gradient(top, #f5f5f5, #eee);
+    background-image:     -ms-linear-gradient(top, #f5f5f5, #eee);
+    background-image:      -o-linear-gradient(top, #f5f5f5, #eee); 
+    background-image:         linear-gradient(top, #f5f5f5, #eee);
+}
+
+.zebra th:first-child {
+    -moz-border-radius: 6px 0 0 0;
+    -webkit-border-radius: 6px 0 0 0;
+    border-radius: 6px 0 0 0;  
+}
+
+.zebra th:last-child {
+    -moz-border-radius: 0 6px 0 0;
+    -webkit-border-radius: 0 6px 0 0;
+    border-radius: 0 6px 0 0;
+}
+
+.zebra th:only-child{
+    -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}
+
+.zebra tfoot td {
+    border-bottom: 0;
+    border-top: 1px solid #fff;
+    background-color: #f1f1f1;  
+}
+
+.zebra tfoot td:first-child {
+    -moz-border-radius: 0 0 0 6px;
+    -webkit-border-radius: 0 0 0 6px;
+    border-radius: 0 0 0 6px;
+}
+
+.zebra tfoot td:last-child {
+    -moz-border-radius: 0 0 6px 0;
+    -webkit-border-radius: 0 0 6px 0;
+    border-radius: 0 0 6px 0;
+}
+
+.zebra tfoot td:only-child{
+    -moz-border-radius: 0 0 6px 6px;
+    -webkit-border-radius: 0 0 6px 6px
+    border-radius: 0 0 6px 6px
+}
+.zebra img {width:20px
+}
