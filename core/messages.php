@@ -12,12 +12,24 @@ $log->LogDebug('Got this file');
 include_once($_SERVER['DOCUMENT_ROOT'].'/core/db/dbconn.php');
 include_once($_SERVER['DOCUMENT_ROOT'].'/core/system-param.php');
 @include_once($_SERVER['DOCUMENT_ROOT'].'/core/langfromget.php');#Определение $language
+
+$log->LogDebug('MemUsage - '.memory_get_usage().', memory added for - '.(memory_get_usage()-$base_memory_usage).'. Memory peak at the moment - '.memory_get_peak_usage(TRUE));
+
 $messagedatas=mysql_query('SELECT `module_name`,`message_code`,`message_'.$_SESSION['language']."` FROM `$tableprefix-messages` WHERE `company_id`='$site_company_id' or `company_id` IS NULL ORDER BY `company_id` ASC;");
+
+	$log->LogDebug('Added data. MemUsage - '.memory_get_usage().', memory added for - '.(memory_get_usage()-$base_memory_usage).'. Memory peak at the moment - '.memory_get_peak_usage(TRUE).'.');
+	unset($messagedatas);
+	$log->LogDebug('Unset data. MemUsage - '.memory_get_usage().', memory added for - '.(memory_get_usage()-$base_memory_usage).'. Memory peak at the moment - '.memory_get_peak_usage(TRUE).'.');
+	
+
+
 while($messagedata=mysql_fetch_array($messagedatas)){
 	if(!$sitemessage[$messagedata['module_name']][$messagedata['message_code']] or
 	($messagedata['company_id']!=='NULL' and $messagedata['company_id']!=='')){ // Или такого сообщения еще нет, или есть, но тогда надо перезаписать, ибо в новом есть поле company_id
 		$sitemessage[$messagedata['module_name']][$messagedata['message_code']] = $messagedata['message_'.$_SESSION[language]];
 	}
 }
+
+
 $log->LogDebug('Got '.count($sitemessage).' messages for this company');
 ?>

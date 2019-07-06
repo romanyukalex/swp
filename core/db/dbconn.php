@@ -7,4 +7,8 @@ $dbconnconnect=mysql_pconnect('localhost',$dbadmin_login,$dbadmin_pass) or die("
 mysql_select_db($databasename,$dbconnconnect);
 //mysql_select_db($databasename) or die("Could not select database $databasename: ".mysql_error());
 mysql_query("SET NAMES `utf8`") or die(sysmass('Error in database code.')); 
-mysql_query("SET GLOBAL query_cache_size = 10M;");?>
+mysql_query("SET @@global.query_cache_size=32*1024*1024;");
+#Включим отладчик запросов в mysql
+mysql_query("set profiling_history_size=100");
+mysql_query("set profiling=1");
+?>

@@ -9,7 +9,7 @@
   * Access		 : just insert_module("modulename")			 	 *
   ***************************************************************/
 if ($nitka=="1"){
-	$moduletype="form_generator";
+	$moduletype="form_simple";
 	$module_description="Менеджер простых форм";
 	$modulename=$moduletype;
 	$moduletableprefix=$tableprefix;

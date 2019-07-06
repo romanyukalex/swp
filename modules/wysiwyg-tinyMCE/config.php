@@ -1,5 +1,4 @@
 <?php
-if ($nitka=="1"){
  /****************************************************************
   * Snippet Name : module config 			 					 * 
   * Scripted By  : RomanyukAlex		           					 * 
@@ -11,10 +10,8 @@ if ($nitka=="1"){
   ***************************************************************/
  $log->LogInfo(basename (__FILE__)." | Got ".(__FILE__));
 if ($nitka=="1"){
-	$modulename="wysiwyg-tinyMCE";
+	$moduletype="wysiwyg-tinyMCE";
+	$modulename=$moduletype;
 	$module_description="wysiwyg-tinyMCE";
-	global $tableprefix;
 	$moduletableprefix=$tableprefix;
  }
-?>
-<? } ?>

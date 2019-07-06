@@ -1,7 +1,9 @@
-<?php
+<?
+
 
 //$param = func_get_args();//Получили все аргументы (должна быть там, где определили функцию)
-global $sitemessage,$nitka,$tableprefix,$language,$log,$moduleinstalled,$userrightsreq,$projectname;
+//global $sitemessage;
+//global $nitka,$tableprefix,$language,$log,$moduleinstalled,$userrightsreq,$projectname;
 $log->LogInfo('Got this file');
 if($nitka==1){
 	if($param[0]) {//Определили модуль для подключения
@@ -14,7 +16,7 @@ if($nitka==1){
 			$modconfigexist=1;
 			include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$param[0].'/config.php');
 			$log->LogDebug('Module config is in /modules/'.$param[0].'/');
-		}
+		} else $log->LogError('Module config is not found');
 		if($modconfigexist){			
 			include_once($_SERVER['DOCUMENT_ROOT'].'/core/db/dbconn.php');
 			# Ставим метку об инсталляции в реестр модулей
@@ -29,17 +31,17 @@ if($nitka==1){
 				if(isset($structures) or isset($DBdata)) include($_SERVER['DOCUMENT_ROOT'].'/core/install_structures_into_db.php');
 			}
 			if(($module_id and $modregisterqry)or $install_errcount==0) {# Сообщаем об успехе инсталляции модуля
-				echo '<b>'.$sitemessage['system']['module_installed'].': '.$modulename.' ('.$param[0].')</b><br><br>';
+				echo '<b>'.sitemessage('system','module_installed').': '.$modulename.' ('.$param[0].')</b><br><br>';
 				$log->LogInfo('Module is installed successfully');
 			} else{
 				$log->LogInfo('Module is NOT installed');
-				echo "<b style='color=red'>".$sitemessage['system']['module_not_installed'].': '.$modulename.' ('.$param[0].')</b><br><br>';
+				echo "<b style='color=red'>".sitemessage('system','module_not_installed').': '.$modulename.' ('.$param[0].')</b><br><br>';
 			}
 		} else {$log->LogError('Module is not installed. Module has not config');
-			echo "<b style='color=red'>".$sitemessage['system']['module_hasnot_config'].': '.$modulename.' ('.$param[0].')</b><br><br>';
+			echo "<b style='color=red'>".sitemessage('system','module_hasnot_config').': '.$modulename.' ('.$param[0].')</b><br><br>';
 		}		
 	} else {$log->LogError('Module is not installed. There is no module name in query');
-		echo $sitemessage['system']['module_name_missed'];//"*Пропущено название модуля";
+		echo sitemessage('system','module_name_missed');//"*Пропущено название модуля";
 	}
 }
 ?>

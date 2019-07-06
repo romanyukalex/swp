@@ -10,8 +10,8 @@
 	if($deactivuser['userid']){// Пользователь найден
 		$deactivateuserreq=mysql_query("DELETE `$tableprefix-users`  WHERE `userid` ='$deactivuser[userid]';");
 		if($deactivateuserreq){ // ДеАктивирован
-			echo $sitemessage["registration_form"]["success_deactivation"];}
-	} else {echo $sitemessage["registration_form"]["failed_deactivation"];}
+			echo sitemessage("registration_form","success_deactivation");}
+	} else {echo sitemessage("registration_form","failed_deactivation");}
 	?></div><?
 }
 ?>

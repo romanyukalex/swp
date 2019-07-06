@@ -9,7 +9,7 @@
 	 * Version	: 1.0
 	 *
 	 * Usage: 
-	 *		$log = new KLogger ( "log.txt" , KLogger::INFO );
+	 *		$log = new KLogger ( 'INFO' );
 	 *		$log->LogInfo("Returned a million search results");	//Prints to the log file
 	 *		$log->LogFATAL("Oh dear.");				//Prints to the log file
 	 *		$log->LogDebug("x = 5");					//Prints nothing due to priority setting
@@ -53,14 +53,13 @@ class KLogger{
 	
 	private $cust_ip;
 	private $fullpath_len;
-	
-	public function __construct( $filepath , $priority ){	
+		
+	public function __construct( $priority ){	
 		include($_SERVER['DOCUMENT_ROOT']."/core/IPreal.php");# IP
 		global $fullpath,$base_memory_usage,$tableprefix,$console_flag,$ajaxflag,$styleflag,$dbconnconnect,$log_dir,$projectname;
 		
 		
 		
-		//openlog("swp", LOG_PID, LOG_LOCAL0);
 		if($console_flag==1) $this->cust_ip='localhost';
 		else $this->cust_ip=$ip;
 
@@ -136,20 +135,9 @@ class KLogger{
 		$this->fullpath_len=strlen($fullpath);
 		$this->memory_base=$base_memory_usage;
 		
-		// УДАЛИТЬ
-		/*
-		if($priority=="DEBUG") $priority=1;
-		elseif($priority=="INFO") $priority=2;
-		elseif($priority=="WARN") $priority=3;
-		elseif($priority=="ERROR") $priority=4;
-		elseif($priority=="FATAL") $priority=5;
-		elseif($priority=="OFF") $priority=6;
-		//elseif($priority=="DEBUG") $priority=KLogger::DEBUG;
-		//elseif($priority=="DEBUG") $priority=KLogger::DEBUG;
-		*/
+
 		if ( $priority !== "OFF" ) { //Логи включены
 			
-			//$this->log_files[] = $filepath; // Записывать лог в общий файл с логами
 			if($this->log_files){
 				foreach($this->log_files as $filepath){
 
@@ -234,34 +222,32 @@ class KLogger{
 	
 	public function Log($line, $priority)
 	{
-	//	if ( $this->priority <= $priority )
-	//	{	
-# Запись в лог
-			global $writelogto, $login;
-			if (!$login){$login="guest";}
-			
 
-			switch( $priority )
-				{
-					case KLogger::DEBUG: $loglevtext="DEBUG"; break;
-					case KLogger::INFO:	$loglevtext="INFO "; break;
-					case KLogger::WARN:	$loglevtext="WARN "; break;
-					case KLogger::ERROR: $loglevtext="ERROR"; break;
-					case KLogger::FATAL: $loglevtext="FATAL"; break;
-					default: $loglevtext="LOG   "; break;
-				}
-			
-			$trace = debug_backtrace(); # Данные о вызвавшем скипте
-			
-			if($writelogto=="Собственный лог" or $writelogto=="Собственный и SYSLOG" ){
-				$timest = $this->getTimeLine($priority);
-				
-				$this->WriteFreeFormLine ( '['.$loglevtext.'] '.$timest.' | '.$this->sitedomain.' | '.$this->cust_ip.' | '.$login.' | '.substr($trace[1]['file'],$this->fullpath_len).' | '.$trace[1]['line'].' | '.(memory_get_usage()-$this->memory_base).' | '.$line."\n", $priority );
-			} 
-			if($writelogto=="SYSLOG" or $writelogto=="Собственный и SYSLOG" ){
-				syslog(LOG_DEBUG,"$sitedomain | $this->cust_ip | $login | ".substr($trace[1]['file'],$this->fullpath_len)." | ".$trace[1]['line']." | $line");
+# Запись в лог
+		global $writelogto, $login;
+		if (!$login){$login="guest";}
+		
+
+		switch( $priority )
+			{
+				case KLogger::DEBUG: $loglevtext="DEBUG"; break;
+				case KLogger::INFO:	$loglevtext="INFO "; break;
+				case KLogger::WARN:	$loglevtext="WARN "; break;
+				case KLogger::ERROR: $loglevtext="ERROR"; break;
+				case KLogger::FATAL: $loglevtext="FATAL"; break;
+				default: $loglevtext="LOG   "; break;
 			}
-		//}
+		
+		$trace = debug_backtrace(); # Данные о вызвавшем скипте
+		
+		if($writelogto=="Собственный лог" or $writelogto=="Собственный и SYSLOG" ){
+			$timest = $this->getTimeLine($priority);
+			
+			$this->WriteFreeFormLine ( '['.$loglevtext.'] '.$timest.' | '.$this->sitedomain.' | '.$this->cust_ip.' | '.$login.' | '.substr($trace[1]['file'],$this->fullpath_len).' | '.$trace[1]['line'].' | '.(memory_get_usage()-$this->memory_base).' | '.$line."\n", $priority );
+		} 
+		if($writelogto=="SYSLOG" or $writelogto=="Собственный и SYSLOG" ){
+			syslog(LOG_DEBUG,"$sitedomain | $this->cust_ip | $login | ".substr($trace[1]['file'],$this->fullpath_len)." | ".$trace[1]['line']." | $line");
+		}
 	}
 	
 	
@@ -273,11 +259,6 @@ class KLogger{
 		{ #Записываем во все файлы логов
 			foreach( $this->file_handle as $file_path=>$file_h){
 				if( $priority >= $this->filePriority[ $file_path]) fwrite( $file_h , $line) ;
-				//if( $priority >= $this->filePriority[ $file_path]) fwrite( $file_h ,'! pri-'.$priority.' fl_pri-'.$this->filePriority[ $file_path].' filepath-'.$file_path.' '.$line) ;
-				/*
-				foreach($this->filePriority as $filepaths=>$filepri){
-					fwrite( $file_h , $filepaths.'='.$filepri) ;
-				}*/
 			}
 		}
 	}

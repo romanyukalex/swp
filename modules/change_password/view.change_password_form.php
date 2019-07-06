@@ -45,7 +45,7 @@ function changepass(){
 	<? if ($pageshtrih or $page){?>var sucpage=document.getElementById('successpage');<? }?>
 	var change_pass_mode=document.getElementById('changepassmode');
 	var user_id=document.getElementById('cpuserid');
-	if (np1.value!=np2.value){$('#chpassmessage').html("<p style='color:red'><?=$sitemessage["$modulename"]["new_passes_not_equal"];?></p>");}
+	if (np1.value!=np2.value){$('#chpassmessage').html("<p style='color:red'><?=sitemessage("$modulename","new_passes_not_equal");?></p>");}
 	else{
 		opmd5=MD5_hexhash(op.value);
 		np1md5=MD5_hexhash(np1.value);
@@ -57,5 +57,5 @@ function clearchangeform(){
 var op = document.getElementById('old_password');var np1 = document.getElementById('new_password1');var np2 = document.getElementById('new_password2');changeinputtype('#old_password','text');changeinputtype('#new_password1','text');changeinputtype('#new_password2','text');op.value="Текущий пароль";np1.value="Новый пароль";np2.value="Повторить новый пароль";
 }
 </script>
-<? } else echo $sitemessage["system"]["you_have_no_privileges_to_see"]." (chpass1)";// check userrole
+<? } else echo sitemessage("system","you_have_no_privileges_to_see")." (chpass1)";// check userrole
 } // nitka ?>

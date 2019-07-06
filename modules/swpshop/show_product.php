@@ -45,7 +45,7 @@ where	products.`product_id`='$product_id';"));
 			?><a href='/?page=$modulename&pagetype=show_vendor&vendor_id=<?=$vendorinfo['vendor_id']?>&menu=services_<?=$vendorinfo['vendor_id']?>'><?=$vendorinfo['vendor_name_'.$language];?></a><?
 		}
 		echo " [".$productinfo['product_short_title_'.$language]."]";
-	} else echo $sitemessage['$modulename']['product_not_found']?></h2>
+	} else echo sitemessage("$modulename",'product_not_found')?></h2>
 <?=$productinfo['product_full_description_'.$language]?>
 
 <? 

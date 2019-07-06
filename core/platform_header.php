@@ -87,10 +87,12 @@ if($pagequery['meta']){
 <META NAME="Keywords" CONTENT="<?
 if($page and $pagequery['SEO-keywds_'.$language]) echo $pagequery['SEO-keywds_'.$language];
 else echo $keywords;?>">
-<META NAME="URL" CONTENT="<?=$_SERVER['SERVER_NAME']; ?>">
 <META NAME="Author" CONTENT="<?=$autormeta; // Сделать: если есть page и у него есть autor то подсосать данные по юзеру и вставлять сюда. И настройка, делать ли так?>">
 <META name="copyright" content="<?=$meta_copyright;?>">
-<META NAME="description" CONTENT="<?if($page and $pagequery['SEO-descrtn_'.$language]) echo $pagequery['SEO-descrtn_'.$language]; else echo $description; ?>" />
+<META NAME="description" CONTENT="<?
+	if($page and $pagequery['SEO-descrtn_'.$language]) {
+		echo $pagequery['SEO-descrtn_'.$language];
+	} else echo $description; ?>" />
 <? if(!$meta_shown['Document-state']){?>
 <META NAME="Document-state" CONTENT="<? if($pagequery){ if(!mb_strstr($pagequery['filename'],".php")){?>Static<?} else {?>Dinamic<?}}?>">
 <? }?>
@@ -108,17 +110,30 @@ elseif($adminpanel==1){?><meta name=“robots” content=“noindex,nofollow”>
 <meta property="business:contact_data:postal_code" content="Индекс"/>
 <meta property="business:contact_data:country_name" content="Страна"/>
 */?>
-<meta property="business:contact_data:phone_number" content="<?=$contactphone?>"/>
-<meta property="business:contact_data:email" content="<?=$officialemail?>"/>
-<meta property="business:contact_data:website" content="<?=$_SERVER['SERVER_NAME']; ?>"/>
-<? if(!$ampreq){?><!-- Активация ClearType в Mobile IE -->
+<meta property="contact_data:phone_number" content="<?=$contactphone?>"/>
+<meta property="contact_data:email" content="<?=$officialemail?>"/>
+<meta property="contact_data:website" content="<?=$_SERVER['SERVER_NAME']; ?>"/>
+<meta property="og:url" content="<? if($_SERVER['HTTPS']=="on") echo "https"; else echo "http";?>://<?=$_SERVER['SERVER_NAME'];?>/?<?=$_SERVER['QUERY_STRING'];?>"/>
+<? if($pagequery['page_img']){?>
+<meta property="og:image"content="<?=$pagequery['page_img']?>"/>
+<? }
+
+if(!$ampreq){?><!-- Активация ClearType в Mobile IE -->
 <meta http-equiv="cleartype" content="on"><?}?>
 <? if($meta_appl_fscr=='Открывать в полном экране'){?>
 <!-- Чтобы приложение открылось в полноэкранном режиме, без видимой адресной строки -->
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <? }?>
-<title><?if($page and $pagequery['SEO-title_'.$language]) echo $pagequery['SEO-title_'.$language];else {if($adminpanel)echo 'Администраторская панель '.$sitedomainname;else echo $title;}?></title>
-<? insert_module('rss');
+<title><?
+if($page and $pagequery['SEO-title_'.$language]) {
+	if(strstr($pagequery['SEO-title_'.$language],".php")){ //В поле вставлен скрипт, выдающий title (для динамических страниц)
+		include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/scripts/'.$pagequery['SEO-title_'.$language]);
+	} else echo $pagequery['SEO-title_'.$language];
+
+}
+elseif(!$adminpanel) echo $title;
+elseif($adminpanel) echo 'Администраторская панель '.$sitedomainname;?></title>
+<? insert_module('rss','show_rss_link');
 # link с языком
 if(function_exists('mb_strlen')) $urilenght=mb_strlen($_SERVER['REQUEST_URI']);
 else $urilenght=strlen($_SERVER['REQUEST_URI']);
@@ -207,13 +222,19 @@ else {echo "en";}
 	if($takebootstrap_where=='В header страницы') {
 	# Bootstrap
 	if($takebootstrap=='Ссылка на портал bootstrapcdn.com'){?>
-	<!-- Latest compiled and minified CSS -->
-	<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"-->
+	<!-- Bootstrap. Latest compiled and minified CSS -->
+	<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"-->
+	
 	<!--Flexible-->
-	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap-flex.min.css" rel="stylesheet" >
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap-flex.min.css" rel="stylesheet">
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
+	<!-- Bootstrap. Latest compiled and minified JavaScript >
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script-->
+	
+	
 	<? }elseif($takebootstrap=='Локальные файлы из /js/lib/bootstrap/'){?>
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="/js/lib/bootstrap/css/bootstrap.min.css" type="text/css">
@@ -232,6 +253,7 @@ else {echo "en";}
 
 	unset($meta_shown);
 }?>
+	<link type="text/css" rel="stylesheet" href="/commenton/style/content_view.css">
 	<!-- // Platform scripts-->
 	<!-- Modules headers-->
 	<? foreach($moduleenabled as $modulename=>$enabled){
@@ -249,6 +271,7 @@ else {echo "en";}
 			<? if($mode=='debug') $log->LogDebug('Module header is in /modules/'.$modulename.'/');
 		}
 	}
-
+//Уничтожаем использованные переменные
+unset($keywords,$can_url_lenght,$canonic_uri_fin,$canonic_uri,$upldt,$pagemeta,$meta_shown,$autormeta, $takejquery);
 ?>
 <!-- // Modules headers-->

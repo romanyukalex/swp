@@ -7,8 +7,9 @@ function collect_data2($secure_mode,$http_mode,$balancerip,$balancerport,$basica
 
 	if($basicauthuser and $basicauthpwd) $http_header .="Authorization: Basic ".base64_encode($basicauthuser.':'.$basicauthpwd)."\r\n";
 	$http_header .= "Host: $balancerip";
-	if($balancerport!=="80") $http_header .= ":$balancerport";
-	$http_header .=$req_path;
+	if($balancerport!=="80" and $balancerport!==80) $http_header .= ":$balancerport";
+	if(substr($req_path,0,1)!=="/") $http_header .='/'.$req_path;
+	else $http_header .=$req_path;
 	$http_header .= "\r\nConnection: Close\r\n";
 
 	if($accept_types) $http_header .= "Accept: $accept_types\r\n";
@@ -44,14 +45,21 @@ function collect_data2($secure_mode,$http_mode,$balancerip,$balancerport,$basica
 	if($proxy){
 		$opts['http']['proxy']=$proxy;
 	}
+	$opts['http']['timeout']=$timeout;
 	# Отправляем данные
 	$context  = stream_context_create($opts);
-	$url = $secure_mode.'://'.$balancerip.":".$balancerport."/$req_path";
+	$url = $secure_mode.'://'.$balancerip;
+	if($balancerport!=="80" and $balancerport!==80) $url .= ":".$balancerport;
+	if(substr($req_path,0,1)!=="/") $url .= "/".$req_path;
+	else $url .= $req_path;
 	//echo "<textarea cols='85' rows='10'>".$http_header	."</textarea>";
-	//var_dump($opts);
-	if($result = file_get_contents($url, false, $context, -1, 200000)){
+	var_dump($opts);
+	echo $url;
+	//var_dump($context);
+	$result = file_get_contents($url, false, $context, -1, 200000);
+	//if()){
 		return $result;
-	} else return FALSE;
+	//} else return FALSE;
 
 
 }

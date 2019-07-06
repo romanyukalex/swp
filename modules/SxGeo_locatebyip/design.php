@@ -23,21 +23,27 @@ $log->LogDebug("Got this file");
 #$SxGeo->getCityFull($ip);
 #$city = $SxGeo->get($ip);
 
-// Создаем объект
-include("SxGeo.php");
-// Первый параметр - имя файла с базой (используется оригинальная бинарная база SxGeo.dat)
-// Второй параметр - режим работы: 
-//     SXGEO_FILE   (работа с файлом базы, режим по умолчанию); 
-//     SXGEO_BATCH (пакетная обработка, увеличивает скорость при обработке множества IP за раз)
-//     SXGEO_MEMORY (кэширование БД в памяти, еще увеличивает скорость пакетной обработки, но требует больше памяти)
+if(!$_SESSION['citydata']) { #Новая сессия
+	$log->LogDebug('Its first time enter for this user. Try to get geo info from DB');
+	// Создаем объект
+	include("SxGeo.php");
+	// Первый параметр - имя файла с базой (используется оригинальная бинарная база SxGeo.dat)
+	// Второй параметр - режим работы: 
+	//     SXGEO_FILE   (работа с файлом базы, режим по умолчанию); 
+	//     SXGEO_BATCH (пакетная обработка, увеличивает скорость при обработке множества IP за раз)
+	//     SXGEO_MEMORY (кэширование БД в памяти, еще увеличивает скорость пакетной обработки, но требует больше памяти)
 
-$SxGeo = new SxGeo($fullpath.'modules/'.$modulename.'/SxGeoCity.dat');
-//$SxGeo = new SxGeo('SxGeoCity.dat', SXGEO_BATCH | SXGEO_MEMORY); // Самый производительный режим, если нужно обработать много IP за раз
+	$SxGeo = new SxGeo($fullpath.'modules/'.$modulename.'/SxGeoCity.dat');
+	//$SxGeo = new SxGeo('SxGeoCity.dat', SXGEO_BATCH | SXGEO_MEMORY); // Самый производительный режим, если нужно обработать много IP за раз
 
-#var_export($SxGeo->getCityFull($ip)); // Вся информация о городе
-#var_export($SxGeo->get($ip));         // Краткая информация о городе или код страны (если используется база SxGeo Country)
-#var_export($SxGeo->about());          // Информация о базе данных
-$citydata=$SxGeo->getCityFull($ip);
+	#var_export($SxGeo->getCityFull($ip)); // Вся информация о городе
+	#var_export($SxGeo->get($ip));         // Краткая информация о городе или код страны (если используется база SxGeo Country)
+	#var_export($SxGeo->about());          // Информация о базе данных
+	$_SESSION['citydata']=$citydata=$SxGeo->getCityFull($ip);//Получили данные по IP
+}
+else $citydata=$_SESSION['citydata'];
+
+
 
 if($param[1]=="getCityName"){
 	$log->LogDebug("Return city name - ".$citydata['city']['name_'.$language]);
@@ -47,5 +53,5 @@ elseif($param[1]=="getCountryName"){
 	$log->LogDebug("Return country name - ".$citydata['country']['name_'.$language]);
 	return $citydata['country']['name_'.$language];
 }
-
+if($SxGeo) {unset($SxGeo,$citydata);$log->LogDebug('Free memory after usage SxGeo lib');}
 }?>

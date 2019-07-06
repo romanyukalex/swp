@@ -7,12 +7,8 @@ require($_SERVER['DOCUMENT_ROOT'].'/core/system-param.php');
 error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED);//Уровень логов в apache
 header('Expires: '.strftime("%a, %d %b %Y %H:%M:%S",time()+$stylecss_cachetime-3600*3).' GMT');
 @require_once($_SERVER['DOCUMENT_ROOT'].'/core/functions/KLogger.php');
-if ($adminpanel==1) {//$ap_loglevel="KLogger::$ap_loglevel";
-	$log=new KLogger( $ap_logfile , $ap_loglevel);
-} elseif($nitka==1) {
-	//$loglevel="KLogger::$loglevel";
-	$log=new KLogger( $logfile , $loglevel);
-}
+if ($adminpanel==1) $log=new KLogger( $ap_loglevel);
+elseif($nitka==1) $log=new KLogger( $loglevel);
 $log->LogInfo('------ The new STYLE request from '.$_SERVER['HTTP_HOST'].' ------');
 $log->LogDebug('Trying to call insert_function_function.php');
 include_once $_SERVER['DOCUMENT_ROOT'].'/core/insert_function_function.php';
@@ -24,10 +20,7 @@ background:<?=$bodybackgrcolor;?>;
 <? if ($hidehorizontalscroll=='Не разрешать горизонтальную прокрутку'){echo 'overflow-x:hidden;';} ?>
 scroll-behavior: smooth; // Работает только в FF - плавная прокрутка на CSS
 }
-html{
-	font-family:<?=$fontfamily;?>;
-	font-size:<?=$htmlfontsize;?>;
-}
+
 a{text-decoration:<? if ($linkdecoration=='Подчеркнуть'){echo 'underline';}elseif($linkdecoration=='Не подчеркивать'){?>none<? }?>
 }
 
@@ -45,9 +38,10 @@ if ($reconstruction_page=='Включить'){?>
 ?>
 
 <? if($appendbuttonsstyle=='Присоединить' or $adminpanel==1){include('buttons.php');}
-   if($appendcheckboxradiocss3style=='Присоединить'){
-	   include('checkbox-radio-css3/checkbox-radio-css3-style.php');
-	   }
+   if($appendcheckboxradiocss3style=='Присоединить'){ include('checkbox-radio-css3/checkbox-radio-css3-style.php'); }
+   if($append_hover_style=='Присоединить'){ 
+		$handle = fopen($fullpath.'/style/hover.css', 'r'); while (!feof($handle)) {$buffer = fgets($handle, 4096);echo $buffer;}fclose($handle);
+   }
 if($adminpanel){
 	include('adminpanel-style.php');
 }

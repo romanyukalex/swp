@@ -12,12 +12,6 @@
 $log->LogInfo('Got this file with params - '.implode(',',$param));
 if($nitka=='1'){
 	insert_function('process_user_data');
-	// Перенести это в insert_module и ajaxapi
-	if(isset($param[1])) $contact=$param[1]; // Вызвали как модуль
-	elseif(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
-	
-	if(!isset($contact)){$contact='show_chpass_form';}
-	$log->LogDebug('Action is '.$contact);
 	
 	if ($contact=='show_chpass_form'){# Форма для смены пароля
 	
@@ -34,19 +28,19 @@ if($nitka=='1'){
 			$oldpassreqst=process_data($_REQUEST['old_password'],40);
 			if($_REQUEST['changepassmode']=="1") $oldpassreal=$_SESSION['password'];
 			if (!$newpassword1 and !$newpassword2){
-				$showmessage=$sitemessage["$modulename"]["fill_all_required"];//$showmessage="Заполните все обязательные поля";
+				$showmessage=sitemessage("$modulename","fill_all_required");//$showmessage="Заполните все обязательные поля";
 				$messagecolor="red";
 				}
 			elseif($newpassword1!==$newpassword2){
-				$showmessage=$sitemessage["$modulename"]["new_passes_not_equal"];// Присланные пароли не совпадают
+				$showmessage=sitemessage("$modulename","new_passes_not_equal");// Присланные пароли не совпадают
 				$messagecolor="red";
 			}
 			elseif($oldpassreqst!==$oldpassreal and $_REQUEST['changepassmode']=="1" and $oldpassreal){
-				$showmessage=$sitemessage["$modulename"]["wrong_cur_pass"];//Вы указываете неверный текущий пароль
+				$showmessage=sitemessage("$modulename","wrong_cur_pass");//Вы указываете неверный текущий пароль
 				$messagecolor="red";
 			}
 			elseif($newpassword1==$oldpassreal and $oldpassreal){
-				$showmessage=$sitemessage["$modulename"]["cur_pass_equal_new_pass"];//Вы не сменили пароль
+				$showmessage=sitemessage("$modulename","cur_pass_equal_new_pass");//Вы не сменили пароль
 				$messagecolor="red";
 			}
 			else{ // Пришли
@@ -94,9 +88,9 @@ if($nitka=='1'){
 						setTimeout(function(){changerazdel("<?=$successpage?>")}, 5000);
 						});
 					</script><?
-					$messagecolor="green";$showmessage=$sitemessage["$modulename"]["pass_changed_succ"];//"Пароль успешно изменен"
-				} elseif($dontchangepass==1) {$messagecolor="red"; $showmessage=$sitemessage["$modulename"]["new_pass_already_used"];// Устанавливаемый пароль уже использовался ранее
-				} else {$messagecolor="red";$showmessage=$sitemessage["$modulename"]["password_wasnt_changed"];//"Пароль не был изменен";
+					$messagecolor="green";$showmessage=sitemessage("$modulename","pass_changed_succ");//"Пароль успешно изменен"
+				} elseif($dontchangepass==1) {$messagecolor="red"; $showmessage=sitemessage("$modulename","new_pass_already_used");// Устанавливаемый пароль уже использовался ранее
+				} else {$messagecolor="red";$showmessage=sitemessage("$modulename","password_wasnt_changed");//"Пароль не был изменен";
 				}
 			}
 			echo "<span style='color:".$messagecolor."; font-size:bold'>".$showmessage."</span>";

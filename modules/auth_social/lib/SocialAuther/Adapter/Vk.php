@@ -123,8 +123,7 @@ class Vk extends AbstractAdapter
     public function authenticate()
     {	
         $result = false;
-		//global $log;
-		//$log->LogDebug('Code is available for this user - '.$_GET['code']);
+
         if (isset($_GET['code'])) {
 
             $params = array(
@@ -136,9 +135,6 @@ class Vk extends AbstractAdapter
             );
 			
             $tokenInfo = $this->get('https://oauth.vk.com/access_token', $params);
-			
-			
-			//$_SESSION['test']=serialize($params).serialize($tokenInfo);
 			
             if (isset($tokenInfo['access_token'])) {
                 $params = array(

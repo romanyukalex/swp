@@ -15,7 +15,7 @@ include_once($_SERVER['DOCUMENT_ROOT']."/core/usersmanagement/logout_unsets.php"
 
 session_destroy();// уничтожаем сессию
 // Перенаправляем заголовок
-include($_SERVER['DOCUMENT_ROOT']."/core/system-param.php");
+//include($_SERVER['DOCUMENT_ROOT']."/core/system-param.php");
 $thishost=$_SERVER['HTTP_HOST'];
 if($pageafterlogout) header("Location: http://".$thishost."/?page=".$pageafterlogout);
 else header("Location: http://".$thishost."/");

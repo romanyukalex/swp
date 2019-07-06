@@ -13,13 +13,16 @@
 
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
  <!-- Bootstrap Core CSS -->
-<? if($userrole!=='guest' ){?>
+<? /*if($userrole!=='guest' ){?>
 <link href="/adminpanel/templates/<?=$adminsitetemplate?>/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
-<? } else {?>
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap-flex.min.css" rel="stylesheet" >
+<? } else {*/?>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap-flex.min.css" rel="stylesheet">
+
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-<? }?>
+
+
+<?// }?>
 
 
 <!-- Custom CSS -->

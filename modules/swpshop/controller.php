@@ -13,11 +13,8 @@ $log->LogInfo('Got this file');
 if($nitka=='1'){
 	insert_function('process_user_data');
 	// Перенести это в insert_module и ajaxapi
-	if(isset($param[1])) $contact=$param[1]; // Вызвали как модуль
-	elseif(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
-	
+
 	if(!isset($contact)){$contact=$default_action;}
-	$log->LogDebug('Action is '.$contact);
 	
 	if ($contact=='show_product'){# Страничка с продуктом
 		$product_id=process_data($_REQUEST['productid'],20);
@@ -39,6 +36,13 @@ if($nitka=='1'){
 			`vendor_country_id`
 		from `$moduletableprefix-product` products, `$moduletableprefix-product-vendors` vendors
 		where products.`product_vendor_id`=vendors.`vendor_id` and products.`product_id`='$product_id'"));
+		
+		$vendorlogo=mysql_fetch_array(mysql_query("select `photo_path` from  `$tableprefix-photos` where `photo_id`='$vendorinfo[vendor_logo]' LIMIT 0,1;")); //Сделать join-ом в предыдущ запросе
+		
+		$vendorinfo['vendor_logo_img']=$vendorlogo['photo_path'];
+		
+		$vendorcountry=mysql_fetch_array(mysql_query("select * from  `$tableprefix-country` where `id`='$vendorinfo[vendor_country_id]' LIMIT 0,1;"));
+		
 		#Информация о продукте
 		$productinfo=mysql_fetch_assoc(mysql_query("select * from `$moduletableprefix-product` products
 		where	products.`product_id`='$product_id';"));
@@ -315,7 +319,8 @@ if($nitka=='1'){
 			$order_list=substr($order_list,0,-1);
 		}
 		
-			$show_view='shopping_cart';
+		$show_view='shopping_cart';
+		
 	} elseif ($contact=='show_orders'){ # Заявки юзера и компании
 		global $company_id,$userid,$userrole,$fullname;
 		$order_list=null;
@@ -445,7 +450,7 @@ if($nitka=='1'){
 			
 			
 			if($varrightgiven==0){# Среди доступных вариантов нет запрашиваемого
-				$order_message = $sitemessage["$modulename"]["variant_isnt_found"];
+				$order_message = sitemessage("$modulename","variant_isnt_found");
 				$order_status="nok";
 				$log->LogError("Choosen variant is not found in available lists");
 			} elseif($varrightgiven==1){# Права на вариант есть
@@ -490,7 +495,7 @@ if($nitka=='1'){
 				$order_id=mysql_insert_id();
 				
 				if($inserttoorder==1){
-					$order_message = $sitemessage["$modulename"]["order_succ"];
+					$order_message = sitemessage("$modulename","order_succ");
 					$order_status="ok";
 					//$order_function="closeblock('variant_form_1')";
 					$order_function="showHideSelectionSoft('variant_form_1',1500);renew_shoppingcart_count(".$order_group.")";
@@ -532,14 +537,14 @@ if($nitka=='1'){
 						} else $log->LogError("Variant config is not JSON or incorrect JSON");
 						
 					}
-				} else {$order_message = $sitemessage["$modulename"]["order_unsucc"];
+				} else {$order_message = sitemessage("$modulename","order_unsucc");
 					$order_status="nok";
 					$log->LogError("Order was not created sucessfully. Query was: ".$inserttoorder_qt);
 				}
 			}
 			
 		} else {
-			$order_message = $sitemessage["$modulename"]["variant_isnt_ch"]; 
+			$order_message = sitemessage("$modulename","variant_isnt_ch"); 
 			$order_status="nok";
 			$log->LogError("Variant is not choosen");
 		}
@@ -559,7 +564,7 @@ if($nitka=='1'){
 		insert_function ("send_letter");
 		
 		if($modifysubscrreq){
-			echo "<span style='color:green'>".$sitemessage["$modulename"]["mdfy_sbscr_ordr_succ_crtd"]." Статус заявки можно отслеживать в разделе ";
+			echo "<span style='color:green'>".sitemessage("$modulename","mdfy_sbscr_ordr_succ_crtd")." Статус заявки можно отслеживать в разделе ";
 			if($userrole=="superuser") echo "ЗАЯВКИ КОМПАНИИ"; elseif($userrole=="user"){echo "МОИ ЗАЯВКИ";} 
 			echo "</span>";
 			
@@ -567,7 +572,7 @@ if($nitka=='1'){
 			$message="На портале ".$sitedomainname." оформлена заявка. Тип - ".$order_type."<br><br>Данные по заявке:<br>".$userid." ".$fullname." (".$userrole.") из компании ". $company_id.". ".$companyinfo['company_full_name']."<br><br>Номер подписки = ".$subscription_id."<br> Текст запроса:<br>".$request_text."<bR><br>С наилучшими пожеланиями.<br><b>Администрация сайта ".$sitedomainname;
 			$log->LogDebug("New order (".$order_type.") was successfully created. Administrator was notified");
 		
-		} else {echo "<span style='color:red'>".$sitemessage["$modulename"]["mdfy_sbscr_ordr_not_crtd"]."</span>";
+		} else {echo "<span style='color:red'>".sitemessage("$modulename","mdfy_sbscr_ordr_not_crtd")."</span>";
 			$log->LogError("Modify request was not created sucessfully. Query was: INSERT INTO `$tableprefix-orders` (`order_type`,`client_id`,`user_id` ,`subscription_id`,`order_text`,`status`,`creations_ts` ,`last_status_change_ts`,`chat_id` )
 				VALUES ('$order_type', '$company_id', '$userid', '$subscription_id','$request_text', 'opened', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP , NULL 
 				);");
@@ -591,11 +596,11 @@ if($nitka=='1'){
 					$addtogroupreq=mysql_query("INSERT INTO `$tableprefix-users-groupmembers` (`group_id` ,`userid`) VALUES ('$manageproduct[group_id]', '$neededuserid');");
 					if($addtogroupreq){
 						$log->LogDebug($modulename."/".basename (__FILE__)." | User was inserted into group");
-						echo $sitemessage["$modulename"]["user_added_prodmanage_group"].
+						echo sitemessage("$modulename","user_added_prodmanage_group").
 						"<script>$(document).ready(function(){ajaxreq('".$neededproductid."','','show_product_managem_users','useracesstable".$neededproductid."','$modulename');})</script>";
 					} else $log->LogDebug($modulename."/".basename (__FILE__)." | But user was NOT inserted into group by reason ".$addtogroupreq);
 				} else $log->LogDebug($modulename."/".basename (__FILE__)." | Group for manage of this product was NOT found");
-			} else { echo $sitemessage["$modulename"]["right_add_error"];
+			} else { echo sitemessage("$modulename","right_add_error");
 				$log->LogDebug($modulename."/".basename (__FILE__)." | Rights were not changed. Post user_id=".$neededuserid.". Post product_id=".$neededproductid);
 			}
 		}
@@ -609,7 +614,7 @@ if($nitka=='1'){
 			
 			$delfromgroupreq=mysql_query("DELETE FROM `$tableprefix-users-groupmembers` WHERE `group_id`='$manageproduct[group_id]' and `userid`='$neededuserid' LIMIT 1 ; ");
 			
-			if($delfromgroupreq){echo $sitemessage["$modulename"]["us_remov_fr_group_success"].
+			if($delfromgroupreq){echo sitemessage("$modulename","us_remov_fr_group_success").
 			"<script>$(document).ready(function(){ajaxreq('".$neededproductid."','','show_product_managem_users','useracesstable".$neededproductid."','$modulename');})</script>";
 			}
 		}
@@ -636,7 +641,7 @@ if($nitka=='1'){
 					$userexceplist[$manageproduct['oid']][$useraccess['userid']]=1; //echo "Исключен из списка добавления id=".$useraccess['userid'];
 				}	
 			}
-			if (count($userexceplist[$manageproduct['oid']])==0){echo $sitemessage["$modulename"]["no_accss_users"];}
+			if (count($userexceplist[$manageproduct['oid']])==0){echo sitemessage("$modulename","no_accss_users");}
 			?></td></tr><? 
 			if($userlistcount>0){?>
 			<? 	mysql_data_seek($userlistreq,0);
@@ -756,6 +761,18 @@ if($nitka=='1'){
 		} else $aRes = array('status' => 'nok', 'message' => "Не возможно удалить продукт из заказа");
 		
 		echo json_encode($aRes);
+	}
+	elseif ($contact=='get_product_info'){ //Получить информацию про продукт
+	
+		/* Получается так
+		$product_info=insert_module("swpshop",'get_product_info',"$product_id");
+		*/
+		$product_id=$param[2];
+		
+		#Информация о продукте
+		$return_data=mysql_fetch_assoc(mysql_query("select * from `$moduletableprefix-product` products
+		where	products.`product_id`='$product_id';"));
+		
 	}
 	elseif($contact) include_once($_SERVER['DOCUMENT_ROOT'].'/modules/'.$modulename.'/'.$pagetype.'.php');
 	

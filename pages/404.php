@@ -45,7 +45,7 @@ insert_module("bookmark");?>
 	$page_near_q=mysql_fetch_array(mysql_query("SELECT * FROM `$tableprefix-pages` WHERE 
   `page` LIKE '%$page_wr%' or `page` LIKE '%".mb_substr($page_wr,0,-1)."%' or `page` LIKE '%".mb_substr($page_wr,1)."%'
   LIMIT 0,1;"));
-	if($page_near_q['page']){
+	if($page_near_q['page'] and $page_near_q['page']!==$page){
 		?><a href="/?page=<?=$page_near_q['page']?>"><img src="/adminpanel/pics/Colorpencils512.png" class="imgmiddle AOAimg">Посмотреть найденую нами ПОХОЖУЮ страницу: <?=$page_near_q['pagetitle_'.$language]?></a><br><?
 	}
 

@@ -43,7 +43,7 @@ if(isset($_REQUEST['someid']) and $_REQUEST['someid']=="create_user"){
 	VALUES ( '$userlogin', '$userpassword', '$need_userrole', '$usernickname', '$userfullname', '$need_company_id', '$usercontactmail', '$new_user_status', 
 	CURRENT_TIMESTAMP , NULL , '$ActivationLink' , '$DeactivationLink' , '$chpassmust');");
 			if($insertuserreq) {
-				echo $sitemessage['system']['new_user_succ_added'];//"Пользователь успешно добавлен";
+				echo sitemessage('system','new_user_succ_added');//"Пользователь успешно добавлен";
 				echo "<script>$(document).ready(function(){ajaxreq('','','show_users_table','usermanagetable','usersmanagement');})</script>";
 				if($activationpath=='sendletter'){ // Посылаем активационное письмо
 				insert_function('send_letter');
@@ -53,9 +53,9 @@ if(isset($_REQUEST['someid']) and $_REQUEST['someid']=="create_user"){
 				sendletter($usercontactmail,$subject,$message);
 				}
 			}
-			else echo $sitemessage['system']['new_user_is_not_inserted'];//"Не удалось добавить пользователя";
-		} else echo $sitemessage['system']['email_already_exists'];//"Пользователь с таким email уже существует в системе";
-	} else echo $sitemessage['system']['you_have_no_privileges_for_operation'];//"Не хватает привилегий для добавления пользователя";
+			else echo sitemessage('system','new_user_is_not_inserted');//"Не удалось добавить пользователя";
+		} else echo sitemessage('system','email_already_exists');//"Пользователь с таким email уже существует в системе";
+	} else echo sitemessage('system','you_have_no_privileges_for_operation');//"Не хватает привилегий для добавления пользователя";
 }
 elseif ($_REQUEST['action']=='show_usmanag_page'){//Показать страничку с таблицами юзеров и новым юзером
 	include($_SERVER['DOCUMENT_ROOT'].'/core/usersmanagement/users_management_page.php');
@@ -320,7 +320,7 @@ elseif ($_REQUEST['action']=="set_default_pass"){
 		//$need_userid=process_data($_REQUEST['someid1'],5);
 		if($userrole=="superuser"){
 			$needuserdata=mysql_fetch_array(mysql_query("SELECT * FROM `$tableprefix-users` WHERE `userid`='$need_userid' LIMIT 0,1"));
-			if($needuserdata[company_id]!==$company_id){ echo "<span style='color:red'>".$sitemessage['system']["you_have_no_privileges_for_operation"]." (umaj1)</span>";
+			if($needuserdata[company_id]!==$company_id){ echo "<span style='color:red'>".sitemessage('system',"you_have_no_privileges_for_operation"]." (umaj1)</span>";
 				$dontupdate=1;
 			}
 		}
@@ -337,7 +337,7 @@ elseif ($_REQUEST['action']=="set_default_pass"){
 				echo "<span style='color:red'>Пароль пользователя не сброшен</span>";
 			}
 		}
-	} else echo "<span style='color:red'>".$sitemessage['system']["you_have_no_privileges_for_operation"]." (umaj2)</span>";
+	} else echo "<span style='color:red'>".sitemessage('system',"you_have_no_privileges_for_operation")." (umaj2)</span>";
 }
 elseif ($_REQUEST['action']=="send_new_pass"){#Послать пользователю новый пароль
 	$need_userid=process_data($_REQUEST['someid1'],5);
@@ -373,7 +373,7 @@ elseif ($_REQUEST['action']=="send_new_pass"){#Послать пользоват
 	
 	insert_function("send_letter");
 	sendletter_full($to_email_name,$need_user_data['contactmail'],$subject,$message,$from,$officialemail);	
-	echo "[OK] ".$sitemessage["change_password"]["pass_changed_succ"]." (";
+	echo "[OK] ".sitemessage("change_password","pass_changed_succ")." (";
 	if($need_user_data['fullname']) echo $need_user_data['fullname'];
 	else echo $need_user_data['second_name'].' '.$need_user_data['first_name'];
 	echo ")";

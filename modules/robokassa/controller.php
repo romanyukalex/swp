@@ -61,12 +61,8 @@ insert_module('robokassa','get_pay_button',$pay_detail_arr);
 $log->LogInfo('Got this file');
 if($nitka=='1'){
 	insert_function('process_user_data');
-	// Перенести это в insert_module и ajaxapi
-	/*if(isset($param[1])) $contact=$param[1]; // Вызвали как модуль
-	elseif(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
-	*/
+
 	if(!isset($contact)){$contact='show_result_page';}
-	$log->LogDebug('Action is '.$contact);
 	
 	if ($contact=='get_pay_button'){# Формируем кнопку на оплату
 		global $language,$rk_login,$rk_pass1;		

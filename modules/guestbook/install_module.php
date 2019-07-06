@@ -23,11 +23,11 @@ if ($moduleinstalled['$modulename']!=='y' and $nitka=="1"){ #Требуется 
 		(NULL, '$modulename', 'code3', 'Смысл сообщения 3', 'Сообщение на русском 3', 'Message text 3')		
 		;");
 		
-	$put_settings=mysql_query("INSERT INTO `$tableprefix-siteconfig` 
-	(`id`, `value`, `vartype`, `describe`, `systemparamname`, `formmaxlegth`, `varpossible`, `showtositeadmin`, `example`, `depend`, `maybeempty`, `module_id`) VALUES 
-	(NULL, 'Показывать', '2', 'После успешной активации показывать ли пользователю его активационные данные (емейл,телефон)', 'usrcntctafteractiv', NULL, 'Показывать;;Не показывать', '1', NULL, 'design', '1', '$module_id');");
 	
 	*/
+	$put_settings=mysql_query("INSERT INTO `$tableprefix-siteconfig` 
+	(`id`, `value`, `vartype`, `describe`, `systemparamname`, `formmaxlegth`, `varpossible`, `showtositeadmin`, `example`, `depend`, `maybeempty`, `module_id`) VALUES 
+	(NULL, '20', 1, 'Время обновления листа сообщений в гостевой книге (ajax-чат) в секундах', 'guestbooktimeout', 10, NULL, 1, NULL, '', 2,  '$module_id');");
 	
 	$moduletableqry=mysql_query("CREATE TABLE `$moduletableprefix-guestbook-messages` (
 	`id` int(5) NOT NULL auto_increment,

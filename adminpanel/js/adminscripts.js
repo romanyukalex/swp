@@ -137,17 +137,3 @@ function put_raws_to_table(){
 	alert(table_id);
 	
 }
-/*
-function any_site_size(siteblock,siteheaderblock,topmenublock,footerblock,whitefield){
-	var windowheight=$(window).height();  
-	var siteblockheight=$("#"+siteblock).height();
-
-	if(windowheight>siteblockheight){// Окно больше сайта, надо растягивать
-		var siteheaderblockheight=$("#"+siteheaderblock).height();
-		var topmenuheight=$("#"+topmenublock).height();
-		var pageheight=$("#ap_page_block_tr").height();
-		var footerblockheight=$("#"+footerblock).height();
-		var needheight=windowheight-siteheaderblockheight-topmenuheight-pageheight-footerblockheight-20;
-		$("#"+whitefield).animate({height: needheight}, 300);
-	}
-}*/

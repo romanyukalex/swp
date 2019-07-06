@@ -5,7 +5,7 @@
   * Website      : http://hermawan.dmonster.com * 
   * Email        : hermawan@dmonster.com        * 
   * License      : GPL (General Public License) * 
-  * Access		 : $msg = censor($msg,"*");	*
+  * Access		 : $nfiles = file_nullFilesSearch($dir);	*
   ***********************************************/
 $log->LogInfo('Got this file');
 

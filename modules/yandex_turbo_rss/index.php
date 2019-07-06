@@ -27,10 +27,6 @@ elseif(!$neededtable and $rss_lang=="en"){$rsstitle="News of all sections on por
 
 if($ya_rss_choosedomain=="Доменное имя, на которое пришел запрос"){$rss_sitedomainname=$_SERVER['HTTP_HOST'];}
 else{$rss_sitedomainname=$sitedomainname;}
-//header("content-type: application/rss+xml");
-
-
-/*echo '<?xml version="1.0" encoding="UTF-8"?>';*/
 
 ?>
 <rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru"  version="2.0">
@@ -54,105 +50,108 @@ echo $rss_sitedomainname."</description>
 
 </image>";
 	# Выбираем все новости
-		$query=mysql_query("SELECT * FROM `$tableprefix-pages` WHERE `turboyaposted` IS false AND `status`='ena' AND `ap`='site_page' AND `is_articles`=1 ORDER BY `page_id` DESC LIMIT 0,$yarssnewsquantity");
-		while ($pagequery = mysql_fetch_assoc($query))
-			{ if($pagequery['page']){
-				?>
-        <item turbo="true">
-		
-           <link>https://<?=$rss_sitedomainname?>/?page=<?=$pagequery['page']?></link>
-           <turbo:content>
-               <![CDATA[
-                   <header>
-                       <h1><?=$pagequery['pagetitle_'.$rss_lang]?></h1>
-                   </header>
-                   <?
-				   
-				   if($pagequery['page_img']){
-				   ?>
-				   
-				   <figure>
-                      <img src="<?=$pagequery['page_img']?>" />
-                      <figcaption><?=$pagequery['pagetitle_'.$rss_lang]?></figcaption>
-                  </figure>
-				   <?}
-					if (!empty($pagequery['pagebody_'.$rss_lang])){ # Текст страницы существует в БД	
-						$log->LogInfo('Show page '.$pagequery['page'].' from DB');
-						echo $pagequery['pagebody_'.$rss_lang];
-					} elseif (!$pagequery['pagebody_'.$rss_lang]) { # Нет тела страницы в БД
-						$log->LogDebug('Pagebody is not found in DB for language '.$rss_lang.' Pagebody_ru - '.$pagequery['pagebody_ru']);
-						if ($pagequery['filename']){ # Указан файл страницы в БД
+	$query=mysql_query("SELECT * FROM `$tableprefix-pages` WHERE `turboyaposted` IS false AND `status`='ena' AND `ap`='site_page' AND `is_articles`=1 ORDER BY `page_id` DESC LIMIT 0,$yarssnewsquantity");
+	if(mysql_num_rows($query)==0){ #Нет непощенных, надо дать просто последние, а то Яндекс даёт ошибку
+		$query=mysql_query("SELECT * FROM `$tableprefix-pages` WHERE `status`='ena' AND `ap`='site_page' AND `is_articles`=1 ORDER BY `page_id` DESC LIMIT 0,$yarssnewsquantity");
+	}
+	while ($pagequery = mysql_fetch_assoc($query))
+		{ if($pagequery['page']){
+			?>
+	<item turbo="true">
+	
+	   <link>https://<?=$rss_sitedomainname?>/?page=<?=$pagequery['page']?></link>
+	   <turbo:content>
+		   <![CDATA[
+			   <header>
+				   <h1><?=$pagequery['pagetitle_'.$rss_lang]?></h1>
+			   </header>
+			   <?
+			   
+			   if($pagequery['page_img']){
+			   ?>
+			   
+			   <figure>
+				  <img src="<?=$pagequery['page_img']?>" />
+				  <figcaption><?=$pagequery['pagetitle_'.$rss_lang]?></figcaption>
+			  </figure>
+			   <?}
+				if (!empty($pagequery['pagebody_'.$rss_lang])){ # Текст страницы существует в БД	
+					$log->LogInfo('Show page '.$pagequery['page'].' from DB');
+					echo $pagequery['pagebody_'.$rss_lang];
+				} elseif (!$pagequery['pagebody_'.$rss_lang]) { # Нет тела страницы в БД
+					$log->LogDebug('Pagebody is not found in DB for language '.$rss_lang.' Pagebody_ru - '.$pagequery['pagebody_ru']);
+					if ($pagequery['filename']){ # Указан файл страницы в БД
+						
+						if(substr_count($pagequery['folder'],'/adminpanel/')==0 and substr_count($pagequery['folder'],'/core/usersmanagement/')==0) {
 							
-							if(substr_count($pagequery['folder'],'/adminpanel/')==0 and substr_count($pagequery['folder'],'/core/usersmanagement/')==0) {
-								
-								$scriptpath='/project/'.$projectname.$pagequery['folder'].$pagequery['filename'];
-								//echo $scriptpath;
-							} elseif(substr_count($pagequery['folder'],'/adminpanel/')>0) {
-								if ($pagequery['ext']) $scriptpath.=$pagequery['folder'].$pagequery['filename'].'.'.$pagequery['ext'];
-								else $scriptpath.=$pagequery['folder'].$pagequery['filename'];
-							} elseif(substr_count($pagequery['folder'],'/core/usersmanagement/')>0) {
-								$scriptpath.=$pagequery['folder'].$pagequery['filename'];
-							}
-							$log->LogInfo('Try to show page '.$page.' from file ('.$scriptpath.")");
-						} elseif ($pagequery['module_page']){ # Указан модуль
-							$log->LogDebug('Page is modulepage - '.$pagequery['module_page']);
-							if($pagequery['module_page']!=='adminpanel'){
-								# Читаем конфиг модуля
-								if (is_readable($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$pagequery['module_page'].'.config.php')) {#Конфиг модуля в папке проекта
-									$log->LogDebug('This is module ('.$pagequery['module_page'].') page. Config file is /project/'.$projectname.'/modules_data/'.$pagequery['module_page'].'.config.php');
-									include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$pagequery['module_page'].'.config.php');
-								} elseif (is_readable($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/config.php')) {#Конфиг модуля общий
-									$log->LogDebug('This is module ('.$pagequery['module_page'].') page. Config file is /modules/'.$pagequery['module_page'].'/config.php');
-									include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/config.php');
-								}				
-								// Для MVC-модулей
-								if(is_readable($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/controller.php')) {
-									if(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
-									include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/controller.php'); // Обработали запрос контроллером
-									$scriptpath='/core/mvc_get_module_view.php'; // Отдадим view модуля
-								}
-								// Для простых модулей
-								else $scriptpath='/modules/'.$pagequery['module_page'].'/startscript.php';
-							}
+							$scriptpath='/project/'.$projectname.$pagequery['folder'].$pagequery['filename'];
+							//echo $scriptpath;
+						} elseif(substr_count($pagequery['folder'],'/adminpanel/')>0) {
+							if ($pagequery['ext']) $scriptpath.=$pagequery['folder'].$pagequery['filename'].'.'.$pagequery['ext'];
+							else $scriptpath.=$pagequery['folder'].$pagequery['filename'];
+						} elseif(substr_count($pagequery['folder'],'/core/usersmanagement/')>0) {
+							$scriptpath.=$pagequery['folder'].$pagequery['filename'];
 						}
-						if (file_exists($_SERVER['DOCUMENT_ROOT'].$scriptpath) and !empty($scriptpath)){ # Файл страницы существует, можно вставлять
-
-							$log->LogDebug('Page file is found - '.$scriptpath);
-							if(!$block or $block!==1){
-								
-								include($_SERVER['DOCUMENT_ROOT'].$scriptpath);
-								
-							} elseif ($block==1){
-								$log->LogInfo('Page is 404 because page had been blocked');
-								$show404=1;
+						$log->LogInfo('Try to show page '.$page.' from file ('.$scriptpath.")");
+					} elseif ($pagequery['module_page']){ # Указан модуль
+						$log->LogDebug('Page is modulepage - '.$pagequery['module_page']);
+						if($pagequery['module_page']!=='adminpanel'){
+							# Читаем конфиг модуля
+							if (is_readable($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$pagequery['module_page'].'.config.php')) {#Конфиг модуля в папке проекта
+								$log->LogDebug('This is module ('.$pagequery['module_page'].') page. Config file is /project/'.$projectname.'/modules_data/'.$pagequery['module_page'].'.config.php');
+								include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$pagequery['module_page'].'.config.php');
+							} elseif (is_readable($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/config.php')) {#Конфиг модуля общий
+								$log->LogDebug('This is module ('.$pagequery['module_page'].') page. Config file is /modules/'.$pagequery['module_page'].'/config.php');
+								include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/config.php');
+							}				
+							// Для MVC-модулей
+							if(is_readable($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/controller.php')) {
+								if(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
+								include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/controller.php'); // Обработали запрос контроллером
+								$scriptpath='/core/mvc_get_module_view.php'; // Отдадим view модуля
 							}
-							
-						} else { // $scriptpath нет на диске
-							if(empty($scriptpath)) $log->LogDebug('Page file is not found, bcs scriptpath is empty in DB');
-							else $log->LogError('Page file is not found - '.$scriptpath.' and no page body in DB. So page exist but could be shown');
-							if(!$ip) include($_SERVER['DOCUMENT_ROOT'].'/core/IPreal.php');
-							sendletter_to_admin("Проблемы со страницей","Страница есть в БД, но не отображается - ".$pagequery['page']." <br>IP - ".$ip.'<br>BOT - '.$bot_name.'<br>UA - '.$_SERVER['HTTP_USER_AGENT']);
-							$show404=1;
-							
+							// Для простых модулей
+							else $scriptpath='/modules/'.$pagequery['module_page'].'/startscript.php';
 						}
-					
 					}
-				   ?>
-                ]]>
-           </turbo:content>
-       </item>
-		<? }
-			#Запоминаем page_id
-			$page_id_arr[]=$pagequery['page_id'];
-		}
-		#Изменяем флаг чтобы отдали в следующий раз другой контент для индексации
-		foreach($page_id_arr as $page_id){
-			$shown_pages_q.=" or `page_id`='".$page_id."' ";
-		}
-		$shown_pages_q=mb_substr($shown_pages_q,4);
-		#Изменяем turboyaposted
-		$turboyaposted_chq=mysql_query("UPDATE `$tableprefix-pages` SET `turboyaposted` = '1' WHERE ".$shown_pages_q);
-		?>
+					if (file_exists($_SERVER['DOCUMENT_ROOT'].$scriptpath) and !empty($scriptpath)){ # Файл страницы существует, можно вставлять
+
+						$log->LogDebug('Page file is found - '.$scriptpath);
+						if(!$block or $block!==1){
+							
+							include($_SERVER['DOCUMENT_ROOT'].$scriptpath);
+							
+						} elseif ($block==1){
+							$log->LogInfo('Page is 404 because page had been blocked');
+							$show404=1;
+						}
+						
+					} else { // $scriptpath нет на диске
+						if(empty($scriptpath)) $log->LogDebug('Page file is not found, bcs scriptpath is empty in DB');
+						else $log->LogError('Page file is not found - '.$scriptpath.' and no page body in DB. So page exist but could be shown');
+						if(!$ip) include($_SERVER['DOCUMENT_ROOT'].'/core/IPreal.php');
+						sendletter_to_admin("Проблемы со страницей","Страница есть в БД, но не отображается - ".$pagequery['page']." <br>IP - ".$ip.'<br>BOT - '.$bot_name.'<br>UA - '.$_SERVER['HTTP_USER_AGENT']);
+						$show404=1;
+						
+					}
+				
+				}
+			   ?>
+			]]>
+	   </turbo:content>
+   </item>
+	<? }
+		#Запоминаем page_id
+		$page_id_arr[]=$pagequery['page_id'];
+	}
+	#Изменяем флаг чтобы отдали в следующий раз другой контент для индексации
+	foreach($page_id_arr as $page_id){
+		$shown_pages_q.=" or `page_id`='".$page_id."' ";
+	}
+	$shown_pages_q=mb_substr($shown_pages_q,4);
+	#Изменяем turboyaposted
+	$turboyaposted_chq=mysql_query("UPDATE `$tableprefix-pages` SET `turboyaposted` = '1' WHERE ".$shown_pages_q);
+	?>
     </channel>
 </rss>
 

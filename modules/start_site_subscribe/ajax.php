@@ -29,11 +29,11 @@ if($_REQUEST['chid'] and $_SESSION['checksubsribeform']==process_data($_REQUEST[
 				$message=$subscr_email;
 				sendletter($newsubscrmailnotify,$subject,$message);
 			}
-			echo $sitemessage["start_site_subscribe"]["successfully_inserted"];
-		} else echo $sitemessage["start_site_subscribe"]["DB_issue"];
+			echo sitemessage("start_site_subscribe","successfully_inserted");
+		} else echo sitemessage("start_site_subscribe","DB_issue");
 		$_SESSION['checksubsribeform']=rand(5,5555555);
-	} else {echo $sitemessage["start_site_subscribe"]["email_already_exists"];}
+	} else {echo sitemessage("start_site_subscribe","email_already_exists");}
 }
-else echo $sitemessage["start_site_subscribe"]["trying_failed"];
+else echo sitemessage("start_site_subscribe","trying_failed");
 ?>
 <? } ?>

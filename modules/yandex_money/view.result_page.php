@@ -17,8 +17,8 @@ if ($nitka=='1'){?>
 	if($fullname) echo $fullname;
 	else echo $login;?><br><br>
 	<?if($_REQUEST['result']=='success'){
-		echo $sitemessage[$modulename]['payment_success'];
+		echo sitemessage("$modulename",'payment_success');
 	}else{
-		echo $sitemessage[$modulename]['payment_fail'];
+		echo sitemessage("$modulename",'payment_fail');
 	}
 }?>

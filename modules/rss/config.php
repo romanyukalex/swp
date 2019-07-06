@@ -14,6 +14,9 @@ if ($nitka=="1"){
   $module_description="RSS-лента новостей портала";
   global $tableprefix;
   $moduletableprefix=$tableprefix;
-  
-?>
-<? } ?>
+  $apply_feeds=array(
+	"0"=>array(
+		'rss_type'=>'news' //Бывает (пока) articles и news
+	)
+  ); 
+ } ?>

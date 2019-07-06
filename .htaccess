@@ -1,4 +1,4 @@
-
+ServerSignature Off
 php_flag display_startup_errors off
 php_flag display_errors off
 php_flag html_errors off

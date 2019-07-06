@@ -35,7 +35,7 @@ function get_html_code_url($url,$proxy=NULL, $useragent=NULL,$cookie=NULL) {
     if (!curl_errno($curl)) {
         switch ($http_code = curl_getinfo($curl, CURLINFO_HTTP_CODE)) {
 			case 200:  # OK
-				break;
+				return "200"; break;
 			default:
 			 $log->LogError('Unknown HTTP code: '. $http_code.'. Params were:'.implode(',',func_get_args())); return $http_code.$code;
 		}
@@ -43,7 +43,6 @@ function get_html_code_url($url,$proxy=NULL, $useragent=NULL,$cookie=NULL) {
 		echo curl_errno($curl);
 	}
     curl_close($curl); // Закрываю CURL сессию
-    $log->LogDebug("Size of received code - ".mb_strlen( $code));
-	
-    return $code;
+    $log->LogDebug("Size of received code - ".mb_strlen($http_code));
+ //   return $code;
 }?>

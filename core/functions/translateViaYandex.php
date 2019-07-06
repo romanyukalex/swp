@@ -36,10 +36,10 @@ function translateViaYandex ($apikey,$text,$lang){
 	curl_close($curlObject);
 	 
 	if ($responseData === false) {
-		//throw new Exception('Response false');
+		$log->LogError("Response false");
 		return false;
 	}
-	//$log->LogInfo("Yandex answered - ".$responseData);
+	$log->LogInfo("Yandex answered");
 	
 	
 	$answer_arr=json_decode($responseData, true);
@@ -74,7 +74,7 @@ function getTextLanguage($apikey,$text,$hint){ //hint - вероятные яз�
 	curl_close($curlObject);
 	 
 	if ($responseData === false) {
-		//throw new Exception('Response false');
+		$log->LogError("Response false");
 		return false;
 	}
 	 

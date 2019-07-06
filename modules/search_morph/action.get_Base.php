@@ -42,6 +42,7 @@ if ($nitka=="1"){
 			// by default, phpMorphy finds $word in dictionary and when nothig found, try to predict them
 			// you can change this behaviour, via second argument to getXXX or findWord methods
 			if($word=="@") continue;
+			if(substr($word,0,1)=="@") continue;
 			$base = $morphy[$langs[$word]]->getBaseForm($word);
 			$is_predicted = $morphy[$langs[$word]]->isLastPredicted(); // or $morphy->getLastPredictionType() == phpMorphy::PREDICT_BY_NONE
 			$is_predicted_by_db = $morphy[$langs[$word]]->getLastPredictionType() == phpMorphy::PREDICT_BY_DB;

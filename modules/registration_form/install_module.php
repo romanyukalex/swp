@@ -8,7 +8,7 @@
   * Purpose 	 : installation of module						 *
   * Access		 : just insert_module("modulename")			 	 *
   ***************************************************************/
- $log->LogInfo(basename (__FILE__)." | Got ".(__FILE__));   
+ $log->LogInfo("Got ".(__FILE__));   
 if ($moduleinstalled['$modulename']!=='y' and $nitka=="1"){ #Требуется инсталляция
 	
 	# $module_id - id модуля
@@ -19,7 +19,8 @@ if ($moduleinstalled['$modulename']!=='y' and $nitka=="1"){ #Требуется 
 		(NULL, '$modulename', 'user_already_exists', 'Пользователь с указанным email уже существует', 'Пользователь с указанным email уже существует', 'User with that e-mail address already exists in database'),
 		(NULL, '$modulename', 'success_deactivation', 'Сообщение об успешной деактивации нового абонента', '<h1>Пользователь успешно деактивирован</h1><p>Спасибо за сообщение</p>', '<h1>User was successfully deactivated</h1><p>Thanks a lot!</p>'),
 		(NULL, '$modulename', 'failed_deactivation', 'Сообщение о неудачной попытке деактивации нового пользователя', '<h1>Пользователь не деактивирован:</h1> <p>Неправильная строка деактивации или пользователь уже был деактивирован ранее.</p>', '<h1>User was not deactivated:</h1> <p>Wrong query or user was already deactivated before.</p>'),
-		(NULL, '$modulename', 'mail_was_sent', 'Сообщение об отправке подтверждающего e-mail', 'На указанный e-mail выслано письмо для подтверждения.</p><p>После подтверждения e-mail с Вами свяжется менеджер SaaS по указанному номеру телефона.', 'Activation mail was sent on your e-mail. After activation our manager will communicate with you by the phone.')
+		(NULL, '$modulename', 'mail_was_sent', 'Сообщение об отправке подтверждающего e-mail', 'На указанный e-mail выслано письмо для подтверждения.</p><p>После подтверждения e-mail с Вами свяжется менеджер SaaS по указанному номеру телефона.', 'Activation mail was sent on your e-mail. After activation our manager will communicate with you by the phone.'),
+		(NULL, 'registration_form', 'waiting_admin', 'Сообщение об удачной активации email и об ожидании модерации админом', 'Вы успешно подтвердили адрес электронной почты. Ваша учётная запись будет активирована, когда пройдёт модерацию администратором портала', 'You successfully activated your email. Your profile will be activated after administrator apply';
 		;");
 		
 	$put_settings=mysql_query("INSERT INTO `$tableprefix-siteconfig` (`id`, `value`, `vartype`, `describe`, `systemparamname`, `formmaxlegth`, `varpossible`, `showtositeadmin`, `example`, `depend`, `maybeempty`, `module_id`) VALUES 

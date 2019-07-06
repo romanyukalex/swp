@@ -45,7 +45,7 @@ $cron_files = scandir($_SERVER['DOCUMENT_ROOT'].'/core/cron_tasks/');
 foreach($cron_files as $cron_script){
 	if($cron_script!=='.' and $cron_script!=='..') {
 		echo '-------------------------
-		START SCRIPT '.$cron_script.' ['.date("Y-m-d h:i:s").']
+		START SCRIPT '.$cron_script.' ['.date("Y-m-d H:i:s").']
 		
 		';
 		include($_SERVER['DOCUMENT_ROOT'].'/core/cron_tasks/'.$cron_script);
@@ -55,7 +55,10 @@ foreach($cron_files as $cron_script){
 
 # Находим проекты, в которых есть свой CRON-скрипт
 foreach($projectexist as $projectname=>$value){
-	//$current.=$projectname;
+	echo '-------------------------
+		Searching cron SCRIPTs for '.$projectname.' ['.date("Y-m-d H:i:s").']
+		
+		';
 	if(is_readable($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/config.php')) {
 		include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/config.php');#Cистемные параметры этого проекта
 	}
@@ -68,14 +71,24 @@ foreach($projectexist as $projectname=>$value){
 	
 		foreach($module_cron_enabled as $modulename=>$enable){
 			
+			echo '
+			Check cron SCRIPT for '.$modulename.' ['.$projectname.']';
+			
 			#Проверяем наличие кронскрипта
 			if(is_readable($_SERVER['DOCUMENT_ROOT'].'/modules/'.$modulename.'/cron.php')) {#Есть кронскрипт, запускаем кронскрипт для данного модуля
+				
+				echo "
+				Cron is enabled for the module ".$modulename.". Module cron script is found";
 				$log->LogInfo("Cron is enabled for the module ".$modulename.". Module cron script is found");
 				include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$modulename.'/cron.php');
+				echo "
+				Cron included succ";
 			} else $log->LogInfo("Cron is enabled for the module ".$modulename.", but module cron script is not found");
 
 		}
 	}
+	echo "
+	CHECKING PROJECT-CRON";
 	# Проверяем, есть ли у проекта крон файл
 	if(is_readable($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/scripts/project-cron.php')) {
 		$cron_project[$projectname]=1;//Его надо кронить
@@ -84,16 +97,21 @@ foreach($projectexist as $projectname=>$value){
 		
 		
 		if($cronscriptenable=="Включено"){#Кроним
+			echo "
+			CRON script is enabled for the project";
 			include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/scripts/project-cron.php');
+			echo "
+			Cron script included succ";
 		}
 		$log->LogDebug('MemUsage (after all) '.(memory_get_usage()-$base_memory_usage).'. Memory peak was '.memory_get_peak_usage().'.');
 		unset($install_swp,$databasename,$dbadmin_login,$dbadmin_pass,$tableprefix,$fullpath,$logfile,$ap_logfile,$PHP_errors_log,$mode,$serverid,$log,$base_memory_usage);
 		//while($paramdata=mysql_fetch_array($paramdatas)){ - уничтожить переменные проекта
 		
-	}
+	} else echo "
+		Project has no project script";
 	
 	
-	unset($module_cron_enabled,$moduleenabled,$log);
+	unset($module_cron_enabled,$moduleenabled,$log,$cron_logfile);
 }
 
 

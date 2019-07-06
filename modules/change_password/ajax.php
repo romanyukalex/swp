@@ -20,19 +20,19 @@ if(($userrole!=="guest" and $userrole and $_REQUEST['changepassmode']=="1")or $_
 	if($_REQUEST['changepassmode']=="1") $oldpassreal=$_SESSION['password'];
 	if (!$newpassword1 and !$newpassword2){
 		//$showmessage="Заполните все обязательные поля";
-		$showmessage=$sitemessage["$modulename"]["fill_all_required"];
+		$showmessage=sitemessage("$modulename","fill_all_required");
 		$messagecolor="red";
 		}
 	elseif($newpassword1!==$newpassword2){
-		$showmessage=$sitemessage["$modulename"]["new_passes_not_equal"];// Присланные пароли не совпадают
+		$showmessage=sitemessage("$modulename","new_passes_not_equal");// Присланные пароли не совпадают
 		$messagecolor="red";
 	}
 	elseif($oldpassreqst!==$oldpassreal and $_REQUEST['changepassmode']=="1"){
-		$showmessage=$sitemessage["$modulename"]["wrong_cur_pass"];//Вы указываете неверный текущий пароль
+		$showmessage=sitemessage("$modulename","wrong_cur_pass");//Вы указываете неверный текущий пароль
 		$messagecolor="red";
 	}
 	elseif($newpassword1==$oldpassreal){
-		$showmessage=$sitemessage["$modulename"]["cur_pass_equal_new_pass"];//Вы не сменили пароль
+		$showmessage=sitemessage("$modulename","cur_pass_equal_new_pass");//Вы не сменили пароль
 		$messagecolor="red";
 	}
 	else{ // Пришли
@@ -79,9 +79,9 @@ if(($userrole!=="guest" and $userrole and $_REQUEST['changepassmode']=="1")or $_
 				setTimeout(function(){changerazdel("<?=$successpage?>")}, 5000);
 				});
 			</script><?
-			$messagecolor="green";$showmessage=$sitemessage["$modulename"]["pass_changed_succ"];//"Пароль успешно изменен"
-		} elseif($dontchangepass==1) {$messagecolor="red"; $showmessage=$sitemessage["$modulename"]["new_pass_already_used"];// Устанавливаемый пароль уже использовался ранее
-		} else {$messagecolor="red";$showmessage=$sitemessage["$modulename"]["password_wasnt_changed"];//"Пароль не был изменен";
+			$messagecolor="green";$showmessage=sitemessage("$modulename","pass_changed_succ");//"Пароль успешно изменен"
+		} elseif($dontchangepass==1) {$messagecolor="red"; $showmessage=sitemessage("$modulename","new_pass_already_used");// Устанавливаемый пароль уже использовался ранее
+		} else {$messagecolor="red";$showmessage=sitemessage("$modulename","password_wasnt_changed");//"Пароль не был изменен";
 		}
 	}
 	echo "<span style='color:".$messagecolor."; font-size:bold'>".$showmessage."</span>";

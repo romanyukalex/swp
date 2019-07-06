@@ -15,19 +15,19 @@ if($adminpanel==1){
 <div class="graphs">
 <h3 class="blank1"><img src="/adminpanel/pics/checklist256.png" height="64px" class="imgmiddle">Параметры системы</h3>
 
+<a href="#add_new_param_form_place">Новый параметр</a><br><br>
 
-<div class="panel panel-warning" data-widget-static="" data-widget="{"draggable": "false"}">
-<div class="panel-body no-padding ">
-								<table class="table table-striped">
-									<thead>
-										<tr class="warning">
-											
-											<th class="col-md-4">Описание параметра</th>
-											<th class="col-md-6">Значение параметра</th>
-											<th class="col-md-2">Действия</th>
-										</tr>
-									</thead>
-									<tbody>
+<div class="panel-body no-padding" style="padding:0">
+				<table class="table table-striped table-hover">
+					<thead>
+						<tr>
+							
+							<th width="25%">Описание параметра</th>
+							<th width="55%">Значение параметра</th>
+							<th width="15%">Действия</th>
+						</tr>
+					</thead>
+					<tbody>
 	<?
 	
 	
@@ -47,12 +47,12 @@ if($adminpanel==1){
 				?></td><td><div id='fieldmessage_<?=$paramdata['id']?>'></div>
 				<?if($paramdata['vartype']=="1"){// Это input
 					?>					
-					<input class="form-control1" type='text' MAXLENGTH="<?=$paramdata['formmaxlegth']?>" name='<?=$paramdata['id']?>' value="<?=$paramdata['value']?>" onFocus="showblock('sc_savebutton_<?=$paramdata['id']?>');return false;" id='field_<?=$paramdata['id']?>'>
+					<input class="form-control" type='text' MAXLENGTH="<?=$paramdata['formmaxlegth']?>" name='<?=$paramdata['id']?>' value="<?=$paramdata['value']?>" onFocus="showblock('sc_savebutton_<?=$paramdata['id']?>');return false;" id='field_<?=$paramdata['id']?>'>
 					<?
 				}
 				elseif ($paramdata['vartype']=="2"){// Это select
 					$options = explode(";;",$paramdata['varpossible']);
-					?><SELECT class="form-control1" NAME='<?=$paramdata['id']?>' onchange='showblock("sc_savebutton_<?=$paramdata['id']?>")' id='field_<?=$paramdata['id']?>'><?
+					?><SELECT class="form-control custom-select mb-2 mr-sm-2 mb-sm-0" NAME='<?=$paramdata['id']?>' onchange='showblock("sc_savebutton_<?=$paramdata['id']?>")' id='field_<?=$paramdata['id']?>'><?
 					foreach ($options as $option)
 						{echo "<OPTION VALUE='".$option."'";
 						if ($option==$paramdata['value']){echo " selected";}
@@ -62,9 +62,9 @@ if($adminpanel==1){
 				}
 				elseif($paramdata['vartype']=="3"){// Это Checkbox?>
 				<div class="checkbox-inline1" onMouseover="showblock('sc_savebutton_<?=$paramdata['id']?>');return false;">
-					<label>
-					<input type="checkbox"value="true" name="<?=$paramdata['id']?>" onChange="showblock('savebutton_<?=$paramdata['id']?>');return false;" id='field_<?=$paramdata['id']?>'<? if ($paramdata['value']=="true"){?>checked="checked"<?}?>>
-					</label>
+					
+					<input type="checkbox" class="form-check-input" style="margin-left:0px"	value="true" name="<?=$paramdata['id']?>" onChange="showblock('savebutton_<?=$paramdata['id']?>');return false;" id='field_<?=$paramdata['id']?>'<? if ($paramdata['value']=="true"){?>checked="checked"<?}?>>
+					
 				</div>
 				
 				<?	}
@@ -72,16 +72,18 @@ if($adminpanel==1){
 					?><input type='text' name='<?=$paramdata['id']?>' value="<?=$paramdata['value']?>" onFocus="showblock('sc_savebutton_<?=$paramdata['id']?>');return false;" id='color<?=$paramdata['id']?>'>
 					<br><div id='picker<?=$paramdata['id']?>'></div>
 					<script type="text/javascript" charset="utf-8">$(document).ready(function() {$('#picker<?=$paramdata['id'];?>').farbtastic('#color<?=$paramdata['id'];?>');});</script>					
-			<?	}?><br><?
+			<?	}?><br>
+			<div class="col-sm-12 jlkdfj1"><p class="help-block">Пример заполнения: <?=$paramdata['example']?></p></div>
+			<?/*
 				if ($paramdata['example']){
 					?><a onclick="showblock('var_<?=$paramdata['id']?>');return false;" href="" class='menuA'>Пример заполнения</a>
 					<div class="heavy-rounded example" id='var_<?=$paramdata['id']?>'>
 					<?=$paramdata['example']?></div><?
-				}
+				}*/
 				# Название переменной
 				if($userrole=="root"){
-						?><br><input class="form-control1" value="$<?=$paramdata['systemparamname']?>"  readonly="readonly">
-						<div class="col-sm-4 jlkdfj1"><p class="help-block">Название переменной</p></div><?
+						?><!--br><input class="form-control1" value="$<?=$paramdata['systemparamname']?>"  readonly="readonly"-->
+						<div class="col-sm-12 jlkdfj1"><p class="help-block">Название переменной: $<?=$paramdata['systemparamname']?></p></div><?
 					}
 				?></td>
 				<td>&nbsp <div id="sc_savebutton_<?=$paramdata['id']?>" style="display:none">
@@ -105,7 +107,7 @@ if($adminpanel==1){
 
 <?
 if($userrole=="root"){?>
-			<a onClick="showHideSelectionSoft('addnewparam',1000)" id="addnewparamlink">
+			<a name="add_new_param_form_place" onClick="showHideSelectionSoft('addnewparam',1000)" id="addnewparamlink">
 				<img src="/adminpanel/pics/green-add-circle.png" height="64px" class="imgmiddle">Добавить новый параметр</a><br>
 			
 			<div style='display: none;' id='addnewparam'>
@@ -121,7 +123,7 @@ if($userrole=="root"){?>
 			
 	</div>
 </div>
-</div>
+
 
 <script type="text/javascript" src="js/ColorPicker2/farbtastic.js"></script>
 <link rel="stylesheet" href="js/ColorPicker2/farbtastic.css" type="text/css"/>

@@ -8,15 +8,15 @@
   * Purpose 	 : Создает карту сайта для роботов																			 *
   * Using		 : For creating of sitemap																					 *
   * For additional pages of the project write script in /project/projectname/scripts/sitemap_db_add.php						 * ***************************************************************************************************************************/
-$sitemapflag=1;
- 
+//$sitemapflag=1;
+echo "Got stat script";
 if($nitka=='1' and $now_hour=="23" and $now_min=="55"){
-	
+	echo "Now is the time to start getting statistic";
 	# Подключаемся ко всем проектам
 	foreach($projectexist as $projectname=>$value){
 		
 		include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/config.php');
-		@include($_SERVER['DOCUMENT_ROOT'].'/core/system-param.php');
+		@include($_SERVER['DOCUMENT_ROOT'].'/core/system-param_cron.php');
 		
 		
 		if(isset($dbconnconnect)){ // Есть коннект к БД проекта
@@ -60,5 +60,5 @@ if($nitka=='1' and $now_hour=="23" and $now_min=="55"){
 			sendletter_full('Администратор','aromanuk@mail.ru','[SWP] Изменение состава таблиц',$message,'[SWP] Check db structures - cron script',$officialemail);
 		}
 	}
-}
+} else echo "Now is the NO time to start getting statistic";
 ?>

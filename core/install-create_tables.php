@@ -39,21 +39,22 @@ CREATE TABLE $check_tables_existing `$tableprefix-pages` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=0;";
 
 $DBdata['Adding of default pages']="
-INSERT INTO `$tableprefix-pages`(`page`, `pagetitle_ru`,`pagetitle_en`, `folder`, `filename`, `pagebody_ru`,`pagebody_en`, `module_page`, `page_menu`, `exceptionsscript`, `canbechanged`) VALUES
-('default', 'Успешная установка SWP','SWP successfully installed','/html/', 'default.php', NULL, NULL,NULL, NULL, 0, 1),
-('forgot_pass','Восстановление пароля','Password recovery', NULL, NULL, NULL,NULL,'forgot_password', 'defaultmenu', '0', '1'),
-('HACTPOuKu', 'Настройки', 'Settings', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2),
-('admin_hello', 'Администраторская панель', 'Administration dashboard', NULL, NULL, 'Добро пожаловать в администраторскую панель сайта', 'Welcome to site administration dashboard', 'adminpanel', NULL, 0, 2),
-('change_admin_password', 'Изменение пароля', 'Change password', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2),
-('cabinet', 'Личный кабинет пользователя','User self care', '/core/usersmanagement/', 'cabinet.php', NULL,NULL, NULL, 'cabinet', 0, 1),
-('MoDyJlu', 'Управление модулями', 'Modules management', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2),
-('CTPAHuUbI', 'Управление страницами', 'Pages management', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2),
-('noJlb3oBaTeJlu', 'Управление пользователями', 'Users management', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2),
-('KapTuHKu', 'Управление картинками и галереями', 'Pictures and galaries management', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2),
-('TeKcToBku', 'Сообщения платформы', 'Platform messages', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 1),
-('3KCnopT', 'Экспорт кода и БД', 'Export platform code and DB', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 1),
-('O6HoBJleHue', 'Обновление SWP', 'SWP update', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 1),
-('CTaTuCTuKa', 'Статистика', 'Statistics', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 1);";
+INSERT INTO `$tableprefix-pages`(`page`, `pagetitle_ru`,`pagetitle_en`, `folder`, `filename`, `pagebody_ru`,`pagebody_en`, `module_page`, `page_menu`, `exceptionsscript`, `canbechanged`,`ap`) VALUES
+('default', 'Успешная установка SWP','SWP successfully installed','/html/', 'default.php', NULL, NULL,NULL, NULL, 0, 1,'site_page'),
+('forgot_pass','Восстановление пароля','Password recovery', NULL, NULL, NULL,NULL,'forgot_password', 'defaultmenu', '0', '1','site_page'),
+('HACTPOuKu', 'Настройки', 'Settings', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2,'ap_only'),
+('admin_hello', 'Администраторская панель', 'Administration dashboard', NULL, NULL, 'Добро пожаловать в администраторскую панель сайта', 'Welcome to site administration dashboard', 'adminpanel', NULL, 0, 2,'ap_only'),
+('change_admin_password', 'Изменение пароля', 'Change password', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2,'ap_only'),
+('cabinet', 'Личный кабинет пользователя','User self care', '/core/usersmanagement/', 'cabinet.php', NULL,NULL, NULL, 'cabinet', 0, 1,'site_page'),
+('MoDyJlu', 'Управление модулями', 'Modules management', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2,'ap_only'),
+('CTPAHuUbI', 'Управление страницами', 'Pages management', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2,'ap_only'),
+('noJlb3oBaTeJlu', 'Управление пользователями', 'Users management', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2,'ap_only'),
+('KapTuHKu', 'Управление картинками и галереями', 'Pictures and galaries management', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 2,'ap_only'),
+('TeKcToBku', 'Сообщения платформы', 'Platform messages', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 1,'ap_only'),
+('3KCnopT', 'Экспорт кода и БД', 'Export platform code and DB', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 1,'ap_only'),
+('O6HoBJleHue', 'Обновление SWP', 'SWP update', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 1,'ap_only'),
+('CoobuuEHuR', 'Сообщения администратору', 'Messages to admin', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0,1,'ap_only'),
+('CTaTuCTuKa', 'Статистика', 'Statistics', NULL, NULL, NULL, NULL, 'adminpanel', NULL, 0, 1,'ap_only');";
 
 $structures['Menues Register']="
 CREATE TABLE $check_tables_existing `$tableprefix-menus` (
@@ -94,15 +95,16 @@ CREATE TABLE IF NOT EXISTS `$tableprefix-modulesregister` (
 
 $structures['Configuration Table']="CREATE TABLE $check_tables_existing `$tableprefix-siteconfig` (
   `id` int(5) NOT NULL AUTO_INCREMENT,
-  `value` varchar(1000) CHARACTER SET utf8 DEFAULT NULL,
+  `value` varchar(2000) CHARACTER SET utf8 DEFAULT NULL,
   `vartype` int(1) NOT NULL DEFAULT '1' COMMENT 'Тип переменной, 1-input,2-select,3-checkbox,4-color',
   `describe` varchar(1000) CHARACTER SET utf8 NOT NULL COMMENT 'Что означает параметр',
   `systemparamname` varchar(30) NOT NULL COMMENT 'Название переменной на сайте',
   `formmaxlegth` int(5) DEFAULT NULL COMMENT 'Максимальное число букв в value этого параметра',
   `varpossible` varchar(3000) CHARACTER SET utf8 DEFAULT NULL COMMENT 'Возможные значения, если это select',
+  `inmemory` enum('always','ondemand') NOT NULL DEFAULT 'always' COMMENT 'Loading of setting to memory',
   `showtositeadmin` int(1) NOT NULL DEFAULT '1' COMMENT 'Показывать админу сайта (userrole=administrator).1-да',
   `example` varchar(1000) CHARACTER SET utf8 DEFAULT NULL COMMENT 'Пример значения value или подсказка',
-  `depend` varchar(15) NOT NULL DEFAULT 'system' COMMENT 'К чему относится параметр',
+  `depend` varchar(15) NOT NULL DEFAULT 'system' COMMENT 'Category of setting',
   `maybeempty` int(1) NOT NULL DEFAULT '1' COMMENT 'Может ли быть пустым. 1-да',
   `module_id` int(5) DEFAULT NULL,
   `company_id` int(11) DEFAULT NULL COMMENT 'Нстройка конкретной company_id',
@@ -115,10 +117,7 @@ INSERT INTO `$tableprefix-siteconfig` (`id`, `value`, `vartype`, `describe`, `sy
 (NULL, 'Включить', 3, 'Включение работы сайта', 'shutdownsite', NULL, 'Включить;;НЕ ПОКАЗЫВАТЬ', 2, 'Включить', 'system', 2),
 (NULL, 'Включить', 2, 'Включить страницу реконструкции вместо сайта', 'reconstruction_page', NULL, 'Включить;;Не включать', 2, NULL, 'user', 2),
 (NULL, '".(date("Y-") . (date("m")+1) . date("-d H:i"))."', 1, 'Дата запуска портала', 'sitestartdate', NULL, NULL, '1', '2014-01-01', 'system', '1'),
-(NULL, 'swp', 1, 'Шаблон', 'currenttemplate', 20, NULL, 1, NULL, 'system', 1),
 (NULL, 'ru', 1, 'Язык сайта по умолчанию', 'default_language', 5, NULL, 1, 'en', 'user', 2),
-(NULL, 'default', 1, 'Страница, которая будет показана пользователю первой после входа', 'default_page', 25, NULL, 1, 'main', 'design', 2),
-
 
 (NULL, 'SWP от PWS - гибкая веб-платформа для Вашего бизнеса', 1, 'Заголовок странички', 'title', NULL, NULL, 1, NULL, 'seo', 1),
 (NULL, 'SWP от PWS - гибкая веб-платформа для Вашего бизнеса', 1, 'МЕТА-тег  ''Keywords''', 'keywords', NULL, NULL, 1, NULL, 'seo', 1),
@@ -128,7 +127,7 @@ INSERT INTO `$tableprefix-siteconfig` (`id`, `value`, `vartype`, `describe`, `sy
 (NULL, 'Открывать с адресной строкой', '2', 'МЕТА-тег, указывающий Mobile Safari открывать сайт в полноэкранном режиме', 'meta_appl_fscr', NULL, 'Открывать в полном экране;;Открывать с адресной строкой', '1', NULL, 'design', '1'),
 (NULL, 'SWP от PWS - гибкая веб-платформа для Вашего бизнеса', 1, 'ALT для логотипа', 'logoalt', 200, NULL, 2, NULL, 'seo', 1),
 (NULL, 'Romanyuk Alexey. Skype:romanyukalex tel:+79015139363', 1, 'META-тег Autor', 'autormeta', 300, NULL, 2, 'PopWebStudio.RU (Romanyuk Alexey) skype:romanyukalex tel:+79015139363', 'seo', 1),
-(NULL, '12px', 1, 'Размер шрифтов на сайте, если не указано другого', 'htmlfontsize', 8, NULL, 2, '12px', 'system', 2),
+
 (NULL, NULL, '1', 'Класс элемента BODY', 'bodyclass', NULL, NULL, '1', NULL, 'design', '1'),
 (NULL, NULL, '1', 'Класс элемента HTML', 'htmlclass', NULL, NULL, '1', NULL, 'design', '1'),
 
@@ -137,19 +136,18 @@ INSERT INTO `$tableprefix-siteconfig` (`id`, `value`, `vartype`, `describe`, `sy
 (NULL , '/project/swp/templates/swp/files/favicon.png', '1', 'Favicon. Путь до полноцветной картинки (shortcut)', 'favicon_shortcut_path', NULL , NULL , '1', '/files/favicon.png', 'design', '1'),
 (NULL, '8-(901)-513-93-63', 1, 'Официальный телефон в Блоке с контактами', 'contactphone', 20, NULL, 1, NULL, 'user', 1),
 (NULL, 'admin@domain.com', 1, 'Официальный мейл компании', 'officialemail', 100, NULL, 1, 'info@domain.ru', 'user', 1),
-(NULL, 'Включено', 2, 'Возможность отсылать письма пользователям и/или админам', 'includeemail', NULL, 'Включено;;Выключено', 1, NULL, 'system', 2),
 (NULL, 'Администрация портала', 1, 'При отправке автоматических сообщений с сайта - поле ОТ КОГО', 'from', 200, NULL, 1, NULL, 'user', 1),
 (NULL, 'info@domain.com', '1', 'Адрес емейл, с которого будут отсылаться письма портала', 'emailaddress', NULL, NULL, '1', 'info@domain.com', 'system', '1'),
 (NULL, 'Заполнена заявка на сайте', 1, 'При отправке автоматических сообщений с сайта - поле ТЕМА', 'subject', 200, NULL, 1, NULL, 'user', 1),
 (NULL, 'info@domain.com', '1', 'Адрес емейл администратора портала', 'admin_email', NULL, NULL, '1', 'info@domain.com', 'system', '1'),
 
 
-(NULL, 'Выйти из Личного кабинета', 1, 'Текст ссылки выхода из кабинета', 'logoutlinktext', 100, NULL, 2, NULL, 'design', 1),
-(NULL, 'Запретить', '2', 'Разрешить запросы других шаблонов портала через GET-запросы', 'ch_template', NULL, 'Разрешить;;Запретить', '1', 'Запретить', 'system', '1'),
-(NULL, 'Разрешать', 2, 'Показывать сайт незарегистрированным пользователям?', 'showsiteforguest', NULL, 'Разрешать;;Не разрешать', 1, 'Ставить РАЗРЕШАТЬ, если на сайте есть страницы общего доступа', 'system', 2),
+
+(NULL, 'Запретить', '2', 'Разрешить запросы других шаблонов портала через GET-запросы (режим отладки)', 'ch_template', NULL, 'Разрешить;;Запретить', '1', 'Запретить', 'system', '1'),
 
 
-(NULL, 'Включено', 2, 'Включить модуль юзерлогина', 'enableuserroles', NULL, 'Включено;;Выключено', 2, NULL, 'system', 2),
+
+
 (NULL, 'Любые символы', '2', 'Логин должен быть только цифровым', 'loginisonlydigits', NULL, 'Любые символы;;Только цифры', '1', 'Любые символы', 'system', '1'),
 (NULL, 'only_email', '2', 'В качестве логина использовать Имя_пользователя/емейл/оба', 'authlogin', NULL, 'only_login;;only_email;;both', '1', 'only_login', 'system', '1'),
 (NULL, '5', '1', 'Количество попыток ввода пароля до временной блокировки ввода пароля', 'passinptrymaxcount', NULL, NULL, '2', '', 'secure', '1'),
@@ -163,7 +161,7 @@ INSERT INTO `$tableprefix-siteconfig` (`id`, `value`, `vartype`, `describe`, `sy
 (NULL, 'Убирать WWW', '2', 'Редирект (301) страниц с WWW или без WWW', 'redirect_www', NULL, 'Убирать WWW;;Добавлять WWW,если нет;;Не преобразовывать', '1', NULL, 'seo', '1'),
 (NULL, '7200', '1', 'Время кеширования редиректа 301 (WWW) в сек', 'redirect_cachetime', NULL, NULL, '1', NULL, 'system', '1'),
 
-(NULL, 'adminka', 1, 'Доменное имя второго уровня для АдминПанели', 'adminsubdomainname', 40, NULL, 2, 'admin', 'adminpanel', 2),
+
 (NULL, '101', 1, 'Длина поля на странице АдминПанели HACTPOuKu (в символах)', 'formsize_standart', 4, NULL, 2, '140', 'adminpanel', 2),
 (NULL, '#FFFFFF', 4, 'Цвет фона страниц АдминПанели', 'adminpanelbckclr', NULL, NULL, 1, '#FFFFFF', 'adminpanel', 2),
 (NULL, '#545557', 4, 'Цвет шапки в АдминПанели', 'adminheadcolor', NULL, NULL, 1, '#333333', 'adminpanel', 2),
@@ -181,14 +179,15 @@ INSERT INTO `$tableprefix-siteconfig` (`id`, `value`, `vartype`, `describe`, `sy
 (NULL, 'Сделать', 2, 'Сделать все текстовые ссылки кликабельными?', 'showtexturlclickable', NULL, 'Сделать;;Не делать', 2, NULL, 'design', 2),
 (NULL, 'Не включать', '2', 'Javascript-ускорение при нажатии на кнопки/ссылки ', 'click_eq_msdown', NULL, 'Включить;;Не включать', '1', NULL, 'design', '1'),
 (NULL, 'Присоединить', 2, 'Присоединить стиль для красивых CSS-кнопок', 'appendbuttonsstyle', NULL, 'Присоединить;;Не присоединять', 2, NULL, 'design', 2),
+(NULL, 'Присоединить', 2, 'Присоединить стиль для красивых Hover-эффектов', 'append_hover_style', NULL, 'Присоединить;;Не присоединять', 2, NULL, 'design', 2),
 (NULL, 'Разрешать горизонтальную прокрутку', 2, 'Разрешить горизонтальную прокрутку страницы', 'hidehorizontalscroll', NULL, 'Не разрешать горизонтальную прокрутку;;Разрешать горизонтальную прокрутку', 1, NULL, 'design', 2),
 (NULL, 'Подчеркнуть', 2, 'По-умолчанию ссылки подчекнуты?', 'linkdecoration', NULL, 'Подчеркнуть;;Не подчеркивать', 2, NULL, 'system', 1),
 (NULL, '1', 1, 'Переменная, указывающая скриптам, что запуск сайта произведен корректно', 'nitka', NULL, NULL, 2, '1', 'system', 2),
-(NULL, 'Предлагать другие браузеры', 1, 'Разрешать вход на сайт с помощью IE6?', 'showsiteforie6', NULL, 'Разрешать;;Предлагать другие браузеры', 2, NULL, 'design', 2),
 (NULL, 'Включено', 2, 'Автоматическое подключение классов из папки functions', 'autoincludeclasses', NULL, 'Включено;;Не включено', 2, NULL, 'system', 2),
 (NULL, 'OFF', '2', 'Уровень логирования портала', 'loglevel', NULL, 'DEBUG;;INFO;;WARN;;ERROR;;FATAL;;OFF', '1', 'INFO', 'secure', '1'),
 (NULL, 'DEBUG', '2', 'Уровень логирования Админ-панели портала', 'ap_loglevel', NULL, 'DEBUG;;INFO;;WARN;;ERROR;;FATAL;;OFF', '1', 'INFO', 'secure', '1'),
 (NULL, 'Собственный лог', '2', 'Файлы логирования', 'writelogto', NULL, 'Собственный лог;;SYSLOG;;Собственный и SYSLOG;;Не логировать', '1', 'SYSLOG', 'system', '1'),
+(NULL, 'Писать в лог', '2', 'Подробности о работе MySQL писать в лог?', 'mysqlDebugToLog', NULL, 'Писать в лог;;Не писать в лог', '2', NULL, 'system', '1'),
 (NULL, '/logs/', 1, 'Директория для логов в папке проекта', 'log_dir', 100, NULL, 1, '/logs/', 'system', 2),
 (NULL, '100', '1', 'Максимальный размер файла логов перед сжатием (MB)', 'max_log_size', NULL, NULL, '1', '100', 'system', '1'),
 (NULL, '30', 1, 'Таймаут PHP-сессии в минутах', 'sessionlifetime', 4, NULL, 1, NULL, 'system', 2),
@@ -210,7 +209,14 @@ INSERT INTO `$tableprefix-siteconfig` (`id`, `value`, `vartype`, `describe`, `sy
 
 ;";
 
-
+/* Депрекейтед
+(NULL, 'Включено', 2, 'Возможность отсылать письма пользователям и/или админам', 'includeemail', NULL, 'Включено;;Выключено', 1, NULL, 'system', 2),
+(NULL, '12px', 1, 'Размер шрифтов на сайте, если не указано другого', 'htmlfontsize', 8, NULL, 2, '12px', 'system', 2),
+(NULL, 'Выйти из Личного кабинета', 1, 'Текст ссылки выхода из кабинета', 'logoutlinktext', 100, NULL, 2, NULL, 'design', 1),
+(NULL, 'Разрешать', 2, 'Показывать сайт незарегистрированным пользователям?', 'showsiteforguest', NULL, 'Разрешать;;Не разрешать', 1, 'Ставить РАЗРЕШАТЬ, если на сайте есть страницы общего доступа', 'system', 2),
+(NULL, 'Включено', 2, 'Включить модуль юзерлогина', 'enableuserroles', NULL, 'Включено;;Выключено', 2, NULL, 'system', 2),
+(NULL, 'adminka', 1, 'Доменное имя второго уровня для АдминПанели', 'adminsubdomainname', 40, NULL, 2, 'admin', 'adminpanel', 2),
+*/
 
 
 $structures['Templates Manager Table']="CREATE TABLE IF NOT EXISTS `$tableprefix-templates_manager` (

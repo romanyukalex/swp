@@ -92,7 +92,7 @@ if($pagequery['page_id']){ #Страница есть в БД
 		}
 		#Записываем посещение в счётчик
 		if(($pagequery['viewCount'] or $pagequery['viewCount']==0)and !$bot_name) mysql_query("UPDATE `$tableprefix-pages` SET `viewCount` = `viewCount` + 1 WHERE `page_id` = ".$pagequery['page_id']." ;");
-	} else echo $sitemessage['system']['you_have_no_privileges_to_see'];
+	} else echo sitemessage('system','you_have_no_privileges_to_see');
 
 } else{#Страницы нет в БД
 	$log->LogDebug('Page is 404 because page was not found in DB');

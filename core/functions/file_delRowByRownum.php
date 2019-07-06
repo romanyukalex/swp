@@ -29,7 +29,7 @@ function file_delRowByRownum($fileName, $num){
 }
 
 /* пример использования
-$result = delStringByNum('/files/test.txt', 3);
+$result = file_delRowByRownum('/files/test.txt', 3);
 var_dump($result);
 */
 ?>

@@ -76,8 +76,8 @@ if($adminpanel==1){
 				<? //include($_SERVER['DOCUMENT_ROOT']."/wisiwig-init-function.php");?>});</script><?
 				}
 		}
-		elseif ($_REQUEST["action"]=="createnews")
-			{$newstitle=process_data($_REQUEST[newstitle],200);
+		elseif ($_REQUEST["action"]=="createnews"){ #Создание новости
+			$newstitle=process_data($_REQUEST[newstitle],200);
 			$newsdate=process_data($_REQUEST[newsdate],15);
 			@include_once($_SERVER['DOCUMENT_ROOT']."/core/db/dbconn.php");
 			mysql_query("INSERT INTO `$tableprefix-news` (`newsid` ,`date` ,`newsdate` ,`newstitle` ,`fulltext`)
@@ -309,6 +309,62 @@ if($adminpanel==1){
 				$bRes.='}';
 				echo $bRes;
 			}
+		} 
+		
+		
+		
+		elseif($_REQUEST["action"] == "add_new_param"){#Добавление параметра в settings
+			
+			
+			
+			$new_var_value=process_data($_REQUEST['new_var_value'],2000);
+			$new_vartype=process_data($_REQUEST['new_vartype'],1);
+			$new_var_describe=process_data($_REQUEST['new_var_describe'],1000);
+			$new_var_systemparamname=process_data($_REQUEST['new_var_system-param-name'],30);
+			
+			//$new_var_formmaxlegth=process_data($_REQUEST['new_var_formmaxlegth'],5);
+			$new_var_varpossible=process_data($_REQUEST['new_var_value_variants'],3000);
+			$new_var_showtositeadmin= process_data($_REQUEST['new_var_ShowToSiteAdmin'],1);
+			$new_var_example=process_data($_REQUEST['new_var_example'],1000);
+			$new_var_depend=process_data($_REQUEST['new_var_depend'],16);
+			$new_var_maybeempty=process_data($_REQUEST['new_var_maybeempty'],1);
+			if($_REQUEST['new_var_module_id']!=="-") $new_var_module_id=process_data($_REQUEST['new_var_module_id'],5);
+			$new_var_company_id=process_data($_REQUEST['new_var_company_id'],11);
+			//Отрежем пробелы
+			$new_var_describe=trim($new_var_describe);
+			$new_vartype=trim($new_vartype);
+			$new_var_value=trim($new_var_value);
+			$new_var_value_variants=trim($new_var_value_variants);
+			$new_var_formmaxlegth=trim($new_var_formmaxlegth);
+			$new_var_system_param_name=trim($new_var_system_param_name);
+			$new_var_depend=trim($new_var_depend);
+			$new_var_ShowToSiteAdmin=trim($new_var_ShowToSiteAdmin);
+			$new_var_id=trim($new_var_id);
+			$new_var_example=trim($new_var_example);
+			//Проверка полученного: Все ли данные передались/передали?
+			$errfield="";$err=0;
+			if (empty($new_var_value) or empty($new_var_systemparamname) or ($new_vartype=="2" and empty($new_var_varpossible))) {//Если чтото из них пустое - это не все поля заполнил юзер или ошибка на сети или хакер.
+				$err=1;
+				$showmessage="Не все обязательные поля заполнены.<br>";
+				$status="nok";
+			}
+			
+			if ($err==0){ #Проверка прошла без ошибок
+		
+				# Отправляем в siteconfig
+				//if (add_to_end_of_file($data1, $file1)){$showmessage="Добавлено успешно в $file1.<br>";$messagecolor="green";}
+				//else {$showmessage="В файл $file1 не записано!<br>";$messagecolor="red";}
+				mysql_query("INSERT INTO `$tableprefix-siteconfig` 
+				(`value`, `vartype`, `describe`, `systemparamname`, `formmaxlegth`, `varpossible`, `showtositeadmin`, `example`, `depend`, `maybeempty`, `module_id`, `company_id`) 
+				VALUES 
+				('$new_var_value', '$new_vartype', '$new_var_describe', '$new_var_systemparamname', '$new_var_formmaxlegth', '$new_var_varpossible', '$new_var_showtositeadmin', '$new_var_example', '$new_var_depend', '$new_var_maybeempty', '$new_var_module_id', '$new_var_company_id');");
+				
+				$status="ok";
+				$showmessage="Параметр успешно добавлен";
+			}
+			
+			$aRes = array('status' => "$status", 'message' => "$showmessage");
+			echo json_encode($aRes);
 		}
 		else{echo "Неизвестный тип действия (action unknown)";}
 	}

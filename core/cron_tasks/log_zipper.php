@@ -17,7 +17,7 @@ if($nitka=='1'){
 	foreach($projectexist as $projectname=>$value){
 			echo 'Check '.$projectname."\n";
 			include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/config.php');
-			include($_SERVER['DOCUMENT_ROOT'].'/core/system-param.php');
+			include($_SERVER['DOCUMENT_ROOT'].'/core/system-param_cron.php');
 			
 			
 			if(isset($dbconnconnect) ){ // Есть коннект к БД проекта, соответственно, все переменные

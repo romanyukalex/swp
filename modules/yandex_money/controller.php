@@ -11,7 +11,51 @@
   \*************************************************************/
   
   /* Examples
+  //https://money.yandex.ru/myservices/online.xml - настройка уведомлений о платежах на кошелек
+  Секретный код со страницы https://sp-money.yandex.ru/myservices/online.xml
   
+  #Форма для оплаты
+<form method="POST" action="https://money.yandex.ru/quickpay/confirm.xml">
+	<ul>
+	  <li>
+			<div class="field_name">Стоимость заказа</div>
+			<div class="field_option">
+				<div id="shoppingcartItemCount_ap_hdn" style="visibility:hidden"></div>
+				<input readonly id="shoppingcartItemCount_ap" type="text" name="sum" placeholder="Стоимость заказа" name="1" maxlength="30" value="<?=$order_summ;?>">
+			</div>
+		</li>
+	 
+		<li>
+			<div class="field_name">Приобретатель инфопродукта</div>
+			<div class="field_option">
+				<input type="text" placeholder="Иван" name="1" maxlength="30" value="<?=$fullname?>" readonly>
+			</div>
+		</li>
+		<li  id="pay_button_place">
+
+			<div class="field_name">Оплатить</div>
+			
+				
+			<input type="hidden" name="receiver" value="410013101641394">    
+			<input type="hidden" name="formcomment" value="Клуб здорового сознания">    
+			<input type="hidden" name="short-dest" value="Клуб здорового сознания">   
+			<input type="hidden" name="label" value="<?$order_id=$_SESSION['order_group'];echo $order_id;?>">    
+			<input type="hidden" name="quickpay-form" value="donate">   
+			<input type="hidden" name="targets" value="Транзакция <?=$order_id?>">   
+			<!--input type="hidden" name="sum" value="<?=$order_summ?>" data-type="number"-->   
+			<input type="hidden" name="need-fio" value="false">    
+			<input type="hidden" name="need-email" value="true">    
+			<input type="hidden" name="need-phone" value="true">    
+			<input type="hidden" name="need-address" value="false"> 
+			<input type="hidden" name="successURL" value="https://<?=$sitedomainname;?>/?page=yamoney_page&result=success">
+			<label><input type="radio" name="paymentType" value="PC">Яндекс.Деньгами</label>   <br>
+			<label><input type="radio" name="paymentType" value="AC">Банковской картой</label>  <br> 
+			<input type="submit" class="btn_yellow xlarge"style="background:#00c48a; color:white" value="Перевести">
+			
+			
+		</li>
+	</ul>
+</form>
 */
 
 $log->LogInfo('Got this file');

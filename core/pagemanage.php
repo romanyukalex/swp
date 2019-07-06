@@ -81,14 +81,17 @@ if($pagequery['page_id']){ #Страница есть в БД
 						} elseif (is_readable($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/config.php')) {#Конфиг модуля общий
 							$log->LogDebug('This is module ('.$pagequery['module_page'].') page. Config file is /modules/'.$pagequery['module_page'].'/config.php');
 							include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/config.php');
-						}				
-						// Для MVC-модулей
+						}
+						#Подгружаем параметры модуля из БД
+						include($_SERVER['DOCUMENT_ROOT'].'/core/system_param_for_module.php');						
+						// Для MVC-модулей подгружаем контроллер
 						if(is_readable($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/controller.php')) {
+							
 							if(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
 							include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$pagequery['module_page'].'/controller.php'); // Обработали запрос контроллером
 							$scriptpath='/core/mvc_get_module_view.php'; // Отдадим view модуля
 						}
-						// Для простых модулей
+						// Для простых модулей подгружаем startscript
 						else $scriptpath='/modules/'.$pagequery['module_page'].'/startscript.php';
 					} else {#Adminpanel controller
 						if(is_readable($_SERVER['DOCUMENT_ROOT'].'/adminpanel/controller.php')) {
@@ -101,14 +104,13 @@ if($pagequery['page_id']){ #Страница есть в БД
 				if (file_exists($_SERVER['DOCUMENT_ROOT'].$scriptpath) and !empty($scriptpath)){ # Файл страницы существует, можно вставлять
 					$log->LogDebug('Page file is found - '.$scriptpath);
 					if(!$block or $block!==1){
+						$log->LogDebug('-------START PAGEMANAGE ---------');
 						echo '<!-- Страница '.$page.'-->';
 						if($show_view) $log->LogInfo('Show page '.$page.' with view '.$scriptpath);
 						else $log->LogInfo('Show page '.$page.' from file');
 						include($_SERVER['DOCUMENT_ROOT'].$scriptpath);
 						echo '<!-- // Страница '.$page.'-->';
-					} elseif ($block==1){
-						$log->LogInfo('Page is 404 because page had been blocked');
-						$show404=1;
+						$log->LogDebug('-------STOP PAGEMANAGE ---------');
 					}
 				} else { // $scriptpath нет на диске
 					if(empty($scriptpath)) $log->LogDebug('Page file is not found, bcs scriptpath is empty in DB');
@@ -150,7 +152,7 @@ if($pagequery['page_id']){ #Страница есть в БД
 		}
 		#Записываем посещение в счётчик
 		if(($pagequery['viewCount'] or $pagequery['viewCount']==0)and !$bot_name) mysql_query("UPDATE `$tableprefix-pages` SET `viewCount` = `viewCount` + 1 WHERE `page_id` = ".$pagequery['page_id']." ;");
-	} else echo $sitemessage['system']['you_have_no_privileges_to_see'];
+	} else echo sitemessage('system','you_have_no_privileges_to_see');
 
 } else{#Страницы нет в БД
 	$log->LogDebug('Page is 404 because page was not found in DB');

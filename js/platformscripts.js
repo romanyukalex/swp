@@ -28,7 +28,6 @@ var obj=document.getElementById(str);
 		obj.style.display='none'; // ??
     }else{ 
 		$('#'+str).fadeIn(speed);
-		//setTimeout('n=1', speed);
 		obj.style.display='inline';
     }
 }
@@ -102,6 +101,22 @@ var obj=document.getElementById(str);
         obj.style.display='table-row';   
     }
 }
+function showHideTr_byClass(str,speed){
+	
+	$('.'+str).each(function(){
+		
+	  if($(this).css("display")=="table-row") 
+		{
+			$(this).hide(speed);
+			$(this).delay(speed+1000);
+			$(this).css("display",'none');
+		}
+	  else {
+		  $(this).css("display",'table-row');
+		  $(this).show(speed);
+	  }
+	})
+}
 function saveform(someid1,formid,answerplace,module){
 	var action='saveform';
 	var s = $('#'+formid).serialize();
@@ -141,20 +156,24 @@ function saveform3(){/*
 	someaction=arguments[5];
 	resetform=arguments[6];
 	hideform=arguments[7];
-	
 	var s = jQuery('#'+formid).serialize();
+	
+	//Очищаем поля answerplace от предыдущих значений
+	jQuery("#"+ok_answerplace).html('');
+	jQuery("#"+nok_answerplace).html('');
 	
 	jQuery.ajax({
 		dataType: 'json',
 		type: 'POST',
 		url: '/core/ajaxapi.php',
-		data: 'action='+someaction+'&someid='+someid1+'&mod='+module+'&rand='+Math.random()+'&'+s,
+		data: 'formid='+formid+'&action='+someaction+'&someid='+someid1+'&mod='+module+'&rand='+Math.random()+'&'+s,
 		success: function(answer){
-			if(answer.status=='ok'){
+			if(answer.status=='ok' || answer.status=='OK'){
 				jQuery("#"+ok_answerplace).html(answer.message);
-				if(resetform=='resetform' && hideform=='hideform') {jQuery('#'+formid).trigger('reset').fadeOut(1000);
+				if(resetform=='resetform' && hideform=='hideform') {jQuery('#'+formid).trigger('reset').fadeOut(1000); 
 				} else if (resetform=='resetform' && hideform=='') {jQuery('#'+formid).trigger('reset');
 				} else if (resetform=='' && hideform=='hideform') {jQuery('#'+formid).fadeOut(2000);}
+				
 			}else {jQuery("#"+nok_answerplace).html(answer.message);}
 			//Исполняем вызванную фукнцию
 			if(answer.getfunction){
@@ -192,7 +211,15 @@ function changerazdel(razdel){
 		softpageshow();
 		//linkcolor(razdel);
 		showmenu(razdel,'leftmenutab','by_page');
-		});
+	});
+	return false;
+}
+function changerazdel_byURL(url){
+	$("#content1").load('/core/ajaxapi.php',{url:url,id:'1',action:"getpage",rand:Math.random()},function(){
+		softpageshow();
+		//linkcolor(razdel);
+		showmenu(razdel,'leftmenutab','by_page');
+	});
 	return false;
 }
 function set_title(newtitle){
@@ -252,6 +279,17 @@ function showmenu(search_name,answerplace,action){
 	if(action=='by_page') $("#"+answerplace).load('/core/ajaxapi.php?mod=menu&pagename='+search_name+'&',function(){ })
 	else $("#"+answerplace).load('/core/ajaxapi.php?mod=menu&menuname='+search_name+'&',function(){ })
 }
+
+
+
+//alert(1);pause(5000);alert(2);
+function pause(delay) {
+  var startTime = Date.now();
+
+  while (Date.now() - startTime < delay);
+}
+
+
 //function ajaxreq(some_id1,some_id2,someaction,answerplace,module){
 function ajaxreq(){
 	some_id1=arguments[0];
@@ -332,3 +370,11 @@ function put_space_to_digits(block_id_or_class){
 var str = $(block_id_or_class).html();
 $(block_id_or_class).html(str.replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1 '));
 }
+
+// Функция для определения "мобильности" браузера
+function MobileDetect() {
+	var UA = navigator.userAgent.toLowerCase();
+	return (/android|webos|iris|bolt|mobile|iphone|ipad|ipod|iemobile|blackberry|windows phone|opera mobi|opera mini/i
+			.test(UA)) ? true : false;
+}
+// if (!MobileDetect()) {//браузер не мобильный}

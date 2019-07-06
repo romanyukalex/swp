@@ -60,6 +60,9 @@
 	</div>
 	<!-- left side end-->
 
+	<style>ul.dropdown-menu li{width:200%}
+	.dropdown-toggle::after{display:none;}
+	</style>
 	<!-- main content start-->
 	<div class="main-content">
 		<!-- header-starts -->
@@ -74,24 +77,37 @@
 			<div class="user-panel-top">  	
 				<div class="profile_details_left">
 					<ul class="nofitications-dropdown">
+						<? #Получаем последние 10 сообщений админу
+						
+						$admin_mes_q=mysql_query("SELECT * FROM `$tableprefix-portal-events` WHERE `status`='new' and `type`='message_to_admin' ORDER BY `ts` DESC");
+						$count_admin_mes=mysql_num_rows($admin_mes_q);
+						
+						?>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-envelope"></i><span class="badge">3</span></a>
-								
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-envelope"></i><span class="badge"><?=$count_admin_mes?></span></a>
+								<? if($count_admin_mes!==0){?>
 									<ul class="dropdown-menu">
 										<li>
 											<div class="notification_header">
-												<h3>You have 3 new messages</h3>
+												<h3>У Вас <?=$count_admin_mes?> новых сообщений от пользователей</h3>
 											</div>
 										</li>
-										<li><a href="#">
-										   <div class="user_img"><img src="/adminpanel/templates/<?=$adminsitetemplate?>/images/1.png" alt=""></div>
+										<? 
+										$show_admin_mes_cnt=0;//счетчик выведенных сообщений
+										while($admin_mes=mysql_fetch_assoc($admin_mes_q)){
+											$show_admin_mes_cnt++; // Увеличили на 1?>
+										<li><a href="/adminpanel/?page=CoobuuEHuR">
+										   <!--div class="user_img"><img src="/adminpanel/templates/<?=$adminsitetemplate?>/images/1.png" alt=""></div-->
 										   <div class="notification_desc">
-											<p>Lorem ipsum dolor sit amet</p>
-											<p><span>1 hour ago</span></p>
+											<p><?=$admin_mes['text']?></p>
+											<p><span><?=substr($admin_mes['ts'],0,10);?></span></p>
 											</div>
 										   <div class="clearfix"></div>	
 										 </a></li>
-										 <li class="odd"><a href="#">
+										<?
+											if($show_admin_mes_cnt==7){break;}
+										}?>
+										 <!--li class="odd"><a href="#">
 											<div class="user_img"><img src="/adminpanel/templates/<?=$adminsitetemplate?>/images/1.png" alt=""></div>
 										   <div class="notification_desc">
 											<p>Lorem ipsum dolor sit amet </p>
@@ -106,13 +122,14 @@
 											<p><span>1 hour ago</span></p>
 											</div>
 										   <div class="clearfix"></div>	
-										</a></li>
+										</a></li-->
 										<li>
 											<div class="notification_bottom">
-												<a href="#">See all messages</a>
+												<a href="/?page=CoobuuEHuR">Смотреть все сообщения</a>
 											</div> 
 										</li>
 									</ul>
+								<? }?>
 						</li>
 						<li class="login_box" id="loginContainer">
 								<div class="search-box">
@@ -133,45 +150,78 @@
 									<!-- //search-scripts -->
 						</li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-bell"></i><span class="badge blue">3</span></a>
+						<? #События на сайте
+						$event_q=mysql_query("SELECT * FROM `$tableprefix-portal-events` WHERE `status`='new' and `type`='event_on_site' ORDER BY `ts` DESC");
+						$count_events=mysql_num_rows($event_q);?>
+						
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-bell"></i><span class="badge blue"><?=$count_events?></span></a>
+								<? if($count_events!==0){?>
 								<ul class="dropdown-menu">
 									<li>
 										<div class="notification_header">
-											<h3>You have 3 new notification</h3>
+											<h3>У Вас <?=$count_events?> новых оповещений</h3>
 										</div>
 									</li>
+									<? 
+									$show_admin_event_cnt=0;//счетчик выведенных событий
+									while($admin_events=mysql_fetch_assoc($event_q)){?>
 									<li><a href="#">
-										<div class="user_img"><img src="/adminpanel/templates/<?=$adminsitetemplate?>/images/1.png" alt=""></div>
+										<!--div class="user_img"><img src="/adminpanel/templates/<?=$adminsitetemplate?>/images/1.png" alt=""></div-->
 									   <div class="notification_desc">
-										<p>Lorem ipsum dolor sit amet</p>
-										<p><span>1 hour ago</span></p>
+										<p><?=$admin_events['text']?></p>
+											<p><span><?=substr($admin_events['ts'],0,10);?></span></p>
 										</div>
 									  <div class="clearfix"></div>	
 									 </a></li>
-									 <li class="odd"><a href="#">
-										<div class="user_img"><img src="/adminpanel/templates/<?=$adminsitetemplate?>/images/1.png" alt=""></div>
-									   <div class="notification_desc">
-										<p>Lorem ipsum dolor sit amet </p>
-										<p><span>1 hour ago</span></p>
-										</div>
-									   <div class="clearfix"></div>	
-									 </a></li>
-									 <li><a href="#">
-										<div class="user_img"><img src="/adminpanel/templates/<?=$adminsitetemplate?>/images/1.png" alt=""></div>
-									   <div class="notification_desc">
-										<p>Lorem ipsum dolor sit amet </p>
-										<p><span>1 hour ago</span></p>
-										</div>
-									   <div class="clearfix"></div>	
-									 </a></li>
-									 <li>
+									<? 
+										#Если вывели уже 7, то всё
+										if($show_admin_event_cnt==7){break;}
+									
+									}?>
 										<div class="notification_bottom">
-											<a href="#">See all notification</a>
+											<a href="#">Смотреть все события</a>
 										</div> 
 									</li>
 								</ul>
-						</li>	
+								<? }?>
+						</li>
 						<li class="dropdown">
+						<? #Требуют модерации
+						$event_q=mysql_query("SELECT * FROM `$tableprefix-portal-events` WHERE `status`='new' and `type`='need_moderate' ORDER BY `ts` DESC");
+						$count_events=mysql_num_rows($event_q);?>
+						
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-bell"></i><span class="badge blue"><?=$count_events?></span></a>
+								<? if($count_events!==0){?>
+								<ul class="dropdown-menu">
+									<li>
+										<div class="notification_header">
+											<h3>У Вас <?=$count_events?> новых оповещений</h3>
+										</div>
+									</li>
+									<? 
+									$show_admin_mnc_cnt=0;//счетчик выведенных контентов на модерацию
+									while($admin_events=mysql_fetch_assoc($event_q)){?>
+									<li><a href="#">
+										<!--div class="user_img"><img src="/adminpanel/templates/<?=$adminsitetemplate?>/images/1.png" alt=""></div-->
+									   <div class="notification_desc">
+										<p><?=$admin_events['text']?></p>
+											<p><span><?=substr($admin_events['ts'],0,10);?></span></p>
+										</div>
+									  <div class="clearfix"></div>	
+									 </a></li>
+									<? 
+										#Если вывели уже 7, то всё
+										if($show_admin_mnc_cnt==7){break;}
+									
+									}?>
+										<div class="notification_bottom">
+											<a href="#">Смотреть все события</a>
+										</div> 
+									</li>
+								</ul>
+								<? }?>
+						</li>
+						<!--li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-tasks"></i><span class="badge blue1">22</span></a>
 								<ul class="dropdown-menu">
 									<li>
@@ -222,7 +272,7 @@
 										</div> 
 									</li>
 								</ul>
-						</li>		   							   		
+						</li-->		   							   		
 						<div class="clearfix"></div>	
 					</ul>
 				</div>

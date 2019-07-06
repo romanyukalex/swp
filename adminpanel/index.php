@@ -53,13 +53,14 @@ if (!$block) {// Выдаем страницу только если это не
 		} else $log->LogError('Body was not found for this template ('.$adminsitetemplate.')');
 	
 	}
-	else{// Страница AdminPanel не доступна пользователю с данным ЛогинПаролем?>
-		<!-- Плавающие лейблы -->
-			<link rel="stylesheet" href="/adminpanel/js/labels/labels.css" />
+	else{// Страница AdminPanel не доступна пользователю с данным ЛогинПаролем
+		/*?><!-- Плавающие лейблы -->
+		<link rel="stylesheet" href="/adminpanel/js/labels/labels.css" />
 		<script type="text/javascript" src="/adminpanel/js/labels/jsapi.js"></script>
 		<script type="text/javascript">google.load("jquery", "1");</script>
 		<script type="text/javascript" src="/adminpanel/js/labels/slidingl.js"></script>
-		<? //<-- Логин юзера -->?>
+		<? */
+		//<-- Логин юзера -->?>
 		
 		<? include($_SERVER['DOCUMENT_ROOT']."/adminpanel/adminpanel-login-form.php");?>
 		

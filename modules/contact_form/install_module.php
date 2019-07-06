@@ -24,8 +24,6 @@ VALUES (NULL , '$modulename', '$module_description', 'y', CURRENT_TIMESTAMP , 'e
 	$put_messages=mysql_query("INSERT into `$tableprefix-messages`( `module_name`, `message_code`, `message_meaning`, `message_ru`, `message_en`) VALUES
 		('contact_form', 'message_was_not_sent', 'Сообщение не было отослано из-за проблем с почтовой функцией', 'Сообщение не было отослано', 'The message was not sent'),
 		('contact_form', 'message_received', 'Сообщение при принятии сообщения в контакт-форме', 'Ваше сообщение отправлено администрации портала, ждите ответа на указанный E-MAIL', 'Your message was sent to site administrator, please, wait an answer to your email.');");
-	# Сообщаем об успехе инсталляции модуля
-	echo "<b>".$sitemessage["system"]["module_installed"].": ".$modulename."</b><br><br>";
 }
 ?>
 <? } ?>

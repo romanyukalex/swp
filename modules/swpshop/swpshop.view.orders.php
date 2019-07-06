@@ -46,7 +46,7 @@ if($nitka=="1"){
 				</table>
 				</div></div></div><?
 			}
-		}else echo '<br><br>'.$sitemessage[$modulename]['my_orders_are_not_found'].'<br><br>';
+		}else echo '<br><br>'.sitemessage("$modulename",'my_orders_are_not_found').'<br><br>';
 		if ($userrole=="superuser"){
 			if($orderlist_su_length>0){
 				while ($orderlist=mysql_fetch_array($orderlist_su_req)){?>
@@ -83,7 +83,7 @@ if($nitka=="1"){
 					</script>
 					</div></div></div>
 			<?	}
-			} echo '<br><br>'.$sitemessage[$modulename]['company_orders_are_not_found'].'<br><br>';
+			} echo '<br><br>'.sitemessage("$modulename",'company_orders_are_not_found').'<br><br>';
 		}
 		if($order_list){?>
 		<script>

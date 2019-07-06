@@ -16,18 +16,7 @@
   */
 $log->LogDebug('Got this file with params - '.implode(',',$param));
 if($nitka=='1'){
-	insert_function('process_user_data');
-	// Перенести это в insert_module и ajaxapi
-	if(isset($param[1])) $contact=$param[1]; // Вызвали как модуль
-	elseif(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
 	
-	if(!isset($contact)){$contact=$default_action;}
-	$log->LogDebug('Action is '.$contact);
-	
-	global $yt_api_key;
-	
-
-	require_once 'Google/autoload.php';
 	
 	########################################
 	## Сохранить видео в плейлист YouTube ##
@@ -35,24 +24,24 @@ if($nitka=='1'){
 	
 	if($contact=='save_video_to_playlist'){
 	
-
+	require_once 'Google/autoload.php';
 
 	
 	function playlistItemsInsert($service, $properties, $part, $params) {
     $params = array_filter($params);
-    $propertyObject = createResource($properties); // See full sample for function
-    $resource = new Google_Service_YouTube_PlaylistItem($propertyObject);
-    $response = $service->playlistItems->insert($part, $resource, $params);
-    print_r($response);
-}
+		$propertyObject = createResource($properties); // See full sample for function
+		$resource = new Google_Service_YouTube_PlaylistItem($propertyObject);
+		$response = $service->playlistItems->insert($part, $resource, $params);
+		print_r($response);
+	}
 
-playlistItemsInsert($service,
-    array('snippet.playlistId' => $param[2],
-           'snippet.resourceId.kind' => 'youtube#video',
-           'snippet.resourceId.videoId' => $param[3],
-           'snippet.position' => ''),
-    'snippet', 
-    array('onBehalfOfContentOwner' => ''));
+	playlistItemsInsert($service,
+		array('snippet.playlistId' => $param[2],
+			   'snippet.resourceId.kind' => 'youtube#video',
+			   'snippet.resourceId.videoId' => $param[3],
+			   'snippet.position' => ''),
+		'snippet', 
+		array('onBehalfOfContentOwner' => ''));
 	
 	
 	
@@ -69,34 +58,33 @@ playlistItemsInsert($service,
 		
 		$buf = file_get_contents($url);
 
+
 		
+	} elseif($contact=='check_video_avail') {  //Проверяем доступность видео
 		
 		/*
-		{
-"snippet":
-{
-"playlistId":"
-PLbtvafp98VwAZAoAUdkS1fjHz3jeqdBGh
-"
-"resourceId":
-{
-"kind":"
-youtube#video
-"
-"videoId":"
-a-k8_ntb-E0
-"
-
-}
-
-}
-
-}
+		$yt_id='aIuuNB9BOcg';
+		$vid_avail=insert_module("youtube-api","check_video_avail","$yt_id");
+		if($vid_avail) echo "OK";
+		else echo "NOK";
 		*/
 		
-		
-		
-		
+		$yt_id=$param[2];
+		$url = "https://www.googleapis.com/youtube/v3/videos?id=".$yt_id."&key=".$yt_api_key."&part=snippet";
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($ch, CURLOPT_URL,$url);
+		$output=curl_exec($ch);                 
+		$response = json_decode($output, TRUE);
+		if($response["items"]) {
+			$log->LogDebug('Video is available');
+			$return_data= true;
+		}
+		else {
+			$log->LogDebug('Video is unavailable');
+			$return_data = false;
+		}
 	} else {
 		
 		/*

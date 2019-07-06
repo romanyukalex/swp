@@ -18,10 +18,11 @@
 				if (typeof $(this).attr("src") === "undefined" && $(this).children("source").size() < 1) {
 					// Append a <source>-tag to the <audio>-tag with the file and correct file format
 					$(this).append('<source src="' + audioSource + '.' + fileExt + '">');
-					if (options.autoPlay && i) { // If we set autoplay to true when calling the function...
-						$(this).attr("autoplay", true); // ...add autoplay="true" to the first of all <audio>-tags
-						i = false;
-					}
+					
+				}
+				if (options.autoPlay && i) { // If we set autoplay to true when calling the function...
+					$(this).attr("autoplay", true); // ...add autoplay="true" to the first of all <audio>-tags
+					i = false;
 				}
 			});
 		} else { // If the browser doesnt support the <audio>-tag we let the user know that and remove the element

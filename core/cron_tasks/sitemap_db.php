@@ -17,7 +17,7 @@ if($nitka=='1'){
 		if($stopsitemap_cr_flag!==1 or !$stopsitemap_cr_flag){ // Запускаем 1 сайт за все время исполнения скрипта. Остальные - в след cron
 			//echo 'Check '.$projectname;
 			include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/config.php');
-			@include($_SERVER['DOCUMENT_ROOT'].'/core/system-param.php');
+			@include($_SERVER['DOCUMENT_ROOT'].'/core/system-param_cron.php');
 			
 			
 			if(isset($dbconnconnect)){ // Есть коннект к БД проекта
@@ -65,7 +65,7 @@ if($nitka=='1'){
 							#Все остальные страницы в массив
 							if(!$pages_q){ //Первый запрос за страницами, то есть первый домен из темплейт менеджера
 								
-								$pages_q=mysql_query("SELECT `page`,`filename` FROM `$tableprefix-pages` WHERE `showin_all_pages_page`='1';");
+								$pages_q=mysql_query("SELECT `page`,`filename`,`viewCount` FROM `$tableprefix-pages` WHERE `showin_all_pages_page`='1' and `status`='ena' ORDER BY `viewCount` DESC;");
 
 								$sitemap_size=mysql_num_rows($pages_q);
 							} else { //Уже запрашивали данные о страницах
@@ -102,7 +102,10 @@ if($nitka=='1'){
 								}
 								*/
 								$sitemapXML_arr_elmnt.="</changefreq><priority>0.";
-								if($page['page']==$sites['mainpage']){$sitemapXML_arr_elmnt.='9';} else {$sitemapXML_arr_elmnt.=rand(1,9);} // Если это главная страница, то полюбому 0.9, для остальных - случайное число
+								if($page['page']==$sites['mainpage']){$sitemapXML_arr_elmnt.='9';} // Если это главная страница, то полюбому вес 0.9,
+								else {
+									$sitemapXML_arr_elmnt.=rand(1,9);
+								} // Если это не главная страница, то полюбому то согласно просмотрам
 								
 								$sitemapXML_arr_elmnt.="</priority></url>";
 								$sitemapXML_arr[]=$sitemapXML_arr_elmnt;//Записали строку в массив
@@ -132,7 +135,6 @@ if($nitka=='1'){
 								   
 								}
 								$sm_index_XML.='</sitemapindex>';
-								//$sm_index_file= $_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/'.$sites['domain'].'.'.'sitemap.xml';
 								$fp=fopen($sm_index_file,'w+');
 								if(!fwrite($fp,$sm_index_XML)){
 									echo 'Ошибка записи!';

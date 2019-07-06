@@ -11,9 +11,14 @@
 $log->LogInfo('Got this file');
 if($adminpanel==1){
 ?>
+<style>
+#messagestable input {width:90%;}
+#messagestable .form-group{width:100%;}
+#messagestable{[padding-bottom:40px;}
+</style>
 <div id='messagestable'>
 <h1><img src="/adminpanel/pics/NotificationTemplates256.png"  height="64px" class="imgmiddle">Системные сообщения</h1><br>
-<table id="messages_table" class="settings_table">
+<table id="messages_table" class="settings_table table">
 	<tr class="gradient_to_top_1"><th width="25%">Описание сообщения</th><th width="60%">Текст</th><th width="15%">Действия</th></tr>
 	<?
 	# Границы выбора
@@ -30,25 +35,43 @@ if($adminpanel==1){
 				$moduleinfo=mysql_fetch_array(mysql_query("SELECT * FROM `$tableprefix-modulesregister` WHERE `module_id`='$messages_module_id'"));
 			}
 			
-				?><tr><td  class="barrel-rounded">
-				<? if($moduledescription[$messages_module_id]){?>
-				<b style="font-size:11px"><?=$moduledescription[$messages_module_id];?></b><br><?} 
-				echo $messagesdata['message_meaning'];?></td>
-				<td class="heavy-rounded valuestd"><div id='upd_message_<?=$messagesdata['message_id']?>_ap'></div>
-				<form id="upd_message_form_<?=$messagesdata['message_id']?>">
-				RU : <input type='text' SIZE='<?=$formsize_standart?>' MAXLENGTH="<?=$messagesdata['formmaxlegth']?>" 
-				name='message_ru' value="<?=$messagesdata['message_ru']?>" 
-				onFocus="showblock('mes_savebutton_<?=$messagesdata['message_id']?>');return false;" 
-				id='message_ru_<?=$messagesdata['message_id']?>'><br>
-				EN : <input type='text' SIZE='<?=$formsize_standart?>' MAXLENGTH="<?=$messagesdata['formmaxlegth']?>" 
-				name='message_en' value="<?=$messagesdata['message_en']?>" 
-				onFocus="showblock('mes_savebutton_<?=$messagesdata['message_id']?>');return false;" 
-				id='message_en_<?=$messagesdata['message_id']?>'><br>
-				</form>
-				<?if($userrole=="root"){
-						?><br>Вызов: <input value="echo $sitemessage[<?=$messagesdata['module_name']?>][<?=$messagesdata['message_code']?>];" size="<?=($formsize_standart-29)?>" readonly="readonly"><?
-					}
-				?></td>
+				?><tr>
+					<td  class="barrel-rounded">
+					<? if($moduledescription[$messages_module_id]){?>
+					<b style="font-size:11px"><?=$moduledescription[$messages_module_id];?></b><br><?} 
+					echo $messagesdata['message_meaning'];?></td>
+					
+					<td class="heavy-rounded valuestd"><div id='upd_message_<?=$messagesdata['message_id']?>_ap'></div>
+					
+					
+					
+					
+					<form id="upd_message_form_<?=$messagesdata['message_id']?>" class="form-inline">
+							
+
+					<div class="form-group">
+						<!--small id="messageRuHelp" class="form-text text-muted">На русском языке</small-->
+						<label for="message_ru_<?=$messagesdata['message_id']?>">RU</label>
+						<input aria-describedby="messageRuHelp"  type='text' class="form-control" MAXLENGTH="<?=$messagesdata['formmaxlegth']?>" 
+						name='message_ru' value="<?=$messagesdata['message_ru']?>" 
+						onFocus="showblock('mes_savebutton_<?=$messagesdata['message_id']?>');return false;" 
+						id='message_ru_<?=$messagesdata['message_id']?>' placeholder="Введите текст сообщения на русском">
+					
+						
+					
+					</div>
+					<br>
+					<div class="form-group">
+						<!--small id="messageRuHelp" class="form-text text-muted">На англиском языке</small-->
+						<label for="message_en_<?=$messagesdata['message_id']?>">EN</label>
+						<input aria-describedby="messageEnHelp"  type='text' class="form-control" MAXLENGTH="<?=$messagesdata['formmaxlegth']?>" 
+					name='message_en' value="<?=$messagesdata['message_en']?>" 
+					onFocus="showblock('mes_savebutton_<?=$messagesdata['message_id']?>');return false;" 
+					id='message_en_<?=$messagesdata['message_id']?>' placeholder="Введите текст сообщения на английском">
+					</div>
+						</form>
+					</td>
+				
 				<td class="barrel-rounded">&nbsp <div id="mes_savebutton_<?=$messagesdata['message_id']?>" style="display:none"><a class="large button orange light-rounded" 
 					onClick="saveform2('<?=$messagesdata['message_id']?>','upd_message_form_<?=$messagesdata['message_id']?>','upd_message_<?=$messagesdata['message_id']?>_ap','adminpanel','upd_message','','');">
 					Сохранить</a><br><br></div>
@@ -56,6 +79,15 @@ if($adminpanel==1){
 					onClick="ajax_rq ('adminpanel','delete_message','upd_message_<?=$messagesdata['message_id']?>_ap','upd_message_<?=$messagesdata['message_id']?>_ap','<?=$messagesdata['message_id']?>');">
 					Удалить</a>
 				<? /*if($userrole=="root"){?><div id="accessbutton_<?=$messagesdata['message_id']?>"><a class="small button blue light-rounded" onClick="ajaxreq('<?=$messagesdata[id]?>','<? if($messagesdata['showtositeadmin']=="2"){?>admin_access_accept<?} else{?>admin_access_deny<? }?>','change_param','fieldmessage_'+paramid,'adminpanel');save_param('<?=$messagesdata[id]?>')"><? if($messagesdata['showtositeadmin']=="2"){echo "Разрешить доступ админу";}else{echo "Запретить доступ админу";}?></a></div><?} */?>
+				
+				<?if($userrole=="root"){
+							?><br>
+							<a href=""onclick="showHideSelection('howToGet_<?=$messagesdata['message_id']?>');return false;">Вызов</a>
+							<p class="form-control-static" style="display:none" id="howToGet_<?=$messagesdata['message_id']?>"> echo $sitemessage[<?=$messagesdata['module_name']?>][<?=$messagesdata['message_code']?>];</p>
+							<br>
+							<?
+					}
+				?>
 				</td>
 				</tr>
 	<?		$prev_messages_module_id=$messages_module_id;

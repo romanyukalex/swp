@@ -22,21 +22,15 @@ if($_GET['auth_social']){
 */
 $log->LogInfo('Got this file');
 if($nitka=='1'){
-	insert_function('process_user_data');
-	// Перенести это в insert_module и ajaxapi
-	if(isset($param[1])) $contact=$param[1]; // Вызвали как модуль
-	elseif(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
-	
-	if(!isset($contact)){$contact=$default_action;}
-	$log->LogDebug('Action is '.$contact);
-	
-	
+		
 	//require_once 'lib/SocialAuther/autoload.php';
 	require 'lib/SocialAuther/SocialAuther.php';
 	require $_SERVER['DOCUMENT_ROOT'].'/modules/auth_social/lib/SocialAuther/Adapter/AdapterInterface.php';
 	require 'lib/SocialAuther/Adapter/AbstractAdapter.php';
 	require 'lib/SocialAuther/Adapter/Vk.php';
+	require 'lib/SocialAuther/Adapter/Mailru.php';
 	require 'lib/SocialAuther/Adapter/Facebook.php';
+	require 'lib/SocialAuther/Adapter/Yandex.php';
 	
 	
 	
@@ -128,7 +122,7 @@ if($nitka=='1'){
 			$GLOBALS["page"]=$page;
 			$GLOBALS["pagequery"]=$pagequery;
 		}
-		if (isset($_GET['provider']) && array_key_exists($_GET['provider'], $adapters)) { 
+		if (isset($_GET['provider']) && array_key_exists($_GET['provider'], $adapters)) {
 			$log->LogDebug('Provider '.$_GET['provider'].' is found in GET');
 			$auther = new SocialAuther\SocialAuther($adapters[$_GET['provider']]);
 
@@ -213,7 +207,7 @@ if($nitka=='1'){
 				$_SESSION['fullname']=$user->name;
 				$_SESSION['avatar']=$user->avatar;
 			} else {$log->LogDebug('User is not authenticated via auth provider '.$_GET['provider']);
-				$message = $sitemessage[$modulename]['user_auth_error'];
+				$message = sitemessage("$modulename",'user_auth_error');
 			}
 		}
 	}

@@ -1,7 +1,7 @@
 <? 
 # Не следует отправлять много писем в цикле, тк функция mail открывает и закрывает сессию с сервером под каждое письмо
 $log->LogInfo('Got this file');
-include_once($_SERVER['DOCUMENT_ROOT']."/core/system-param.php");
+//include_once($_SERVER['DOCUMENT_ROOT']."/core/system-param.php");
 function sendletter($to_email_address,$subject,$message)
 	{
 	global $sitedomainname, $emailaddress, $from;

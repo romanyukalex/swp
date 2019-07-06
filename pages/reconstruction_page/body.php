@@ -58,7 +58,7 @@ function savesubsform(subscribeform,subscribeform,subscribeformmessage,startsite
     
     	<div id="logo">
         	<a href="/"><img src="<? if($logofile!=="/pages/reconstruction_page/files/logo.png"){echo $logofile;} else echo "/pages/reconstruction_page/files/logo.png";?>" 
-            alt="<?=$logoalt?>" height="100"/></a>
+            height="100"/></a>
         </div><!--end logo-->
             
         <div id="contact_details">

@@ -6,6 +6,7 @@ function date_rus_to_en($date_string) {
 	global $log;
 
 	// Перевод
+/*
 	 $translate = array(
 	 "am" => "дп",
 	 "pm" => "пп",
@@ -54,9 +55,60 @@ function date_rus_to_en($date_string) {
 	 "rd" => "е",
 	 "th" => "ое"
 	 );
-	
-	foreach($translate as $en_word=>$rus_word){
+*/
+	 $translate = array(
+	  "дп"=> "am",
+	 "пп" => "pm",
+	  "ДП"=> "AM",
+	  "ПП"=> "PM",
+	"Понедельник" =>  "Monday",
+	  "Пн" =>"Mon",
+	 "Вторник" => "Tuesday",
+	  "Вт" =>"Tue",
+	  "Среда"=> "Wednesday",
+	 "Ср"  => "Wed",
+	 "Четверг"  => "Thursday",
+	 "Чт" =>  "Thu",
+	 "Пятница" =>  "Friday" ,
+	  "Пт"=>  "Fri",
+	 "Суббота" =>  "Saturday",
+	 "Сб" => "Sat" ,
+	 "Воскресенье" =>   "Sunday",
+	 "Вс"  => "Sun",
+	 "Января" =>  "January",
+	 "Январь" => "January" ,
+	   "Февраля"  =>"February",
+	 "Февраль"  => "February",
+	  "Марта"=>  "March",
+	  "Март"=>  "March",
+	 "Апреля" =>  "April",
+	 "Апрель" =>  "April",
+	  "Мая"=>  "May",
+	  "Май" => "May",
+	  "Июня"=>  "June",
+	 "Июнь" =>  "June",
+	  "Июля" =>  "July",
+	 "Июль" =>  "July",
+	 "Августа" =>  "August",
+	"August" =>  "August",
+	 "Сентября" =>  "September",
+	"Сентябрь" =>  "September",
+	"Октября"  =>  "October",
+	 "Октябрь" =>  "October",
+	 "Ноября"  => "November",
+	 "Ноябрь"  =>"November",
+	"Декабря" =>   "December",
+	 "Декабрь" =>   "December",
+	 "ое"  => "st",
+	 "ое" =>  "nd",
+	 "е" =>  "rd",
+	  "ое"=>  "th"
+	 );
+
+	foreach($translate as $rus_word => $en_word){
 		$date_string=str_replace($rus_word,$en_word,$date_string);
+		$date_string=str_replace(mb_strtoupper($rus_word),mb_strtoupper($en_word),$date_string);
+		$date_string=str_replace(mb_strtolower($rus_word),mb_strtolower($en_word),$date_string);
 	}
 
 	return $date_string;

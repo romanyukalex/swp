@@ -15,7 +15,7 @@ if(($userrole=="admin" or $userrole=="root") and $adminpanel==1){?>
 	insert_function("getGoogleSiteRank");
 	$gpr = new GooglePR();
 ?><?
-	//$domain = "http://".$_SERVER['HTTP_HOST']."/";
+
 	$templates_q=mysql_query("SELECT * FROM `$tableprefix-templates_manager` WHERE 1;");
 	while($templates_info=mysql_fetch_array($templates_q)){
 		$tcy = getYandexTIC('https://'.$templates_info['domain']);
@@ -28,5 +28,15 @@ if(($userrole=="admin" or $userrole=="root") and $adminpanel==1){?>
 		<div id="prcyru-counter_<?=$templates_info['domain']?>"></div><noscript><a href="//a.pr-cy.ru/<?=$templates_info['domain']?>" target="_blank"><img src="//a.pr-cy.ru/assets/img/analysis-counter.png" width="88" height="31" alt="Analysis"></a></noscript>
 		<br><?
 	}
+	?><hr><?
+	$clientStats=mysqli_get_client_stats();
+	foreach($clientStats as $statParam=>$statValue){
+		echo $statParam.' = '.$statValue."<br>";
+	}
+	?><hr><?
+	$connStats=mysqli_get_connection_stats($dbconnconnect);
+	foreach($connStats as $statParam=>$statValue){
+		echo $statParam.' = '.$statValue."<br>";
+	}
 	
-}?>
+}?><br><br><br><br><br><br>

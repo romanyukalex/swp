@@ -8,9 +8,9 @@ $block=null;
 if($_REQUEST['mod']=='adminpanel') $adminpanel=1; # Чтобы логи были в правильном файле, пишем это здесь
 @include($_SERVER['DOCUMENT_ROOT'].'/core/functions/KLogger.php');
 if ($adminpanel==1) {
-	$log=new KLogger( $ap_logfile , $ap_loglevel);
+	$log=new KLogger( $ap_loglevel);
 } elseif($nitka==1) {
-	$log=new KLogger( $logfile , $loglevel);
+	$log=new KLogger( $loglevel);
 }
 $log->LogInfo('------ The new ajax request ------');
 $comma_separated_req=null;
@@ -21,6 +21,9 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/core/insert_function_function.php';
 //insert_function('insert_module');
 include $_SERVER['DOCUMENT_ROOT'].'/core/insert_module_function.php';
 $log->LogDebug('Trying to check available modules');
+
+include  $_SERVER['DOCUMENT_ROOT'].'/core/messageGet_function.php'; //Вызов echo sitemessage('modulename','message_code');
+
 @include($_SERVER['DOCUMENT_ROOT'].'/core/check_avail_modules.php');
 $log->LogDebug('Trying to get mode from get');
 @include_once($_SERVER['DOCUMENT_ROOT'].'/core/modefromget.php');#Определение $mode
@@ -31,7 +34,7 @@ if($block!==1){
 	if($_REQUEST['action']){
 		$requestaction=process_data($_REQUEST['action'],50);
 		$log->LogInfo('Action in request: '.$requestaction);
-		}
+	}
 	if ($_REQUEST['mod']){# Вызов от какого то модуля
 		if ($modulename=process_data($_REQUEST['mod'],50)){$log->LogInfo('We got modulename in request equal '.$_REQUEST['mod']);;}
 		if($modulename=='usersmanagement'){
@@ -49,27 +52,50 @@ if($block!==1){
 			
 			if(is_readable($_SERVER['DOCUMENT_ROOT'].'/modules/'.$modulename.'/controller.php')) {
 				if(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
-				include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$modulename.'/controller.php'); 
-				# Расширение контроллера модуля, специфичное для проекта
-				if(is_readable($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$modulename.'.controller.php')) include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$modulename.'.controller.php');
+				
+				
+				if(!isset($contact)){$contact=$default_action;}
+				$log->LogDebug('Action is '.$contact);
+				$log->LogDebug($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$modulename.'.action.'.$contact.'.php');
+				
+				if(is_readable($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$modulename.'.action.'.$contact.'.php')) { //Есть альтернативное описание действия для данного проекта
+					$log->LogDebug('We got this action processer in project folder');
+					include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$modulename.'.action.'.$contact.'.php');
+				} else {//Нет специфичного описания action, запускаем обычный контроллер
+					include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$modulename.'/controller.php');
+					# Расширение контроллера модуля, специфичное для проекта
+					if(is_readable($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$modulename.'.controller.php')) include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/modules_data/'.$modulename.'.controller.php');
+				}
+				
 				# Показываем view, если его вызвали
 				include($_SERVER['DOCUMENT_ROOT'].'/core/mvc_get_module_view.php');
+				# Возвращаем, если что то вернули
+				if($return_data) return $return_data;
 				die();
 			}
 			
-			
-			
-			
-			
-			
+
 			$log->LogDebug('Trying to call '.$modulename.'/ajax.php');
 			include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$modulename.'/config.php');
 			include($_SERVER['DOCUMENT_ROOT'].'/modules/'.$modulename.'/ajax.php');
 		}
 
 	} elseif ($requestaction=='getpage'){# Показываем страничку
+		
+		if($_REQUEST['page']){//Запрашивают конкретную страницу
+			include($_SERVER['DOCUMENT_ROOT'].'/core/pagefromget.php');
+		} elseif($_REQUEST['url']){ //Для более сложных случаев вроде changerazdel_byURL("/?page=lmp&lmn=management_short_books")
+			
+			//Находим начало параметров
+			$_REQUEST['url']=substr($_REQUEST['url'],strpos($_REQUEST['url'],"?")+1);
+			$urlreqparam_arr=explode("&",$_REQUEST['url']);
+			foreach($urlreqparam_arr as $urlparam){
+				$kv=explode("=",$urlparam); //Поделили еще на key и value
+				$_REQUEST[$kv[0]]=$kv[1]; //Записали в REQUEST, дабы дальше отработали скрипты страницы, как будто к ним обратились по этим параметрам прямо в URL (get)
+			}
+		}
 		$log->LogDebug('Trying to call pagemanage.php');
-		include($_SERVER['DOCUMENT_ROOT'].'/core/pagemanage.php');
+		include($_SERVER['DOCUMENT_ROOT'].'/core/pagemanage.php');//Открываем текст страницы
 		}
 	elseif ($requestaction=='checklogin')
 		{# Пользователь логинится (перенести в usermanagement)

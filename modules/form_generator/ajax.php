@@ -128,8 +128,8 @@ if($nitka=='1'){
 					}
 					$add_newdata_query_text="INSERT INTO `$inserttable`(".substr($header_text,0,-1).")VALUES(".substr($values_text,0,-1).");";
 					$add_newdata_query=mysql_query($add_newdata_query_text);
-					if($add_newdata_query) $message_text.="<span style='color:green;font-size:bold'>".$sitemessage['form_generator']['add_is_complete']."</span>";
-					else $message_text.="<span style='color:red;'>".$sitemessage['form_generator']['add_is_not_complete']."</span>";
+					if($add_newdata_query) $message_text.="<span style='color:green;font-size:bold'>".sitemessage('form_generator','add_is_complete')."</span>";
+					else $message_text.="<span style='color:red;'>".sitemessage('form_generator','add_is_not_complete')."</span>";
 				}
 			} elseif(!$form_gen_add_error==1 and $_REQUEST['action']=="edit"){
 
@@ -146,8 +146,8 @@ if($nitka=='1'){
 				$edit_data_query_text=substr($edit_data_query_text,0,-1);
 				$edit_data_query_text.=" WHERE `$id_field_name` = '$edit_id';";
 				$edit_data_query=mysql_query($edit_data_query_text);
-				if($edit_data_query) $message_text.="<span style='color:green;font-size:bold'>".$sitemessage['form_generator']['edit_is_complete']."</span>";
-				else $message_text.="<span style='color:red;'>".$sitemessage['form_generator']['edit_is_not_complete']."</span>";
+				if($edit_data_query) $message_text.="<span style='color:green;font-size:bold'>".sitemessage('form_generator','edit_is_complete')."</span>";
+				else $message_text.="<span style='color:red;'>".sitemessage('form_generator','edit_is_not_complete')."</span>";
 			}
 			if ($script_after_add and $_REQUEST['action']=="add" and $add_newdata_query){ # Вставляем скрипт после добавления
 				//echo "Вставляем скипт";
@@ -157,7 +157,7 @@ if($nitka=='1'){
 			}
 		} else {# Не найдены поля формы или сама форма
 			$log->LogDebug('The form ('.$formname.') is not found or the form has 0 fields');
-			$message_text.="<span style='color:red;'>".$sitemessage['form_generator']['form_is_not_found']."</span>";
+			$message_text.="<span style='color:red;'>".sitemessage('form_generator','form_is_not_found')."</span>";
 		}
 
 		
@@ -170,5 +170,5 @@ if($nitka=='1'){
 		//echo "<br>FORMTABLEDATA";var_dump ($formtabledata);echo "<br><br>";
 		//echo "<br>INSERTDATA";var_dump($insertdata);echo "<br><br>";
 	
-	} else {echo $sitemessage['$modulename']["action_is_not_found"];}
+	} else {echo sitemessage('$modulename',"action_is_not_found");}
 }?>

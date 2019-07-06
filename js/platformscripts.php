@@ -8,25 +8,20 @@ require($_SERVER["DOCUMENT_ROOT"]."/core/system-param.php");
 error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED); //Уровень логов в apache
 header("Expires: ".strftime("%a, %d %b %Y %H:%M:%S",time()+$platfscrpts_cachetime-3600*3)." GMT");
 @require_once($_SERVER["DOCUMENT_ROOT"]."/core/functions/KLogger.php");
-if ($adminpanel==1) {//$ap_loglevel="KLogger::$ap_loglevel";
-	$log=new KLogger( $ap_logfile , $ap_loglevel);
-} elseif($nitka==1) {
-	//$loglevel="KLogger::$loglevel";
-	$log=new KLogger( $logfile , $loglevel);
-}
+if ($adminpanel==1) $log=new KLogger( $ap_loglevel);
+elseif($nitka==1) $log=new KLogger($loglevel);
+
 $log->LogInfo('------ The new PlatformScripts request on '.$_SERVER['HTTP_HOST'].' ------');
-//$log->LogDebug("Trying to get browser.php");
-//require($_SERVER["DOCUMENT_ROOT"]."/core/browser.php");
 
 function put_handle($handle){
 	while (!feof($handle)) {$buffer = fgets($handle, 4096);echo $buffer;}fclose($handle);
 }
 
 
-if($enableuserroles=="Включено"){
-	$handle = fopen($fullpath."/js/md5.js", "r");
-	put_handle($handle);
-}
+
+$handle = fopen($fullpath."/js/md5.js", "r");
+put_handle($handle);
+
 
 $handle = fopen($fullpath."/js/platformscripts.js", "r");
 put_handle($handle);

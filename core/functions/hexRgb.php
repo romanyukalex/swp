@@ -2,10 +2,10 @@
 
 /*
 // Параметром для функции будет номер цвета
-$rgb = hextorgb('#fff000');
+$rgb = hexToRgb('#fff000');
 print_r($rgb);*/
 
-function image_hexToRgb($hexvalue){
+function hexToRgb($hexvalue){
 	
    if($hexvalue[0] == '#') {
                 $hexvalue = substr( $hexvalue, 1);
@@ -29,7 +29,7 @@ function image_hexToRgb($hexvalue){
 $colorRgb = array(255, 0, 0);
 $result = rgbToHex($colorRgb);
 var_dump($result);*/
-function image_rgbToHex($color) {
+function rgbToHex($color) {
     $red = dechex($color[0]); 
     $green = dechex($color[1]);
     $blue = dechex($color[2]);

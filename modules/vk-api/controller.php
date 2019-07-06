@@ -32,16 +32,10 @@ cb595b8986b2631772656cbecc68d7759edaf8f255a3aa361d68b79725dbc561b844fe0d8621d611
 $log->LogDebug('Got this file with params - '.json_encode($param));
 if($nitka=='1'){
 	insert_function('process_user_data');
-	// Перенести это в insert_module и ajaxapi
-	if(isset($param[1])) $contact=$param[1]; // Вызвали как модуль
-	elseif(isset($_REQUEST['action'])) $contact=process_data($_REQUEST['action'],30);
-	
-	if(!isset($contact)){$contact=$default_action;}
-	$log->LogDebug('Action is '.$contact);
-	
+
 	global $vkapi_api_id,$vkapi_secret_key,$vkapi_access_token,$vk_group_id,$vk_group_nickname;
 	
-	$api_version='5.73';
+	$api_version='5.92';
 	#Функция для запросов к API
 	
 	if(!function_exists("vkAPI")){ // для повторных вызовов модуля
@@ -68,7 +62,7 @@ if($nitka=='1'){
 					'content' => http_build_query($params)
 				)
 			)));
-			
+			$log->LogDebug("Vk answers:".$json);
 			if($return_format=='object') return json_decode($json); //Возвращаем объект
 			elseif($return_format=='json')return $json;
 			elseif($return_format=='array')return json_decode($json,TRUE); 
@@ -107,83 +101,84 @@ if($nitka=='1'){
 		unlink($path);
 		*/
 		
-		/*
-		function vkAPI($method, array $data = []){	global $vkapi_access_token,$log;
-
-			$params = [];
-			foreach ($data as $name => $val) {
-				$params['method'] = $method;
-				$params[$name] = $val;
-				$params['access_token'] = $vkapi_access_token;
-			}
-			$url='https://api.vk.com/method/' . $method ;
-			$json = file_get_contents($url, false, stream_context_create(array(
-				'http' => array(
-					'method'  => 'POST',
-					'header'  => 'Content-type: application/x-www-form-urlencoded',
-					'content' => http_build_query($params)
-				)
-			)));
-			
-			return json_decode($json); //Возвращаем объект
-		}
-		
-		*/
 		$vk_group_id=$param[2];
 		$vk_wall_post_message=$param[3];
 		$vk_wall_post_attach=$param[4];
 			
-		//$v = '5.73';
-			
 		if($vk_wall_post_attach['link']) $post_attachmts.=$vk_wall_post_attach['link']; //Присоединили ссылку к посту
 		if($vk_wall_post_attach['video']) { //Присоединяем видео к посту
-			if($post_attachmts) $post_attachmts.=",".$vk_wall_post_attach['video'];
-			else $post_attachmts.=$vk_wall_post_attach['video'];
+			
+			if(is_array($vk_wall_post_attach['video'])){ #Присоединено несколько видео
+				/* Там что то вроде:
+				$vk_post_attach['video'][]='video-'.$vk_group_id.'_'.$post_info['vk_v_id'];
+				Array ( [image] => /home/a/aromanuq/popwebstudio/public_html/project/freecon/files/daily_articles.jpg [video] => Array ( [0] => video-95462752_456240858 [1] => video-95462752_456240884 [2] => video-95462752_456240885 [3] => video-95462752_456240887 ) ) 
+				*/
+				foreach($vk_wall_post_attach['video'] as $key=>$video_id){
+					if($post_attachmts) $post_attachmts.=",".$video_id;
+					else $post_attachmts.=$video_id;
+				}
+			}
+			else { #там только 1 видео
+				if($post_attachmts) $post_attachmts.=",".$vk_wall_post_attach['video'];
+				else $post_attachmts.=$vk_wall_post_attach['video'];
+			}
 		}
 		if($vk_wall_post_attach['image']) {
 			$image_name = basename($vk_wall_post_attach['image']);
 			$image =$vk_wall_post_attach['image'];
 		
 			#ЗАГРУЖАЕМ КАРТИНКУ
-		
-			$upload_url = vkAPI('photos.getWallUploadServer', ['group_id' => $vk_group_id,'version'=>$api_version,
-				'v'=>$api_version])->response->upload_url;
-			try {
-				$ch = curl_init($upload_url);
-				$cfile = curl_file_create($image, mime_content_type($image), $image_name);
-				curl_setopt($ch, CURLOPT_POST, 1);
-				curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-				curl_setopt($ch, CURLOPT_POSTFIELDS, ['photo' => $cfile]);
-				$responseUpload = json_decode(curl_exec($ch));
-				curl_close($ch);
-				//echo 'Картинка успешно загружена<br>';
-				$log->LogInfo("Image uploaded to VK successfully");
-			} catch (Exception $e) {
-				$log->LogError("Unknown error when tried to upload image to VK");
-				//exit('Неизвестная ошибка при попытке загрузки картинки');
-			}
 			
-			$responseSave = vkAPI('photos.saveWallPhoto', [
-			   // 'owner_id' => $user_id,
-			   'group_id'=>$vk_group_id,
-				'photo' => stripslashes($responseUpload->photo),
-				'server' => $responseUpload->server,
-				'hash' => $responseUpload->hash,
-				'version'=>$api_version,
-				'v'=>$api_version,
-			]);
-			if ($responseSave->error) {
-				$log->LogError("Unknown error when tried to save uploaded image to VK. API answer: code is ".$responseSave->error->error_code.', message is "'.$responseSave->error->error_msg .'"');
-				//exit('Неизвестная ошибка при попытке сохранения картинки');
-			} else {# Картинка успешно сохранена
-				$log->LogInfo("Uploaded image saved in VK successfully");
+			#Получим URL для загрузки картинки
+			$get_upload_URL=vkAPI('photos.getWallUploadServer', ['group_id' => $vk_group_id,'version'=>$api_version,
+				'v'=>$api_version]);
+			$upload_url = $get_upload_URL->response->upload_url;
 				
-				$post_attachmts.=",".$responseSave->response[0]->id; //убрать запятую, если нет других аттачментов
-			}
+			$log->LogDebug("Upload URL is ".$upload_url);
+			
+			if($upload_url) { #Есть upload URL, постим картинку
+				try {
+					$ch = curl_init($upload_url);
+					$cfile = curl_file_create($image, mime_content_type($image), $image_name);
+					curl_setopt($ch, CURLOPT_POST, 1);
+					curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+					curl_setopt($ch, CURLOPT_POSTFIELDS, ['photo' => $cfile]);
+					$uplImg_json=curl_exec($ch);
+					$responseUpload = json_decode($uplImg_json);
+					curl_close($ch);
+					
+					$log->LogInfo("Image uploaded to VK successfully");
+					$log->LogDebug("Used method is photos.getWallUploadServer. Answer is ".$uplImg_json);
+				} catch (Exception $e) {
+
+					$log->LogError("Unknown error when tried to upload image to VK");
+
+				}
+				
+				$responseSave = vkAPI('photos.saveWallPhoto', [
+				   // 'owner_id' => $user_id,
+				   'group_id'=>$vk_group_id,
+					'photo' => stripslashes($responseUpload->photo),
+					'server' => $responseUpload->server,
+					'hash' => $responseUpload->hash,
+					'version'=>$api_version,
+					'v'=>$api_version,
+				]);
+				if ($responseSave->error) {
+					$log->LogError("Unknown error when tried to save uploaded image to VK. API answer: code is ".$responseSave->error->error_code.', message is "'.$responseSave->error->error_msg .'"');
+					//exit('Неизвестная ошибка при попытке сохранения картинки');
+				} else {# Картинка успешно сохранена
+					//var_export($responseSave);
+					$log->LogInfo("Uploaded image saved in VK successfully (". $responseSave->response[0]->id.")");
+					if($vk_wall_post_attach['link']) $post_attachmts.=",";
+					$post_attachmts.="photo".$responseSave->response[0]->owner_id."_".$responseSave->response[0]->id;
+				}
+			} else $log->LogError("Cant get upload URL from VK - ".$get_upload_URL->response);
 		}
 		#ПОСТИМ
 		$responsePost = vkAPI('wall.post', [
 			'owner_id' => '-'.$vk_group_id,
+			'from_group'=>"1",
 			'message' => $vk_wall_post_message,
 			'attachments' =>$post_attachmts,
 			'hash' => $responseSave->response[0]->hash,
@@ -285,7 +280,7 @@ if($nitka=='1'){
 				$log->LogDebug('Video had not posted to VK before');
 				$link = 'https://www.youtube.com/watch?v='.$ytid; // ccылка на ютуб
 				//$name = urlencode ( $v_details['vtitle']); //название видео (не обязательно)
-				$name =  $v_details['vtitle']; //название видео 
+				$name =  htmlspecialchars_decode($v_details['vtitle']); //название видео 
 				$alltags=explode(';',$v_details['tags']);
 				foreach($alltags as $tag){
 					if($tag){
@@ -434,29 +429,11 @@ if($nitka=='1'){
 			echo "Фейл, пост не добавлен(( ищите ошибку\n";
 		}
 	} elseif($contact=='show_like_button'){
+
 		// Код получается отсюда - https://vk.com/dev/Like
 		$show_view='like_button'; // Код кнопки пишется в файл /project/projectname/modules_data/vk-api.view.like_button.php
-	} /*elseif($contact=="send_message"){
-		//при параметре scope=offline,messages
-		//function send_vk_message($id , $message){
-			$url = 'https://api.vk.com/method/messages.send';
-			$params = array(
-				'user_id' => $id,    // Кому отправляем
-				'message' => $message,   // Что отправляем
-				'access_token' => '0000000000000000000000000000',  // access_token можно вбить хардкодом, если работа будет идти из под одного юзера
-				'v' => '5.37',
-			);
-
-			// В $result вернется id отправленного сообщения
-			$result = file_get_contents($url, false, stream_context_create(array(
-				'http' => array(
-					'method'  => 'POST',
-					'header'  => 'Content-type: application/x-www-form-urlencoded',
-					'content' => http_build_query($params)
-				)
-			)));
-		//}
-	}*/ elseif($contact=="get_wall"){ #Получаем записи со стены
+	
+	} elseif($contact=="get_wall"){ #Получаем записи со стены
 		
 		/*#Usage example
 		
@@ -550,7 +527,8 @@ if($nitka=='1'){
 			'user_id'=>$to_id,
 			'message' => $message,
 			'random_id' => rand(1000,9999999),
-			'v'=> 5.45,
+			'v'=> $api_version,
+			'version'=> $api_version,
 			'access_token'=>$access_token
 		],'array');
 
@@ -786,7 +764,7 @@ if($nitka=='1'){
 				}
 				echo "<a target='_blank' href='/".$file."'>Скачать файл</a>";
 			}
-		}
+		} 
 	}
 	
 }

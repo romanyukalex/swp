@@ -362,13 +362,13 @@ if($nitka=="1"){
 
 				if ($pid > 0 && posix_kill($pid, 0)) {# Такой демон найден и запущен
 					$log->LogDebug(basename(__FILE__)." | ".(__LINE__)." | New worker NOT started in daemon mode because process is already running with PID =".$pid);
-					echo $sitemessage[$modulename]['deamon_alr_run'];
+					echo sitemessage("$modulename",'deamon_alr_run');
 					exit;
 				}
 
 				if (!unlink(PIDFILE_NAME)) {# Файл найден, но демон не найден. Стираем файл с PID
 					$log->LogDebug(basename(__FILE__)." | ".(__LINE__)." | Attention. PID-file delete can NOT be erased");
-					echo $sitemessage[$modulename]['PIDfile_cant_erase'];
+					echo sitemessage("$modulename",'PIDfile_cant_erase');
 					exit;
 				}
 			}
@@ -378,7 +378,7 @@ if($nitka=="1"){
 			if($mon_host_info['mon_type']=="ping" or $mon_host_info['mon_type']=="fsockopen" or $mon_host_info['mon_type']=="Socket") {
 				$cons_cmd="php ".$fullpath."modules/".$modulename."/monitor_worker.php ".$projectname." ".$mon_host_info['ipaddr']." ".$mon_host_info['port']." ".$mon_host_info['mon_type']." ".$mon_host_info['mon_period']." > /dev/null &";
 				exec($cons_cmd);
-				echo $sitemessage[$modulename]['daemon_started'];
+				echo sitemessage("$modulename",'daemon_started');
 				$log->LogInfo(basename (__FILE__)." | Daemon for node ".$mon_node." successfully started with PID ".$pid);
 			}
 		} else {

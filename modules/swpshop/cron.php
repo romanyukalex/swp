@@ -41,7 +41,11 @@ if($payments_q and mysql_num_rows($payments_q)>0){ #Есть новые плат
 
 			#Статус платежа - обработан
 			mysql_query("UPDATE `$tableprefix-payments` SET `pm_status`='processed' WHERE `order_id`='".$order_id."';");
-
+			
+			#Отправляем письмо админу о проведенном платеже
+			insert_function("sendletter");
+			sendletter_to_admin("Новый заказ на портале","Новый заказ");
+			
 			#Обработка заказа по бизнес-процессу проекта
 			if(is_readable($_SERVER['DOCUMENT_ROOT']."/project/".$projectname."/modules_data/swpshop.action.order_paid.php")){
 				include($_SERVER['DOCUMENT_ROOT']."/project/".$projectname."/modules_data/swpshop.action.order_paid.php");

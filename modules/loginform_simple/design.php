@@ -16,4 +16,4 @@ if (($userrole=='guest' or !$userrole) and $nitka=='1'){?><div>
 		</form>
 	</fieldset>
 </div>
-<? } else {echo $sitemessage['loginform_simple']['user_alred_logged_in'];}?>
+<? } else {echo sitemessage('loginform_simple','user_alred_logged_in');}?>

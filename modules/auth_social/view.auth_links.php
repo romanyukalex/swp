@@ -14,7 +14,7 @@ $log->LogDebug('Got this file');
 if ($nitka=='1'){
 	foreach ($adapters as $title => $adapter) {
        // $log->LogDebug('Adapter '.$title.' is ready');
-        ?><a href="<?=$adapter->getAuthUrl()?>"><img src="/modules/<?=$modulename?>/lib/pics/rousq/<?=$title?>.png" width="80px"></a><?
+        ?><a id="auth_social_<?=$title?>_link" href="<?=$adapter->getAuthUrl()?>"><img src="/modules/<?=$modulename?>/lib/pics/rousq/<?=$title?>.png" width="80px"></a><?
     }
 }
 ?>

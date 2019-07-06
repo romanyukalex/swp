@@ -18,24 +18,24 @@ if(!$_SERVER['DOCUMENT_ROOT']){
 }
 
 //gc_enable();
-
+echo "OK";
 if($argv[1]) $projectname=$argv[1]; // Первый параметр при запуске из командной строки - это название проекта
 
 include($_SERVER['DOCUMENT_ROOT'].'/project/'.$projectname.'/config.php');#Cистемные параметры
 
-include($_SERVER['DOCUMENT_ROOT'].'/core/system-param.php');#Параметры портала, юзер сеттинги
+include($_SERVER['DOCUMENT_ROOT'].'/core/system-param_cron.php');#Параметры портала, юзер сеттинги
 
 if($php_log_enabled=='Включить логирование'){
 	ini_set('log_errors', 'On');
 	if(isset($PHP_errors_log))ini_set('error_log', $PHP_errors_log);// PHP ошибки
-	error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED);# Уровень логов в apache в обычном режиме
+	error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED  & ~E_WARNING);# Уровень логов в apache в обычном режиме
 }
 
 if(!class_exists('KLogger')){
 	include($_SERVER['DOCUMENT_ROOT'].'/core/functions/KLogger.php');
 }
-//$loglevel="KLogger::$loglevel_cron";
-$log=new KLogger( $cron_logfile , $loglevel_cron);
+
+$log=new KLogger( $loglevel_cron);
 $log->LogInfo('----- The new console call ----------');
 
 // Простые php функции из папки /core/functions/ вставляем вручную

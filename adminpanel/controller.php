@@ -46,7 +46,14 @@ if($nitka=='1'){
 		$show_view='update';
 	} elseif($page=='CTaTuCTuKa'){
 		$show_view='statistics';		
-	} else{
+	}elseif($page=='CTaTuCTuKa_graph'){
+		$show_view='stat_graph';		
+	} elseif($page=='CoobuuEHuR'){
+		$show_view='messageToAdmin';		
+	}
+
+
+	else{
 		
 		$show_view='admin_hello';
 	}

@@ -12,7 +12,7 @@ $log->LogInfo('Got this file');
 if($adminpanel==1){
 ?>
 <div id='settingstablediv'>
-				<h1><img src="/adminpanel/pics/checklist256.png" height="64px" class="imgmiddle">Параметры системы</h1><br>
+				<h1><img src="/adminpanel/pics/checklist256.png" height="64px" class="imgmiddle">Параметры системы!</h1><br>
 			
 <table id="settings_table" class="settings_table">
 	<tr class="gradient_to_top_1"><th width="25%">Описание параметра</th><th width="60%">Значение параметра</th><th width="15%">Действия</th></tr>

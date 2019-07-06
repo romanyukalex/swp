@@ -72,6 +72,6 @@ if($nitka=="1"){
 			
 			include($_SERVER["DOCUMENT_ROOT"]."/project/".$projectname. '/modules_data/'.$modulename.'.design_results.php');
 		
-		} else {echo $sitemessage[$modulename]["no_result_design"]."<br> /project/" .$projectname. '/modules_data/'.$modulename.'.design_results.php';}
+		} else {echo sitemessage("$modulename","no_result_design")."<br> /project/" .$projectname. '/modules_data/'.$modulename.'.design_results.php';}
 	}
 }?>

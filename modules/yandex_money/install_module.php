@@ -21,5 +21,8 @@ if ($moduleinstalled["$modulename"]!=='y' and $nitka=='1'){ #Требуется 
 	(NULL, '$modulename', 'payment_success', 'Сообщение об удачном прохождении процедуры оплаты через Яндекс.Деньги', 'Вы успешно оплатили заказ. Ожидайте звонка нашего менеджера в течении 20 минут', 'You successfully paid your order. Please, wait 20 minute and our manager will communicate you',null),
 	(NULL, '$modulename', 'payment_fail', 'Сообщение о неудачном прохождении процедуры оплаты через Яндекс.Деньги', 'Ваш заказ всё ещё не оплачен', 'Your order had not been paid', NULL)
 	;";
+	
+	$DBdata['Adding siteconfig settings']="INSERT INTO `$tableprefix-siteconfig` (`id`, `value`, `vartype`, `describe`, `systemparamname`, `formmaxlegth`, `varpossible`, `showtositeadmin`, `example`, `depend`, `maybeempty`,`module_id`) VALUES 
+		(NULL, 'XXXXXXXXXXXXXXXXXXXXXXXX', '1', 'Секрет для SHA1 в Yandex.Money', 'yamon_notif_secret', '30', NULL, '1', 'XXXXXXXXXXXXXXXXXXXXXXXX', 'design', '1','$moduleid');";
 }
 ?>
