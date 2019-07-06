@@ -1,0 +1,1250 @@
+<!-- Страница psybooks_mystic-->
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_mystic">
+			<input type="hidden" name="cat_id" value="">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Все категории книг по психологии [18861 книга]</h2>
+</div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+							</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-10"><a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=472"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=171"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=172">172</a> | <a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=171">171</a> | <b>170</b> | <a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=169">169</a> |  <a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=168">168</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=169">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Канке В. А. - Основные философские направления и концепции науки. Итоги XX столетия [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4746895" onclick="yandex_target('all_books');return true;"><img src="http://i64.fastpic.ru/big/2014/0525/34/4b5a120d1a5cbab7efdf4d3e08317a34.jpg" width="100%" class="thumbnail" alt="Обложка книги Канке В. А. - Основные философские направления и концепции науки. Итоги XX столетия [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Канке В. А. - Основные философские направления и концепции науки. Итоги XX столетия [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4746895" target="_blank" onclick="yandex_target('all_books');return true;">Основные философские направления и концепции науки. Итоги XX столетия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Канке В. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Канке В. А.">Канке В. А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Фараджев К. В. - Владимир Соловьев: мифология образа [2000, PDF, RUS]" href="/?page=book&topic_id=4708472" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2014/0403/bf/ae1baa7eae1698cd8b182fad394294bf.jpg" width="100%" class="thumbnail" alt="Обложка книги Фараджев К. В. - Владимир Соловьев: мифология образа [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Фараджев К. В. - Владимир Соловьев: мифология образа [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4708472" target="_blank" onclick="yandex_target('all_books');return true;">Владимир Соловьев: мифология образа </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фараджев К. В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фараджев К. В.">Фараджев К. В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Mystica Christiana - Иоханн Таулер - Царство божие внутри нас. Проповеди Иоханна Таулера [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4684052" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2014/0304/23/138b38c58ef7f84e0ace8706b2b97423.jpg" width="100%" class="thumbnail" alt="Обложка книги Mystica Christiana - Иоханн Таулер - Царство божие внутри нас. Проповеди Иоханна Таулера [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Mystica Christiana - Иоханн Таулер - Царство божие внутри нас. Проповеди Иоханна Таулера [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4684052" target="_blank" onclick="yandex_target('all_books');return true;">Царство божие внутри нас. Проповеди Иоханна Таулера </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Иоханн Таулер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Иоханн Таулер">Иоханн Таулер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Фихте И. Г. - Наукоучение 1801 -го года [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4651329" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2014/0125/73/6871343e7a94133ebe318a05c6952d73.jpg" width="100%" class="thumbnail" alt="Обложка книги Фихте И. Г. - Наукоучение 1801 -го года [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Фихте И. Г. - Наукоучение 1801 -го года [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4651329" target="_blank" onclick="yandex_target('all_books');return true;">Наукоучение 1801 -го года </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фихте И. Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фихте И. Г.">Фихте И. Г.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Метафизические исследования. Приложение к альманаху - Пирс Ч. С. - Начала прагматизма. В двух томах [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4651145" onclick="yandex_target('all_books');return true;"><img src="http://i58.fastpic.ru/big/2014/0125/7b/c6e02d9eeee35160af9f1fef00a9c67b.jpg" width="100%" class="thumbnail" alt="Обложка книги Метафизические исследования. Приложение к альманаху - Пирс Ч. С. - Начала прагматизма. В двух томах [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Метафизические исследования. Приложение к альманаху - Пирс Ч. С. - Начала прагматизма. В двух томах [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4651145" target="_blank" onclick="yandex_target('all_books');return true;">Начала прагматизма. В двух томах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Пирс Ч. С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Пирс Ч. С.">Пирс Ч. С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Урбанаева И.С. - Шаманская философия бурят-монголов: центральноазиатское тэнгрианство в свете духовных учений [2000, PDF, RUS]" href="/?page=book&topic_id=4629388" onclick="yandex_target('all_books');return true;"><img src="http://i58.fastpic.ru/big/2014/0101/d4/1c8047966875cc2986be9bce934fe3d4.jpg" width="100%" class="thumbnail" alt="Обложка книги Урбанаева И.С. - Шаманская философия бурят-монголов: центральноазиатское тэнгрианство в свете духовных учений [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Урбанаева И.С. - Шаманская философия бурят-монголов: центральноазиатское тэнгрианство в свете духовных учений [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4629388" target="_blank" onclick="yandex_target('all_books');return true;">Шаманская философия бурят-монголов: центральноазиатское тэнгрианство в свете духовных учений </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Урбанаева И.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Урбанаева И.С.">Урбанаева И.С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дильтей Вильгельм - Собрание сочинений в 6 томах. Т.1. Введение в науки о духе [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4628820" onclick="yandex_target('all_books');return true;"><img src="http://i2.imageban.ru/out/2013/12/31/5c089a7f20d28a00bc56496124651d5d.jpg" width="100%" class="thumbnail" alt="Обложка книги Дильтей Вильгельм - Собрание сочинений в 6 томах. Т.1. Введение в науки о духе [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дильтей Вильгельм - Собрание сочинений в 6 томах. Т.1. Введение в науки о духе [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4628820" target="_blank" onclick="yandex_target('all_books');return true;">Собрание сочинений в 6 томах. Т.1. Введение в науки о духе </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дильтей Вильгельм" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дильтей Вильгельм">Дильтей Вильгельм</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Слово о сущем - Ясперс К. - Всемирная история философии. Введение [2000, DjVu, RUS]" href="/?page=book&topic_id=4608666" onclick="yandex_target('all_books');return true;"><img src="http://i57.fastpic.ru/big/2013/1207/e4/9b0feab6f22e95015733ebb5aca8aae4.jpg" width="100%" class="thumbnail" alt="Обложка книги Слово о сущем - Ясперс К. - Всемирная история философии. Введение [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Слово о сущем - Ясперс К. - Всемирная история философии. Введение [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4608666" target="_blank" onclick="yandex_target('all_books');return true;">Всемирная история философии. Введение </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ясперс К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ясперс К.">Ясперс К.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">012, PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Леонтьев К.Н. - Полное собрание сочинений и писем в 12 томах [2000-2012, PDF/DjVu, RUS]" href="/?page=book&topic_id=4592434" onclick="yandex_target('all_books');return true;"><img src="http://i020.radikal.ru/1311/6a/5059fe2f8773.jpg" width="100%" class="thumbnail" alt="Обложка книги Леонтьев К.Н. - Полное собрание сочинений и писем в 12 томах [2000-2012, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Леонтьев К.Н. - Полное собрание сочинений и писем в 12 томах [2000-2012, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4592434" target="_blank" onclick="yandex_target('all_books');return true;">Полное собрание сочинений и писем в 12 томах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Леонтьев К.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Леонтьев К.Н.">Леонтьев К.Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кротов А. А. - Философия Мен де Бирана [2000, DjVu, RUS]" href="/?page=book&topic_id=4586855" onclick="yandex_target('all_books');return true;"><img src="http://i57.fastpic.ru/big/2013/1112/9e/8420f5b3752492def5513c91638de89e.jpg" width="100%" class="thumbnail" alt="Обложка книги Кротов А. А. - Философия Мен де Бирана [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кротов А. А. - Философия Мен де Бирана [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4586855" target="_blank" onclick="yandex_target('all_books');return true;">Философия Мен де Бирана </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кротов А. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кротов А. А.">Кротов А. А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Современная европейская философия - Бохенский Ю. М. - Современная европейская философия [2000, DjVu, RUS]" href="/?page=book&topic_id=4571072" onclick="yandex_target('all_books');return true;"><img src="http://i59.fastpic.ru/big/2013/1025/8a/92138aa56077dc9f79d3f4f035d5228a.jpg" width="100%" class="thumbnail" alt="Обложка книги Современная европейская философия - Бохенский Ю. М. - Современная европейская философия [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Современная европейская философия - Бохенский Ю. М. - Современная европейская философия [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4571072" target="_blank" onclick="yandex_target('all_books');return true;">Современная европейская философия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бохенский Ю. М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бохенский Ю. М.">Бохенский Ю. М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гилберт К.Э., Кун Г. - История эстетики [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4559856" onclick="yandex_target('all_books');return true;"><img src="http://i2.imageban.ru/out/2013/10/13/523c2880007aaa034b49e0e954754e70.jpg" width="100%" class="thumbnail" alt="Обложка книги Гилберт К.Э., Кун Г. - История эстетики [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гилберт К.Э., Кун Г. - История эстетики [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4559856" target="_blank" onclick="yandex_target('all_books');return true;">История эстетики </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гилберт К.Э., Кун Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гилберт К.Э., Кун Г.">Гилберт К.Э., Кун Г.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ильин И.А. - Переписка двух Иванов. Собрание сочинений. [2000, DjVu, RUS]" href="/?page=book&topic_id=4550550" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2013/1002/e3/b7cfdc5f8e9f94b2e9b52b1377d141e3.jpg" width="100%" class="thumbnail" alt="Обложка книги Ильин И.А. - Переписка двух Иванов. Собрание сочинений. [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ильин И.А. - Переписка двух Иванов. Собрание сочинений. [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4550550" target="_blank" onclick="yandex_target('all_books');return true;">Переписка двух Иванов. Собрание сочинений. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ильин И.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ильин И.А.">Ильин И.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Памятники религиозно-философской мысли Нового времени. Западная религиозная философия - Беркли Д. - Алкифрон, или Мелкий философ. Работы разных лет [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4541709" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2013/0922/f6/1515b132d27748ead6e60d92f62fd3f6.jpg" width="100%" class="thumbnail" alt="Обложка книги Памятники религиозно-философской мысли Нового времени. Западная религиозная философия - Беркли Д. - Алкифрон, или Мелкий философ. Работы разных лет [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Памятники религиозно-философской мысли Нового времени. Западная религиозная философия - Беркли Д. - Алкифрон, или Мелкий философ. Работы разных лет [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4541709" target="_blank" onclick="yandex_target('all_books');return true;">Алкифрон, или Мелкий философ. Работы разных лет </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Беркли Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Беркли Д.">Беркли Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Karl Marx, edt. David McLellan / Карл Маркс, отред. Дэвид Маклеллан - Карл Маркс : Избранные Произведения / Karl Marx: Selected Writing [2000, PDF, ENG]" href="/?page=book&topic_id=4515636" onclick="yandex_target('all_books');return true;"><img src="http://leftbooks.co.uk/WebRoot/Namesco/Shops/950002679/4FE5/0341/75E3/A53A/1DAE/C0A8/1909/246E/272.500.jpg" width="100%" class="thumbnail" alt="Обложка книги Karl Marx, edt. David McLellan / Карл Маркс, отред. Дэвид Маклеллан - Карл Маркс : Избранные Произведения / Karl Marx: Selected Writing [2000, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Karl Marx, edt. David McLellan / Карл Маркс, отред. Дэвид Маклеллан - Карл Маркс : Избранные Произведения / Karl Marx: Selected Writing [2000, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4515636" target="_blank" onclick="yandex_target('all_books');return true;">Карл Маркс : Избранные Произведения / Karl Marx: Selected Writing </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Karl Marx, edt. David McLellan / Карл Маркс, отред. Дэвид Маклеллан" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Karl Marx, edt. David McLellan / Карл Маркс, отред. Дэвид Маклеллан">Karl Marx, edt. David McLellan / Карл Маркс, отред. Дэвид Маклеллан</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Книга света - Брендлер Г. - Мартин Лютер. Теология и революция [2000, DjVu, RUS]" href="/?page=book&topic_id=4515026" onclick="yandex_target('all_books');return true;"><img src="http://i55.fastpic.ru/big/2013/0820/be/3672f05880a9270f2432fd5cc04110be.jpg" width="100%" class="thumbnail" alt="Обложка книги Книга света - Брендлер Г. - Мартин Лютер. Теология и революция [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Книга света - Брендлер Г. - Мартин Лютер. Теология и революция [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4515026" target="_blank" onclick="yandex_target('all_books');return true;">Мартин Лютер. Теология и революция </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Брендлер Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Брендлер Г.">Брендлер Г.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мамардашвили М.К. - Эстетика мышления [2000, DjVu, RUS]" href="/?page=book&topic_id=4466154" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2013/0616/0f/1d0201f839dd8d008fc7e86f5d89f20f.jpg" width="100%" class="thumbnail" alt="Обложка книги Мамардашвили М.К. - Эстетика мышления [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мамардашвили М.К. - Эстетика мышления [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4466154" target="_blank" onclick="yandex_target('all_books');return true;">Эстетика мышления </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мамардашвили М.К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мамардашвили М.К.">Мамардашвили М.К.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Humanitas - Гайденко П.П. - История новоевропейской философии в ее связи с наукой [2000, DjVu, RUS]" href="/?page=book&topic_id=4458350" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2013/0606/48/c9ca198c49287e7d681ead5441e64c48.jpg" width="100%" class="thumbnail" alt="Обложка книги Humanitas - Гайденко П.П. - История новоевропейской философии в ее связи с наукой [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Humanitas - Гайденко П.П. - История новоевропейской философии в ее связи с наукой [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4458350" target="_blank" onclick="yandex_target('all_books');return true;">История новоевропейской философии в ее связи с наукой </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гайденко П.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гайденко П.П.">Гайденко П.П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Humanitas - Гайденко П.П. - История греческой философии в ее связи с наукой [2000, DjVu, RUS]" href="/?page=book&topic_id=4458343" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2013/0606/80/2cd3ae3ebafa1a1a9ce58b04ccde2880.jpg" width="100%" class="thumbnail" alt="Обложка книги Humanitas - Гайденко П.П. - История греческой философии в ее связи с наукой [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Humanitas - Гайденко П.П. - История греческой философии в ее связи с наукой [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4458343" target="_blank" onclick="yandex_target('all_books');return true;">История греческой философии в ее связи с наукой </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гайденко П.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гайденко П.П.">Гайденко П.П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu/DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мыслители XX века - Сьюзен Лангер - Философия в новом ключе [2000, PDF/DjVu/DOC, RUS]" href="/?page=book&topic_id=3852796" onclick="yandex_target('all_books');return true;"><img src="http://i43.fastpic.ru/big/2012/0731/55/bba1b6495744fad658dc212c27f7b955.jpg" width="100%" class="thumbnail" alt="Обложка книги Мыслители XX века - Сьюзен Лангер - Философия в новом ключе [2000, PDF/DjVu/DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мыслители XX века - Сьюзен Лангер - Философия в новом ключе [2000, PDF/DjVu/DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3852796" target="_blank" onclick="yandex_target('all_books');return true;">Философия в новом ключе </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сьюзен Лангер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сьюзен Лангер">Сьюзен Лангер</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Bibliotheca Italiana - Джентиле Д. - Введение в философию [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4456007" onclick="yandex_target('all_books');return true;"><img src="http://i46.fastpic.ru/big/2013/0603/55/6834482b57b55dc5ca1ce76c0ef3d455.jpg" width="100%" class="thumbnail" alt="Обложка книги Bibliotheca Italiana - Джентиле Д. - Введение в философию [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Bibliotheca Italiana - Джентиле Д. - Введение в философию [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4456007" target="_blank" onclick="yandex_target('all_books');return true;">Введение в философию </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джентиле Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джентиле Д.">Джентиле Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Иммануил Кант - Из рукописного наследия: Материалы к &quot;Критике чистого разума&quot;, Opus postumum. [2000, DjVu, RUS]" href="/?page=book&topic_id=4455162" onclick="yandex_target('all_books');return true;"><img src="http://i46.fastpic.ru/big/2013/0602/96/a02b304ec0e715eed412493a0425b696.jpg" width="100%" class="thumbnail" alt="Обложка книги Иммануил Кант - Из рукописного наследия: Материалы к &quot;Критике чистого разума&quot;, Opus postumum. [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Иммануил Кант - Из рукописного наследия: Материалы к &quot;Критике чистого разума&quot;, Opus postumum. [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4455162" target="_blank" onclick="yandex_target('all_books');return true;">Из рукописного наследия: Материалы к &quot;Критике чистого разума&quot;, Opus postumum. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Иммануил Кант" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Иммануил Кант">Иммануил Кант</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека этической мысли - Адорно Т.В. - Проблемы философии морали. [2000, PDF, DjVu, RUS]" href="/?page=book&topic_id=4451184" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2013/0528/a7/116406b79b85182dd06bb8d6d08910a7.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека этической мысли - Адорно Т.В. - Проблемы философии морали. [2000, PDF, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека этической мысли - Адорно Т.В. - Проблемы философии морали. [2000, PDF, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4451184" target="_blank" onclick="yandex_target('all_books');return true;">Проблемы философии морали. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Адорно Т.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Адорно Т.В.">Адорно Т.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В силе Духа - Мережковский Д.С. - Лица святых от Иисуса к нам. [2000, PDF, DjVu, RUS]" href="/?page=book&topic_id=4435115" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2013/0509/7f/f58767310bf7d0cdc775730d23883b7f.jpg" width="100%" class="thumbnail" alt="Обложка книги В силе Духа - Мережковский Д.С. - Лица святых от Иисуса к нам. [2000, PDF, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В силе Духа - Мережковский Д.С. - Лица святых от Иисуса к нам. [2000, PDF, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4435115" target="_blank" onclick="yandex_target('all_books');return true;">Лица святых от Иисуса к нам. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мережковский Д.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мережковский Д.С.">Мережковский Д.С.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бахтин М.М. - Автор и герой. К философским основам гуманитарных наук [2000, DjVu, RUS]" href="/?page=book&topic_id=4377760" onclick="yandex_target('all_books');return true;"><img src="http://i53.fastpic.ru/big/2013/0313/27/65e492a659638979838e5994ab042827.jpg" width="100%" class="thumbnail" alt="Обложка книги Бахтин М.М. - Автор и герой. К философским основам гуманитарных наук [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бахтин М.М. - Автор и герой. К философским основам гуманитарных наук [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4377760" target="_blank" onclick="yandex_target('all_books');return true;">Автор и герой. К философским основам гуманитарных наук </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бахтин М.М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бахтин М.М.">Бахтин М.М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">djvu , RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Рудольф Арнхейм - Искусство и визуальное восприятие [2000, djvu , RUS]" href="/?page=book&topic_id=4370505" onclick="yandex_target('all_books');return true;"><img src="http://i54.fastpic.ru/big/2013/0306/da/d20009cba4412af4478d09cb11f980da.jpg" width="100%" class="thumbnail" alt="Обложка книги Рудольф Арнхейм - Искусство и визуальное восприятие [2000, djvu , RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Рудольф Арнхейм - Искусство и визуальное восприятие [2000, djvu , RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4370505" target="_blank" onclick="yandex_target('all_books');return true;">Искусство и визуальное восприятие </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рудольф Арнхейм" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рудольф Арнхейм">Рудольф Арнхейм</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">009, PDF, ENG/DEU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Otto Weininger / Отто Вейнингер - Collected aphorisms, notebook and letters to a friend / Собранные афоризмы, записная книжка и письма к другу [2000-2009, PDF, ENG/DEU]" href="/?page=book&topic_id=4304742" onclick="yandex_target('all_books');return true;"><img src="http://i54.fastpic.ru/big/2013/0105/69/b55430e479002b9b29f31053481c8069.jpg" width="100%" class="thumbnail" alt="Обложка книги Otto Weininger / Отто Вейнингер - Collected aphorisms, notebook and letters to a friend / Собранные афоризмы, записная книжка и письма к другу [2000-2009, PDF, ENG/DEU]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Otto Weininger / Отто Вейнингер - Collected aphorisms, notebook and letters to a friend / Собранные афоризмы, записная книжка и письма к другу [2000-2009, PDF, ENG/DEU]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4304742" target="_blank" onclick="yandex_target('all_books');return true;">Collected aphorisms, notebook and letters to a friend / Собранные афоризмы, записная книжка и письма к другу </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Otto Weininger / Отто Вейнингер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Otto Weininger / Отто Вейнингер">Otto Weininger / Отто Вейнингер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бердяев Н. - Творчество и объективация [2000, PDF, RUS]" href="/?page=book&topic_id=4302120" onclick="yandex_target('all_books');return true;"><img src="http://i51.fastpic.ru/big/2013/0102/82/7b1dfbb030618930170fc362837e3d82.jpg" width="100%" class="thumbnail" alt="Обложка книги Бердяев Н. - Творчество и объективация [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бердяев Н. - Творчество и объективация [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4302120" target="_blank" onclick="yandex_target('all_books');return true;">Творчество и объективация </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бердяев Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бердяев Н.">Бердяев Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Русская потаенная литература - Липавский Л., Введенский А.И., Друскин Я.С. и др. - &quot;...Сборище друзей, оставленных судьбою&quot;. &quot;Чинари&quot; в текстах, документах и исследованиях. Том 1-2. [2000, DjVu, RUS]" href="/?page=book&topic_id=4274774" onclick="yandex_target('all_books');return true;"><img src="http://i50.fastpic.ru/big/2012/1207/d7/34cef249cebbe4fad6b19fcd8a0639d7.jpg" width="100%" class="thumbnail" alt="Обложка книги Русская потаенная литература - Липавский Л., Введенский А.И., Друскин Я.С. и др. - &quot;...Сборище друзей, оставленных судьбою&quot;. &quot;Чинари&quot; в текстах, документах и исследованиях. Том 1-2. [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Русская потаенная литература - Липавский Л., Введенский А.И., Друскин Я.С. и др. - &quot;...Сборище друзей, оставленных судьбою&quot;. &quot;Чинари&quot; в текстах, документах и исследованиях. Том 1-2. [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4274774" target="_blank" onclick="yandex_target('all_books');return true;">&quot;...Сборище друзей, оставленных судьбою&quot;. &quot;Чинари&quot; в текстах, документах и исследованиях. Том 1-2. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Липавский Л., Введенский А.И., Друскин Я.С. и др." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Липавский Л., Введенский А.И., Друскин Я.С. и др.">Липавский Л., Введенский А.И., Друскин Я.С. и др.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Абрамов М.А. - Шотландская философия века Просвещения [2000, FB2, RUS]" href="/?page=book&topic_id=2044695" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/ac/84bea0e265a281af720767aa321f73ac.jpg" width="100%" class="thumbnail" alt="Обложка книги Абрамов М.А. - Шотландская философия века Просвещения [2000, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Абрамов М.А. - Шотландская философия века Просвещения [2000, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2044695" target="_blank" onclick="yandex_target('all_books');return true;">Шотландская философия века Просвещения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Абрамов М.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Абрамов М.А.">Абрамов М.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Учебники, учебные пособия - Солодухин О.А. - Логика [2000, DjVu, RUS]" href="/?page=book&topic_id=4240914" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2012/1105/57/16810b73c40eaf74e327951432911c57.jpg" width="100%" class="thumbnail" alt="Обложка книги Учебники, учебные пособия - Солодухин О.А. - Логика [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Учебники, учебные пособия - Солодухин О.А. - Логика [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4240914" target="_blank" onclick="yandex_target('all_books');return true;">Логика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Солодухин О.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Солодухин О.А.">Солодухин О.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Пифагорейские Золотые стихи с комментарием Гиерокла [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4230631" onclick="yandex_target('all_books');return true;"><img src="http://i45.fastpic.ru/big/2012/1027/ee/9d7fc813fca741fc38acf7a86d782eee.jpg" width="100%" class="thumbnail" alt="Обложка книги Пифагорейские Золотые стихи с комментарием Гиерокла [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Пифагорейские Золотые стихи с комментарием Гиерокла [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4230631" target="_blank" onclick="yandex_target('all_books');return true;">Пифагорейские Золотые стихи с комментарием Гиерокла </a></h4>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Андросов В.П. - Буддизм Нагарджуны: Религиозно-философские трактаты [2000, DjVu, RUS]" href="/?page=book&topic_id=4225855" onclick="yandex_target('all_books');return true;"><img src="http://i44.fastpic.ru/big/2012/1023/da/cdf068b0472816ebe74eeda745fed4da.jpg" width="100%" class="thumbnail" alt="Обложка книги Андросов В.П. - Буддизм Нагарджуны: Религиозно-философские трактаты [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Андросов В.П. - Буддизм Нагарджуны: Религиозно-философские трактаты [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4225855" target="_blank" onclick="yandex_target('all_books');return true;">Буддизм Нагарджуны: Религиозно-философские трактаты </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Андросов В.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Андросов В.П.">Андросов В.П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Hans Cousto - The Cosmic Octave: Origin of Harmony, Planets, Tones, Colors, the Power of Inherent Vibrations [2000, PDF, ENG]" href="/?page=book&topic_id=4222007" onclick="yandex_target('all_books');return true;"><img src="http://i45.fastpic.ru/big/2012/1020/e0/7f2f70db7a2f1e13bac9027fba9afce0.jpg" width="100%" class="thumbnail" alt="Обложка книги Hans Cousto - The Cosmic Octave: Origin of Harmony, Planets, Tones, Colors, the Power of Inherent Vibrations [2000, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Hans Cousto - The Cosmic Octave: Origin of Harmony, Planets, Tones, Colors, the Power of Inherent Vibrations [2000, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4222007" target="_blank" onclick="yandex_target('all_books');return true;">The Cosmic Octave: Origin of Harmony, Planets, Tones, Colors, the Power of Inherent Vibrations </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Hans Cousto" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Hans Cousto">Hans Cousto</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Секацкий А. К. - Онтология лжи [2000, DjVu, RUS]" href="/?page=book&topic_id=4213790" onclick="yandex_target('all_books');return true;"><img src="http://i44.fastpic.ru/big/2012/1012/7a/3e40c98e937b31f035040a0a461c027a.jpg" width="100%" class="thumbnail" alt="Обложка книги Секацкий А. К. - Онтология лжи [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Секацкий А. К. - Онтология лжи [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4213790" target="_blank" onclick="yandex_target('all_books');return true;">Онтология лжи </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Секацкий А. К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Секацкий А. К.">Секацкий А. К.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Книга света - Кассирер Э. - Избранное. Индивид и космос [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4210465" onclick="yandex_target('all_books');return true;"><img src="http://i39.fastpic.ru/big/2012/1009/cd/c7b2271572fab3db63466c10c9b71bcd.jpg" width="100%" class="thumbnail" alt="Обложка книги Книга света - Кассирер Э. - Избранное. Индивид и космос [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Книга света - Кассирер Э. - Избранное. Индивид и космос [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4210465" target="_blank" onclick="yandex_target('all_books');return true;">Избранное. Индивид и космос </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кассирер Э." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кассирер Э.">Кассирер Э.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Книга света - Левинас Э. - Избранное. Тотальность и бесконечное [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4209192" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2012/1008/5b/7caaf60d024f7c3a3afb81a953b8335b.jpg" width="100%" class="thumbnail" alt="Обложка книги Книга света - Левинас Э. - Избранное. Тотальность и бесконечное [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Книга света - Левинас Э. - Избранное. Тотальность и бесконечное [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4209192" target="_blank" onclick="yandex_target('all_books');return true;">Избранное. Тотальность и бесконечное </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Левинас Э." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Левинас Э.">Левинас Э.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Маркузе Г. - Разум и революция [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=4193927" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0923/1d/e790e88f6f9bda23cf193980496f601d.jpg" width="100%" class="thumbnail" alt="Обложка книги Маркузе Г. - Разум и революция [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Маркузе Г. - Разум и революция [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4193927" target="_blank" onclick="yandex_target('all_books');return true;">Разум и революция </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Маркузе Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Маркузе Г.">Маркузе Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философия на пороге нового тысячелетия - Козловски П., Соловьев Э. Ю. (под ред.) - Судьбы гегельянства: философия, религия и политика прощаются с модерном [2000, PDF, RUS]" href="/?page=book&topic_id=4148732" onclick="yandex_target('all_books');return true;"><img src="http://i42.fastpic.ru/big/2012/0809/53/0305123b906c1283b933a6c43ba94f53.jpg" width="100%" class="thumbnail" alt="Обложка книги Философия на пороге нового тысячелетия - Козловски П., Соловьев Э. Ю. (под ред.) - Судьбы гегельянства: философия, религия и политика прощаются с модерном [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философия на пороге нового тысячелетия - Козловски П., Соловьев Э. Ю. (под ред.) - Судьбы гегельянства: философия, религия и политика прощаются с модерном [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4148732" target="_blank" onclick="yandex_target('all_books');return true;">Судьбы гегельянства: философия, религия и политика прощаются с модерном </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Козловски П., Соловьев Э. Ю. (под ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Козловски П., Соловьев Э. Ю. (под ред.)">Козловски П., Соловьев Э. Ю. (под ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мыслители XX века - Лангер С. - Философия в новом ключе: Исследование символики разума, ритуала и искусства [2000, DjVu, RUS]" href="/?page=book&topic_id=4140952" onclick="yandex_target('all_books');return true;"><img src="http://i43.fastpic.ru/big/2012/0731/55/bba1b6495744fad658dc212c27f7b955.jpg" width="100%" class="thumbnail" alt="Обложка книги Мыслители XX века - Лангер С. - Философия в новом ключе: Исследование символики разума, ритуала и искусства [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мыслители XX века - Лангер С. - Философия в новом ключе: Исследование символики разума, ритуала и искусства [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4140952" target="_blank" onclick="yandex_target('all_books');return true;">Философия в новом ключе: Исследование символики разума, ритуала и искусства </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лангер С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лангер С.">Лангер С.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Слово о сущем - Яковенко Б. В. - Мощь философии [2000, DjVu, RUS]" href="/?page=book&topic_id=4140808" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/big/2012/0731/96/3d094e6720d617ca022256f91837c096.jpg" width="100%" class="thumbnail" alt="Обложка книги Слово о сущем - Яковенко Б. В. - Мощь философии [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Слово о сущем - Яковенко Б. В. - Мощь философии [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4140808" target="_blank" onclick="yandex_target('all_books');return true;">Мощь философии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Яковенко Б. В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Яковенко Б. В.">Яковенко Б. В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мыслители XX века - Ален - Суждения [2000, DjVu, RUS]" href="/?page=book&topic_id=4139895" onclick="yandex_target('all_books');return true;"><img src="http://i43.fastpic.ru/big/2012/0730/03/5eefc2cd624bfacc7842d719011f1203.jpg" width="100%" class="thumbnail" alt="Обложка книги Мыслители XX века - Ален - Суждения [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мыслители XX века - Ален - Суждения [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4139895" target="_blank" onclick="yandex_target('all_books');return true;">Суждения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ален" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ален">Ален</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Памятники религиозно-философской мысли Древней Руси - Философские и богословские идеи в памятниках древнерусской мысли [2000, DjVu, RUS]" href="/?page=book&topic_id=4079794" onclick="yandex_target('all_books');return true;"><img src="http://4put.ru/pictures/max/332/1021779.jpg" width="100%" class="thumbnail" alt="Обложка книги Памятники религиозно-философской мысли Древней Руси - Философские и богословские идеи в памятниках древнерусской мысли [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Памятники религиозно-философской мысли Древней Руси - Философские и богословские идеи в памятниках древнерусской мысли [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4079794" target="_blank" onclick="yandex_target('all_books');return true;">Философские и богословские идеи в памятниках древнерусской мысли </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Памятники религиозно-философской мысли Древней Руси" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Памятники религиозно-философской мысли Древней Руси">Памятники религиозно-философской мысли Древней Руси</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Йейтс Фрэнсис А. - Джордано Бруно и герметическая традиция [2000, DjVu, RUS]" href="/?page=book&topic_id=4067057" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i631/1205/13/44fdb9860caa.jpg" width="100%" class="thumbnail" alt="Обложка книги Йейтс Фрэнсис А. - Джордано Бруно и герметическая традиция [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Йейтс Фрэнсис А. - Джордано Бруно и герметическая традиция [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4067057" target="_blank" onclick="yandex_target('all_books');return true;">Джордано Бруно и герметическая традиция </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Йейтс Фрэнсис А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Йейтс Фрэнсис А.">Йейтс Фрэнсис А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека этической мысли - Леопарди Дж. - Нравственные очерки. Дневник размышлений. Мысли [2000, DjVu, RUS]" href="/?page=book&topic_id=4065294" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2012/0602/fa/cd66dc8649a8d0681b1c22cb0966c8fa.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека этической мысли - Леопарди Дж. - Нравственные очерки. Дневник размышлений. Мысли [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека этической мысли - Леопарди Дж. - Нравственные очерки. Дневник размышлений. Мысли [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4065294" target="_blank" onclick="yandex_target('all_books');return true;">Нравственные очерки. Дневник размышлений. Мысли </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Леопарди Дж." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Леопарди Дж.">Леопарди Дж.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Калужский М.Л. - Методологические основы анализа системных противоречий общественного развития [2000, PDF, RUS]" href="/?page=book&topic_id=4055473" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Калужский М.Л. - Методологические основы анализа системных противоречий общественного развития [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Калужский М.Л. - Методологические основы анализа системных противоречий общественного развития [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4055473" target="_blank" onclick="yandex_target('all_books');return true;">Методологические основы анализа системных противоречий общественного развития </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Калужский М.Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Калужский М.Л.">Калужский М.Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философы России XX века - Малиновский А.А. - Тектология. Теория систем. Теоретическая биология [2000, DjVu, RUS]" href="/?page=book&topic_id=4054367" onclick="yandex_target('all_books');return true;"><img src="http://i38.fastpic.ru/big/2012/0510/3e/f25b07a3bd304ce57d1a316ad0e3593e.jpg" width="100%" class="thumbnail" alt="Обложка книги Философы России XX века - Малиновский А.А. - Тектология. Теория систем. Теоретическая биология [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философы России XX века - Малиновский А.А. - Тектология. Теория систем. Теоретическая биология [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4054367" target="_blank" onclick="yandex_target('all_books');return true;">Тектология. Теория систем. Теоретическая биология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Малиновский А.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Малиновский А.А.">Малиновский А.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down"> 2006, EPUB, FRA</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Kant, Immanuel / Кант, Иммануил - Избранные работы [2000 / 2006, EPUB, FRA]" href="/?page=book&topic_id=4053039" onclick="yandex_target('all_books');return true;"><img src="http://i38.fastpic.ru/big/2012/0509/9f/beab16262a6786fedbac257cd68b1e9f.jpg" width="100%" class="thumbnail" alt="Обложка книги Kant, Immanuel / Кант, Иммануил - Избранные работы [2000 / 2006, EPUB, FRA]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Kant, Immanuel / Кант, Иммануил - Избранные работы [2000 / 2006, EPUB, FRA]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4053039" target="_blank" onclick="yandex_target('all_books');return true;">Избранные работы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Kant, Immanuel / Кант, Иммануил" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Kant, Immanuel / Кант, Иммануил">Kant, Immanuel / Кант, Иммануил</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Диссертация] Шахов М. О. - Старообрядческое мировоззрение: религиозно-философские основы и отношение к обществу [2000, PDF, RUS]" href="/?page=book&topic_id=4015978" onclick="yandex_target('all_books');return true;"><img src="http://i27.fastpic.ru/big/2012/0409/24/d6f2523058014baa84786487cacbe024.jpg" width="100%" class="thumbnail" alt="Обложка книги [Диссертация] Шахов М. О. - Старообрядческое мировоззрение: религиозно-философские основы и отношение к обществу [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Диссертация] Шахов М. О. - Старообрядческое мировоззрение: религиозно-философские основы и отношение к обществу [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4015978" target="_blank" onclick="yandex_target('all_books');return true;">Старообрядческое мировоззрение: религиозно-философские основы и отношение к обществу </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=] Шахов М. О." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: ] Шахов М. О.">] Шахов М. О.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Schellings F. W. J. // Шеллинг Ф. В. Й. - S&#228;mmtljche Werke // Ранние философские сочинения [2000, PDF, RUS]" href="/?page=book&topic_id=3970260" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2012/0305/f8/c415c80b4d0979da97169d6ba18383f8.jpg" width="100%" class="thumbnail" alt="Обложка книги Schellings F. W. J. // Шеллинг Ф. В. Й. - S&#228;mmtljche Werke // Ранние философские сочинения [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Schellings F. W. J. // Шеллинг Ф. В. Й. - S&#228;mmtljche Werke // Ранние философские сочинения [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3970260" target="_blank" onclick="yandex_target('all_books');return true;">S&#228;mmtljche Werke // Ранние философские сочинения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Schellings F. W. J. // Шеллинг Ф. В. Й." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Schellings F. W. J. // Шеллинг Ф. В. Й.">Schellings F. W. J. // Шеллинг Ф. В. Й.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Горизонты Феноменологии - Гадамер Г.-Г. - Диалектическая этика Платона [2000, DjVu, RUS]" href="/?page=book&topic_id=3961495" onclick="yandex_target('all_books');return true;"><img src="http://i28.fastpic.ru/big/2012/0227/8a/1e744120c1318cd2bdf11e969fd8288a.jpg" width="100%" class="thumbnail" alt="Обложка книги Горизонты Феноменологии - Гадамер Г.-Г. - Диалектическая этика Платона [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Горизонты Феноменологии - Гадамер Г.-Г. - Диалектическая этика Платона [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3961495" target="_blank" onclick="yandex_target('all_books');return true;">Диалектическая этика Платона </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гадамер Г.-Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гадамер Г.-Г.">Гадамер Г.-Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Tatarkiewicz Wl. / Татаркевич Вл. - Historia filozofii / История философии [2000, DjVu, RUS]" href="/?page=book&topic_id=3950922" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2012/0220/10/e7d600792df8180cae73a2ce49d9d810.jpg" width="100%" class="thumbnail" alt="Обложка книги Tatarkiewicz Wl. / Татаркевич Вл. - Historia filozofii / История философии [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Tatarkiewicz Wl. / Татаркевич Вл. - Historia filozofii / История философии [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3950922" target="_blank" onclick="yandex_target('all_books');return true;">Historia filozofii / История философии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Tatarkiewicz Wl. / Татаркевич Вл." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Tatarkiewicz Wl. / Татаркевич Вл.">Tatarkiewicz Wl. / Татаркевич Вл.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шахнович M.M. - Парадоксы теологии Эпикура [2000, DjVu, RUS]" href="/?page=book&topic_id=3945982" onclick="yandex_target('all_books');return true;"><img src="http://i32.fastpic.ru/big/2012/0216/6c/3e0e9b0b0c0a894bc65ef45de1f53b6c.jpg" width="100%" class="thumbnail" alt="Обложка книги Шахнович M.M. - Парадоксы теологии Эпикура [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шахнович M.M. - Парадоксы теологии Эпикура [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3945982" target="_blank" onclick="yandex_target('all_books');return true;">Парадоксы теологии Эпикура </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шахнович M.M." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шахнович M.M.">Шахнович M.M.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, DOCX, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: «Слово о сущем» - Яковенко Б. В. - Мощь философии [2000, DjVu, DOCX, RUS]" href="/?page=book&topic_id=3923763" onclick="yandex_target('all_books');return true;"><img src="http://i30.fastpic.ru/big/2012/0130/80/5002962d26f0ebbe0ffb38a650bc7580.jpg" width="100%" class="thumbnail" alt="Обложка книги «Слово о сущем» - Яковенко Б. В. - Мощь философии [2000, DjVu, DOCX, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: «Слово о сущем» - Яковенко Б. В. - Мощь философии [2000, DjVu, DOCX, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3923763" target="_blank" onclick="yandex_target('all_books');return true;">Мощь философии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Яковенко Б. В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Яковенко Б. В.">Яковенко Б. В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бодрийяр Жан - Символический обмен и смерть [2000, DjVu, RUS]" href="/?page=book&topic_id=3577787" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Бодрийяр Жан - Символический обмен и смерть [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бодрийяр Жан - Символический обмен и смерть [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3577787" target="_blank" onclick="yandex_target('all_books');return true;">Символический обмен и смерть </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бодрийяр Жан" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бодрийяр Жан">Бодрийяр Жан</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, DOCX, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сапронов П. А. - Русская философия. Опыт типологической характеристики [2000, PDF, DOCX, RUS]" href="/?page=book&topic_id=3883211" onclick="yandex_target('all_books');return true;"><img src="http://i30.fastpic.ru/big/2012/0101/8f/afd6631976f239ebc351b274a5265a8f.jpg" width="100%" class="thumbnail" alt="Обложка книги Сапронов П. А. - Русская философия. Опыт типологической характеристики [2000, PDF, DOCX, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сапронов П. А. - Русская философия. Опыт типологической характеристики [2000, PDF, DOCX, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3883211" target="_blank" onclick="yandex_target('all_books');return true;">Русская философия. Опыт типологической характеристики </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сапронов П. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сапронов П. А.">Сапронов П. А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философская пропедевтика - Джеймс У., Рассел Б. - Введение в философию; Проблемы философии [2000, PDF, RUS]" href="/?page=book&topic_id=3882096" onclick="yandex_target('all_books');return true;"><img src="http://i27.fastpic.ru/big/2011/1231/eb/3eb9eaed00dbf4c2e1c1d605c74a46eb.jpg" width="100%" class="thumbnail" alt="Обложка книги Философская пропедевтика - Джеймс У., Рассел Б. - Введение в философию; Проблемы философии [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философская пропедевтика - Джеймс У., Рассел Б. - Введение в философию; Проблемы философии [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3882096" target="_blank" onclick="yandex_target('all_books');return true;">Введение в философию; Проблемы философии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джеймс У., Рассел Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джеймс У., Рассел Б.">Джеймс У., Рассел Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шичалин Ю. А. - История античного платонизма в институциональном аспекте [2000, DjVu, RUS]" href="/?page=book&topic_id=3869516" onclick="yandex_target('all_books');return true;"><img src="http://i27.fastpic.ru/big/2011/1221/fc/4f3df520b864a62fe7b4ea50b2815efc.jpg" width="100%" class="thumbnail" alt="Обложка книги Шичалин Ю. А. - История античного платонизма в институциональном аспекте [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шичалин Ю. А. - История античного платонизма в институциональном аспекте [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3869516" target="_blank" onclick="yandex_target('all_books');return true;">История античного платонизма в институциональном аспекте </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шичалин Ю. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шичалин Ю. А.">Шичалин Ю. А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философская классика. Впервые на русском - Фома Аквинский - Доказательства бытия Бога в «Сумме против язычников» и «Сумме теологии» [2000, DjVu, RUS]" href="/?page=book&topic_id=3865477" onclick="yandex_target('all_books');return true;"><img src="http://i28.fastpic.ru/big/2011/1218/3b/0bcf97d52e90245159f8044382ac3e3b.jpg" width="100%" class="thumbnail" alt="Обложка книги Философская классика. Впервые на русском - Фома Аквинский - Доказательства бытия Бога в «Сумме против язычников» и «Сумме теологии» [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философская классика. Впервые на русском - Фома Аквинский - Доказательства бытия Бога в «Сумме против язычников» и «Сумме теологии» [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3865477" target="_blank" onclick="yandex_target('all_books');return true;">Доказательства бытия Бога в «Сумме против язычников» и «Сумме теологии» </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фома Аквинский" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фома Аквинский">Фома Аквинский</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ex Libris - Мигель Де Унамуно - Святой Мануэль Добрый, мученик. [2000, DjVu, RUS]" href="/?page=book&topic_id=3825538" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Ex Libris - Мигель Де Унамуно - Святой Мануэль Добрый, мученик. [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ex Libris - Мигель Де Унамуно - Святой Мануэль Добрый, мученик. [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3825538" target="_blank" onclick="yandex_target('all_books');return true;">Святой Мануэль Добрый, мученик. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мигель Де Унамуно" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мигель Де Унамуно">Мигель Де Унамуно</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шварцкопф Ф. - Метаморфоза данного: На пути к созданию экологии сознания. [2000, PDF, RUS]" href="/?page=book&topic_id=3735161" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2011/0917/ab/43f2a137349015a3f6ece19c5222ceab.jpg" width="100%" class="thumbnail" alt="Обложка книги Шварцкопф Ф. - Метаморфоза данного: На пути к созданию экологии сознания. [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шварцкопф Ф. - Метаморфоза данного: На пути к созданию экологии сознания. [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3735161" target="_blank" onclick="yandex_target('all_books');return true;">Метаморфоза данного: На пути к созданию экологии сознания. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шварцкопф Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шварцкопф Ф.">Шварцкопф Ф.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">008, FB2, PDF, RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эрнст Юнгер / Ernst Junger - Собрание сочинений (8 произведений) [2000-2008, FB2, PDF, RTF, RUS]" href="/?page=book&topic_id=3726602" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Эрнст Юнгер / Ernst Junger - Собрание сочинений (8 произведений) [2000-2008, FB2, PDF, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эрнст Юнгер / Ernst Junger - Собрание сочинений (8 произведений) [2000-2008, FB2, PDF, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3726602" target="_blank" onclick="yandex_target('all_books');return true;">Собрание сочинений (8 произведений) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эрнст Юнгер / Ernst Junger" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эрнст Юнгер / Ernst Junger">Эрнст Юнгер / Ernst Junger</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Метафизические исследования. Приложение к альманаху - Reid Thomas / Рид Томас (Фома) - Inquiry into the human mind and the principles of Common Sense (1764) / Исследование человеческого ума на принципах здравого смысла [2000, DjVu, RUS]" href="/?page=book&topic_id=3719364" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2011/0905/30/837f26b4107441c681308500ba819f30.jpg" width="100%" class="thumbnail" alt="Обложка книги Метафизические исследования. Приложение к альманаху - Reid Thomas / Рид Томас (Фома) - Inquiry into the human mind and the principles of Common Sense (1764) / Исследование человеческого ума на принципах здравого смысла [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Метафизические исследования. Приложение к альманаху - Reid Thomas / Рид Томас (Фома) - Inquiry into the human mind and the principles of Common Sense (1764) / Исследование человеческого ума на принципах здравого смысла [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3719364" target="_blank" onclick="yandex_target('all_books');return true;">Inquiry into the human mind and the principles of Common Sense (1764) / Исследование человеческого ума на принципах здравого смысла </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Reid Thomas / Рид Томас (Фома)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Reid Thomas / Рид Томас (Фома)">Reid Thomas / Рид Томас (Фома)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Херрманн Фридрих фон - Понятие феноменологии у Хайдеггера и Гуссерля [2000, PDF, RUS]" href="/?page=book&topic_id=3693716" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2011/0816/eb/524a9d473198f65d7fb36c24a8e4e3eb.jpg" width="100%" class="thumbnail" alt="Обложка книги Херрманн Фридрих фон - Понятие феноменологии у Хайдеггера и Гуссерля [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Херрманн Фридрих фон - Понятие феноменологии у Хайдеггера и Гуссерля [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3693716" target="_blank" onclick="yandex_target('all_books');return true;">Понятие феноменологии у Хайдеггера и Гуссерля </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Херрманн Фридрих фон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Херрманн Фридрих фон">Херрманн Фридрих фон</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Хюбнер Б. - Произвольный этос и принудительность эстетики [2000, PDF, RUS]" href="/?page=book&topic_id=3686288" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2011/0810/3a/1d7a3bafba6084b4bf5c4c1fe112103a.jpg" width="100%" class="thumbnail" alt="Обложка книги Хюбнер Б. - Произвольный этос и принудительность эстетики [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Хюбнер Б. - Произвольный этос и принудительность эстетики [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3686288" target="_blank" onclick="yandex_target('all_books');return true;">Произвольный этос и принудительность эстетики </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хюбнер Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хюбнер Б.">Хюбнер Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Плотников Н.С. - Жизнь и история. Философская программа Вильгельма Дильтея [2000, PDF, RUS]" href="/?page=book&topic_id=3686270" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2011/0810/2f/efd4d067cf2b8c52805d24657311762f.jpg" width="100%" class="thumbnail" alt="Обложка книги Плотников Н.С. - Жизнь и история. Философская программа Вильгельма Дильтея [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Плотников Н.С. - Жизнь и история. Философская программа Вильгельма Дильтея [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3686270" target="_blank" onclick="yandex_target('all_books');return true;">Жизнь и история. Философская программа Вильгельма Дильтея </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Плотников Н.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Плотников Н.С.">Плотников Н.С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Passe-partout - Ямпольский М. - Наблюдатель: Очерки истории видения [2000, PDF, RUS]" href="/?page=book&topic_id=3663979" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2011/0723/47/d6efe1c08c2fabf6dfaf92d4cc987247.jpg" width="100%" class="thumbnail" alt="Обложка книги Passe-partout - Ямпольский М. - Наблюдатель: Очерки истории видения [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Passe-partout - Ямпольский М. - Наблюдатель: Очерки истории видения [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3663979" target="_blank" onclick="yandex_target('all_books');return true;">Наблюдатель: Очерки истории видения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ямпольский М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ямпольский М.">Ямпольский М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Элиаде Мирча - Йога. Свобода и бессмертие. [2000, PDF, RUS]" href="/?page=book&topic_id=3654044" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2011/0715/39/9b4c60fcebfaf93b6119b15758abd639.jpg" width="100%" class="thumbnail" alt="Обложка книги Элиаде Мирча - Йога. Свобода и бессмертие. [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Элиаде Мирча - Йога. Свобода и бессмертие. [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3654044" target="_blank" onclick="yandex_target('all_books');return true;">Йога. Свобода и бессмертие. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Элиаде Мирча" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Элиаде Мирча">Элиаде Мирча</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">002, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Русский Путь - Бойков В.Ф. (сост.) - Владимир Соловьев: pro et contra. Том I-II. [2000-2002, PDF, RUS]" href="/?page=book&topic_id=3603924" onclick="yandex_target('all_books');return true;"><img src="http://i22.fastpic.ru/big/2011/0607/4b/77b96e0ce2ae89d1c4be1ca480df084b.jpg" width="100%" class="thumbnail" alt="Обложка книги Русский Путь - Бойков В.Ф. (сост.) - Владимир Соловьев: pro et contra. Том I-II. [2000-2002, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Русский Путь - Бойков В.Ф. (сост.) - Владимир Соловьев: pro et contra. Том I-II. [2000-2002, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3603924" target="_blank" onclick="yandex_target('all_books');return true;">Владимир Соловьев: pro et contra. Том I-II. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бойков В.Ф. (сост.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бойков В.Ф. (сост.)">Бойков В.Ф. (сост.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Русский Путь - Лапо А. (сост.) - В.И. Вернадский: Pro et contra. [2000, PDF, RUS]" href="/?page=book&topic_id=3603918" onclick="yandex_target('all_books');return true;"><img src="http://i22.fastpic.ru/big/2011/0607/12/7f25e5e67ef9222200107810168e8612.jpg" width="100%" class="thumbnail" alt="Обложка книги Русский Путь - Лапо А. (сост.) - В.И. Вернадский: Pro et contra. [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Русский Путь - Лапо А. (сост.) - В.И. Вернадский: Pro et contra. [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3603918" target="_blank" onclick="yandex_target('all_books');return true;">В.И. Вернадский: Pro et contra. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лапо А. (сост.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лапо А. (сост.)">Лапо А. (сост.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">CHM, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Юркевич Панфил Данилович - Сакральная педагогика сердца. О христианстве и воспитании [2000, CHM, RUS]" href="/?page=book&topic_id=3594306" onclick="yandex_target('all_books');return true;"><img src="http://i22.fastpic.ru/big/2011/0530/08/d4ede99bab8fb4c5471439ca93031f08.jpg" width="100%" class="thumbnail" alt="Обложка книги Юркевич Панфил Данилович - Сакральная педагогика сердца. О христианстве и воспитании [2000, CHM, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Юркевич Панфил Данилович - Сакральная педагогика сердца. О христианстве и воспитании [2000, CHM, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3594306" target="_blank" onclick="yandex_target('all_books');return true;">Сакральная педагогика сердца. О христианстве и воспитании </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Юркевич Панфил Данилович" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Юркевич Панфил Данилович">Юркевич Панфил Данилович</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лазарев В.В. - Этическая мысль в Германии и России. Шеллинг и Вл.Соловьев [2000, PDF, RUS]" href="/?page=book&topic_id=3585952" onclick="yandex_target('all_books');return true;"><img src="http://i22.fastpic.ru/big/2011/0524/4a/d6a6050d9344d29cf0716e811f1c6f4a.jpg" width="100%" class="thumbnail" alt="Обложка книги Лазарев В.В. - Этическая мысль в Германии и России. Шеллинг и Вл.Соловьев [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лазарев В.В. - Этическая мысль в Германии и России. Шеллинг и Вл.Соловьев [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3585952" target="_blank" onclick="yandex_target('all_books');return true;">Этическая мысль в Германии и России. Шеллинг и Вл.Соловьев </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лазарев В.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лазарев В.В.">Лазарев В.В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Киященко Л.П. - В поисках исчезающей предметности. (Очерки о синергетике языка) [2000, PDF, RUS]" href="/?page=book&topic_id=3583264" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Киященко Л.П. - В поисках исчезающей предметности. (Очерки о синергетике языка) [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Киященко Л.П. - В поисках исчезающей предметности. (Очерки о синергетике языка) [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3583264" target="_blank" onclick="yandex_target('all_books');return true;">В поисках исчезающей предметности. (Очерки о синергетике языка) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Киященко Л.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Киященко Л.П.">Киященко Л.П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бодрийяр Жан - Америка [2000, PDF, RUS]" href="/?page=book&topic_id=3580451" onclick="yandex_target('all_books');return true;"><img src="http://i17.fastpic.ru/big/2011/0520/db/34f3b1af57c7ff4dc03b3284ed0934db.jpg" width="100%" class="thumbnail" alt="Обложка книги Бодрийяр Жан - Америка [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бодрийяр Жан - Америка [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3580451" target="_blank" onclick="yandex_target('all_books');return true;">Америка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бодрийяр Жан" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бодрийяр Жан">Бодрийяр Жан</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мотрошилова Н.В. (ред.) - История философии: Запад-Россия-Восток. В четырех книгах [2000, PDF, RUS]" href="/?page=book&topic_id=3575581" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Мотрошилова Н.В. (ред.) - История философии: Запад-Россия-Восток. В четырех книгах [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мотрошилова Н.В. (ред.) - История философии: Запад-Россия-Восток. В четырех книгах [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3575581" target="_blank" onclick="yandex_target('all_books');return true;">История философии: Запад-Россия-Восток. В четырех книгах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мотрошилова Н.В. (ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мотрошилова Н.В. (ред.)">Мотрошилова Н.В. (ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Усманова А.Р. - Умберто Эко: парадоксы интерпретации [2000, DOC, RUS]" href="/?page=book&topic_id=3574850" onclick="yandex_target('all_books');return true;"><img src="http://i19.fastpic.ru/big/2011/0516/7b/2aeed5d46feaf034e03942dc0157267b.jpeg" width="100%" class="thumbnail" alt="Обложка книги Усманова А.Р. - Умберто Эко: парадоксы интерпретации [2000, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Усманова А.Р. - Умберто Эко: парадоксы интерпретации [2000, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3574850" target="_blank" onclick="yandex_target('all_books');return true;">Умберто Эко: парадоксы интерпретации </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Усманова А.Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Усманова А.Р.">Усманова А.Р.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Зубов В. П. - Аристотель. Человек. Наука. Судьба наследия [2000, PDF, RUS]" href="/?page=book&topic_id=3571560" onclick="yandex_target('all_books');return true;"><img src="http://i11.fastpic.ru/big/2011/0514/38/132b71ac8fa99e5f6433ce6777383b38.jpg" width="100%" class="thumbnail" alt="Обложка книги Зубов В. П. - Аристотель. Человек. Наука. Судьба наследия [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Зубов В. П. - Аристотель. Человек. Наука. Судьба наследия [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3571560" target="_blank" onclick="yandex_target('all_books');return true;">Аристотель. Человек. Наука. Судьба наследия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Зубов В. П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Зубов В. П.">Зубов В. П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Беньямин Вальтер - Озарения [2000, PDF, RUS]" href="/?page=book&topic_id=3570815" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Беньямин Вальтер - Озарения [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Беньямин Вальтер - Озарения [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3570815" target="_blank" onclick="yandex_target('all_books');return true;">Озарения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Беньямин Вальтер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Беньямин Вальтер">Беньямин Вальтер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бодрийяр Жан - Забыть Фуко [2000, PDF, RUS]" href="/?page=book&topic_id=3570521" onclick="yandex_target('all_books');return true;"><img src="http://i11.fastpic.ru/big/2011/0513/6b/e0f9d9d9621ac11d24c8064d9f3d356b.jpg" width="100%" class="thumbnail" alt="Обложка книги Бодрийяр Жан - Забыть Фуко [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бодрийяр Жан - Забыть Фуко [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3570521" target="_blank" onclick="yandex_target('all_books');return true;">Забыть Фуко </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бодрийяр Жан" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бодрийяр Жан">Бодрийяр Жан</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бодрийяр Жан - В тени молчаливого большинства, или Конец социального [2000, PDF, RUS]" href="/?page=book&topic_id=3570494" onclick="yandex_target('all_books');return true;"><img src="http://i11.fastpic.ru/big/2011/0513/2b/5f0c1294fabb0c8908081f06d1d0f52b.jpg" width="100%" class="thumbnail" alt="Обложка книги Бодрийяр Жан - В тени молчаливого большинства, или Конец социального [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бодрийяр Жан - В тени молчаливого большинства, или Конец социального [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3570494" target="_blank" onclick="yandex_target('all_books');return true;">В тени молчаливого большинства, или Конец социального </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бодрийяр Жан" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бодрийяр Жан">Бодрийяр Жан</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Щитцова Т.В. - Понятие события и философское обоснование гуманитарных наук у Бахтина [2000, PDF, RUS]" href="/?page=book&topic_id=3569194" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Щитцова Т.В. - Понятие события и философское обоснование гуманитарных наук у Бахтина [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Щитцова Т.В. - Понятие события и философское обоснование гуманитарных наук у Бахтина [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3569194" target="_blank" onclick="yandex_target('all_books');return true;">Понятие события и философское обоснование гуманитарных наук у Бахтина </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Щитцова Т.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Щитцова Т.В.">Щитцова Т.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сычева С.Г. - Проблема символа в философии [2000, PDF, RUS]" href="/?page=book&topic_id=3568314" onclick="yandex_target('all_books');return true;"><img src="http://i11.fastpic.ru/big/2011/0511/6b/529d2800b08cca9ca1db1d2ebfb4dc6b.jpg" width="100%" class="thumbnail" alt="Обложка книги Сычева С.Г. - Проблема символа в философии [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сычева С.Г. - Проблема символа в философии [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3568314" target="_blank" onclick="yandex_target('all_books');return true;">Проблема символа в философии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сычева С.Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сычева С.Г.">Сычева С.Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бруно Джордано - Философские диалоги [2000, DjVu/PDF, RUS]" href="/?page=book&topic_id=3168927" onclick="yandex_target('all_books');return true;"><img src="http://i704.photobucket.com/albums/ww46/glasnaglarus/Books%204/Bruno_Dial_Cover.jpg" width="100%" class="thumbnail" alt="Обложка книги Бруно Джордано - Философские диалоги [2000, DjVu/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бруно Джордано - Философские диалоги [2000, DjVu/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3168927" target="_blank" onclick="yandex_target('all_books');return true;">Философские диалоги </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бруно Джордано" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бруно Джордано">Бруно Джордано</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">2004, DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Руткевич А.М. (отв. ред.) - История философии. №7, № 11. [2000, 2004, DjVu, RUS]" href="/?page=book&topic_id=3567323" onclick="yandex_target('all_books');return true;"><img src="http://i20.fastpic.ru/big/2011/0511/da/ca7a003509182212fb05795a830e7bda.jpg" width="100%" class="thumbnail" alt="Обложка книги Руткевич А.М. (отв. ред.) - История философии. №7, № 11. [2000, 2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Руткевич А.М. (отв. ред.) - История философии. №7, № 11. [2000, 2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3567323" target="_blank" onclick="yandex_target('all_books');return true;">История философии. №7, № 11. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Руткевич А.М. (отв. ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Руткевич А.М. (отв. ред.)">Руткевич А.М. (отв. ред.)</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Классическая философская мысль - Фихте И.Г. - Факты сознания. Назначение человека. Наукоучение. [2000, DjVu, RUS]" href="/?page=book&topic_id=3566054" onclick="yandex_target('all_books');return true;"><img src="http://i20.fastpic.ru/big/2011/0510/6f/6bc2a1f2d63281ae583914e46056b26f.jpg" width="100%" class="thumbnail" alt="Обложка книги Классическая философская мысль - Фихте И.Г. - Факты сознания. Назначение человека. Наукоучение. [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Классическая философская мысль - Фихте И.Г. - Факты сознания. Назначение человека. Наукоучение. [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3566054" target="_blank" onclick="yandex_target('all_books');return true;">Факты сознания. Назначение человека. Наукоучение. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фихте И.Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фихте И.Г.">Фихте И.Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шрёдингер Эрвин - Разум и материя [2000, DjVu, RUS]" href="/?page=book&topic_id=3563635" onclick="yandex_target('all_books');return true;"><img src="http://i20.fastpic.ru/big/2011/0508/02/133f7589a594e7e4fe836e54871a1402.jpeg" width="100%" class="thumbnail" alt="Обложка книги Шрёдингер Эрвин - Разум и материя [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шрёдингер Эрвин - Разум и материя [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3563635" target="_blank" onclick="yandex_target('all_books');return true;">Разум и материя </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шрёдингер Эрвин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шрёдингер Эрвин">Шрёдингер Эрвин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Пустарнаков В. Ф. (ред.-сост.) - Философия Фихте в России [2000, DjVu, RUS]" href="/?page=book&topic_id=3558989" onclick="yandex_target('all_books');return true;"><img src="http://i20.fastpic.ru/big/2011/0505/48/ccb7880fc789ca02cb8ebd3bafbc9948.jpg" width="100%" class="thumbnail" alt="Обложка книги Пустарнаков В. Ф. (ред.-сост.) - Философия Фихте в России [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Пустарнаков В. Ф. (ред.-сост.) - Философия Фихте в России [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3558989" target="_blank" onclick="yandex_target('all_books');return true;">Философия Фихте в России </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Пустарнаков В. Ф. (ред.-сост.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Пустарнаков В. Ф. (ред.-сост.)">Пустарнаков В. Ф. (ред.-сост.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Куайн Уиллард ван Орман - Слово и объект(Научное издание) [2000, PDF, RUS]" href="/?page=book&topic_id=3537271" onclick="yandex_target('all_books');return true;"><img src="http://i20.fastpic.ru/big/2011/0420/c7/eb385b6041d1d243a0bc0892364c91c7.jpg" width="100%" class="thumbnail" alt="Обложка книги Куайн Уиллард ван Орман - Слово и объект(Научное издание) [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Куайн Уиллард ван Орман - Слово и объект(Научное издание) [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3537271" target="_blank" onclick="yandex_target('all_books');return true;">Слово и объект(Научное издание) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Куайн Уиллард ван Орман" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Куайн Уиллард ван Орман">Куайн Уиллард ван Орман</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Русистика в мире - Вригт Г. Х. - Три мыслителя [2000, PDF, RUS]" href="/?page=book&topic_id=3531484" onclick="yandex_target('all_books');return true;"><img src="http://i19.fastpic.ru/big/2011/0416/2e/e0f84e93021af7527d6a86f274becf2e.jpg" width="100%" class="thumbnail" alt="Обложка книги Русистика в мире - Вригт Г. Х. - Три мыслителя [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Русистика в мире - Вригт Г. Х. - Три мыслителя [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3531484" target="_blank" onclick="yandex_target('all_books');return true;">Три мыслителя </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вригт Г. Х." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вригт Г. Х.">Вригт Г. Х.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, ENG, FRA</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Blanchot, Maurice; Derrida, Jacques / Бланшо, Морис; Деррида, Жак - The Instant of My Death - Demeure: Fiction and Testimony / Момент моей смерти - Могила [2000, DjVu, ENG, FRA]" href="/?page=book&topic_id=3482991" onclick="yandex_target('all_books');return true;"><img src="http://i18.fastpic.ru/big/2011/0318/23/59a64a2c3a1805470694735302fbe323.jpg" width="100%" class="thumbnail" alt="Обложка книги Blanchot, Maurice; Derrida, Jacques / Бланшо, Морис; Деррида, Жак - The Instant of My Death - Demeure: Fiction and Testimony / Момент моей смерти - Могила [2000, DjVu, ENG, FRA]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Blanchot, Maurice; Derrida, Jacques / Бланшо, Морис; Деррида, Жак - The Instant of My Death - Demeure: Fiction and Testimony / Момент моей смерти - Могила [2000, DjVu, ENG, FRA]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3482991" target="_blank" onclick="yandex_target('all_books');return true;">Demeure: Fiction and Testimony / Момент моей смерти - Могила </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=The Instant of My Death" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: The Instant of My Death">The Instant of My Death</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ulrich Beck / Бек, Ульрих - Risikogesellschaft. Auf dem Weg in eine andere Moderne / Общество риска. На пути к другому модерну. [2000, DjVu, RUS]" href="/?page=book&topic_id=3482969" onclick="yandex_target('all_books');return true;"><img src="http://i18.fastpic.ru/big/2011/0318/46/33e0bc05b15096f03f07b648b9051746.jpg" width="100%" class="thumbnail" alt="Обложка книги Ulrich Beck / Бек, Ульрих - Risikogesellschaft. Auf dem Weg in eine andere Moderne / Общество риска. На пути к другому модерну. [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ulrich Beck / Бек, Ульрих - Risikogesellschaft. Auf dem Weg in eine andere Moderne / Общество риска. На пути к другому модерну. [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3482969" target="_blank" onclick="yandex_target('all_books');return true;">Risikogesellschaft. Auf dem Weg in eine andere Moderne / Общество риска. На пути к другому модерну. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ulrich Beck / Бек, Ульрих" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ulrich Beck / Бек, Ульрих">Ulrich Beck / Бек, Ульрих</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вершины человеческой мысли - Лосев А.Ф. - История античной эстетики, в 8 томах. [2000, DjVu/PDF, RUS]" href="/?page=book&topic_id=3473675" onclick="yandex_target('all_books');return true;"><img src="http://i17.fastpic.ru/big/2011/0312/87/e46418ab66f120faa444daf3d6da3587.jpg" width="100%" class="thumbnail" alt="Обложка книги Вершины человеческой мысли - Лосев А.Ф. - История античной эстетики, в 8 томах. [2000, DjVu/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вершины человеческой мысли - Лосев А.Ф. - История античной эстетики, в 8 томах. [2000, DjVu/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3473675" target="_blank" onclick="yandex_target('all_books');return true;">История античной эстетики, в 8 томах. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лосев А.Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лосев А.Ф.">Лосев А.Ф.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Из истории отечественной философской мысли - Степун Ф.А. - Сочинения. [2000, DjVu, RUS]" href="/?page=book&topic_id=3453835" onclick="yandex_target('all_books');return true;"><img src="http://i17.fastpic.ru/big/2011/0301/9e/e7d883abcadfba131be7abea25d20d9e.jpg" width="100%" class="thumbnail" alt="Обложка книги Из истории отечественной философской мысли - Степун Ф.А. - Сочинения. [2000, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Из истории отечественной философской мысли - Степун Ф.А. - Сочинения. [2000, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3453835" target="_blank" onclick="yandex_target('all_books');return true;">Сочинения. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Степун Ф.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Степун Ф.А.">Степун Ф.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Абрамов М.А. - Шотландская философия века Просвещения. [2000, PDF, RUS]" href="/?page=book&topic_id=3449653" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/ac/84bea0e265a281af720767aa321f73ac.jpg" width="100%" class="thumbnail" alt="Обложка книги Абрамов М.А. - Шотландская философия века Просвещения. [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Абрамов М.А. - Шотландская философия века Просвещения. [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3449653" target="_blank" onclick="yandex_target('all_books');return true;">Шотландская философия века Просвещения. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Абрамов М.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Абрамов М.А.">Абрамов М.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Французская философия XX века - Башляр Г. - Земля и грезы воли [2000, PDF/DjVu, RUS]" href="/?page=book&topic_id=3423192" onclick="yandex_target('all_books');return true;"><img src="http://i15.fastpic.ru/big/2011/0212/33/026a6d24f510ca5604e9873c5f931d33.jpg" width="100%" class="thumbnail" alt="Обложка книги Французская философия XX века - Башляр Г. - Земля и грезы воли [2000, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Французская философия XX века - Башляр Г. - Земля и грезы воли [2000, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3423192" target="_blank" onclick="yandex_target('all_books');return true;">Земля и грезы воли </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Башляр Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Башляр Г.">Башляр Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Книга света - Розеншток-Хюсси О - Избранное: Язык рода человеческого. [2000, PDF, RUS]" href="/?page=book&topic_id=3415879" onclick="yandex_target('all_books');return true;"><img src="http://i16.fastpic.ru/big/2011/0208/76/29af7de09a9fc9c105d023088b578976.jpg" width="100%" class="thumbnail" alt="Обложка книги Книга света - Розеншток-Хюсси О - Избранное: Язык рода человеческого. [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Книга света - Розеншток-Хюсси О - Избранное: Язык рода человеческого. [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3415879" target="_blank" onclick="yandex_target('all_books');return true;">Избранное: Язык рода человеческого. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Розеншток-Хюсси О" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Розеншток-Хюсси О">Розеншток-Хюсси О</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Классическая философская мысль - Батай Ж. - Теория религии. Литература и зло. [2000, PDF, RUS]" href="/?page=book&topic_id=3409385" onclick="yandex_target('all_books');return true;"><img src="http://i16.fastpic.ru/big/2011/0205/f5/e63d5475332cd5d93872649dda85a3f5.jpg" width="100%" class="thumbnail" alt="Обложка книги Классическая философская мысль - Батай Ж. - Теория религии. Литература и зло. [2000, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Классическая философская мысль - Батай Ж. - Теория религии. Литература и зло. [2000, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3409385" target="_blank" onclick="yandex_target('all_books');return true;">Теория религии. Литература и зло. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Батай Ж." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Батай Ж.">Батай Ж.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Метафизические исследования. Приложение к альманаху - Хайдеггер М. - Положение об основании. [2000, DOC, RUS]" href="/?page=book&topic_id=3395451" onclick="yandex_target('all_books');return true;"><img src="http://i4.fastpic.ru/big/2011/0128/7f/1b353ff002c7269460884106d9599c7f.jpg" width="100%" class="thumbnail" alt="Обложка книги Метафизические исследования. Приложение к альманаху - Хайдеггер М. - Положение об основании. [2000, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Метафизические исследования. Приложение к альманаху - Хайдеггер М. - Положение об основании. [2000, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3395451" target="_blank" onclick="yandex_target('all_books');return true;">Положение об основании. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хайдеггер М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хайдеггер М.">Хайдеггер М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF, UKR</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Горлач М.І., Кремень В.Г., Рибалка В.К. / Горлач М.И., Кремень В.Г., Рыбалка В.К. - Філософія / Философия [2000, PDF, UKR]" href="/?page=book&topic_id=3388401" onclick="yandex_target('all_books');return true;"><img src="http://i16.fastpic.ru/big/2011/0124/32/4389205c6bbeb277b3a47daeb10b2232.jpg" width="100%" class="thumbnail" alt="Обложка книги Горлач М.І., Кремень В.Г., Рибалка В.К. / Горлач М.И., Кремень В.Г., Рыбалка В.К. - Філософія / Философия [2000, PDF, UKR]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Горлач М.І., Кремень В.Г., Рибалка В.К. / Горлач М.И., Кремень В.Г., Рыбалка В.К. - Філософія / Философия [2000, PDF, UKR]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3388401" target="_blank" onclick="yandex_target('all_books');return true;">Філософія / Философия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Горлач М.І., Кремень В.Г., Рибалка В.К. / Горлач М.И., Кремень В.Г., Рыбалка В.К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Горлач М.І., Кремень В.Г., Рибалка В.К. / Горлач М.И., Кремень В.Г., Рыбалка В.К.">Горлач М.І., Кремень В.Г., Рибалка В.К. / Горлач М.И., Кремень В.Г., Рыбалка В.К.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2000</span><span class="hidden-sm-down">PDF/DJVU, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Евлампиев И.И. - История русской метафизики в XIX-XX веках: русская философия в поисках Абсолюта (в 2 томах) [2000, PDF/DJVU, RUS]" href="/?page=book&topic_id=3385820" onclick="yandex_target('all_books');return true;"><img src="http://i15.fastpic.ru/big/2011/0123/ac/89be64514125cba42758c35402cba5ac.jpg" width="100%" class="thumbnail" alt="Обложка книги Евлампиев И.И. - История русской метафизики в XIX-XX веках: русская философия в поисках Абсолюта (в 2 томах) [2000, PDF/DJVU, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Евлампиев И.И. - История русской метафизики в XIX-XX веках: русская философия в поисках Абсолюта (в 2 томах) [2000, PDF/DJVU, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3385820" target="_blank" onclick="yandex_target('all_books');return true;">История русской метафизики в XIX-XX веках: русская философия в поисках Абсолюта (в 2 томах) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Евлампиев И.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Евлампиев И.И.">Евлампиев И.И.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row"></div>
+<div class="row">
+	<div class="col-md-10">
+<a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=472"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=171"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=172">172</a> | <a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=171">171</a> | <b>170</b> | <a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=169">169</a> |  <a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=168">168</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=169">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_mystic&lang=ru&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div>
+
+<!-- // Страница psybooks_mystic-->

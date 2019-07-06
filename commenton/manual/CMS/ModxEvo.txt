@@ -1,0 +1,9 @@
+﻿Настройки MODX EVO
+
+Если после установки системы Commenton вы получаете ошибку "Uncaught RuntimeException: MODX_CLI" или страница не загружается, необходимо настроить вашу CMS.
+Для этого:
+- Откройте файл manager/includes/config.inc.php
+- Найдите строку - if (defined('MODX_CLI')) {
+- Замените найденную строку на - if (defined('MODX_CLI') && !defined('COMMENTON_ENABLE')) {
+
+Проверяйте.

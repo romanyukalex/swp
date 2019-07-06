@@ -1,0 +1,699 @@
+<!-- Страница psybooks_astrology--><div class="row flex-items-md-center">
+
+	<div class="blockquote">
+		
+			<p>
+				Найди книгу по психологии, философии и эзотерике (1076-2017) за 1 секунду<br>Можно ввести название книги, имя автора или год (посвежее или  раритетное)<br><br>
+				
+				В меню можно выбрать интересующий раздел
+ 
+			</p>
+			<small>Команда Psy-space</small>
+		
+	</div>
+
+
+</div>
+
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_astrology">
+			<input type="hidden" name="cat_id" value="2422">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Книги по астрологии [813 книг]</h2>
+</div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+							</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-10"><a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=21"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=3"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=4">4</a> | <a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=3">3</a> | <b>2</b> | <a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=1">1</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=1">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Линник Ю. - Крита-йога. Астротерапия. [1992, PDF, RUS]" href="/?page=book&topic_id=4787866" onclick="yandex_target('all_books');return true;"><img src="http://i66.fastpic.ru/big/2014/0722/30/d35d7a4c4ca17bfe3445280b0cc04430.jpg" width="100%" class="thumbnail" alt="Обложка книги Линник Ю. - Крита-йога. Астротерапия. [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Линник Ю. - Крита-йога. Астротерапия. [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4787866" target="_blank" onclick="yandex_target('all_books');return true;">Крита-йога. Астротерапия. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Линник Ю." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Линник Ю.">Линник Ю.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">003, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Левин М. - Работы по астрологии [1992-2003, PDF, RUS]" href="/?page=book&topic_id=4769841" onclick="yandex_target('all_books');return true;"><img src="http://i63.fastpic.ru/big/2014/0625/65/143046be63f72caeb8ed4bd4518b1c65.jpg" width="100%" class="thumbnail" alt="Обложка книги Левин М. - Работы по астрологии [1992-2003, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Левин М. - Работы по астрологии [1992-2003, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4769841" target="_blank" onclick="yandex_target('all_books');return true;">Работы по астрологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Левин М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Левин М.">Левин М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">005, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Семира, В.Веташ - Книги по астрологии [1992-2005, PDF, RUS]" href="/?page=book&topic_id=4173829" onclick="yandex_target('all_books');return true;"><img src="http://i43.fastpic.ru/big/2012/0904/df/c62bc532e65ddfd1533b27ab854fa5df.jpg" width="100%" class="thumbnail" alt="Обложка книги Семира, В.Веташ - Книги по астрологии [1992-2005, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Семира, В.Веташ - Книги по астрологии [1992-2005, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4173829" target="_blank" onclick="yandex_target('all_books');return true;">Книги по астрологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Семира, В.Веташ" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Семира, В.Веташ">Семира, В.Веташ</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гудмен Л. - Знаки зодиака, или Астрология с улыбкой [1992, PDF, RUS]" href="/?page=book&topic_id=4353077" onclick="yandex_target('all_books');return true;"><img src="http://i51.fastpic.ru/big/2013/0218/a1/9826e14e9ff49801bf39af641720bca1.jpg" width="100%" class="thumbnail" alt="Обложка книги Гудмен Л. - Знаки зодиака, или Астрология с улыбкой [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гудмен Л. - Знаки зодиака, или Астрология с улыбкой [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4353077" target="_blank" onclick="yandex_target('all_books');return true;">Знаки зодиака, или Астрология с улыбкой </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гудмен Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гудмен Л.">Гудмен Л.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1992</span><span class="hidden-sm-down">993, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вайсберг В. - Работы по астрологии. [1992-1993, PDF, RUS]" href="/?page=book&topic_id=4302693" onclick="yandex_target('all_books');return true;"><img src="http://i52.fastpic.ru/big/2013/0102/b2/a0e8dc47cecf5f2f9d6ee7fc143c36b2.jpg" width="100%" class="thumbnail" alt="Обложка книги Вайсберг В. - Работы по астрологии. [1992-1993, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вайсберг В. - Работы по астрологии. [1992-1993, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4302693" target="_blank" onclick="yandex_target('all_books');return true;">Работы по астрологии. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вайсберг В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вайсберг В.">Вайсберг В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кривовяз Н. - Предсказательная астрология.Часть 1 и 2 [1992, PDF, RUS]" href="/?page=book&topic_id=4226897" onclick="yandex_target('all_books');return true;"><img src="http://i44.fastpic.ru/big/2012/1024/f1/94f1a8e02f69bab5f2ce08bc6997c9f1.jpg" width="100%" class="thumbnail" alt="Обложка книги Кривовяз Н. - Предсказательная астрология.Часть 1 и 2 [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кривовяз Н. - Предсказательная астрология.Часть 1 и 2 [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4226897" target="_blank" onclick="yandex_target('all_books');return true;">Предсказательная астрология.Часть 1 и 2 </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кривовяз Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кривовяз Н.">Кривовяз Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Московский А. - Астрология.Учебно-методическое пособие. [1992, PDF, RUS]" href="/?page=book&topic_id=4206458" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2012/1005/3e/1d95dc9f65475ef988382a3b3285f03e.jpg" width="100%" class="thumbnail" alt="Обложка книги Московский А. - Астрология.Учебно-методическое пособие. [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Московский А. - Астрология.Учебно-методическое пособие. [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4206458" target="_blank" onclick="yandex_target('all_books');return true;">Астрология.Учебно-методическое пособие. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Московский А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Московский А.">Московский А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шебанова И. - Фигуры М.Джонса [1992, PDF, RUS]" href="/?page=book&topic_id=4196861" onclick="yandex_target('all_books');return true;"><img src="http://i42.fastpic.ru/big/2012/0926/2a/40bbae50e68bb628613753370b185c2a.jpg" width="100%" class="thumbnail" alt="Обложка книги Шебанова И. - Фигуры М.Джонса [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шебанова И. - Фигуры М.Джонса [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4196861" target="_blank" onclick="yandex_target('all_books');return true;">Фигуры М.Джонса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шебанова И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шебанова И.">Шебанова И.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Э.Хофман. - Неподвижные звезды и их интерпретация. [1992, PDF, RUS]" href="/?page=book&topic_id=4192351" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0922/50/cb12732e746fefa1bf992a02eecb3550.jpg" width="100%" class="thumbnail" alt="Обложка книги Э.Хофман. - Неподвижные звезды и их интерпретация. [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Э.Хофман. - Неподвижные звезды и их интерпретация. [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4192351" target="_blank" onclick="yandex_target('all_books');return true;">Неподвижные звезды и их интерпретация. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Э.Хофман." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Э.Хофман.">Э.Хофман.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Серия Четвертое Измерение - 3 книги [1992, DjVu, RUS] Обновлено 18.08.2012г." href="/?page=book&topic_id=3728778" onclick="yandex_target('all_books');return true;"><img src="http://i28.fastpic.ru/big/2011/0912/d0/0259d88c12153d15ba0febbb02cec5d0.jpg" width="100%" class="thumbnail" alt="Обложка книги Серия Четвертое Измерение - 3 книги [1992, DjVu, RUS] Обновлено 18.08.2012г."></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Серия Четвертое Измерение - 3 книги [1992, DjVu, RUS] Обновлено 18.08.2012г."><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3728778" target="_blank" onclick="yandex_target('all_books');return true;">3 книги </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Серия Четвертое Измерение" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Серия Четвертое Измерение">Серия Четвертое Измерение</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: L. Winkler / Винклер Л. - L'Astrologie Clef de la connaissance de soi / Астрология: ключ к самопознанию. [1992, PDF, RUS]" href="/?page=book&topic_id=4138663" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0729/ab/b3e8c966ebcf4d309b997954d3b2cbab.jpg" width="100%" class="thumbnail" alt="Обложка книги L. Winkler / Винклер Л. - L'Astrologie Clef de la connaissance de soi / Астрология: ключ к самопознанию. [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: L. Winkler / Винклер Л. - L'Astrologie Clef de la connaissance de soi / Астрология: ключ к самопознанию. [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4138663" target="_blank" onclick="yandex_target('all_books');return true;">L'Astrologie Clef de la connaissance de soi / Астрология: ключ к самопознанию. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=L. Winkler / Винклер Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: L. Winkler / Винклер Л.">L. Winkler / Винклер Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Фанег Г. - Ономантическая астрология [1992, PDF, RUS]" href="/?page=book&topic_id=4133369" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/big/2012/0723/28/cdf09a0f4d4ef616cbebfafc23077728.jpg" width="100%" class="thumbnail" alt="Обложка книги Фанег Г. - Ономантическая астрология [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Фанег Г. - Ономантическая астрология [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4133369" target="_blank" onclick="yandex_target('all_books');return true;">Ономантическая астрология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фанег Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фанег Г.">Фанег Г.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Донас Э.Б. - Системы астрологических домов [1992, PDF, RUS]" href="/?page=book&topic_id=4120935" onclick="yandex_target('all_books');return true;"><img src="http://s002.radikal.ru/i200/1207/27/ea8fe9f81205.jpg" width="100%" class="thumbnail" alt="Обложка книги Донас Э.Б. - Системы астрологических домов [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Донас Э.Б. - Системы астрологических домов [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4120935" target="_blank" onclick="yandex_target('all_books');return true;">Системы астрологических домов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Донас Э.Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Донас Э.Б.">Донас Э.Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Цаган-Кувюн Параис - Краткая популярная астрология для всех [1992, PDF, RUS]" href="/?page=book&topic_id=4107280" onclick="yandex_target('all_books');return true;"><img src="http://i038.radikal.ru/1206/de/c2218ec0db20.jpg" width="100%" class="thumbnail" alt="Обложка книги Цаган-Кувюн Параис - Краткая популярная астрология для всех [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Цаган-Кувюн Параис - Краткая популярная астрология для всех [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4107280" target="_blank" onclick="yandex_target('all_books');return true;">Краткая популярная астрология для всех </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Цаган-Кувюн Параис" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Цаган-Кувюн Параис">Цаган-Кувюн Параис</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Хопке Том (Налини-кантха дас) - Ведическая астрология [1992, PDF, RUS]" href="/?page=book&topic_id=4107275" onclick="yandex_target('all_books');return true;"><img src="http://s017.radikal.ru/i411/1206/06/d0279f8655a5.jpg" width="100%" class="thumbnail" alt="Обложка книги Хопке Том (Налини-кантха дас) - Ведическая астрология [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Хопке Том (Налини-кантха дас) - Ведическая астрология [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4107275" target="_blank" onclick="yandex_target('all_books');return true;">Ведическая астрология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хопке Том (Налини-кантха дас)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хопке Том (Налини-кантха дас)">Хопке Том (Налини-кантха дас)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1992</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Копылов В.М. - Метод обращений в предсказательной астрологии [1992, PDF, RUS]" href="/?page=book&topic_id=4091227" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2012/0612/d7/9e42d9bc6b10003a8a621e9f8c0223d7.jpg" width="100%" class="thumbnail" alt="Обложка книги Копылов В.М. - Метод обращений в предсказательной астрологии [1992, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Копылов В.М. - Метод обращений в предсказательной астрологии [1992, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4091227" target="_blank" onclick="yandex_target('all_books');return true;">Метод обращений в предсказательной астрологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Копылов В.М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Копылов В.М.">Копылов В.М.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1992</span><span class="hidden-sm-down"></span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Д.Максин - Любовь и сердце беспредельности. Космические Знаки добра и зла [1992]" href="/?page=book&topic_id=2177321" onclick="yandex_target('all_books');return true;"><img src="http://www.10pix.ru/img1/3010/229960.gif" width="100%" class="thumbnail" alt="Обложка книги Д.Максин - Любовь и сердце беспредельности. Космические Знаки добра и зла [1992]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Д.Максин - Любовь и сердце беспредельности. Космические Знаки добра и зла [1992]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2177321" target="_blank" onclick="yandex_target('all_books');return true;">Любовь и сердце беспредельности. Космические Знаки добра и зла </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Д.Максин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Д.Максин">Д.Максин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Райдер Б. - Астрология. Ваш личный путеводитель среди солнечных знаков. [1991, PDF, RUS]" href="/?page=book&topic_id=4457766" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2013/0605/2e/59853c8c6fb7c1ef42b4466a032ba02e.jpg" width="100%" class="thumbnail" alt="Обложка книги Райдер Б. - Астрология. Ваш личный путеводитель среди солнечных знаков. [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Райдер Б. - Астрология. Ваш личный путеводитель среди солнечных знаков. [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4457766" target="_blank" onclick="yandex_target('all_books');return true;">Астрология. Ваш личный путеводитель среди солнечных знаков. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Райдер Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Райдер Б.">Райдер Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гудмен Л. - Солнечные знаки и ваш характер. [1991, PDF, RUS]" href="/?page=book&topic_id=4283126" onclick="yandex_target('all_books');return true;"><img src="http://i54.fastpic.ru/big/2012/1214/97/81af49013bb57adf27188f4794583697.jpg" width="100%" class="thumbnail" alt="Обложка книги Гудмен Л. - Солнечные знаки и ваш характер. [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гудмен Л. - Солнечные знаки и ваш характер. [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4283126" target="_blank" onclick="yandex_target('all_books');return true;">Солнечные знаки и ваш характер. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гудмен Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гудмен Л.">Гудмен Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Додонова Н. - Астрология век XX [1991, PDF, RUS]" href="/?page=book&topic_id=4270879" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2012/1203/46/5bd7316999ef77526a0666c6675d3346.jpg" width="100%" class="thumbnail" alt="Обложка книги Додонова Н. - Астрология век XX [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Додонова Н. - Астрология век XX [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4270879" target="_blank" onclick="yandex_target('all_books');return true;">Астрология век XX </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Додонова Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Додонова Н.">Додонова Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кирносов В. - Практическая астрология. [1991, PDF, RUS]" href="/?page=book&topic_id=4257798" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2012/1121/50/67894c1b69bd3409e0d60ab18df77850.jpg" width="100%" class="thumbnail" alt="Обложка книги Кирносов В. - Практическая астрология. [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кирносов В. - Практическая астрология. [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4257798" target="_blank" onclick="yandex_target('all_books');return true;">Практическая астрология. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кирносов В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кирносов В.">Кирносов В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Райдер Б. - Ваш личный путеводитель среди солнечных знаков. [1991, PDF, RUS]" href="/?page=book&topic_id=4197820" onclick="yandex_target('all_books');return true;"><img src="http://i43.fastpic.ru/big/2012/0927/1d/1991a39e8a3ca2717dfa34dba9e4891d.jpg" width="100%" class="thumbnail" alt="Обложка книги Райдер Б. - Ваш личный путеводитель среди солнечных знаков. [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Райдер Б. - Ваш личный путеводитель среди солнечных знаков. [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4197820" target="_blank" onclick="yandex_target('all_books');return true;">Ваш личный путеводитель среди солнечных знаков. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Райдер Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Райдер Б.">Райдер Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Силка В. - Основы астрологии,физиогномики и хиромантии. [1991, PDF, RUS]" href="/?page=book&topic_id=4181190" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0911/fc/f8f8e01f097f25eef255c91b3d5662fc.jpg" width="100%" class="thumbnail" alt="Обложка книги Силка В. - Основы астрологии,физиогномики и хиромантии. [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Силка В. - Основы астрологии,физиогномики и хиромантии. [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4181190" target="_blank" onclick="yandex_target('all_books');return true;">Основы астрологии,физиогномики и хиромантии. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Силка В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Силка В.">Силка В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бендюрин В. - Астрологический календарь [1991, PDF, RUS]" href="/?page=book&topic_id=4120818" onclick="yandex_target('all_books');return true;"><img src="http://s009.radikal.ru/i308/1207/12/2861078a269f.jpg" width="100%" class="thumbnail" alt="Обложка книги Бендюрин В. - Астрологический календарь [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бендюрин В. - Астрологический календарь [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4120818" target="_blank" onclick="yandex_target('all_books');return true;">Астрологический календарь </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бендюрин В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бендюрин В.">Бендюрин В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Цаган-Кувюн Параис - Дебют кентавра в созвездии Близнецов, или Астральная любовь в зодиаке [1991, PDF, RUS]" href="/?page=book&topic_id=4120436" onclick="yandex_target('all_books');return true;"><img src="http://s014.radikal.ru/i327/1207/ae/d8386c5a0837.jpg" width="100%" class="thumbnail" alt="Обложка книги Цаган-Кувюн Параис - Дебют кентавра в созвездии Близнецов, или Астральная любовь в зодиаке [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Цаган-Кувюн Параис - Дебют кентавра в созвездии Близнецов, или Астральная любовь в зодиаке [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4120436" target="_blank" onclick="yandex_target('all_books');return true;">Дебют кентавра в созвездии Близнецов, или Астральная любовь в зодиаке </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Цаган-Кувюн Параис" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Цаган-Кувюн Параис">Цаган-Кувюн Параис</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Печкис В. - Начала астрологической прогностики [1991, DjVu, RUS]" href="/?page=book&topic_id=4105558" onclick="yandex_target('all_books');return true;"><img src="http://s43.radikal.ru/i100/1206/17/e46b31c1a9ba.jpg" width="100%" class="thumbnail" alt="Обложка книги Печкис В. - Начала астрологической прогностики [1991, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Печкис В. - Начала астрологической прогностики [1991, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4105558" target="_blank" onclick="yandex_target('all_books');return true;">Начала астрологической прогностики </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Печкис В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Печкис В.">Печкис В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гаррисон Омар - Медицинская астрология [1991, PDF, RUS]" href="/?page=book&topic_id=4034943" onclick="yandex_target('all_books');return true;"><img src="http://i079.radikal.ru/1204/1f/e4357a292065.jpg" width="100%" class="thumbnail" alt="Обложка книги Гаррисон Омар - Медицинская астрология [1991, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гаррисон Омар - Медицинская астрология [1991, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4034943" target="_blank" onclick="yandex_target('all_books');return true;">Медицинская астрология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гаррисон Омар" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гаррисон Омар">Гаррисон Омар</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1991</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Подводный Авессалом - Каббалистическая астрология [1991, DOC]" href="/?page=book&topic_id=580309" onclick="yandex_target('all_books');return true;"><img src="http://ipicture.ru/uploads/080101/ItLg7ia4lm.jpg" width="100%" class="thumbnail" alt="Обложка книги Подводный Авессалом - Каббалистическая астрология [1991, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Подводный Авессалом - Каббалистическая астрология [1991, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=580309" target="_blank" onclick="yandex_target('all_books');return true;">Каббалистическая астрология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Подводный Авессалом" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Подводный Авессалом">Подводный Авессалом</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1990</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Четвертое измерение. - Иванова А. - Астрология и ваш ребенок. [1990, PDF, RUS]" href="/?page=book&topic_id=4810285" onclick="yandex_target('all_books');return true;"><img src="http://i68.fastpic.ru/big/2014/0826/40/a09169b9f77168bbc1a2b45538003340.jpg" width="100%" class="thumbnail" alt="Обложка книги Четвертое измерение. - Иванова А. - Астрология и ваш ребенок. [1990, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Четвертое измерение. - Иванова А. - Астрология и ваш ребенок. [1990, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4810285" target="_blank" onclick="yandex_target('all_books');return true;">Астрология и ваш ребенок. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Иванова А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Иванова А.">Иванова А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1990</span><span class="hidden-sm-down">PDF / FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дадабаева Л. (состав./перевод.) - Гороскопы: Зодиакальный. Китайский. Японский. Друидов [1990, PDF / FB2, RUS]" href="/?page=book&topic_id=4608852" onclick="yandex_target('all_books');return true;"><img src="http://i59.fastpic.ru/big/2013/1207/ad/c9792ee72df41ea77bc63ba38b8d00ad.jpg" width="100%" class="thumbnail" alt="Обложка книги Дадабаева Л. (состав./перевод.) - Гороскопы: Зодиакальный. Китайский. Японский. Друидов [1990, PDF / FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дадабаева Л. (состав./перевод.) - Гороскопы: Зодиакальный. Китайский. Японский. Друидов [1990, PDF / FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4608852" target="_blank" onclick="yandex_target('all_books');return true;">Гороскопы: Зодиакальный. Китайский. Японский. Друидов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дадабаева Л. (состав./перевод.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дадабаева Л. (состав./перевод.)">Дадабаева Л. (состав./перевод.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1990</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Елисеев И. М., Попова Г.Р. - Астрология первые шаги [1990, DjVu, RUS]" href="/?page=book&topic_id=4259193" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2012/1122/bb/c33c628a782aed4410c388a0f3b549bb.png" width="100%" class="thumbnail" alt="Обложка книги Елисеев И. М., Попова Г.Р. - Астрология первые шаги [1990, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Елисеев И. М., Попова Г.Р. - Астрология первые шаги [1990, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4259193" target="_blank" onclick="yandex_target('all_books');return true;">Астрология первые шаги </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Елисеев И. М., Попова Г.Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Елисеев И. М., Попова Г.Р.">Елисеев И. М., Попова Г.Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1990</span><span class="hidden-sm-down">008, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Величко Ф. и соавторы - Подборка книг по астрологии [1990-2008, PDF, RUS]" href="/?page=book&topic_id=4141621" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/big/2012/0801/d1/28a320f6fb3465f4d9d813d24815f6d1.jpg" width="100%" class="thumbnail" alt="Обложка книги Величко Ф. и соавторы - Подборка книг по астрологии [1990-2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Величко Ф. и соавторы - Подборка книг по астрологии [1990-2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4141621" target="_blank" onclick="yandex_target('all_books');return true;">Подборка книг по астрологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Величко Ф. и соавторы" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Величко Ф. и соавторы">Величко Ф. и соавторы</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1990</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Михайлов А. - Астрология для мужчин и женщин [1990, PDF, RUS]" href="/?page=book&topic_id=4111742" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/big/2012/0630/60/55807ed6b9873a8202b8e04a9c68c460.jpg" width="100%" class="thumbnail" alt="Обложка книги Михайлов А. - Астрология для мужчин и женщин [1990, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Михайлов А. - Астрология для мужчин и женщин [1990, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4111742" target="_blank" onclick="yandex_target('all_books');return true;">Астрология для мужчин и женщин </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Михайлов А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Михайлов А.">Михайлов А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1990</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Фон Н.А. - Астрология и секс: Психосексуальный гороскоп [1990, PDF, RUS]" href="/?page=book&topic_id=4107270" onclick="yandex_target('all_books');return true;"><img src="http://s003.radikal.ru/i204/1206/7c/99435aad286f.jpg" width="100%" class="thumbnail" alt="Обложка книги Фон Н.А. - Астрология и секс: Психосексуальный гороскоп [1990, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Фон Н.А. - Астрология и секс: Психосексуальный гороскоп [1990, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4107270" target="_blank" onclick="yandex_target('all_books');return true;">Астрология и секс: Психосексуальный гороскоп </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фон Н.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фон Н.А.">Фон Н.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1989</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гороскопы (Сборник) [1989, DjVu, RUS]" href="/?page=book&topic_id=3562170" onclick="yandex_target('all_books');return true;"><img src="http://i20.fastpic.ru/big/2011/0507/34/5757ebbef026fbcbe844c4b0ba37b134.jpg" width="100%" class="thumbnail" alt="Обложка книги Гороскопы (Сборник) [1989, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гороскопы (Сборник) [1989, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3562170" target="_blank" onclick="yandex_target('all_books');return true;">Гороскопы (Сборник) </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1988</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Симонов Р. - Естественнонаучные представления Древней Руси. Символика чисел. Астрология. Минералогия. [1988, PDF, RUS]" href="/?page=book&topic_id=4350152" onclick="yandex_target('all_books');return true;"><img src="http://i53.fastpic.ru/big/2013/0215/8d/e2d09a6dab6ad09e8df0a86d2666a98d.jpg" width="100%" class="thumbnail" alt="Обложка книги Симонов Р. - Естественнонаучные представления Древней Руси. Символика чисел. Астрология. Минералогия. [1988, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Симонов Р. - Естественнонаучные представления Древней Руси. Символика чисел. Астрология. Минералогия. [1988, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4350152" target="_blank" onclick="yandex_target('all_books');return true;">Естественнонаучные представления Древней Руси. Символика чисел. Астрология. Минералогия. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Симонов Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Симонов Р.">Симонов Р.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1988</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Aleister Crowley, John Symonds, Kenneth Grant / Алистер Кроули, Джон Саймондс, Кеннет Грант - The Complete Astrological Writings / Полное собрание работ по астрологии [1988, PDF, ENG]" href="/?page=book&topic_id=3072390" onclick="yandex_target('all_books');return true;"><img src="http://img571.imageshack.us/img571/3065/astror.jpg" width="100%" class="thumbnail" alt="Обложка книги Aleister Crowley, John Symonds, Kenneth Grant / Алистер Кроули, Джон Саймондс, Кеннет Грант - The Complete Astrological Writings / Полное собрание работ по астрологии [1988, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Aleister Crowley, John Symonds, Kenneth Grant / Алистер Кроули, Джон Саймондс, Кеннет Грант - The Complete Astrological Writings / Полное собрание работ по астрологии [1988, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3072390" target="_blank" onclick="yandex_target('all_books');return true;">The Complete Astrological Writings / Полное собрание работ по астрологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Aleister Crowley, John Symonds, Kenneth Grant / Алистер Кроули, Джон Саймондс, Кеннет Грант" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Aleister Crowley, John Symonds, Kenneth Grant / Алистер Кроули, Джон Саймондс, Кеннет Грант">Aleister Crowley, John Symonds, Kenneth Grant / Алистер Кроули, Джон Саймондс, Кеннет Грант</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1981</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: H. Darling / Дарлинг Г. - Essentials of medical astrology / Сущность медицинской астрологии [1981, PDF, RUS]" href="/?page=book&topic_id=4138700" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0729/96/b9b5fe06fab485c263d7da1899a42596.jpg" width="100%" class="thumbnail" alt="Обложка книги H. Darling / Дарлинг Г. - Essentials of medical astrology / Сущность медицинской астрологии [1981, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: H. Darling / Дарлинг Г. - Essentials of medical astrology / Сущность медицинской астрологии [1981, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4138700" target="_blank" onclick="yandex_target('all_books');return true;">Essentials of medical astrology / Сущность медицинской астрологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=H. Darling / Дарлинг Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: H. Darling / Дарлинг Г.">H. Darling / Дарлинг Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1979</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Alice Bailey / Элис Бейли - Esoteric Astrology / Эзотерическая астрология [1979, PDF, ENG]" href="/?page=book&topic_id=3539079" onclick="yandex_target('all_books');return true;"><img src="http://i20.fastpic.ru/big/2011/0422/ca/3e113849667b96656ccda0dd5fa66eca.jpg" width="100%" class="thumbnail" alt="Обложка книги Alice Bailey / Элис Бейли - Esoteric Astrology / Эзотерическая астрология [1979, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Alice Bailey / Элис Бейли - Esoteric Astrology / Эзотерическая астрология [1979, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3539079" target="_blank" onclick="yandex_target('all_books');return true;">Esoteric Astrology / Эзотерическая астрология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Alice Bailey / Элис Бейли" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Alice Bailey / Элис Бейли">Alice Bailey / Элис Бейли</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1928</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Астрология для всех - Лео А. - Как прочитать гороскоп. Постижение внутренней природы.(Астрология для всех). Книга 3. [1928, PDF, RUS]" href="/?page=book&topic_id=4221829" onclick="yandex_target('all_books');return true;"><img src="http://i44.fastpic.ru/big/2012/1019/78/b7700a44a983ea066f22b2013ae6df78.jpg" width="100%" class="thumbnail" alt="Обложка книги Астрология для всех - Лео А. - Как прочитать гороскоп. Постижение внутренней природы.(Астрология для всех). Книга 3. [1928, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Астрология для всех - Лео А. - Как прочитать гороскоп. Постижение внутренней природы.(Астрология для всех). Книга 3. [1928, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4221829" target="_blank" onclick="yandex_target('all_books');return true;">Как прочитать гороскоп. Постижение внутренней природы.(Астрология для всех). Книга 3. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лео А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лео А.">Лео А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1911</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Соч.Люке и Адоляра де-Альфа - Астрология и гороскоп Нострадамуса [1911, PDF, RUS]" href="/?page=book&topic_id=4112703" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/big/2012/0701/79/ab11f161cd8e867b72feec6ba4ec1c79.jpg" width="100%" class="thumbnail" alt="Обложка книги Соч.Люке и Адоляра де-Альфа - Астрология и гороскоп Нострадамуса [1911, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Соч.Люке и Адоляра де-Альфа - Астрология и гороскоп Нострадамуса [1911, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4112703" target="_blank" onclick="yandex_target('all_books');return true;">Астрология и гороскоп Нострадамуса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Соч.Люке и Адоляра де-Альфа" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Соч.Люке и Адоляра де-Альфа">Соч.Люке и Адоляра де-Альфа</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1829</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Рейссиг К. - Созвездия. [1829, PDF, RUS]" href="/?page=book&topic_id=4439253" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2013/0517/fd/ef6b93fc77ecd675339f06aa62eed9fd.jpg" width="100%" class="thumbnail" alt="Обложка книги Рейссиг К. - Созвездия. [1829, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Рейссиг К. - Созвездия. [1829, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4439253" target="_blank" onclick="yandex_target('all_books');return true;">Созвездия. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рейссиг К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рейссиг К.">Рейссиг К.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span></span><span class="hidden-sm-down">US</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Жемчужина - W. Hewitt / Хьюитт У. - Astrology For Beginners. / Астрология для начинающих. [PDF, RUS]" href="/?page=book&topic_id=4192678" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/big/2012/0922/ea/267625ba5a61a38bd2f135fb8b940aea.jpg" width="100%" class="thumbnail" alt="Обложка книги Жемчужина - W. Hewitt / Хьюитт У. - Astrology For Beginners. / Астрология для начинающих. [PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Жемчужина - W. Hewitt / Хьюитт У. - Astrology For Beginners. / Астрология для начинающих. [PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4192678" target="_blank" onclick="yandex_target('all_books');return true;">Astrology For Beginners. / Астрология для начинающих. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=W. Hewitt / Хьюитт У." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: W. Hewitt / Хьюитт У.">W. Hewitt / Хьюитт У.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span></span><span class="hidden-sm-down">US</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Данилова Е. - Книги по астрологии [PDF, RUS]" href="/?page=book&topic_id=4161503" onclick="yandex_target('all_books');return true;"><img src="http://i43.fastpic.ru/big/2012/0822/c1/3db7f371f578b1e402f211b5c50c0cc1.jpg" width="100%" class="thumbnail" alt="Обложка книги Данилова Е. - Книги по астрологии [PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Данилова Е. - Книги по астрологии [PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4161503" target="_blank" onclick="yandex_target('all_books');return true;">Книги по астрологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Данилова Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Данилова Е.">Данилова Е.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span></span><span class="hidden-sm-down">н Павел - Книги по астролог�</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Цыпин Павел - Книги по астрологии" href="/?page=book&topic_id=4120120" onclick="yandex_target('all_books');return true;"><img src="http://s43.radikal.ru/i100/1207/2a/fa67cb1ec013.jpg" width="100%" class="thumbnail" alt="Обложка книги Цыпин Павел - Книги по астрологии"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Цыпин Павел - Книги по астрологии"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4120120" target="_blank" onclick="yandex_target('all_books');return true;">Книги по астрологии</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Цыпин Павел" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Цыпин Павел">Цыпин Павел</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span></span><span class="hidden-sm-down"> эпохи Водолея, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Свиридов П.В. - Миф эпохи Водолея [Миф эпохи Водолея, PDF, RUS]" href="/?page=book&topic_id=4113938" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0702/ef/1f71c2c53d0748ed2df58346260580ef.jpg" width="100%" class="thumbnail" alt="Обложка книги Свиридов П.В. - Миф эпохи Водолея [Миф эпохи Водолея, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Свиридов П.В. - Миф эпохи Водолея [Миф эпохи Водолея, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4113938" target="_blank" onclick="yandex_target('all_books');return true;">Миф эпохи Водолея </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Свиридов П.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Свиридов П.В.">Свиридов П.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span></span><span class="hidden-sm-down">US</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Классики астрологии - Беруни - Наука о звездах [PDF, RUS]" href="/?page=book&topic_id=2994134" onclick="yandex_target('all_books');return true;"><img src="http://i9.fastpic.ru/big/2010/0914/4c/ec2e54e34aef82de62e91e1cd499754c.jpg" width="100%" class="thumbnail" alt="Обложка книги Классики астрологии - Беруни - Наука о звездах [PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Классики астрологии - Беруни - Наука о звездах [PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2994134" target="_blank" onclick="yandex_target('all_books');return true;">Наука о звездах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Беруни" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Беруни">Беруни</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span></span><span class="hidden-sm-down">ология (П.Глоба - Редкие книг�</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Астрология (П.Глоба - Редкие книги)" href="/?page=book&topic_id=1964212" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/1d/03e0755247b4a8b7cc6f2150adb52d1d.gif" width="100%" class="thumbnail" alt="Обложка книги Астрология (П.Глоба - Редкие книги)"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Астрология (П.Глоба - Редкие книги)"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1964212" target="_blank" onclick="yandex_target('all_books');return true;">Редкие книги)</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Астрология (П.Глоба" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Астрология (П.Глоба">Астрология (П.Глоба</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span></span><span class="hidden-sm-down"></span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Юрий Яковлевич Бондаренко - Ветреная дочь астрономии? [DOC]" href="/?page=book&topic_id=1583763" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Юрий Яковлевич Бондаренко - Ветреная дочь астрономии? [DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Юрий Яковлевич Бондаренко - Ветреная дочь астрономии? [DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1583763" target="_blank" onclick="yandex_target('all_books');return true;">Ветреная дочь астрономии? </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Юрий Яковлевич Бондаренко" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Юрий Яковлевич Бондаренко">Юрий Яковлевич Бондаренко</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span></span><span class="hidden-sm-down">акальный гороскоп (200</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Зодиакальный гороскоп (2009)" href="/?page=book&topic_id=1482674" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/a5/9ca0fe0209d30c25db65bc866a62c2a5.jpg" width="100%" class="thumbnail" alt="Обложка книги Зодиакальный гороскоп (2009)"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Зодиакальный гороскоп (2009)"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1482674" target="_blank" onclick="yandex_target('all_books');return true;">Зодиакальный гороскоп (2009)</a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span></span><span class="hidden-sm-down">ОЛОГИЯ АСТРОНОМИЯ И ГАДАНИЕ 20</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: АСТРОЛОГИЯ АСТРОНОМИЯ И ГАДАНИЕ 2002" href="/?page=book&topic_id=646801" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги АСТРОЛОГИЯ АСТРОНОМИЯ И ГАДАНИЕ 2002"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: АСТРОЛОГИЯ АСТРОНОМИЯ И ГАДАНИЕ 2002"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=646801" target="_blank" onclick="yandex_target('all_books');return true;">АСТРОЛОГИЯ АСТРОНОМИЯ И ГАДАНИЕ 2002</a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span></span><span class="hidden-sm-down"></span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Cуперсборник книг по Астрологии (23 шт.:Вронский /М. Марч и Дж. Мак-Эверс) [PDF]" href="/?page=book&topic_id=604217" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Cуперсборник книг по Астрологии (23 шт.:Вронский /М. Марч и Дж. Мак-Эверс) [PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Cуперсборник книг по Астрологии (23 шт.:Вронский /М. Марч и Дж. Мак-Эверс) [PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=604217" target="_blank" onclick="yandex_target('all_books');return true;">Cуперсборник книг по Астрологии (23 шт.:Вронский /М. Марч и Дж. Мак-Эверс) </a></h4>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span></span><span class="hidden-sm-down"></span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Авессалом Подводный - Авессалом Подводный &quot;Лекции по введению в астрологию&quot; [DOC]" href="/?page=book&topic_id=567742" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Авессалом Подводный - Авессалом Подводный &quot;Лекции по введению в астрологию&quot; [DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Авессалом Подводный - Авессалом Подводный &quot;Лекции по введению в астрологию&quot; [DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=567742" target="_blank" onclick="yandex_target('all_books');return true;">Авессалом Подводный &quot;Лекции по введению в астрологию&quot; </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Авессалом Подводный" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Авессалом Подводный">Авессалом Подводный</a></p>
+									</div>
+			</div>
+		</div>
+</div>
+<div class="row">
+	<div class="col-md-10">
+<a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=21"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=3"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=4">4</a> | <a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=3">3</a> | <b>2</b> | <a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=1">1</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=1">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_astrology&cat_id=2422&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div>
+
+<!-- // Страница psybooks_astrology-->

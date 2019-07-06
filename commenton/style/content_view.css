@@ -1,0 +1,837 @@
+.commenton .clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.cn_animate {
+    -webkit-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+
+}
+
+.commenton textarea, .commenton input[type="text"], .commenton input[type="number"], .commenton input[type="email"] {
+    line-height: normal;
+    box-shadow: none;
+    margin: 0 0 -0.25em 0;
+    padding: 0;
+    display: inline-block;
+    background: none;
+    height: auto;
+}
+
+.commenton label {
+    line-height: normal;
+    margin: 0;
+    display: inline;
+    font-size: 14px;
+}
+
+.commenton hr {
+    margin: 0.5em 0;
+    border: 0;
+    border-top: 1px solid #b5b5b5;
+    border-bottom: 1px solid #fff;
+    height: 0;
+}
+
+.commenton_block {
+    font-family: 'Arial', sans-serif;
+    line-height: normal;
+    font-size: 14px;
+    color: #333;
+}
+
+.commenton_box {
+
+}
+
+.cn_head {
+
+}
+
+.cn_count_box {
+    float: left;
+    font-size: 18px;
+}
+
+.cn_author {
+    float: right;
+}
+
+.cn_author_name {
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+    max-width: 320px;
+    white-space: nowrap;
+    overflow: hidden;
+    vertical-align: sub;
+    text-overflow: ellipsis;
+}
+
+.cn_menu_author_block {
+    width: 0;
+    height: 0;
+    margin: -6px 3px;
+    border-left: transparent solid 5px;
+    border-top: #9d9d9d solid 8px;
+    border-right: transparent solid 5px;
+    border-bottom: transparent solid 8px;
+    display: inline-block;
+    position: relative;
+}
+
+.cn_menu_author_box {
+    position: absolute;
+    top: 5px;
+    right: 0;
+    background: #FFF;
+    border: #eeeeee solid 1px;
+    padding: 15px 30px;
+    font-size: 14px;
+    cursor: default;
+    display: none;
+    z-index: 9999;
+}
+
+.cn_menu_point {
+    margin: 6px 0;
+    display: inline-block;
+    color: #0c8eb3;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.cn_author:hover .cn_menu_author_box {
+    display: block;
+}
+
+.cn_sort {
+    font-size: 12px;
+    position: relative;
+    float: right;
+    cursor: default;
+}
+
+.cn_sort_block {
+    width: 0;
+    height: 0;
+    margin: -6px 3px;
+    border-left: transparent solid 3px;
+    border-top: #9d9d9d solid 6px;
+    border-right: transparent solid 3px;
+    border-bottom: transparent solid 6px;
+    display: inline-block;
+    position: relative;
+}
+
+.cn_sort_box {
+    width: 110px;
+    position: absolute;
+    right: 10px;
+    background: #FFF;
+    padding: 8px 15px;
+    margin-top: 3px;
+    border: #eeeeee solid 1px;
+    display: none;
+    box-sizing: content-box;
+    z-index: 9998;
+}
+
+.cn_sort_point {
+    margin: 6px 0;
+    display: inline-block;
+    color: #0c8eb3;
+    cursor: pointer;
+}
+
+.cn_sort:hover .cn_sort_box {
+    display: block;
+}
+
+.cn_enter_text_block {
+    margin: 6px 16px;
+}
+
+.cn_author_avatar {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    background: url(../img/no_avatar.jpg) center / contain no-repeat;
+    float: left;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #FFF;
+}
+
+.cn_enter_text_box, .cn_enter_answer_box, .cn_enter_complain_box {
+    margin: 5px 0 5px 55px;
+}
+
+.cn_enter_text_panel, .cn_enter_answer_panel, .cn_complain_input_panel {
+    margin: 5px 0 5px 0;
+    height: auto;
+    padding: 2px 0;
+    border-bottom: #0c9ec8 solid 1px;
+}
+
+.cn_complain_input_panel {
+    margin-right: 60px !important;
+}
+
+.cn_enter_text_input, .cn_enter_answer_input, .cn_complain_input {
+    width: 100%;
+    min-height: 21px;
+    box-sizing: border-box;
+    outline: none !important;
+    border: none !important;
+    font-size: 16px;
+    resize: none;
+    display: block;
+    overflow: hidden;
+}
+
+.cn_enter_text_submit, .cn_enter_answer_submit, .cn_complain_submit {
+    float: right;
+    cursor: pointer;
+    width: 90px;
+    height: 30px;
+    line-height: 30px;
+    outline: #0d9ec8 solid 1px;
+    color: #0d9ec8;
+    margin-top: 5px;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.cn_authorize_box {
+    width: 305px;
+    margin: 40px auto;
+}
+
+.cn_authorize_social {
+
+}
+
+.cn_authorize_tittle {
+    color: #878787;
+    margin: 10px 0;
+    text-align: left;
+}
+
+.cn_social_button {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.cn_vk {
+    background: url(../img/s_button.png) bottom left;
+}
+
+.cn_ok {
+    background: url(../img/s_button.png) bottom right;
+}
+
+.cn_fb {
+    background: url(../img/s_button.png) 80px top;
+}
+
+.cn_g {
+    background: url(../img/s_button.png) left top;
+}
+
+.cn_mail {
+    background: url(../img/s_button.png) -40px bottom;
+}
+
+.cn_ya {
+    background: url(../img/s_button.png) -80px bottom;
+}
+
+.cn_tw {
+    background: url(../img/s_button.png) -40px top;
+}
+
+.cn_authorize_guest {
+
+}
+
+.cn_guest_name_input, .cn_guest_email_input {
+    padding: 8px !important;
+    font-size: 18px;
+    margin: 5px 0 !important;
+    border: #ccc solid 1px !important;
+}
+
+.cn_authorize_guest_submit {
+    width: 100px;
+    padding: 10px 0;
+    margin: 5px 0;
+    background: #0c9ec8;
+    color: #FFF;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cn_comments_block {
+    margin: 40px 15px;
+}
+
+.cn_comment_box {
+    margin: 10px 0;
+    padding: 10px;
+    border-left: transparent solid 4px;
+}
+
+.cn_comment_box:hover .cn_options {
+    display: block;
+}
+
+.cn_avatar_block {
+    float: left;
+    margin-right: 10px;
+}
+
+.cn_avatar {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #FFF;
+    position: relative;
+}
+
+.cn_avatar::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: -5px;
+    bottom: -5px;
+    border-radius: 20px;
+}
+
+.cn_icon_vkauth::after {
+    background: url(../img/s_icons.jpg) left top;
+}
+
+.cn_icon_okauth::after {
+    background: url(../img/s_icons.jpg) -20px top;
+}
+
+.cn_icon_fbauth::after {
+    background: url(../img/s_icons.jpg) -40px top;
+}
+
+.cn_icon_gauth::after {
+    background: url(../img/s_icons.jpg) -60px top;
+}
+
+.cn_icon_mailauth::after {
+    background: url(../img/s_icons.jpg) -80px top;
+}
+
+.cn_icon_yaauth::after {
+    background: url(../img/s_icons.jpg) -100px top;
+}
+
+.cn_icon_twauth::after {
+    background: url(../img/s_icons.jpg) -120px top;
+}
+
+.cn_guest_identify, .cn_admin_identify {
+    font-size: 10px;
+    text-align: center;
+    color: #FFF;
+}
+
+.cn_guest_identify {
+    background: #bf2743;
+}
+
+.cn_admin_identify {
+    background: #1999e6;
+}
+
+.cn_comment {
+    margin-left: 55px;
+}
+
+.cn_string_1 {
+    position: relative;
+}
+
+.cn_name {
+    color: #078ed1;
+    display: inline;
+    margin-right: 10px;
+}
+
+.cn_date {
+    color: #939393;
+    font-size: 12px;
+    display: inline;
+}
+
+.cn_options {
+    position: absolute;
+    right: 0;
+    top: 4px;
+    font-size: 12px;
+    display: none;
+    background: #FFF;
+    z-index: 999;
+}
+
+.cn_options_button {
+    width: 25px;
+    height: 25px;
+    background: url("../img/options.png") center / cover;
+    cursor: pointer;
+    border: transparent solid 1px;
+    opacity: 0.4;
+}
+
+.cn_options_button:hover, .cn_options_button_hover {
+    border: #EEE solid 1px;
+    opacity: 1;
+}
+
+.cn_options_box {
+    background: #FFF;
+    padding: 10px;
+    border: #EEE solid 1px;
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    cursor: default;
+    display: none;
+}
+
+.cn_item_options {
+    padding: 4px;
+    color: #0c9ec8;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.cn_item_options:hover {
+    text-decoration: underline;
+}
+
+.cn_string_2 {
+    margin: 10px 0;
+    max-height: 204px;
+    overflow: hidden;
+    position: relative;
+}
+
+.cn_name_quote {
+    display: inline;
+    color: #939393;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.cn_text {
+    display: block;
+    word-wrap: break-word;
+}
+
+.cn_text img, .cn_last_comments_content img {
+    width: 20px;
+    height: 20px;
+    margin: 1px 2px;
+    vertical-align: middle;
+}
+
+.cn_more_text, .cn_more_text_close {
+    cursor: pointer;
+    color: #0b99d2;
+    text-align: center;
+    margin: 10px auto;
+    width: 18px;
+    height: 10px;
+    background: url("../img/more_text.png") left / cover no-repeat;
+}
+
+.cn_more_text_close {
+    background: url("../img/more_text.png") right / cover no-repeat;
+}
+
+.cn_more_text_details {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    cursor: pointer;
+    background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0);
+}
+
+.cn_text img {
+    max-width: 100%;
+}
+
+.cn_share_block, .cn_answer_button, .cn_delete_button {
+    display: inline-block;
+    color: #939393;
+    font-size: 13px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.cn_share_block:hover, .cn_answer_button:hover, .cn_delete_button:hover {
+    color: #585858;
+}
+
+.cn_share_block {
+    position: relative;
+}
+
+.cn_share_block:hover .cn_share_box {
+    display: block;
+}
+
+.cn_share_box {
+    width: 134px;
+    position: absolute;
+    display: none;
+    top: -3px;
+    left: 0;
+    background: #FFF;
+    padding: 2px;
+    z-index: 9999;
+}
+
+.cn_share_box span {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin: 0 1px;
+    opacity: 0.3;
+    border: #000 solid 1px;
+    cursor: pointer;
+}
+
+.cn_share_box span:hover {
+    opacity: 0.7;
+}
+
+.cn_vk_share {
+    background: url("../img/sh_icon.png") 133px top;
+}
+
+.cn_ok_share {
+    background: url("../img/sh_icon.png") 110px top;
+}
+
+.cn_fb_share {
+    background: url("../img/sh_icon.png") 91px top;
+}
+
+.cn_g_share {
+    background: url("../img/sh_icon.png") 71px top;
+}
+
+.cn_mm_share {
+    background: url("../img/sh_icon.png") 47px top;
+}
+
+.cn_tw_share {
+    background: url("../img/sh_icon.png") 22px top;
+}
+
+.cn_like_box {
+    display: inline-block;
+    margin: 0 8px;
+}
+
+.cn_like_meter {
+    display: inline-block;
+    font-size: 14px;
+}
+
+.cn_like_cool {
+    color: #00c89a;
+}
+
+.cn_like_bad {
+    color: red;
+}
+
+.cn_like {
+    background: url(../img/like.png) center / cover no-repeat;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    margin: 0 3px;
+    opacity: 0.2;
+    cursor: pointer;
+}
+
+.cn_dislike {
+    background: url(../img/dislike.png) center / cover no-repeat;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    margin: 0 3px;
+    opacity: 0.2;
+    cursor: pointer;
+}
+
+.cn_like:hover, .cn_dislike:hover {
+    opacity: 0.5;
+}
+
+.cn_more_comments {
+    margin: auto;
+    width: 45px;
+    height: 20px;
+    text-align: center;
+    cursor: pointer;
+    background: url("../img/more_comments.svg") left / cover no-repeat;
+}
+
+.cn_comments_answer_block {
+    margin: 10px 0 0 60px;
+}
+
+.cn_hide_answer_button {
+    display: none;
+}
+
+.cn_answer_hidden {
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+}
+
+.cn_show_answer_button, .cn_hide_answer_button {
+    color: #0b99d2;
+    cursor: pointer;
+    text-align: right;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.cn_screen_answer, .cn_screen_complain {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: none;
+    z-index: 999999;
+}
+
+.cn_answer_input_box, .cn_complain_box {
+    background: #FFF;
+    width: 50%;
+    min-width: 600px;
+    margin: 5% auto;
+    padding: 20px;
+    position: relative;
+}
+
+.cn_answer_input_box_alternative {
+    width: auto !important;
+    min-width: auto !important;
+    margin: 20px auto 0 !important;
+    box-shadow: 2px 2px 12px #dadada;
+}
+
+.cn_answer_close, .cn_complain_close {
+    background: url(../img/close.png) center / cover no-repeat;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.cn_answer_box_title, .cn_complain_box_title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #2377a1;
+}
+
+.cn_complain_input {
+    margin: 0 0 5px 0;
+}
+
+.cn_length_string {
+    font-size: 14px;
+    margin-top: -20px;
+    float: right;
+    color: #0d9ec8;
+}
+
+.cn_answer_input_panel .cn_avatar {
+    width: 40px;
+    height: 40px;
+}
+
+.cn_screen_delete_confirm {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: none;
+    z-index: 999999;
+}
+
+.cn_delete_confirm_block {
+    height: 170px;
+    margin: -85px auto 0;
+    padding: 20px;
+    top: 50%;
+    position: relative;
+    text-align: center;
+}
+
+.cn_delete_confirm_title {
+    font-size: 40px;
+    color: #FFF;
+}
+
+.cn_delete_confirm_submit, .cn_delete_confirm_cancel {
+    display: inline-block;
+    font-size: 30px;
+    margin: 20px;
+    padding: 5px 20px;
+    color: #FFF;
+    border: #FFF solid 1px;
+    cursor: pointer;
+}
+
+.cn_delete_confirm_submit:hover, .cn_delete_confirm_cancel:hover {
+    background: #FFF;
+    color: #000;
+}
+
+.cn_notice_error {
+    color: red;
+    font-size: 14px;
+}
+
+.cn_recaptcha {
+    margin-top: 5px;
+}
+
+.cn_loading_block {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+
+.cn_loading_block_2 {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.cn_loading {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    border: #0d82a4 solid 1px;
+    border-right: transparent solid 1px;
+    border-radius: 50%;
+    animation: animate .5s linear infinite;
+}
+
+@keyframes animate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.cn_block_notice_modal {
+    position: fixed;
+    bottom: 0;
+    left: -280px;
+    width: 280px;
+    background: rgba(0, 0, 0, 0.7);
+    overflow: hidden;
+    z-index: 9999999;
+}
+
+.cn_notice_modal {
+    padding: 30px 20px;
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+}
+
+.cn_notice_modal_success::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    margin-top: 5px;
+    margin-left: -20px;
+    background: #00cead;
+    box-shadow: 0 0 4px 2px #00cead;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.cn_notice_modal_error::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    margin-top: 5px;
+    margin-left: -20px;
+    background: #e90833;
+    box-shadow: 0 0 4px 2px #e90833;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.cn_loaded_by_link {
+    text-align: center;
+    background: #0c9ec8;
+    color: #FFF;
+    padding: 15px;
+    display: none;
+}
+
+.cn_loaded_by_link_end {
+    text-align: center;
+    font-size: 25px;
+    color: #0c9ec8;
+    margin-bottom: 20px;
+    border-bottom: #0c9ec8 solid 2px;
+}
+
+@media screen and (max-width: 660px) {
+    .cn_answer_input_box, .cn_complain_box {
+        width: 90%;
+        min-width: 300px;
+    }
+}

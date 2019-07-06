@@ -1,0 +1,49 @@
+[INFO ] 2017-06-15 16:34:01:4945 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 430912 | ----- The new console call ----------
+[DEBUG] 2017-06-15 16:34:01:4945 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 430912 | Trying to check available modules
+[INFO ] 2017-06-15 16:34:01:4947 | cron | localhost | guest | core/check_avail_modules.php | 10 | 438256 | Got this file
+[DEBUG] 2017-06-15 16:34:01:4970 | cron | localhost | guest | core/check_avail_modules.php | 22 | 438952 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[DEBUG] 2017-06-15 16:34:01:4970 | cron | localhost | guest | core/functions/send_letter.php | 14 | 425304 | Called 'sendletter_full' function with params: Администратор,aromanuk@mail.ru,[SWP] Изменение состава таблиц,Здравствуйте<br><br> При работе скрипта /home/a/aromanuq/popwebstudio/public_html/core/cron_tasks/log_zipper.php был обнаружен проект (svsbs), в котором неверны настройки подключения БД, либо подключение не удалось по другой причине<br><br>Пожалуйста, не отвечайте на это письмо, оно отправлено роботом,[SWP] Check db structures - cron script,svsbs@svsbs.ru
+[INFO ] 2017-08-11 13:20:01:5033 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 423752 | ----- The new console call ----------
+[DEBUG] 2017-08-11 13:20:01:5035 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 423752 | Trying to check available modules
+[INFO ] 2017-08-11 13:20:01:5037 | cron | localhost | guest | core/check_avail_modules.php | 10 | 431096 | Got this file
+[DEBUG] 2017-08-11 13:20:01:5047 | cron | localhost | guest | core/check_avail_modules.php | 22 | 431792 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-08-11 13:21:01:5192 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 430728 | ----- The new console call ----------
+[DEBUG] 2017-08-11 13:21:01:5192 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 430728 | Trying to check available modules
+[INFO ] 2017-08-11 13:21:01:5194 | cron | localhost | guest | core/check_avail_modules.php | 10 | 438048 | Got this file
+[DEBUG] 2017-08-11 13:21:01:5197 | cron | localhost | guest | core/check_avail_modules.php | 22 | 438768 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-08-11 13:22:01:3646 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 430728 | ----- The new console call ----------
+[DEBUG] 2017-08-11 13:22:01:3646 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 430728 | Trying to check available modules
+[INFO ] 2017-08-11 13:22:01:3648 | cron | localhost | guest | core/check_avail_modules.php | 10 | 438048 | Got this file
+[DEBUG] 2017-08-11 13:22:01:3652 | cron | localhost | guest | core/check_avail_modules.php | 22 | 438768 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-08-11 13:23:01:4157 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 430728 | ----- The new console call ----------
+[DEBUG] 2017-08-11 13:23:01:4158 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 430728 | Trying to check available modules
+[INFO ] 2017-08-11 13:23:01:4160 | cron | localhost | guest | core/check_avail_modules.php | 10 | 438048 | Got this file
+[DEBUG] 2017-08-11 13:23:01:4163 | cron | localhost | guest | core/check_avail_modules.php | 22 | 438768 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-08-11 13:24:01:3726 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 430728 | ----- The new console call ----------
+[DEBUG] 2017-08-11 13:24:01:3729 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 430728 | Trying to check available modules
+[INFO ] 2017-08-11 13:24:01:3732 | cron | localhost | guest | core/check_avail_modules.php | 10 | 438048 | Got this file
+[DEBUG] 2017-08-11 13:24:01:3736 | cron | localhost | guest | core/check_avail_modules.php | 22 | 438768 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-08-12 02:15:01:1920 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 431952 | ----- The new console call ----------
+[DEBUG] 2017-08-12 02:15:01:1921 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 431952 | Trying to check available modules
+[INFO ] 2017-08-12 02:15:01:1922 | cron | localhost | guest | core/check_avail_modules.php | 10 | 439272 | Got this file
+[DEBUG] 2017-08-12 02:15:01:1954 | cron | localhost | guest | core/check_avail_modules.php | 22 | 439992 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-08-13 02:15:01:2494 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 431952 | ----- The new console call ----------
+[DEBUG] 2017-08-13 02:15:01:2500 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 431952 | Trying to check available modules
+[INFO ] 2017-08-13 02:15:01:2503 | cron | localhost | guest | core/check_avail_modules.php | 10 | 439272 | Got this file
+[DEBUG] 2017-08-13 02:15:01:2517 | cron | localhost | guest | core/check_avail_modules.php | 22 | 439992 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-08-14 02:15:01:6002 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 431952 | ----- The new console call ----------
+[DEBUG] 2017-08-14 02:15:01:6004 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 431952 | Trying to check available modules
+[INFO ] 2017-08-14 02:15:01:6006 | cron | localhost | guest | core/check_avail_modules.php | 10 | 439272 | Got this file
+[DEBUG] 2017-08-14 02:15:01:6016 | cron | localhost | guest | core/check_avail_modules.php | 22 | 439992 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-09-09 02:15:01:2270 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 444272 | ----- The new console call ----------
+[DEBUG] 2017-09-09 02:15:01:2273 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 444272 | Trying to check available modules
+[INFO ] 2017-09-09 02:15:01:2275 | cron | localhost | guest | core/check_avail_modules.php | 10 | 451592 | Got this file
+[DEBUG] 2017-09-09 02:15:01:2292 | cron | localhost | guest | core/check_avail_modules.php | 22 | 452328 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-09-10 02:15:01:5282 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 444272 | ----- The new console call ----------
+[DEBUG] 2017-09-10 02:15:01:5285 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 444272 | Trying to check available modules
+[INFO ] 2017-09-10 02:15:01:5287 | cron | localhost | guest | core/check_avail_modules.php | 10 | 451592 | Got this file
+[DEBUG] 2017-09-10 02:15:01:5308 | cron | localhost | guest | core/check_avail_modules.php | 22 | 452328 | Data about modules received: installed 15, enabled 15, cron enabled for 0
+[INFO ] 2017-09-11 02:15:00:7550 | cron | localhost | guest | core/start_platform_scripts_cron.php | 38 | 444272 | ----- The new console call ----------
+[DEBUG] 2017-09-11 02:15:00:7581 | cron | localhost | guest | core/start_platform_scripts_cron.php | 50 | 444272 | Trying to check available modules
+[INFO ] 2017-09-11 02:15:00:7585 | cron | localhost | guest | core/check_avail_modules.php | 10 | 451592 | Got this file
+[DEBUG] 2017-09-11 02:15:00:7609 | cron | localhost | guest | core/check_avail_modules.php | 22 | 452328 | Data about modules received: installed 15, enabled 15, cron enabled for 0

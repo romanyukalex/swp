@@ -1,0 +1,1239 @@
+<!-- Страница psybooks_main-->
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_main">
+			<input type="hidden" name="cat_id" value="">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Все категории книг по психологии [18861 книга]</h2>
+</div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+				Прикладная психология — общий термин, используемый для обозначения всех тех отраслей психологии, которые стремятся применить принципы, открытия и теории психологии на практике в смежных областях, таких как образование (педагогика), промышленность (эргономика), маркетинг, опрос общественного мнения, музыка (музыкальная психология), спорт (психология спорта), кадровая служба (психодиагностика), военное дело (военная психология) и т. п. и/или обнаружить базовые принципы, которые могут быть применены таким образом.			</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-10"><a class="justlink" href= "/?page=psybooks_main&page_num=472"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_main&page_num=22"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_main&page_num=23">23</a> | <a class="justlink" href= "/?page=psybooks_main&page_num=22">22</a> | <b>21</b> | <a class="justlink" href= "/?page=psybooks_main&page_num=20">20</a> |  <a class="justlink" href= "/?page=psybooks_main&page_num=19">19</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_main&page_num=20">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_main&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1903</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бехтеревъ В.М. / Бехтерев В.М. - Внушенiе и его роль въ общественной жизни / Внушение и его роль в общественной жизни [1903, DjVu, RUS]" href="/?page=book&topic_id=4516856" onclick="yandex_target('all_books');return true;"><img src="http://s020.radikal.ru/i712/1308/ad/5dce99b48971.png" width="100%" class="thumbnail" alt="Обложка книги Бехтеревъ В.М. / Бехтерев В.М. - Внушенiе и его роль въ общественной жизни / Внушение и его роль в общественной жизни [1903, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бехтеревъ В.М. / Бехтерев В.М. - Внушенiе и его роль въ общественной жизни / Внушение и его роль в общественной жизни [1903, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4516856" target="_blank" onclick="yandex_target('all_books');return true;">Внушенiе и его роль въ общественной жизни / Внушение и его роль в общественной жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бехтеревъ В.М. / Бехтерев В.М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бехтеревъ В.М. / Бехтерев В.М.">Бехтеревъ В.М. / Бехтерев В.М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Моргенштерн И. - Психографология [1903, PDF, RUS]" href="/?page=book&topic_id=4926394" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2015/0130/d2/aabf9b0e231e5bc74f95892d862271d2.jpg" width="100%" class="thumbnail" alt="Обложка книги Моргенштерн И. - Психографология [1903, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Моргенштерн И. - Психографология [1903, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4926394" target="_blank" onclick="yandex_target('all_books');return true;">Психографология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Моргенштерн И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Моргенштерн И.">Моргенштерн И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">pdf, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Переферкович Н. - Талмудъ / Авот рабби Натана [1903, pdf, RUS]" href="/?page=book&topic_id=2865425" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Переферкович Н. - Талмудъ / Авот рабби Натана [1903, pdf, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Переферкович Н. - Талмудъ / Авот рабби Натана [1903, pdf, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2865425" target="_blank" onclick="yandex_target('all_books');return true;">Талмудъ / Авот рабби Натана </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Переферкович Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Переферкович Н.">Переферкович Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вундт, Вильгельм / Вундтъ, Вильгельм - Введение в философию / Введенiе въ философiю [1903, PDF, RUS]" href="/?page=book&topic_id=4830775" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2014/0924/98/4813f9256904325e03155f4481322498.jpg" width="100%" class="thumbnail" alt="Обложка книги Вундт, Вильгельм / Вундтъ, Вильгельм - Введение в философию / Введенiе въ философiю [1903, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вундт, Вильгельм / Вундтъ, Вильгельм - Введение в философию / Введенiе въ философiю [1903, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4830775" target="_blank" onclick="yandex_target('all_books');return true;">Введение в философию / Введенiе въ философiю </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вундт, Вильгельм / Вундтъ, Вильгельм" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вундт, Вильгельм / Вундтъ, Вильгельм">Вундт, Вильгельм / Вундтъ, Вильгельм</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1903</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ряд исторических романов - Ауэрбахъ Б. / Ауэрбах Б. - Спиноза [1903, DjVu, RUS]" href="/?page=book&topic_id=4208657" onclick="yandex_target('all_books');return true;"><img src="http://i39.fastpic.ru/big/2012/1007/2b/698729489bc26ed554c3a5594b91712b.jpg" width="100%" class="thumbnail" alt="Обложка книги Ряд исторических романов - Ауэрбахъ Б. / Ауэрбах Б. - Спиноза [1903, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ряд исторических романов - Ауэрбахъ Б. / Ауэрбах Б. - Спиноза [1903, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4208657" target="_blank" onclick="yandex_target('all_books');return true;">Спиноза </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ауэрбахъ Б. / Ауэрбах Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ауэрбахъ Б. / Ауэрбах Б.">Ауэрбахъ Б. / Ауэрбах Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Записки Историко-филологического факультета Императорского С.-Петербургского Универстета - Лосскiй Н./Лосский Н. - Основныя ученiя психологиiи съ т.зр. волюнтаризма/Основные учения психологии с т.зр. волюнтаризма [1903, PDF, RUS]" href="/?page=book&topic_id=3568992" onclick="yandex_target('all_books');return true;"><img src="http://i11.fastpic.ru/big/2011/0512/98/6518b371c39128988f64fa430eba5498.jpg" width="100%" class="thumbnail" alt="Обложка книги Записки Историко-филологического факультета Императорского С.-Петербургского Универстета - Лосскiй Н./Лосский Н. - Основныя ученiя психологиiи съ т.зр. волюнтаризма/Основные учения психологии с т.зр. волюнтаризма [1903, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Записки Историко-филологического факультета Императорского С.-Петербургского Универстета - Лосскiй Н./Лосский Н. - Основныя ученiя психологиiи съ т.зр. волюнтаризма/Основные учения психологии с т.зр. волюнтаризма [1903, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3568992" target="_blank" onclick="yandex_target('all_books');return true;">Основныя ученiя психологиiи съ т.зр. волюнтаризма/Основные учения психологии с т.зр. волюнтаризма </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лосскiй Н./Лосский Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лосскiй Н./Лосский Н.">Лосскiй Н./Лосский Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Булгаков С.Н. - От марксизма к идеализму / Отъ марксизма къ идеализму. [1903, DjVu, RUS]" href="/?page=book&topic_id=3460056" onclick="yandex_target('all_books');return true;"><img src="http://i17.fastpic.ru/big/2011/0305/18/b4a6403e1f5051c6aadfb2d13c032c18.jpg" width="100%" class="thumbnail" alt="Обложка книги Булгаков С.Н. - От марксизма к идеализму / Отъ марксизма къ идеализму. [1903, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Булгаков С.Н. - От марксизма к идеализму / Отъ марксизма къ идеализму. [1903, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3460056" target="_blank" onclick="yandex_target('all_books');return true;">От марксизма к идеализму / Отъ марксизма къ идеализму. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Булгаков С.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Булгаков С.Н.">Булгаков С.Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">RUS, JPG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библiотека для самообразованiя - В. Вундтъ - Введенiе въ философiю (Введение в философию) [1903, RUS, JPG]" href="/?page=book&topic_id=2469887" onclick="yandex_target('all_books');return true;"><img src="http://pic.ipicture.ru/uploads/091129/2IJWVtO4W3.jpg" width="100%" class="thumbnail" alt="Обложка книги Библiотека для самообразованiя - В. Вундтъ - Введенiе въ философiю (Введение в философию) [1903, RUS, JPG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библiотека для самообразованiя - В. Вундтъ - Введенiе въ философiю (Введение в философию) [1903, RUS, JPG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2469887" target="_blank" onclick="yandex_target('all_books');return true;">Введенiе въ философiю (Введение в философию) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=В. Вундтъ" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: В. Вундтъ">В. Вундтъ</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1903</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Минто В. - Логика [1903, DjVu, RUS]" href="/?page=book&topic_id=3140103" onclick="yandex_target('all_books');return true;"><img src="http://i9.fastpic.ru/big/2010/0904/02/3d0542d1df2f1e391eaa9782d45a2502.jpg" width="100%" class="thumbnail" alt="Обложка книги Минто В. - Логика [1903, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Минто В. - Логика [1903, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3140103" target="_blank" onclick="yandex_target('all_books');return true;">Логика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Минто В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Минто В.">Минто В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В. Оствальд - Философия природы / Философiя природы. [1903, DjVu, RUS]" href="/?page=book&topic_id=2173454" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/17/6497b2bb5c2fc235fa2009f14a073117.jpg" width="100%" class="thumbnail" alt="Обложка книги В. Оствальд - Философия природы / Философiя природы. [1903, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В. Оствальд - Философия природы / Философiя природы. [1903, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2173454" target="_blank" onclick="yandex_target('all_books');return true;">Философия природы / Философiя природы. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=В. Оствальд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: В. Оствальд">В. Оствальд</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">PDF, POL</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Mak&#322;owski Kazimierz - Sztuka ludowa w Polsce / Народное искусство в Польше [1903, PDF, POL]" href="/?page=book&topic_id=3534830" onclick="yandex_target('all_books');return true;"><img src="http://i19.fastpic.ru/big/2011/0418/b7/3b01d05805e8b583f4c80ce034674eb7.jpg" width="100%" class="thumbnail" alt="Обложка книги Mak&#322;owski Kazimierz - Sztuka ludowa w Polsce / Народное искусство в Польше [1903, PDF, POL]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Mak&#322;owski Kazimierz - Sztuka ludowa w Polsce / Народное искусство в Польше [1903, PDF, POL]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3534830" target="_blank" onclick="yandex_target('all_books');return true;">Sztuka ludowa w Polsce / Народное искусство в Польше </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Mak&#322;owski Kazimierz" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Mak&#322;owski Kazimierz">Mak&#322;owski Kazimierz</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1903</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сергей Федорович Ольденбург - Сборникъ изображенiй 300 бурхановъ. Часть 1. / Сборник изображений трехсот бурханов. Часть 1 [1903, PDF]" href="/?page=book&topic_id=1367288" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/fa/641635bb88b7e8e62744dd09771575fa.jpg" width="100%" class="thumbnail" alt="Обложка книги Сергей Федорович Ольденбург - Сборникъ изображенiй 300 бурхановъ. Часть 1. / Сборник изображений трехсот бурханов. Часть 1 [1903, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сергей Федорович Ольденбург - Сборникъ изображенiй 300 бурхановъ. Часть 1. / Сборник изображений трехсот бурханов. Часть 1 [1903, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1367288" target="_blank" onclick="yandex_target('all_books');return true;">Сборникъ изображенiй 300 бурхановъ. Часть 1. / Сборник изображений трехсот бурханов. Часть 1 </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сергей Федорович Ольденбург" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сергей Федорович Ольденбург">Сергей Федорович Ольденбург</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Тардъ Габриэль / Тард Габриэль - Общественное мн&#1123;нiе и толпа / Общественное мнение и толпа / Личность и толпа / Сознание масс [1902, PDF, RUS]" href="/?page=book&topic_id=5668371" onclick="yandex_target('all_books');return true;"><img src="https://d.radikal.ru/d14/1901/4b/4e7f83bf948d.jpg" width="100%" class="thumbnail" alt="Обложка книги Тардъ Габриэль / Тард Габриэль - Общественное мн&#1123;нiе и толпа / Общественное мнение и толпа / Личность и толпа / Сознание масс [1902, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Тардъ Габриэль / Тард Габриэль - Общественное мн&#1123;нiе и толпа / Общественное мнение и толпа / Личность и толпа / Сознание масс [1902, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5668371" target="_blank" onclick="yandex_target('all_books');return true;">Общественное мн&#1123;нiе и толпа / Общественное мнение и толпа / Личность и толпа / Сознание масс </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тардъ Габриэль / Тард Габриэль" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тардъ Габриэль / Тард Габриэль">Тардъ Габриэль / Тард Габриэль</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эдуардъ фонъ-Гартманнъ / Гартман Эдуард фон - Современная психологiя / Современная психология [1902, PDF, RUS]" href="/?page=book&topic_id=5655648" onclick="yandex_target('all_books');return true;"><img src="https://d.radikal.ru/d31/1812/76/72404fce8e44.jpg" width="100%" class="thumbnail" alt="Обложка книги Эдуардъ фонъ-Гартманнъ / Гартман Эдуард фон - Современная психологiя / Современная психология [1902, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эдуардъ фонъ-Гартманнъ / Гартман Эдуард фон - Современная психологiя / Современная психология [1902, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5655648" target="_blank" onclick="yandex_target('all_books');return true;">Современная психологiя / Современная психология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эдуардъ фонъ-Гартманнъ / Гартман Эдуард фон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эдуардъ фонъ-Гартманнъ / Гартман Эдуард фон">Эдуардъ фонъ-Гартманнъ / Гартман Эдуард фон</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Очерки по социальной психологии - Гамон А. / Амон О.Ф.А. - Психологiя военной профессiи / Психология военной профессии [1902, PDF, RUS]" href="/?page=book&topic_id=5655202" onclick="yandex_target('all_books');return true;"><img src="https://d.radikal.ru/d03/1812/bb/eb0de53d4813.png" width="100%" class="thumbnail" alt="Обложка книги Очерки по социальной психологии - Гамон А. / Амон О.Ф.А. - Психологiя военной профессiи / Психология военной профессии [1902, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Очерки по социальной психологии - Гамон А. / Амон О.Ф.А. - Психологiя военной профессiи / Психология военной профессии [1902, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5655202" target="_blank" onclick="yandex_target('all_books');return true;">Психологiя военной профессiи / Психология военной профессии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гамон А. / Амон О.Ф.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гамон А. / Амон О.Ф.А.">Гамон А. / Амон О.Ф.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Джемс Уильям / James William. - Научныя сновы психологіи / Научные основы психологии [1902, PDF, RUS]" href="/?page=book&topic_id=5493952" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2017/1215/65/9750802d285b01e8df85661d3bb39665.jpg" width="100%" class="thumbnail" alt="Обложка книги Джемс Уильям / James William. - Научныя сновы психологіи / Научные основы психологии [1902, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Джемс Уильям / James William. - Научныя сновы психологіи / Научные основы психологии [1902, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5493952" target="_blank" onclick="yandex_target('all_books');return true;">Научныя сновы психологіи / Научные основы психологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джемс Уильям / James William." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джемс Уильям / James William.">Джемс Уильям / James William.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1902</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бехтерев В. - Психика и жизнь [1902, DjVu]" href="/?page=book&topic_id=790498" onclick="yandex_target('all_books');return true;"><img src="http://i30.fastpic.ru/big/2011/0904/8d/6ed67b6d7cfd91315566ba34bac8cd8d.png" width="100%" class="thumbnail" alt="Обложка книги Бехтерев В. - Психика и жизнь [1902, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бехтерев В. - Психика и жизнь [1902, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=790498" target="_blank" onclick="yandex_target('all_books');return true;">Психика и жизнь </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бехтерев В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бехтерев В.">Бехтерев В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лютостанский И.И. - Талмуд и евреи, 6 томов [1902, PDF, RUS]" href="/?page=book&topic_id=4369964" onclick="yandex_target('all_books');return true;"><img src="http://i031.radikal.ru/1303/da/d14ca1a5e2e2.jpg" width="100%" class="thumbnail" alt="Обложка книги Лютостанский И.И. - Талмуд и евреи, 6 томов [1902, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лютостанский И.И. - Талмуд и евреи, 6 томов [1902, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4369964" target="_blank" onclick="yandex_target('all_books');return true;">Талмуд и евреи, 6 томов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лютостанский И.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лютостанский И.И.">Лютостанский И.И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Роменский Ю.А. - Рамаяна Индийская эпическая поэма [1902, DjVu, RUS]" href="/?page=book&topic_id=4185282" onclick="yandex_target('all_books');return true;"><img src="http://i2.imageban.ru/out/2012/09/15/87d6331463aead819be52574562a9c93.jpg" width="100%" class="thumbnail" alt="Обложка книги Роменский Ю.А. - Рамаяна Индийская эпическая поэма [1902, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Роменский Ю.А. - Рамаяна Индийская эпическая поэма [1902, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4185282" target="_blank" onclick="yandex_target('all_books');return true;">Рамаяна Индийская эпическая поэма </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Роменский Ю.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Роменский Ю.А.">Роменский Ю.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Іеромонахъ Ме&#1139;одій / Иеромонах Мефодий - Буддійское міровоззр&#1123;ніе или ламаизмъ и облічение его / Буддийское мировоззрение или ламаизм и обличение его [1902, DjVu, RUS]" href="/?page=book&topic_id=3712584" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2011/0830/35/e12f343dfdaac38ffbc7c47cb3f6a835.png" width="100%" class="thumbnail" alt="Обложка книги Іеромонахъ Ме&#1139;одій / Иеромонах Мефодий - Буддійское міровоззр&#1123;ніе или ламаизмъ и облічение его / Буддийское мировоззрение или ламаизм и обличение его [1902, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Іеромонахъ Ме&#1139;одій / Иеромонах Мефодий - Буддійское міровоззр&#1123;ніе или ламаизмъ и облічение его / Буддийское мировоззрение или ламаизм и обличение его [1902, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3712584" target="_blank" onclick="yandex_target('all_books');return true;">Буддійское міровоззр&#1123;ніе или ламаизмъ и облічение его / Буддийское мировоззрение или ламаизм и обличение его </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Іеромонахъ Ме&#1139;одій / Иеромонах Мефодий" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Іеромонахъ Ме&#1139;одій / Иеромонах Мефодий">Іеромонахъ Ме&#1139;одій / Иеромонах Мефодий</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1902</span><span class="hidden-sm-down">906, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Н. Переферкович - Талмудъ / Талмуд. Мишна и Тосефта в 7 томах [1902-1906, PDF, RUS]" href="/?page=book&topic_id=2806798" onclick="yandex_target('all_books');return true;"><img src="http://i2.fastpic.ru/big/2010/0307/99/5dfc859ad5fe4c2bbaa066a7b2552299.jpg" width="100%" class="thumbnail" alt="Обложка книги Н. Переферкович - Талмудъ / Талмуд. Мишна и Тосефта в 7 томах [1902-1906, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Н. Переферкович - Талмудъ / Талмуд. Мишна и Тосефта в 7 томах [1902-1906, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2806798" target="_blank" onclick="yandex_target('all_books');return true;">Талмудъ / Талмуд. Мишна и Тосефта в 7 томах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Н. Переферкович" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Н. Переферкович">Н. Переферкович</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: П. Таннери - Первые шаги древнегреческой науки [1902, PDF/DjVu, RUS]" href="/?page=book&topic_id=4828595" onclick="yandex_target('all_books');return true;"><img src="http://i63.fastpic.ru/big/2014/0921/c6/ad0d81a9c7542fce762acacfd4d789c6.jpg" width="100%" class="thumbnail" alt="Обложка книги П. Таннери - Первые шаги древнегреческой науки [1902, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: П. Таннери - Первые шаги древнегреческой науки [1902, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4828595" target="_blank" onclick="yandex_target('all_books');return true;">Первые шаги древнегреческой науки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=П. Таннери" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: П. Таннери">П. Таннери</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: B. P. Bowne / Б. П. Боун - Theism / Теизм [1902, PDF, ENG]" href="/?page=book&topic_id=2928587" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги B. P. Bowne / Б. П. Боун - Theism / Теизм [1902, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: B. P. Bowne / Б. П. Боун - Theism / Теизм [1902, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2928587" target="_blank" onclick="yandex_target('all_books');return true;">Theism / Теизм </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=B. P. Bowne / Б. П. Боун" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: B. P. Bowne / Б. П. Боун">B. P. Bowne / Б. П. Боун</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В. Виндельбанд - История новой философии / Исторiя новой философiи. 2 тома. [1902, PDF]" href="/?page=book&topic_id=1968712" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/41/60f4ec66629b12d6d33c6cc7db3c8141.jpg" width="100%" class="thumbnail" alt="Обложка книги В. Виндельбанд - История новой философии / Исторiя новой философiи. 2 тома. [1902, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В. Виндельбанд - История новой философии / Исторiя новой философiи. 2 тома. [1902, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1968712" target="_blank" onclick="yandex_target('all_books');return true;">История новой философии / Исторiя новой философiи. 2 тома. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=В. Виндельбанд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: В. Виндельбанд">В. Виндельбанд</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Н.И. Кареев - Философия культурной и социальной истории Нового времени (1300-1800) / Философiя культурной и соцiальной исторiи Новаго времени (1300-1800). [1902, PDF]" href="/?page=book&topic_id=1938898" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/89/d76ed9049410994c65b3667e258a0389.jpg" width="100%" class="thumbnail" alt="Обложка книги Н.И. Кареев - Философия культурной и социальной истории Нового времени (1300-1800) / Философiя культурной и соцiальной исторiи Новаго времени (1300-1800). [1902, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Н.И. Кареев - Философия культурной и социальной истории Нового времени (1300-1800) / Философiя культурной и соцiальной исторiи Новаго времени (1300-1800). [1902, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1938898" target="_blank" onclick="yandex_target('all_books');return true;">Философия культурной и социальной истории Нового времени (1300-1800) / Философiя культурной и соцiальной исторiи Новаго времени (1300-1800). </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Н.И. Кареев" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Н.И. Кареев">Н.И. Кареев</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1902, PDF, RUS]" href="/?page=book&topic_id=4657406" onclick="yandex_target('all_books');return true;"><img src="http://s020.radikal.ru/i706/1402/20/e778691f77f7.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1902, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1902, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4657406" target="_blank" onclick="yandex_target('all_books');return true;"> Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Стасовъ В. В. / Стасов В. В. - Миніатюры н&#1123;которых рукописей византійских, болгарских, русских, джагатайских и персидских / Миниатюры рукописей византийских, болгарских, русских, джагатайских и персидских [1902, PDF, RUS]" href="/?page=book&topic_id=3151681" onclick="yandex_target('all_books');return true;"><img src="http://i9.fastpic.ru/big/2010/0912/ce/ce32e7f3604f3cc75a2eaa21525167ce.jpg" width="100%" class="thumbnail" alt="Обложка книги Стасовъ В. В. / Стасов В. В. - Миніатюры н&#1123;которых рукописей византійских, болгарских, русских, джагатайских и персидских / Миниатюры рукописей византийских, болгарских, русских, джагатайских и персидских [1902, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Стасовъ В. В. / Стасов В. В. - Миніатюры н&#1123;которых рукописей византійских, болгарских, русских, джагатайских и персидских / Миниатюры рукописей византийских, болгарских, русских, джагатайских и персидских [1902, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3151681" target="_blank" onclick="yandex_target('all_books');return true;">Миніатюры н&#1123;которых рукописей византійских, болгарских, русских, джагатайских и персидских / Миниатюры рукописей византийских, болгарских, русских, джагатайских и персидских </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Стасовъ В. В. / Стасов В. В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Стасовъ В. В. / Стасов В. В.">Стасовъ В. В. / Стасов В. В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1902</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Д. Рескин - Прогулки по Флоренции. Заметки о христианском искусстве / Прогулки по Флоренцiи. Зам&#1123;тки о христiанскомъ искусств&#1123;. [1902, DjVu, RUS]" href="/?page=book&topic_id=2174382" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/8e/ebc559168de03f01b66a13f3e164978e.jpg" width="100%" class="thumbnail" alt="Обложка книги Д. Рескин - Прогулки по Флоренции. Заметки о христианском искусстве / Прогулки по Флоренцiи. Зам&#1123;тки о христiанскомъ искусств&#1123;. [1902, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Д. Рескин - Прогулки по Флоренции. Заметки о христианском искусстве / Прогулки по Флоренцiи. Зам&#1123;тки о христiанскомъ искусств&#1123;. [1902, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2174382" target="_blank" onclick="yandex_target('all_books');return true;">Прогулки по Флоренции. Заметки о христианском искусстве / Прогулки по Флоренцiи. Зам&#1123;тки о христiанскомъ искусств&#1123;. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Д. Рескин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Д. Рескин">Д. Рескин</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1901</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Gr&#252;nwedel A. / Грюнведель А. – Buddhist Art in India / Буддийское искусство в Индии [1901, PDF, ENG]" href="/?page=book&topic_id=2428328" onclick="yandex_target('all_books');return true;"><img src="http://103.imagebam.com/download/QcOkYvVcOqyrmkuE1b3LRg/55007/550062454/a0.jpg" width="100%" class="thumbnail" alt="Обложка книги Gr&#252;nwedel A. / Грюнведель А. – Buddhist Art in India / Буддийское искусство в Индии [1901, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Gr&#252;nwedel A. / Грюнведель А. – Buddhist Art in India / Буддийское искусство в Индии [1901, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2428328" target="_blank" onclick="yandex_target('all_books');return true;">Gr&#252;nwedel A. / Грюнведель А. – Buddhist Art in India / Буддийское искусство в Индии </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1901</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Рибо Т. - Творческое воображенiе / Творческое воображение [1901, DjVu, RUS]" href="/?page=book&topic_id=3964895" onclick="yandex_target('all_books');return true;"><img src="http://i4.imageban.ru/out/2012/03/01/e7b8830232a879b60d2eac4bc6a74e2a.png" width="100%" class="thumbnail" alt="Обложка книги Рибо Т. - Творческое воображенiе / Творческое воображение [1901, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Рибо Т. - Творческое воображенiе / Творческое воображение [1901, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3964895" target="_blank" onclick="yandex_target('all_books');return true;">Творческое воображенiе / Творческое воображение </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рибо Т." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рибо Т.">Рибо Т.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1901</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Л. Вольтманн - Система морального сознания / Система моральнаго сознанiя. [1901, DjVu, RUS]" href="/?page=book&topic_id=2157891" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/b8/ef9b4e77c2a38e41bbfb0ba1d1fe33b8.jpg" width="100%" class="thumbnail" alt="Обложка книги Л. Вольтманн - Система морального сознания / Система моральнаго сознанiя. [1901, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Л. Вольтманн - Система морального сознания / Система моральнаго сознанiя. [1901, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2157891" target="_blank" onclick="yandex_target('all_books');return true;">Система морального сознания / Система моральнаго сознанiя. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Л. Вольтманн" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Л. Вольтманн">Л. Вольтманн</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1901</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Н.А. Бердяев - Субъективизм и индивидуализм в общественной философии / Субъективизмъ и индивидуализмъ въ общественной философiи. [1901, PDF]" href="/?page=book&topic_id=1963745" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/11/36b3c08f9caa8d6e32a6800c68b4ff11.jpg" width="100%" class="thumbnail" alt="Обложка книги Н.А. Бердяев - Субъективизм и индивидуализм в общественной философии / Субъективизмъ и индивидуализмъ въ общественной философiи. [1901, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Н.А. Бердяев - Субъективизм и индивидуализм в общественной философии / Субъективизмъ и индивидуализмъ въ общественной философiи. [1901, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1963745" target="_blank" onclick="yandex_target('all_books');return true;">Субъективизм и индивидуализм в общественной философии / Субъективизмъ и индивидуализмъ въ общественной философiи. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Н.А. Бердяев" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Н.А. Бердяев">Н.А. Бердяев</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1901</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гринченко Б.Д. / Гринченко Б.Д. - Изъ устъ народа / Из уст народа [1901, DjVu, RUS]" href="/?page=book&topic_id=3755928" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Гринченко Б.Д. / Гринченко Б.Д. - Изъ устъ народа / Из уст народа [1901, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гринченко Б.Д. / Гринченко Б.Д. - Изъ устъ народа / Из уст народа [1901, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3755928" target="_blank" onclick="yandex_target('all_books');return true;">Изъ устъ народа / Из уст народа </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гринченко Б.Д. / Гринченко Б.Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гринченко Б.Д. / Гринченко Б.Д.">Гринченко Б.Д. / Гринченко Б.Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1901</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Тихомиров А. Д. - Самоучитель модных бальных и характерных танцев / Самоучитель модныхъ бальныхъ и характерныхъ танцевъ [1901, DjVu, RUS]" href="/?page=book&topic_id=3114725" onclick="yandex_target('all_books');return true;"><img src="http://i9.fastpic.ru/big/2010/0819/95/521981cb649648a4e010e754064fe395.jpg" width="100%" class="thumbnail" alt="Обложка книги Тихомиров А. Д. - Самоучитель модных бальных и характерных танцев / Самоучитель модныхъ бальныхъ и характерныхъ танцевъ [1901, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Тихомиров А. Д. - Самоучитель модных бальных и характерных танцев / Самоучитель модныхъ бальныхъ и характерныхъ танцевъ [1901, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3114725" target="_blank" onclick="yandex_target('all_books');return true;">Самоучитель модных бальных и характерных танцев / Самоучитель модныхъ бальныхъ и характерныхъ танцевъ </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тихомиров А. Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тихомиров А. Д.">Тихомиров А. Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1901</span><span class="hidden-sm-down">902, PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: А.Н. Бенуа - История живописи в XIX веке / Исторiя живописи в XIX в&#1123;к&#1123;. 2 тома [1901-1902, PDF]" href="/?page=book&topic_id=1803050" onclick="yandex_target('all_books');return true;"><img src="http://s51.radikal.ru/i134/0904/7b/fbdd3d311201.jpg" width="100%" class="thumbnail" alt="Обложка книги А.Н. Бенуа - История живописи в XIX веке / Исторiя живописи в XIX в&#1123;к&#1123;. 2 тома [1901-1902, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: А.Н. Бенуа - История живописи в XIX веке / Исторiя живописи в XIX в&#1123;к&#1123;. 2 тома [1901-1902, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1803050" target="_blank" onclick="yandex_target('all_books');return true;">История живописи в XIX веке / Исторiя живописи в XIX в&#1123;к&#1123;. 2 тома </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=А.Н. Бенуа" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: А.Н. Бенуа">А.Н. Бенуа</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1901</span><span class="hidden-sm-down">927, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Charles Webster Leadbeater / Чарльз Вебстер Ледбитер - Чарльз Вебстер Ледбитер (собрание трудов) [1901-1927, DOC, RUS]" href="/?page=book&topic_id=3323068" onclick="yandex_target('all_books');return true;"><img src="http://www.10pix.ru/img1/4792/715719.jpg" width="100%" class="thumbnail" alt="Обложка книги Charles Webster Leadbeater / Чарльз Вебстер Ледбитер - Чарльз Вебстер Ледбитер (собрание трудов) [1901-1927, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Charles Webster Leadbeater / Чарльз Вебстер Ледбитер - Чарльз Вебстер Ледбитер (собрание трудов) [1901-1927, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3323068" target="_blank" onclick="yandex_target('all_books');return true;">Чарльз Вебстер Ледбитер (собрание трудов) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Charles Webster Leadbeater / Чарльз Вебстер Ледбитер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Charles Webster Leadbeater / Чарльз Вебстер Ледбитер">Charles Webster Leadbeater / Чарльз Вебстер Ледбитер</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1901</span><span class="hidden-sm-down">1990), DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сонник &quot;Миллион снов&quot; / Миллiонъ сновъ. Сонникъ [1901 (1990), DjVu, RUS]" href="/?page=book&topic_id=2335999" onclick="yandex_target('all_books');return true;"><img src="http://i1.fastpic.ru/big/2010/0114/42/a8fcef3da0e652f43f949d381e617a42.jpg" width="100%" class="thumbnail" alt="Обложка книги Сонник &quot;Миллион снов&quot; / Миллiонъ сновъ. Сонникъ [1901 (1990), DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сонник &quot;Миллион снов&quot; / Миллiонъ сновъ. Сонникъ [1901 (1990), DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2335999" target="_blank" onclick="yandex_target('all_books');return true;">Сонник &quot;Миллион снов&quot; / Миллiонъ сновъ. Сонникъ </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шопенгауэр А. - Эристика, или Искусство побеждать в спорах [1900, DjVu, RUS]" href="/?page=book&topic_id=5498169" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2017/1225/a7/a9f6dbd52fa8a4679e47065ef3b020a7.png" width="100%" class="thumbnail" alt="Обложка книги Шопенгауэр А. - Эристика, или Искусство побеждать в спорах [1900, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шопенгауэр А. - Эристика, или Искусство побеждать в спорах [1900, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5498169" target="_blank" onclick="yandex_target('all_books');return true;">Эристика, или Искусство побеждать в спорах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шопенгауэр А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шопенгауэр А.">Шопенгауэр А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">998, FB2, PDF, RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Зигмунд Фрейд / Zigmund Freid - Сборник произведений (45 книг) [1900-1998, FB2, PDF, RTF, RUS]" href="/?page=book&topic_id=3248362" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Зигмунд Фрейд / Zigmund Freid - Сборник произведений (45 книг) [1900-1998, FB2, PDF, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Зигмунд Фрейд / Zigmund Freid - Сборник произведений (45 книг) [1900-1998, FB2, PDF, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3248362" target="_blank" onclick="yandex_target('all_books');return true;">Сборник произведений (45 книг) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Зигмунд Фрейд / Zigmund Freid" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Зигмунд Фрейд / Zigmund Freid">Зигмунд Фрейд / Zigmund Freid</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библiотека философовъ V. - Виндельбанд В. - Платонъ/Платон [1900, DjVu, RUS]" href="/?page=book&topic_id=3844064" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2011/1202/4b/2beee9670db96ea5ca57899c5251794b.jpg" width="100%" class="thumbnail" alt="Обложка книги Библiотека философовъ V. - Виндельбанд В. - Платонъ/Платон [1900, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библiотека философовъ V. - Виндельбанд В. - Платонъ/Платон [1900, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3844064" target="_blank" onclick="yandex_target('all_books');return true;">Платонъ/Платон </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Виндельбанд В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Виндельбанд В.">Виндельбанд В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: John Ruskin / Джон Рёскин - The Complete Works / Собрание сочинений [1900, PDF, ENG]" href="/?page=book&topic_id=3426122" onclick="yandex_target('all_books');return true;"><img src="http://funkyimg.com/u2/398/123/ruskin00.jpg" width="100%" class="thumbnail" alt="Обложка книги John Ruskin / Джон Рёскин - The Complete Works / Собрание сочинений [1900, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: John Ruskin / Джон Рёскин - The Complete Works / Собрание сочинений [1900, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3426122" target="_blank" onclick="yandex_target('all_books');return true;">The Complete Works / Собрание сочинений </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=John Ruskin / Джон Рёскин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: John Ruskin / Джон Рёскин">John Ruskin / Джон Рёскин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">907, DjVu, GRE</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Scriptorum Classicorum Bibliotheca Oxoniensis - Plato / Платон - Platonis opera / сочинения Платона [1900-1907, DjVu, GRE]" href="/?page=book&topic_id=3312190" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Scriptorum Classicorum Bibliotheca Oxoniensis - Plato / Платон - Platonis opera / сочинения Платона [1900-1907, DjVu, GRE]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Scriptorum Classicorum Bibliotheca Oxoniensis - Plato / Платон - Platonis opera / сочинения Платона [1900-1907, DjVu, GRE]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3312190" target="_blank" onclick="yandex_target('all_books');return true;">Platonis opera / сочинения Платона </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Plato / Платон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Plato / Платон">Plato / Платон</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Трубецкой С.Н. - Учение о Логосе в его истории / Ученiе о Логос&#1123; въ его исторiи. Том I. [1900, DjVu, RUS]" href="/?page=book&topic_id=3289173" onclick="yandex_target('all_books');return true;"><img src="http://i12.fastpic.ru/big/2010/1129/87/31268ffac581dac3a7e94945081d6487.jpg" width="100%" class="thumbnail" alt="Обложка книги Трубецкой С.Н. - Учение о Логосе в его истории / Ученiе о Логос&#1123; въ его исторiи. Том I. [1900, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Трубецкой С.Н. - Учение о Логосе в его истории / Ученiе о Логос&#1123; въ его исторiи. Том I. [1900, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3289173" target="_blank" onclick="yandex_target('all_books');return true;">Учение о Логосе в его истории / Ученiе о Логос&#1123; въ его исторiи. Том I. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Трубецкой С.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Трубецкой С.Н.">Трубецкой С.Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: R. W. Emerson / Р. У. Эмерсон - Essays / Очерки [1900, PDF, ENG]" href="/?page=book&topic_id=2884354" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги R. W. Emerson / Р. У. Эмерсон - Essays / Очерки [1900, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: R. W. Emerson / Р. У. Эмерсон - Essays / Очерки [1900, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2884354" target="_blank" onclick="yandex_target('all_books');return true;">Essays / Очерки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=R. W. Emerson / Р. У. Эмерсон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: R. W. Emerson / Р. У. Эмерсон">R. W. Emerson / Р. У. Эмерсон</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эмерсон Р. - О дов&#1123;ріи къ себ&#1123; / О доверии к себе [1900, PDF, RUS]" href="/?page=book&topic_id=2160027" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Эмерсон Р. - О дов&#1123;ріи къ себ&#1123; / О доверии к себе [1900, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эмерсон Р. - О дов&#1123;ріи къ себ&#1123; / О доверии к себе [1900, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2160027" target="_blank" onclick="yandex_target('all_books');return true;">О дов&#1123;ріи къ себ&#1123; / О доверии к себе </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эмерсон Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эмерсон Р.">Эмерсон Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: И. Кант - Антропология / Антропологiя. [1900, DjVu, RUS]" href="/?page=book&topic_id=2156001" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/61/6e0861b5d584bfd35f87388fe8169261.jpg" width="100%" class="thumbnail" alt="Обложка книги И. Кант - Антропология / Антропологiя. [1900, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: И. Кант - Антропология / Антропологiя. [1900, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2156001" target="_blank" onclick="yandex_target('all_books');return true;">Антропология / Антропологiя. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=И. Кант" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: И. Кант">И. Кант</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: H. Griswold / Х. Грисуолд - Brahman: a study in the history of Indian philosophy / Брахман: исследование истории индийской философии [1900, PDF]" href="/?page=book&topic_id=1914468" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги H. Griswold / Х. Грисуолд - Brahman: a study in the history of Indian philosophy / Брахман: исследование истории индийской философии [1900, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: H. Griswold / Х. Грисуолд - Brahman: a study in the history of Indian philosophy / Брахман: исследование истории индийской философии [1900, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1914468" target="_blank" onclick="yandex_target('all_books');return true;">Brahman: a study in the history of Indian philosophy / Брахман: исследование истории индийской философии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=H. Griswold / Х. Грисуолд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: H. Griswold / Х. Грисуолд">H. Griswold / Х. Грисуолд</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Хомяков А.С. - Полное собранiе сочиненiй [1900, PDF]" href="/?page=book&topic_id=1722825" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Хомяков А.С. - Полное собранiе сочиненiй [1900, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Хомяков А.С. - Полное собранiе сочиненiй [1900, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1722825" target="_blank" onclick="yandex_target('all_books');return true;">Полное собранiе сочиненiй </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хомяков А.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хомяков А.С.">Хомяков А.С.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. [1900, PDF, RUS]" href="/?page=book&topic_id=4636225" onclick="yandex_target('all_books');return true;"><img src="http://s020.radikal.ru/i720/1401/1f/003ae7e1a3cd.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. [1900, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. [1900, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4636225" target="_blank" onclick="yandex_target('all_books');return true;"> Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">DjVu, DEU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Huszka Josef / Хуска Йозеф - Magyarische Ornamentik / Венгерская орнаментика [1900, DjVu, DEU]" href="/?page=book&topic_id=4258471" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2012/1122/50/2e675aacb2a1b69094d8587efcb09950.jpg" width="100%" class="thumbnail" alt="Обложка книги Huszka Josef / Хуска Йозеф - Magyarische Ornamentik / Венгерская орнаментика [1900, DjVu, DEU]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Huszka Josef / Хуска Йозеф - Magyarische Ornamentik / Венгерская орнаментика [1900, DjVu, DEU]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4258471" target="_blank" onclick="yandex_target('all_books');return true;">Magyarische Ornamentik / Венгерская орнаментика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Huszka Josef / Хуска Йозеф" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Huszka Josef / Хуска Йозеф">Huszka Josef / Хуска Йозеф</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">DjVu, RUS, FRA</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эварницкий Д.И. - Из украинской старины / Изъ украйнской старины / la petite Russie d'autrefois [1900, DjVu, RUS, FRA]" href="/?page=book&topic_id=4016396" onclick="yandex_target('all_books');return true;"><img src="http://i32.fastpic.ru/big/2012/0408/20/ef5ecda0286463d941baa43e78a61b20.jpg" width="100%" class="thumbnail" alt="Обложка книги Эварницкий Д.И. - Из украинской старины / Изъ украйнской старины / la petite Russie d'autrefois [1900, DjVu, RUS, FRA]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эварницкий Д.И. - Из украинской старины / Изъ украйнской старины / la petite Russie d'autrefois [1900, DjVu, RUS, FRA]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4016396" target="_blank" onclick="yandex_target('all_books');return true;">Из украинской старины / Изъ украйнской старины / la petite Russie d'autrefois </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эварницкий Д.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эварницкий Д.И.">Эварницкий Д.И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Каталогъ художественныхъ произведенiй городской галереи Павла и Серг&#1123;я Третьяковыхъ / Каталог художественных произведений городской галереи Павла и Сергея Третьяковых [1900, PDF, RUS]" href="/?page=book&topic_id=3653899" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2011/0715/8a/51df09a1a29064709fa7b07e3dd2c08a.jpg" width="100%" class="thumbnail" alt="Обложка книги Каталогъ художественныхъ произведенiй городской галереи Павла и Серг&#1123;я Третьяковыхъ / Каталог художественных произведений городской галереи Павла и Сергея Третьяковых [1900, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Каталогъ художественныхъ произведенiй городской галереи Павла и Серг&#1123;я Третьяковыхъ / Каталог художественных произведений городской галереи Павла и Сергея Третьяковых [1900, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3653899" target="_blank" onclick="yandex_target('all_books');return true;">Каталогъ художественныхъ произведенiй городской галереи Павла и Серг&#1123;я Третьяковыхъ / Каталог художественных произведений городской галереи Павла и Сергея Третьяковых </a></h4>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: John Addington Symonds - Renaissance in Italy: the revival of learning [1900, PDF, ENG]" href="/?page=book&topic_id=3490651" onclick="yandex_target('all_books');return true;"><img src="http://i18.fastpic.ru/big/2011/0323/fb/859bad1123d5f3d2b1f50feae2a6aefb.jpg" width="100%" class="thumbnail" alt="Обложка книги John Addington Symonds - Renaissance in Italy: the revival of learning [1900, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: John Addington Symonds - Renaissance in Italy: the revival of learning [1900, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3490651" target="_blank" onclick="yandex_target('all_books');return true;">Renaissance in Italy: the revival of learning </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=John Addington Symonds" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: John Addington Symonds">John Addington Symonds</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Д. Ровинскiй / Д. Ровинский - Русскiя народныя картинки / Русские народные картинки . Т.1 и Т.2 [1900, DjVu, RUS]" href="/?page=book&topic_id=2028222" onclick="yandex_target('all_books');return true;"><img src="http://i047.radikal.ru/0907/01/cee17b905316.jpg" width="100%" class="thumbnail" alt="Обложка книги Д. Ровинскiй / Д. Ровинский - Русскiя народныя картинки / Русские народные картинки . Т.1 и Т.2 [1900, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Д. Ровинскiй / Д. Ровинский - Русскiя народныя картинки / Русские народные картинки . Т.1 и Т.2 [1900, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2028222" target="_blank" onclick="yandex_target('all_books');return true;">Русскiя народныя картинки / Русские народные картинки . Т.1 и Т.2 </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Д. Ровинскiй / Д. Ровинский" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Д. Ровинскiй / Д. Ровинский">Д. Ровинскiй / Д. Ровинский</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Д.Рескин - Искусство и действительность [1900, PDF]" href="/?page=book&topic_id=930820" onclick="yandex_target('all_books');return true;"><img src="http://ipicture.ru/uploads/080613/6VoTUNWQ4T.jpg" width="100%" class="thumbnail" alt="Обложка книги Д.Рескин - Искусство и действительность [1900, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Д.Рескин - Искусство и действительность [1900, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=930820" target="_blank" onclick="yandex_target('all_books');return true;">Искусство и действительность </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Д.Рескин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Д.Рескин">Д.Рескин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1900</span><span class="hidden-sm-down"></span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шамурин Ю., Белов Е. - Культурные сокровища России [1900-e]" href="/?page=book&topic_id=743836" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Шамурин Ю., Белов Е. - Культурные сокровища России [1900-e]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шамурин Ю., Белов Е. - Культурные сокровища России [1900-e]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=743836" target="_blank" onclick="yandex_target('all_books');return true;">Культурные сокровища России </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шамурин Ю., Белов Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шамурин Ю., Белов Е.">Шамурин Ю., Белов Е.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1899</span><span class="hidden-sm-down">900, PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ланге, Фридрихъ Альбертъ / Ланге, Фридрих Альберт - Исторія матеріализма и критика его значенія въ настоящемъ / История материализма и критика его значения в настоящем [1899-1900, PDF/DjVu, RUS]" href="/?page=book&topic_id=5572752" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0610/a7/8505010500d0e99a8a9961b4d4c978a7.png" width="100%" class="thumbnail" alt="Обложка книги Ланге, Фридрихъ Альбертъ / Ланге, Фридрих Альберт - Исторія матеріализма и критика его значенія въ настоящемъ / История материализма и критика его значения в настоящем [1899-1900, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ланге, Фридрихъ Альбертъ / Ланге, Фридрих Альберт - Исторія матеріализма и критика его значенія въ настоящемъ / История материализма и критика его значения в настоящем [1899-1900, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5572752" target="_blank" onclick="yandex_target('all_books');return true;">Исторія матеріализма и критика его значенія въ настоящемъ / История материализма и критика его значения в настоящем </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ланге, Фридрихъ Альбертъ / Ланге, Фридрих Альберт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ланге, Фридрихъ Альбертъ / Ланге, Фридрих Альберт">Ланге, Фридрихъ Альбертъ / Ланге, Фридрих Альберт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1899</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Архангельскій А. С. / Архангельский А. С. - Къ исторіи древне-русскаго Луцидарiуса / К истории древнерусского Луцидариуса [1899, DjVu, RUS]" href="/?page=book&topic_id=3551699" onclick="yandex_target('all_books');return true;"><img src="http://i20.fastpic.ru/big/2011/0430/49/57c5ee8726338bd1bc1958877cae8249.jpg" width="100%" class="thumbnail" alt="Обложка книги Архангельскій А. С. / Архангельский А. С. - Къ исторіи древне-русскаго Луцидарiуса / К истории древнерусского Луцидариуса [1899, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Архангельскій А. С. / Архангельский А. С. - Къ исторіи древне-русскаго Луцидарiуса / К истории древнерусского Луцидариуса [1899, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3551699" target="_blank" onclick="yandex_target('all_books');return true;">Къ исторіи древне-русскаго Луцидарiуса / К истории древнерусского Луцидариуса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Архангельскій А. С. / Архангельский А. С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Архангельскій А. С. / Архангельский А. С.">Архангельскій А. С. / Архангельский А. С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1899</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Беттани и Дуглас. - Великие религии Востока / Великiя религiи Востока [1899, PDF]" href="/?page=book&topic_id=1233911" onclick="yandex_target('all_books');return true;"><img src="http://s50.radikal.ru/i129/0811/2a/d2977b9aafab.jpg" width="100%" class="thumbnail" alt="Обложка книги Беттани и Дуглас. - Великие религии Востока / Великiя религiи Востока [1899, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Беттани и Дуглас. - Великие религии Востока / Великiя религiи Востока [1899, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1233911" target="_blank" onclick="yandex_target('all_books');return true;">Великие религии Востока / Великiя религiи Востока </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Беттани и Дуглас." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Беттани и Дуглас.">Беттани и Дуглас.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1899</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Розанов В.В. / Розановъ В. В. - Сумерки просв&#1123;щенiя: сборникъ статей по вопросамъ образованiя / Сумерки просвещения: сборник статей по вопросам образования [1899, PDF, RUS]" href="/?page=book&topic_id=3169306" onclick="yandex_target('all_books');return true;"><img src="http://i10.fastpic.ru/big/2010/0928/9c/0db21cef86f70d95e941bcaade28b99c.jpg" width="100%" class="thumbnail" alt="Обложка книги Розанов В.В. / Розановъ В. В. - Сумерки просв&#1123;щенiя: сборникъ статей по вопросамъ образованiя / Сумерки просвещения: сборник статей по вопросам образования [1899, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Розанов В.В. / Розановъ В. В. - Сумерки просв&#1123;щенiя: сборникъ статей по вопросамъ образованiя / Сумерки просвещения: сборник статей по вопросам образования [1899, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3169306" target="_blank" onclick="yandex_target('all_books');return true;">Сумерки просв&#1123;щенiя: сборникъ статей по вопросамъ образованiя / Сумерки просвещения: сборник статей по вопросам образования </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Розанов В.В. / Розановъ В. В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Розанов В.В. / Розановъ В. В.">Розанов В.В. / Розановъ В. В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1899</span><span class="hidden-sm-down">904, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Мир искусства (в 12-и томах) [1899-1904, PDF, RUS]" href="/?page=book&topic_id=4726740" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Мир искусства (в 12-и томах) [1899-1904, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Мир искусства (в 12-и томах) [1899-1904, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4726740" target="_blank" onclick="yandex_target('all_books');return true;"> Мир искусства (в 12-и томах) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1899</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1899, PDF, RUS]" href="/?page=book&topic_id=4629747" onclick="yandex_target('all_books');return true;"><img src="http://s020.radikal.ru/i713/1401/e9/f00017c6d566.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1899, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1899, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4629747" target="_blank" onclick="yandex_target('all_books');return true;"> Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1899</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Скальковскiй К. А. / Скальковский К. А. - Въ театральномъ мiр&#1123; / В театральном мире [1899, DjVu, RUS]" href="/?page=book&topic_id=4223500" onclick="yandex_target('all_books');return true;"><img src="http://i45.fastpic.ru/big/2012/1021/84/5ddd8c46458e5357553b3766c095ba84.jpg" width="100%" class="thumbnail" alt="Обложка книги Скальковскiй К. А. / Скальковский К. А. - Въ театральномъ мiр&#1123; / В театральном мире [1899, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Скальковскiй К. А. / Скальковский К. А. - Въ театральномъ мiр&#1123; / В театральном мире [1899, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4223500" target="_blank" onclick="yandex_target('all_books');return true;">Въ театральномъ мiр&#1123; / В театральном мире </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Скальковскiй К. А. / Скальковский К. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Скальковскiй К. А. / Скальковский К. А.">Скальковскiй К. А. / Скальковский К. А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1899</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Липперт - Введение в историю культуры / Введенiе въ исторiю культуры [1899, DjVu, RUS]" href="/?page=book&topic_id=2487034" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Липперт - Введение в историю культуры / Введенiе въ исторiю культуры [1899, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Липперт - Введение в историю культуры / Введенiе въ исторiю культуры [1899, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2487034" target="_blank" onclick="yandex_target('all_books');return true;">Введение в историю культуры / Введенiе въ исторiю культуры </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Липперт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Липперт">Липперт</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1898</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бурцев Александр Евгениевич - Народный быт Великого Севера. [1898, DOC]" href="/?page=book&topic_id=2179946" onclick="yandex_target('all_books');return true;"><img src="http://i96.fastpic.ru/big/2017/0702/0a/338e6c03a691e5d461dab2bebf68f40a.jpg" width="100%" class="thumbnail" alt="Обложка книги Бурцев Александр Евгениевич - Народный быт Великого Севера. [1898, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бурцев Александр Евгениевич - Народный быт Великого Севера. [1898, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2179946" target="_blank" onclick="yandex_target('all_books');return true;">Народный быт Великого Севера. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бурцев Александр Евгениевич" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бурцев Александр Евгениевич">Бурцев Александр Евгениевич</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1898</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Зыковъ А.С. / Зыков А.С. - Какъ и ч&#1123;мъ управляются люди / Как и чем управляются люди [1898, PDF, RUS]" href="/?page=book&topic_id=3727293" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2011/0911/ad/7cd06d29f9b5b3da278ccef0f4647ead.png" width="100%" class="thumbnail" alt="Обложка книги Зыковъ А.С. / Зыков А.С. - Какъ и ч&#1123;мъ управляются люди / Как и чем управляются люди [1898, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Зыковъ А.С. / Зыков А.С. - Какъ и ч&#1123;мъ управляются люди / Как и чем управляются люди [1898, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3727293" target="_blank" onclick="yandex_target('all_books');return true;">Какъ и ч&#1123;мъ управляются люди / Как и чем управляются люди </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Зыковъ А.С. / Зыков А.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Зыковъ А.С. / Зыков А.С.">Зыковъ А.С. / Зыков А.С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1898</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Прот. А. Ковальницкий (пер.) - Нравственное богословiе евреевъ-талмудистовъ / Нравственное богословие евреев-талмудистов[1898, PDF, RUS]" href="/?page=book&topic_id=5064023" onclick="yandex_target('all_books');return true;"><img src="http://i71.fastpic.ru/big/2015/0821/85/2581a48084cea1911f0195f26bbd4185.png" width="100%" class="thumbnail" alt="Обложка книги Прот. А. Ковальницкий (пер.) - Нравственное богословiе евреевъ-талмудистовъ / Нравственное богословие евреев-талмудистов[1898, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Прот. А. Ковальницкий (пер.) - Нравственное богословiе евреевъ-талмудистовъ / Нравственное богословие евреев-талмудистов[1898, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5064023" target="_blank" onclick="yandex_target('all_books');return true;">Нравственное богословiе евреевъ-талмудистовъ / Нравственное богословие евреев-талмудистов</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Прот. А. Ковальницкий (пер.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Прот. А. Ковальницкий (пер.)">Прот. А. Ковальницкий (пер.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1898</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Газо А. - Шуты и скоморохи всех времен и народов [1898, PDF/DjVu, RUS]" href="/?page=book&topic_id=4968198" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Газо А. - Шуты и скоморохи всех времен и народов [1898, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Газо А. - Шуты и скоморохи всех времен и народов [1898, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4968198" target="_blank" onclick="yandex_target('all_books');return true;">Шуты и скоморохи всех времен и народов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Газо А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Газо А.">Газо А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1898</span><span class="hidden-sm-down">�.1-2 (59-60), PDF, RU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1898,т.1-2 (59-60), PDF, RUS]" href="/?page=book&topic_id=4827495" onclick="yandex_target('all_books');return true;"><img src="http://s017.radikal.ru/i407/1409/30/004f37e0c31d.jpg" width="100%" class="thumbnail" alt="Обложка книги [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1898,т.1-2 (59-60), PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1898,т.1-2 (59-60), PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4827495" target="_blank" onclick="yandex_target('all_books');return true;"></a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1898</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1898, PDF, RUS]" href="/?page=book&topic_id=4628206" onclick="yandex_target('all_books');return true;"><img src="http://s020.radikal.ru/i711/1312/04/2711e522d5bd.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1898, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1898, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4628206" target="_blank" onclick="yandex_target('all_books');return true;"> Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1897</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вундт, Вильгельм Макс - Очерк психологии [1897, PDF/DjVu, RUS]" href="/?page=book&topic_id=5564597" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0521/5f/074d91360e4d663f8076dd73f2a2b95f.png" width="100%" class="thumbnail" alt="Обложка книги Вундт, Вильгельм Макс - Очерк психологии [1897, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вундт, Вильгельм Макс - Очерк психологии [1897, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5564597" target="_blank" onclick="yandex_target('all_books');return true;">Очерк психологии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вундт, Вильгельм Макс" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вундт, Вильгельм Макс">Вундт, Вильгельм Макс</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1897</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Теодюль Арман Рибо (Th&#233;odule-Armand Ribot) - Психология внимания [1897, PDF]" href="/?page=book&topic_id=952588" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2011/0906/4e/423487949ebc6a563e2cece3272c2e4e.png" width="100%" class="thumbnail" alt="Обложка книги Теодюль Арман Рибо (Th&#233;odule-Armand Ribot) - Психология внимания [1897, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Теодюль Арман Рибо (Th&#233;odule-Armand Ribot) - Психология внимания [1897, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=952588" target="_blank" onclick="yandex_target('all_books');return true;">Психология внимания </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Теодюль Арман Рибо (Th&#233;odule-Armand Ribot)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Теодюль Арман Рибо (Th&#233;odule-Armand Ribot)">Теодюль Арман Рибо (Th&#233;odule-Armand Ribot)</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1897</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Спенсеръ Г./Спенсер Г. - Основныя начала/Основные начала [1897, DjVu, RUS]" href="/?page=book&topic_id=3678710" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2011/0804/2e/8bbdad186086687a4aa57b0956f3e62e.jpeg" width="100%" class="thumbnail" alt="Обложка книги Спенсеръ Г./Спенсер Г. - Основныя начала/Основные начала [1897, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Спенсеръ Г./Спенсер Г. - Основныя начала/Основные начала [1897, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3678710" target="_blank" onclick="yandex_target('all_books');return true;">Основныя начала/Основные начала </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Спенсеръ Г./Спенсер Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Спенсеръ Г./Спенсер Г.">Спенсеръ Г./Спенсер Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1897</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В.А. Кожевников - Философия чувства и веры / Философiя чувства и в&#1123;ры. Часть I. [1897, DjVu, RUS]" href="/?page=book&topic_id=2173443" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/1c/49346654cbe7ca8b2b3684108145c01c.jpg" width="100%" class="thumbnail" alt="Обложка книги В.А. Кожевников - Философия чувства и веры / Философiя чувства и в&#1123;ры. Часть I. [1897, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В.А. Кожевников - Философия чувства и веры / Философiя чувства и в&#1123;ры. Часть I. [1897, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2173443" target="_blank" onclick="yandex_target('all_books');return true;">Философия чувства и веры / Философiя чувства и в&#1123;ры. Часть I. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=В.А. Кожевников" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: В.А. Кожевников">В.А. Кожевников</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1897</span><span class="hidden-sm-down">�.1-2 (57-58), PDF, RU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1897,т.1-2 (57-58), PDF, RUS]" href="/?page=book&topic_id=4827167" onclick="yandex_target('all_books');return true;"><img src="http://i072.radikal.ru/1409/87/d9c3c8eb836d.jpg" width="100%" class="thumbnail" alt="Обложка книги [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1897,т.1-2 (57-58), PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1897,т.1-2 (57-58), PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4827167" target="_blank" onclick="yandex_target('all_books');return true;"></a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1897</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1897, PDF, RUS]" href="/?page=book&topic_id=4624868" onclick="yandex_target('all_books');return true;"><img src="http://s006.radikal.ru/i214/1312/43/5f02d33b8f7a.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1897, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1897, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4624868" target="_blank" onclick="yandex_target('all_books');return true;"> Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1897</span><span class="hidden-sm-down">898, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Семёнова П.П. - Живописная Россiя Томь V / Живописная Россия Том V [1897-1898, PDF, RUS]" href="/?page=book&topic_id=4582421" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2013/1107/a0/197af7e2c9cd1acd7a90fa5d936289a0.jpg" width="100%" class="thumbnail" alt="Обложка книги Семёнова П.П. - Живописная Россiя Томь V / Живописная Россия Том V [1897-1898, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Семёнова П.П. - Живописная Россiя Томь V / Живописная Россия Том V [1897-1898, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4582421" target="_blank" onclick="yandex_target('all_books');return true;">Живописная Россiя Томь V / Живописная Россия Том V </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Семёнова П.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Семёнова П.П.">Семёнова П.П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1897</span><span class="hidden-sm-down"> 1903, JPEG, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кн. Гагаринъ / Гагарин Г.Г. - Собранiе византiйскихъ, грузинских и древнерусскихъ орнаментовъ и памятниковъ архитектуры / Собрание византийских, грузинских и древнерусских орнаментов и памятников архитектуры . Альбом [1897 - 1903, JPEG, RUS]" href="/?page=book&topic_id=2074611" onclick="yandex_target('all_books');return true;"><img src="http://s54.radikal.ru/i143/0909/75/3d4bf0494cdf.jpg" width="100%" class="thumbnail" alt="Обложка книги Кн. Гагаринъ / Гагарин Г.Г. - Собранiе византiйскихъ, грузинских и древнерусскихъ орнаментовъ и памятниковъ архитектуры / Собрание византийских, грузинских и древнерусских орнаментов и памятников архитектуры . Альбом [1897 - 1903, JPEG, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кн. Гагаринъ / Гагарин Г.Г. - Собранiе византiйскихъ, грузинских и древнерусскихъ орнаментовъ и памятниковъ архитектуры / Собрание византийских, грузинских и древнерусских орнаментов и памятников архитектуры . Альбом [1897 - 1903, JPEG, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2074611" target="_blank" onclick="yandex_target('all_books');return true;">1903, JPEG, RUS]</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Собранiе византiйскихъ, грузинских и древнерусскихъ орнаментовъ и памятниковъ архитектуры / Собрание византийских, грузинских и древнерусских орнаментов и памятников архитектуры . Альбом [1897" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Собранiе византiйскихъ, грузинских и древнерусскихъ орнаментовъ и памятниковъ архитектуры / Собрание византийских, грузинских и древнерусских орнаментов и памятников архитектуры . Альбом [1897">Собранiе византiйскихъ, грузинских и древнерусскихъ орнаментовъ и памятниковъ архитектуры / Собрание византийских, грузинских и древнерусских орнаментов и памятников архитектуры . Альбом [1897</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1897</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: А. Новицкий - Передвижники и влияние их на русское искусство / Передвижники и влiянiе ихъ на русское искусство. [1897, PDF]" href="/?page=book&topic_id=1237511" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/7f/885c7176785778bbbebfe6d823944d7f.jpg" width="100%" class="thumbnail" alt="Обложка книги А. Новицкий - Передвижники и влияние их на русское искусство / Передвижники и влiянiе ихъ на русское искусство. [1897, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: А. Новицкий - Передвижники и влияние их на русское искусство / Передвижники и влiянiе ихъ на русское искусство. [1897, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1237511" target="_blank" onclick="yandex_target('all_books');return true;">Передвижники и влияние их на русское искусство / Передвижники и влiянiе ихъ на русское искусство. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=А. Новицкий" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: А. Новицкий">А. Новицкий</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Друммонд Генри - Прогрессъ и эволюцiя челов&#1123;ка / Прогресс и эволюция человека / Эволюция и прогресс человека [1896, PDF, RUS]" href="/?page=book&topic_id=5666773" onclick="yandex_target('all_books');return true;"><img src="https://d.radikal.ru/d16/1812/e3/9c38dd9c0569.jpg" width="100%" class="thumbnail" alt="Обложка книги Друммонд Генри - Прогрессъ и эволюцiя челов&#1123;ка / Прогресс и эволюция человека / Эволюция и прогресс человека [1896, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Друммонд Генри - Прогрессъ и эволюцiя челов&#1123;ка / Прогресс и эволюция человека / Эволюция и прогресс человека [1896, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5666773" target="_blank" onclick="yandex_target('all_books');return true;">Прогрессъ и эволюцiя челов&#1123;ка / Прогресс и эволюция человека / Эволюция и прогресс человека </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Друммонд Генри" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Друммонд Генри">Друммонд Генри</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1896</span><span class="hidden-sm-down">898, PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Іодль Ф. / Иодль Ф. - Исторія этики въ новой философіи / История этики в новой философии [1896-1898, PDF/DjVu, RUS]" href="/?page=book&topic_id=5597850" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0808/30/902f14acb16c614cee120d3cf97c7a30.png" width="100%" class="thumbnail" alt="Обложка книги Іодль Ф. / Иодль Ф. - Исторія этики въ новой философіи / История этики в новой философии [1896-1898, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Іодль Ф. / Иодль Ф. - Исторія этики въ новой философіи / История этики в новой философии [1896-1898, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5597850" target="_blank" onclick="yandex_target('all_books');return true;">Исторія этики въ новой философіи / История этики в новой философии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Іодль Ф. / Иодль Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Іодль Ф. / Иодль Ф.">Іодль Ф. / Иодль Ф.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Vishnupuranam. A Prose English Translation (Vishnu Purana) / Вишну Пурана. Английский перевод [1896, PDF, ENG]" href="/?page=book&topic_id=2364759" onclick="yandex_target('all_books');return true;"><img src="http://pic.ipicture.ru/uploads/091030/lgMRp1H3tP.jpg" width="100%" class="thumbnail" alt="Обложка книги Vishnupuranam. A Prose English Translation (Vishnu Purana) / Вишну Пурана. Английский перевод [1896, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Vishnupuranam. A Prose English Translation (Vishnu Purana) / Вишну Пурана. Английский перевод [1896, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2364759" target="_blank" onclick="yandex_target('all_books');return true;">Vishnupuranam. A Prose English Translation (Vishnu Purana) / Вишну Пурана. Английский перевод </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека для самообразования — Минто В. — Дедуктивная и индуктивная логика [1896, PDF/DjVu, RUS]" href="/?page=book&topic_id=4857730" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2014/1031/7a/d77b0aa1a7ae791e37989527fa4e9f7a.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека для самообразования — Минто В. — Дедуктивная и индуктивная логика [1896, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека для самообразования — Минто В. — Дедуктивная и индуктивная логика [1896, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4857730" target="_blank" onclick="yandex_target('all_books');return true;">Библиотека для самообразования — Минто В. — Дедуктивная и индуктивная логика </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библiотека для самообразованiя - Минто В. - Дедуктивная и индуктивная логика [1896, DjVu, RUS]" href="/?page=book&topic_id=4749390" onclick="yandex_target('all_books');return true;"><img src="http://i64.fastpic.ru/big/2014/0528/86/20ba06aaa142fed2392cb710445e8586.jpg" width="100%" class="thumbnail" alt="Обложка книги Библiотека для самообразованiя - Минто В. - Дедуктивная и индуктивная логика [1896, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библiотека для самообразованiя - Минто В. - Дедуктивная и индуктивная логика [1896, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4749390" target="_blank" onclick="yandex_target('all_books');return true;">Дедуктивная и индуктивная логика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Минто В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Минто В.">Минто В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Иллюстрированное описание всероссийской художественно-промышленной выставки в Москве 1882 года / Иллюстрированное описанiе всероссiйской художественно-промышленной выставки въ Москв&#1123; 1882 года [1896, PDF, RUS]" href="/?page=book&topic_id=4836284" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i631/1410/c1/48625bece29e.jpg" width="100%" class="thumbnail" alt="Обложка книги Иллюстрированное описание всероссийской художественно-промышленной выставки в Москве 1882 года / Иллюстрированное описанiе всероссiйской художественно-промышленной выставки въ Москв&#1123; 1882 года [1896, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Иллюстрированное описание всероссийской художественно-промышленной выставки в Москве 1882 года / Иллюстрированное описанiе всероссiйской художественно-промышленной выставки въ Москв&#1123; 1882 года [1896, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4836284" target="_blank" onclick="yandex_target('all_books');return true;">Иллюстрированное описание всероссийской художественно-промышленной выставки в Москве 1882 года / Иллюстрированное описанiе всероссiйской художественно-промышленной выставки въ Москв&#1123; 1882 года </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">�.1-2 (55-56), PDF, RU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1896,т.1-2 (55-56), PDF, RUS]" href="/?page=book&topic_id=4826494" onclick="yandex_target('all_books');return true;"><img src="http://s017.radikal.ru/i426/1409/dc/da2d92ebcfed.jpg" width="100%" class="thumbnail" alt="Обложка книги [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1896,т.1-2 (55-56), PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1896,т.1-2 (55-56), PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4826494" target="_blank" onclick="yandex_target('all_books');return true;"></a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Всероссийская промышленно-художественная выставка 1896 года в Нижнем-Новгороде / Всероссiйская промышленно-художественная выставка 1896 года въ Нижнемъ-Новгород&#1123; [1896, PDF, RUS]" href="/?page=book&topic_id=4818619" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2014/0908/0d/ce23699985b737a2dc96c8aee90ce40d.jpg" width="100%" class="thumbnail" alt="Обложка книги Всероссийская промышленно-художественная выставка 1896 года в Нижнем-Новгороде / Всероссiйская промышленно-художественная выставка 1896 года въ Нижнемъ-Новгород&#1123; [1896, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Всероссийская промышленно-художественная выставка 1896 года в Нижнем-Новгороде / Всероссiйская промышленно-художественная выставка 1896 года въ Нижнемъ-Новгород&#1123; [1896, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4818619" target="_blank" onclick="yandex_target('all_books');return true;">Всероссийская промышленно-художественная выставка 1896 года в Нижнем-Новгороде / Всероссiйская промышленно-художественная выставка 1896 года въ Нижнемъ-Новгород&#1123; </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В память Священнаго Коронования Их Императорских Величеств / Въ память Священнаго Коронованiя Ихъ Императорскихъ Величествъ Николая Александровича и Александры &#1138;еодоровны [1896, PDF, RUS]" href="/?page=book&topic_id=4818230" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2014/0908/7f/fba5cd3cb91c82eb66da3272b985127f.jpg" width="100%" class="thumbnail" alt="Обложка книги В память Священнаго Коронования Их Императорских Величеств / Въ память Священнаго Коронованiя Ихъ Императорскихъ Величествъ Николая Александровича и Александры &#1138;еодоровны [1896, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В память Священнаго Коронования Их Императорских Величеств / Въ память Священнаго Коронованiя Ихъ Императорскихъ Величествъ Николая Александровича и Александры &#1138;еодоровны [1896, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4818230" target="_blank" onclick="yandex_target('all_books');return true;">В память Священнаго Коронования Их Императорских Величеств / Въ память Священнаго Коронованiя Ихъ Императорскихъ Величествъ Николая Александровича и Александры &#1138;еодоровны </a></h4>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1896, PDF, RUS]" href="/?page=book&topic_id=4624387" onclick="yandex_target('all_books');return true;"><img src="http://s020.radikal.ru/i715/1312/ac/4fa513bb2104.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1896, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1896, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4624387" target="_blank" onclick="yandex_target('all_books');return true;"> Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Плещеев А. А. - Нашъ балетъ / Наш балет [1896, PDF, RUS]" href="/?page=book&topic_id=4224770" onclick="yandex_target('all_books');return true;"><img src="http://i42.fastpic.ru/big/2012/0715/46/3209066ecb9ff256aa2e56d7d11b0c46.jpg" width="100%" class="thumbnail" alt="Обложка книги Плещеев А. А. - Нашъ балетъ / Наш балет [1896, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Плещеев А. А. - Нашъ балетъ / Наш балет [1896, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4224770" target="_blank" onclick="yandex_target('all_books');return true;">Нашъ балетъ / Наш балет </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Плещеев А. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Плещеев А. А.">Плещеев А. А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">JPEG, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Горшельт Ф. - Кавказские походные рисунки . Альбом [1896, JPEG, RUS]" href="/?page=book&topic_id=2087464" onclick="yandex_target('all_books');return true;"><img src="http://s53.radikal.ru/i141/0908/26/61868f02191c.jpg" width="100%" class="thumbnail" alt="Обложка книги Горшельт Ф. - Кавказские походные рисунки . Альбом [1896, JPEG, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Горшельт Ф. - Кавказские походные рисунки . Альбом [1896, JPEG, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2087464" target="_blank" onclick="yandex_target('all_books');return true;">Кавказские походные рисунки . Альбом </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Горшельт Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Горшельт Ф.">Горшельт Ф.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1896</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: А.А.Павловский - Скульптура в Аттике до греко-персидских войн [1896, PDF]" href="/?page=book&topic_id=930813" onclick="yandex_target('all_books');return true;"><img src="http://ipicture.ru/uploads/080613/W0mATXWr01.jpg" width="100%" class="thumbnail" alt="Обложка книги А.А.Павловский - Скульптура в Аттике до греко-персидских войн [1896, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: А.А.Павловский - Скульптура в Аттике до греко-персидских войн [1896, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=930813" target="_blank" onclick="yandex_target('all_books');return true;">Скульптура в Аттике до греко-персидских войн </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=А.А.Павловский" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: А.А.Павловский">А.А.Павловский</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1895</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Популярно-научная библиотека - Лоскутов П.М. - Духовный прогрессъ и счастiе / Духовный прогресс и счастье [1895, PDF, RUS]" href="/?page=book&topic_id=5666753" onclick="yandex_target('all_books');return true;"><img src="https://a.radikal.ru/a37/1812/42/f7254d8b45e5.jpg" width="100%" class="thumbnail" alt="Обложка книги Популярно-научная библиотека - Лоскутов П.М. - Духовный прогрессъ и счастiе / Духовный прогресс и счастье [1895, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Популярно-научная библиотека - Лоскутов П.М. - Духовный прогрессъ и счастiе / Духовный прогресс и счастье [1895, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5666753" target="_blank" onclick="yandex_target('all_books');return true;">Духовный прогрессъ и счастiе / Духовный прогресс и счастье </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лоскутов П.М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лоскутов П.М.">Лоскутов П.М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1895</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Жуковскiй В.А. / Жуковский В.А. - Челов&#1123;къ и познанiе у персидскихъ мистиковъ / Человек и познание у персидских мистиков [1895, PDF, RUS]" href="/?page=book&topic_id=3283307" onclick="yandex_target('all_books');return true;"><img src="http://i12.fastpic.ru/big/2010/1126/f6/29c1250516a658572b79a58ece9bc0f6.jpg" width="100%" class="thumbnail" alt="Обложка книги Жуковскiй В.А. / Жуковский В.А. - Челов&#1123;къ и познанiе у персидскихъ мистиковъ / Человек и познание у персидских мистиков [1895, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Жуковскiй В.А. / Жуковский В.А. - Челов&#1123;къ и познанiе у персидскихъ мистиковъ / Человек и познание у персидских мистиков [1895, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3283307" target="_blank" onclick="yandex_target('all_books');return true;">Челов&#1123;къ и познанiе у персидскихъ мистиковъ / Человек и познание у персидских мистиков </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Жуковскiй В.А. / Жуковский В.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Жуковскiй В.А. / Жуковский В.А.">Жуковскiй В.А. / Жуковский В.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1895</span><span class="hidden-sm-down">�.1-2 (53-54), PDF, RU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1895,т.1-2 (53-54), PDF, RUS]" href="/?page=book&topic_id=4826182" onclick="yandex_target('all_books');return true;"><img src="http://s017.radikal.ru/i429/1409/6a/80f3d7f38e76.jpg" width="100%" class="thumbnail" alt="Обложка книги [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1895,т.1-2 (53-54), PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Антикварный журнал] Всемирная иллюстрация / Всемiрная иллюстрацiя. [1895,т.1-2 (53-54), PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4826182" target="_blank" onclick="yandex_target('all_books');return true;"></a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1895</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1895, PDF, RUS]" href="/?page=book&topic_id=4624230" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i628/1312/39/0c545517ad7d.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1895, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) [1895, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4624230" target="_blank" onclick="yandex_target('all_books');return true;"> Антикварный журнал Живописное обозр&#1123;нiе / Живописное обозрение. (2 тома) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1895</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гринченко Б.Д. / Гринченко Б.Д. - Этнографическіе материалы / Этнографические материалы [1895, DjVu, RUS]" href="/?page=book&topic_id=3755976" onclick="yandex_target('all_books');return true;"><img src="http://i27.fastpic.ru/big/2011/1001/64/58909dab856ad2c2db3c84b917cfb164.jpg" width="100%" class="thumbnail" alt="Обложка книги Гринченко Б.Д. / Гринченко Б.Д. - Этнографическіе материалы / Этнографические материалы [1895, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гринченко Б.Д. / Гринченко Б.Д. - Этнографическіе материалы / Этнографические материалы [1895, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3755976" target="_blank" onclick="yandex_target('all_books');return true;">Этнографическіе материалы / Этнографические материалы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гринченко Б.Д. / Гринченко Б.Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гринченко Б.Д. / Гринченко Б.Д.">Гринченко Б.Д. / Гринченко Б.Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1895</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Д.А.Ровинский - Подробный словарь русских граверов XVI-XIX вв / Подробный словарь русскихъ граверовъ XVI-XIX вв. [1895, PDF]" href="/?page=book&topic_id=1113039" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/65/c70f7d36f089cd53178bfe591d2b9865.jpg" width="100%" class="thumbnail" alt="Обложка книги Д.А.Ровинский - Подробный словарь русских граверов XVI-XIX вв / Подробный словарь русскихъ граверовъ XVI-XIX вв. [1895, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Д.А.Ровинский - Подробный словарь русских граверов XVI-XIX вв / Подробный словарь русскихъ граверовъ XVI-XIX вв. [1895, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1113039" target="_blank" onclick="yandex_target('all_books');return true;">Подробный словарь русских граверов XVI-XIX вв / Подробный словарь русскихъ граверовъ XVI-XIX вв. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Д.А.Ровинский" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Д.А.Ровинский">Д.А.Ровинский</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1895</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лэйси Т. Х. - Двести женских национальных, исторических и сценических костюмов / Two hundred Female costumes dramatic, historical and national [1895, DjVu]" href="/?page=book&topic_id=1082047" onclick="yandex_target('all_books');return true;"><img src="http://ipicture.ru/uploads/080830/64PVuNvGrs.jpg" width="100%" class="thumbnail" alt="Обложка книги Лэйси Т. Х. - Двести женских национальных, исторических и сценических костюмов / Two hundred Female costumes dramatic, historical and national [1895, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лэйси Т. Х. - Двести женских национальных, исторических и сценических костюмов / Two hundred Female costumes dramatic, historical and national [1895, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1082047" target="_blank" onclick="yandex_target('all_books');return true;">Двести женских национальных, исторических и сценических костюмов / Two hundred Female costumes dramatic, historical and national </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лэйси Т. Х." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лэйси Т. Х.">Лэйси Т. Х.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1894</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Paolo Mantegazza / Паоло Мантегацца - Fisiologia della donna / Физiологiя женщины [1894, PDF, RUS]" href="/?page=book&topic_id=4775366" onclick="yandex_target('all_books');return true;"><img src="http://i62.fastpic.ru/big/2014/0704/b6/2e43107d7b1f3a31831968c0228661b6.png" width="100%" class="thumbnail" alt="Обложка книги Paolo Mantegazza / Паоло Мантегацца - Fisiologia della donna / Физiологiя женщины [1894, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Paolo Mantegazza / Паоло Мантегацца - Fisiologia della donna / Физiологiя женщины [1894, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4775366" target="_blank" onclick="yandex_target('all_books');return true;">Fisiologia della donna / Физiологiя женщины </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Paolo Mantegazza / Паоло Мантегацца" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Paolo Mantegazza / Паоло Мантегацца">Paolo Mantegazza / Паоло Мантегацца</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row"></div>
+<div class="row">
+	<div class="col-md-10">
+<a class="justlink" href= "/?page=psybooks_main&page_num=472"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_main&page_num=22"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_main&page_num=23">23</a> | <a class="justlink" href= "/?page=psybooks_main&page_num=22">22</a> | <b>21</b> | <a class="justlink" href= "/?page=psybooks_main&page_num=20">20</a> |  <a class="justlink" href= "/?page=psybooks_main&page_num=19">19</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_main&page_num=20">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_main&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div>
+
+<!-- // Страница psybooks_main-->

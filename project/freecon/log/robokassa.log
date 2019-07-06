@@ -1,0 +1,431 @@
+[LEVEL] TIMESTAMP | DOMAIN | USER IP | USER ROLE | SCRIPT | ROW | MEMORY USAGE | MESSAGE
+[INFO ] 2018-01-03 16:29:23:1820 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 67112 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=14997&OutSum=14997&inv_id=18147366&InvId=18147366&crc=89D1121DE789E61A8857999BBCACC0AD&SignatureValue=89D1121DE789E61A8857999BBCACC0AD&PaymentMethod=BankCard&IncSum=16046.79&IncCurrLabel=QCardR&IsTest=1 [loglevel is DEBUG]----------------
+[INFO ] 2018-01-03 16:29:23:1820 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 66296 | Session id is 861e63b83c72152da0bbac8ec4241c34
+[DEBUG] 2018-01-03 16:29:23:1821 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 66160 | Trying to call insert_function_function.php
+[INFO ] 2018-01-03 16:29:23:1823 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 68168 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1823 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 66456 | Trying to insert insert_module function
+[INFO ] 2018-01-03 16:29:23:1824 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 68464 | Got this file
+[INFO ] 2018-01-03 16:29:23:1824 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 68800 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1824 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 67064 | Trying to check available modules
+[INFO ] 2018-01-03 16:29:23:1825 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 69056 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1829 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 96184 | Data about modules received: installed 33, enabled 33, cron enabled for 1
+[DEBUG] 2018-01-03 16:29:23:1830 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 94184 | Trying to get browser
+[INFO ] 2018-01-03 16:29:23:1830 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 96056 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1831 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 97280 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-01-03 16:29:23:1832 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 95544 | This is not bot, but simple user.
+[DEBUG] 2018-01-03 16:29:23:1832 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 95376 | Trying to found injection
+[INFO ] 2018-01-03 16:29:23:1833 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 97328 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1834 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 96728 | Trying to get template from get
+[INFO ] 2018-01-03 16:29:23:1834 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 98832 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1837 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 99944 | Sitetemplate has found in DB
+[DEBUG] 2018-01-03 16:29:23:1837 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 104016 | Template page is CTATbu
+[DEBUG] 2018-01-03 16:29:23:1837 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 102040 | Trying to get page from get
+[INFO ] 2018-01-03 16:29:23:1838 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 104112 | Got this file
+[INFO ] 2018-01-03 16:29:23:1838 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 106104 | Got this file
+[INFO ] 2018-01-03 16:29:23:1839 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 106952 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1839 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 196 | 106952 | Not found REQUEST or SESSION data
+[DEBUG] 2018-01-03 16:29:23:1839 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 199 | 107208 | Userrole is guest
+[DEBUG] 2018-01-03 16:29:23:1840 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 105040 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-01-03 16:29:23:1844 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 114272 | Page is CTATbu
+[DEBUG] 2018-01-03 16:29:23:1844 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 112464 | Trying to get mode from get
+[INFO ] 2018-01-03 16:29:23:1844 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 114312 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1845 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 112544 | Trying to get menu from get
+[INFO ] 2018-01-03 16:29:23:1845 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 114384 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1846 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 112928 | Trying to get language from get
+[INFO ] 2018-01-03 16:29:23:1846 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 114816 | Got this file
+[INFO ] 2018-01-03 16:29:23:1846 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 115304 | Got language from DB (default).Language is ru
+[DEBUG] 2018-01-03 16:29:23:1847 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 113328 | Trying to get all site messages from DB
+[DEBUG] 2018-01-03 16:29:23:1847 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 115208 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1857 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 140680 | Got 9 messages for this company
+[DEBUG] 2018-01-03 16:29:23:1857 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 138888 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-01-03 16:29:23:1857 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 138888 | Trying to insert SEND_LETTER function
+[INFO ] 2018-01-03 16:29:23:1858 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 142448 | Got this file
+[DEBUG] 2018-01-03 16:29:23:1858 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 138240 | REQUEST parameters: out_summ=14997;OutSum=14997;inv_id=18147366;InvId=18147366;crc=89D1121DE789E61A8857999BBCACC0AD;SignatureValue=89D1121DE789E61A8857999BBCACC0AD;PaymentMethod=BankCard;IncSum=16046.79;IncCurrLabel=QCardR;IsTest=1;
+[INFO ] 2018-01-03 16:29:23:1864 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 37 | 140488 | Good SIGN
+[INFO ] 2018-01-03 18:24:10:8177 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 67880 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=1200&OutSum=1200&inv_id=18089835&InvId=18089835&crc=2DCF421C0A14B401A86A104919BB08B6&SignatureValue=2DCF421C0A14B401A86A104919BB08B6&PaymentMethod=BankCard&IncSum=1284.00&IncCurrLabel=QCardR&IsTest=1 [loglevel is DEBUG]----------------
+[INFO ] 2018-01-03 18:24:10:8182 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 67184 | Session id is fcd786232307c20c60be35fe1e13f273
+[DEBUG] 2018-01-03 18:24:10:8183 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 67048 | Trying to call insert_function_function.php
+[INFO ] 2018-01-03 18:24:10:8185 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 69056 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8185 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 67344 | Trying to insert insert_module function
+[INFO ] 2018-01-03 18:24:10:8186 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 69352 | Got this file
+[INFO ] 2018-01-03 18:24:10:8187 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 69688 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8187 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 67952 | Trying to check available modules
+[INFO ] 2018-01-03 18:24:10:8188 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 69944 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8192 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 97072 | Data about modules received: installed 33, enabled 33, cron enabled for 1
+[DEBUG] 2018-01-03 18:24:10:8193 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 95072 | Trying to get browser
+[INFO ] 2018-01-03 18:24:10:8193 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 96944 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8194 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 98168 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-01-03 18:24:10:8195 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 96432 | This is not bot, but simple user.
+[DEBUG] 2018-01-03 18:24:10:8195 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 96264 | Trying to found injection
+[INFO ] 2018-01-03 18:24:10:8196 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 98216 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8197 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 97616 | Trying to get template from get
+[INFO ] 2018-01-03 18:24:10:8198 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 99720 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8200 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 100832 | Sitetemplate has found in DB
+[DEBUG] 2018-01-03 18:24:10:8201 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 104904 | Template page is CTATbu
+[DEBUG] 2018-01-03 18:24:10:8201 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 102928 | Trying to get page from get
+[INFO ] 2018-01-03 18:24:10:8202 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 105000 | Got this file
+[INFO ] 2018-01-03 18:24:10:8202 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 106992 | Got this file
+[INFO ] 2018-01-03 18:24:10:8203 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 107840 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8203 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 196 | 107840 | Not found REQUEST or SESSION data
+[DEBUG] 2018-01-03 18:24:10:8203 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 199 | 108096 | Userrole is guest
+[DEBUG] 2018-01-03 18:24:10:8204 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 105928 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-01-03 18:24:10:8207 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 115160 | Page is CTATbu
+[DEBUG] 2018-01-03 18:24:10:8209 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 113352 | Trying to get mode from get
+[INFO ] 2018-01-03 18:24:10:8209 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 115200 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8210 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 113432 | Trying to get menu from get
+[INFO ] 2018-01-03 18:24:10:8211 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 115272 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8211 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 113816 | Trying to get language from get
+[INFO ] 2018-01-03 18:24:10:8212 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 115704 | Got this file
+[INFO ] 2018-01-03 18:24:10:8212 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 116192 | Got language from DB (default).Language is ru
+[DEBUG] 2018-01-03 18:24:10:8212 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 114216 | Trying to get all site messages from DB
+[DEBUG] 2018-01-03 18:24:10:8213 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 116096 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8220 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 141560 | Got 9 messages for this company
+[DEBUG] 2018-01-03 18:24:10:8220 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 139768 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-01-03 18:24:10:8220 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 139768 | Trying to insert SEND_LETTER function
+[INFO ] 2018-01-03 18:24:10:8221 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 143328 | Got this file
+[DEBUG] 2018-01-03 18:24:10:8221 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 139264 | REQUEST parameters: out_summ=1200;OutSum=1200;inv_id=18089835;InvId=18089835;crc=2DCF421C0A14B401A86A104919BB08B6;SignatureValue=2DCF421C0A14B401A86A104919BB08B6;PaymentMethod=BankCard;IncSum=1284.00;IncCurrLabel=QCardR;IsTest=1;
+[INFO ] 2018-01-03 18:24:10:8225 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 37 | 141536 | Good SIGN
+[INFO ] 2018-01-03 19:20:43:9358 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 67880 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=2199&OutSum=2199&inv_id=18089835&InvId=18089835&crc=666139EF0C457A04C2E4060D57FAAA09&SignatureValue=666139EF0C457A04C2E4060D57FAAA09&PaymentMethod=BankCard&IncSum=2352.93&IncCurrLabel=QCardR&IsTest=1 [loglevel is DEBUG]----------------
+[INFO ] 2018-01-03 19:20:43:9360 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 67184 | Session id is 786b6900064c7dc2e9915e9275b5083f
+[DEBUG] 2018-01-03 19:20:43:9360 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 67048 | Trying to call insert_function_function.php
+[INFO ] 2018-01-03 19:20:43:9361 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 69056 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9361 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 67344 | Trying to insert insert_module function
+[INFO ] 2018-01-03 19:20:43:9362 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 69352 | Got this file
+[INFO ] 2018-01-03 19:20:43:9363 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 69688 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9363 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 67952 | Trying to check available modules
+[INFO ] 2018-01-03 19:20:43:9364 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 69944 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9369 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 97072 | Data about modules received: installed 33, enabled 33, cron enabled for 1
+[DEBUG] 2018-01-03 19:20:43:9370 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 95072 | Trying to get browser
+[INFO ] 2018-01-03 19:20:43:9370 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 96944 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9373 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 98168 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-01-03 19:20:43:9374 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 96432 | This is not bot, but simple user.
+[DEBUG] 2018-01-03 19:20:43:9374 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 96264 | Trying to found injection
+[INFO ] 2018-01-03 19:20:43:9375 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 98216 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9376 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 97616 | Trying to get template from get
+[INFO ] 2018-01-03 19:20:43:9376 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 99720 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9379 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 100832 | Sitetemplate has found in DB
+[DEBUG] 2018-01-03 19:20:43:9379 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 104904 | Template page is CTATbu
+[DEBUG] 2018-01-03 19:20:43:9380 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 102928 | Trying to get page from get
+[INFO ] 2018-01-03 19:20:43:9380 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 105000 | Got this file
+[INFO ] 2018-01-03 19:20:43:9381 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 106992 | Got this file
+[INFO ] 2018-01-03 19:20:43:9381 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 107840 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9382 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 196 | 107840 | Not found REQUEST or SESSION data
+[DEBUG] 2018-01-03 19:20:43:9382 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 199 | 108096 | Userrole is guest
+[DEBUG] 2018-01-03 19:20:43:9382 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 105928 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-01-03 19:20:43:9386 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 115160 | Page is CTATbu
+[DEBUG] 2018-01-03 19:20:43:9387 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 113352 | Trying to get mode from get
+[INFO ] 2018-01-03 19:20:43:9387 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 115200 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9388 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 113432 | Trying to get menu from get
+[INFO ] 2018-01-03 19:20:43:9388 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 115272 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9389 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 113816 | Trying to get language from get
+[INFO ] 2018-01-03 19:20:43:9389 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 115704 | Got this file
+[INFO ] 2018-01-03 19:20:43:9389 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 116192 | Got language from DB (default).Language is ru
+[DEBUG] 2018-01-03 19:20:43:9390 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 114216 | Trying to get all site messages from DB
+[DEBUG] 2018-01-03 19:20:43:9390 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 116096 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9398 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 141560 | Got 9 messages for this company
+[DEBUG] 2018-01-03 19:20:43:9399 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 139768 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-01-03 19:20:43:9399 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 139768 | Trying to insert SEND_LETTER function
+[INFO ] 2018-01-03 19:20:43:9400 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 143328 | Got this file
+[DEBUG] 2018-01-03 19:20:43:9400 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 139264 | REQUEST parameters: out_summ=2199;OutSum=2199;inv_id=18089835;InvId=18089835;crc=666139EF0C457A04C2E4060D57FAAA09;SignatureValue=666139EF0C457A04C2E4060D57FAAA09;PaymentMethod=BankCard;IncSum=2352.93;IncCurrLabel=QCardR;IsTest=1;
+[INFO ] 2018-01-03 19:20:43:9405 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 37 | 141536 | Good SIGN
+[INFO ] 2018-01-04 19:18:31:3650 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 67880 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=1200&OutSum=1200&inv_id=67281855&InvId=67281855&crc=2D3CF3585F43B85D972B5A64E45B16BD&SignatureValue=2D3CF3585F43B85D972B5A64E45B16BD&PaymentMethod=BankCard&IncSum=1284.00&IncCurrLabel=QCardR&IsTest=1 [loglevel is DEBUG]----------------
+[INFO ] 2018-01-04 19:18:31:3655 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 67184 | Session id is 6c5a8268fa96ccc634c92ab5cc3b0530
+[DEBUG] 2018-01-04 19:18:31:3656 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 67048 | Trying to call insert_function_function.php
+[INFO ] 2018-01-04 19:18:31:3656 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 69056 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3657 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 67344 | Trying to insert insert_module function
+[INFO ] 2018-01-04 19:18:31:3657 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 69352 | Got this file
+[INFO ] 2018-01-04 19:18:31:3658 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 69688 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3658 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 67952 | Trying to check available modules
+[INFO ] 2018-01-04 19:18:31:3659 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 69944 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3663 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 97072 | Data about modules received: installed 33, enabled 33, cron enabled for 1
+[DEBUG] 2018-01-04 19:18:31:3664 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 95072 | Trying to get browser
+[INFO ] 2018-01-04 19:18:31:3664 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 96944 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3665 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 98168 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-01-04 19:18:31:3666 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 96432 | This is not bot, but simple user.
+[DEBUG] 2018-01-04 19:18:31:3666 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 96264 | Trying to found injection
+[INFO ] 2018-01-04 19:18:31:3667 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 98216 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3668 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 97616 | Trying to get template from get
+[INFO ] 2018-01-04 19:18:31:3668 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 99720 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3671 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 100832 | Sitetemplate has found in DB
+[DEBUG] 2018-01-04 19:18:31:3671 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 104904 | Template page is CTATbu
+[DEBUG] 2018-01-04 19:18:31:3672 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 102928 | Trying to get page from get
+[INFO ] 2018-01-04 19:18:31:3672 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 105000 | Got this file
+[INFO ] 2018-01-04 19:18:31:3673 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 106992 | Got this file
+[INFO ] 2018-01-04 19:18:31:3673 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 107840 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3674 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 196 | 107840 | Not found REQUEST or SESSION data
+[DEBUG] 2018-01-04 19:18:31:3674 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 199 | 108096 | Userrole is guest
+[DEBUG] 2018-01-04 19:18:31:3674 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 105928 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-01-04 19:18:31:3677 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 115160 | Page is CTATbu
+[DEBUG] 2018-01-04 19:18:31:3678 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 113352 | Trying to get mode from get
+[INFO ] 2018-01-04 19:18:31:3678 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 115200 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3679 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 113432 | Trying to get menu from get
+[INFO ] 2018-01-04 19:18:31:3680 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 115272 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3680 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 113816 | Trying to get language from get
+[INFO ] 2018-01-04 19:18:31:3680 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 115704 | Got this file
+[INFO ] 2018-01-04 19:18:31:3681 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 116192 | Got language from DB (default).Language is ru
+[DEBUG] 2018-01-04 19:18:31:3681 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 114216 | Trying to get all site messages from DB
+[DEBUG] 2018-01-04 19:18:31:3681 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 116096 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3689 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 141560 | Got 9 messages for this company
+[DEBUG] 2018-01-04 19:18:31:3690 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 139768 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-01-04 19:18:31:3690 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 139768 | Trying to insert SEND_LETTER function
+[INFO ] 2018-01-04 19:18:31:3690 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 143328 | Got this file
+[DEBUG] 2018-01-04 19:18:31:3691 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 139264 | REQUEST parameters: out_summ=1200;OutSum=1200;inv_id=67281855;InvId=67281855;crc=2D3CF3585F43B85D972B5A64E45B16BD;SignatureValue=2D3CF3585F43B85D972B5A64E45B16BD;PaymentMethod=BankCard;IncSum=1284.00;IncCurrLabel=QCardR;IsTest=1;
+[INFO ] 2018-01-04 19:18:31:3699 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 37 | 141536 | Good SIGN
+[INFO ] 2018-01-04 19:55:55:4490 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 67880 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=5196&OutSum=5196&inv_id=67281855&InvId=67281855&crc=7A5691B1487881368A00EB6E2831FEB3&SignatureValue=7A5691B1487881368A00EB6E2831FEB3&PaymentMethod=BankCard&IncSum=5559.72&IncCurrLabel=QCardR&IsTest=1 [loglevel is DEBUG]----------------
+[INFO ] 2018-01-04 19:55:55:4492 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 67184 | Session id is a42166c5fd8d42442341eeb47fac1db1
+[DEBUG] 2018-01-04 19:55:55:4492 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 67048 | Trying to call insert_function_function.php
+[INFO ] 2018-01-04 19:55:55:4493 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 69056 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4493 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 67344 | Trying to insert insert_module function
+[INFO ] 2018-01-04 19:55:55:4494 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 69352 | Got this file
+[INFO ] 2018-01-04 19:55:55:4495 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 69688 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4495 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 67952 | Trying to check available modules
+[INFO ] 2018-01-04 19:55:55:4496 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 69944 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4500 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 97072 | Data about modules received: installed 33, enabled 33, cron enabled for 1
+[DEBUG] 2018-01-04 19:55:55:4500 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 95072 | Trying to get browser
+[INFO ] 2018-01-04 19:55:55:4501 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 96944 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4502 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 98168 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-01-04 19:55:55:4503 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 96432 | This is not bot, but simple user.
+[DEBUG] 2018-01-04 19:55:55:4503 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 96264 | Trying to found injection
+[INFO ] 2018-01-04 19:55:55:4503 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 98216 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4504 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 97616 | Trying to get template from get
+[INFO ] 2018-01-04 19:55:55:4505 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 99720 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4507 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 100832 | Sitetemplate has found in DB
+[DEBUG] 2018-01-04 19:55:55:4508 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 104912 | Template page is CTATbu
+[DEBUG] 2018-01-04 19:55:55:4508 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 102928 | Trying to get page from get
+[INFO ] 2018-01-04 19:55:55:4508 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 105000 | Got this file
+[INFO ] 2018-01-04 19:55:55:4509 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 106992 | Got this file
+[INFO ] 2018-01-04 19:55:55:4510 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 107840 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4510 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 196 | 107840 | Not found REQUEST or SESSION data
+[DEBUG] 2018-01-04 19:55:55:4510 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 199 | 108096 | Userrole is guest
+[DEBUG] 2018-01-04 19:55:55:4510 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 105928 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-01-04 19:55:55:4514 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 115160 | Page is CTATbu
+[DEBUG] 2018-01-04 19:55:55:4514 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 113352 | Trying to get mode from get
+[INFO ] 2018-01-04 19:55:55:4514 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 115200 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4515 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 113432 | Trying to get menu from get
+[INFO ] 2018-01-04 19:55:55:4517 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 115272 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4518 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 113816 | Trying to get language from get
+[INFO ] 2018-01-04 19:55:55:4518 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 115696 | Got this file
+[INFO ] 2018-01-04 19:55:55:4519 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 116192 | Got language from DB (default).Language is ru
+[DEBUG] 2018-01-04 19:55:55:4519 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 114216 | Trying to get all site messages from DB
+[DEBUG] 2018-01-04 19:55:55:4519 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 116096 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4525 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 141560 | Got 9 messages for this company
+[DEBUG] 2018-01-04 19:55:55:4526 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 139768 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-01-04 19:55:55:4526 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 139768 | Trying to insert SEND_LETTER function
+[INFO ] 2018-01-04 19:55:55:4527 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 143328 | Got this file
+[DEBUG] 2018-01-04 19:55:55:4527 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 139264 | REQUEST parameters: out_summ=5196;OutSum=5196;inv_id=67281855;InvId=67281855;crc=7A5691B1487881368A00EB6E2831FEB3;SignatureValue=7A5691B1487881368A00EB6E2831FEB3;PaymentMethod=BankCard;IncSum=5559.72;IncCurrLabel=QCardR;IsTest=1;
+[INFO ] 2018-01-04 19:55:55:4531 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 37 | 141536 | Good SIGN
+[INFO ] 2018-01-04 22:48:36:4528 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 67880 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=1200&OutSum=1200&inv_id=34897614&InvId=34897614&crc=FA718B53CF98AC0E0F72CF200637565F&SignatureValue=FA718B53CF98AC0E0F72CF200637565F&PaymentMethod=BankCard&IncSum=1284.00&IncCurrLabel=QCardR&IsTest=1 [loglevel is DEBUG]----------------
+[INFO ] 2018-01-04 22:48:36:4531 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 67184 | Session id is b049bd39a95d9d82be9eafd4e5e42613
+[DEBUG] 2018-01-04 22:48:36:4531 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 67048 | Trying to call insert_function_function.php
+[INFO ] 2018-01-04 22:48:36:4532 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 69056 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4532 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 67344 | Trying to insert insert_module function
+[INFO ] 2018-01-04 22:48:36:4533 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 69352 | Got this file
+[INFO ] 2018-01-04 22:48:36:4534 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 69688 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4534 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 67952 | Trying to check available modules
+[INFO ] 2018-01-04 22:48:36:4534 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 69944 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4540 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 97072 | Data about modules received: installed 33, enabled 33, cron enabled for 1
+[DEBUG] 2018-01-04 22:48:36:4540 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 95072 | Trying to get browser
+[INFO ] 2018-01-04 22:48:36:4541 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 96944 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4542 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 98168 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-01-04 22:48:36:4543 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 96432 | This is not bot, but simple user.
+[DEBUG] 2018-01-04 22:48:36:4543 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 96264 | Trying to found injection
+[INFO ] 2018-01-04 22:48:36:4544 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 98216 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4545 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 97616 | Trying to get template from get
+[INFO ] 2018-01-04 22:48:36:4545 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 99720 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4548 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 100832 | Sitetemplate has found in DB
+[DEBUG] 2018-01-04 22:48:36:4548 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 104904 | Template page is CTATbu
+[DEBUG] 2018-01-04 22:48:36:4548 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 102928 | Trying to get page from get
+[INFO ] 2018-01-04 22:48:36:4549 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 105000 | Got this file
+[INFO ] 2018-01-04 22:48:36:4550 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 106992 | Got this file
+[INFO ] 2018-01-04 22:48:36:4550 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 107840 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4551 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 196 | 107840 | Not found REQUEST or SESSION data
+[DEBUG] 2018-01-04 22:48:36:4551 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 199 | 108096 | Userrole is guest
+[DEBUG] 2018-01-04 22:48:36:4552 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 105928 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-01-04 22:48:36:4555 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 115160 | Page is CTATbu
+[DEBUG] 2018-01-04 22:48:36:4555 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 113352 | Trying to get mode from get
+[INFO ] 2018-01-04 22:48:36:4556 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 115200 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4557 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 113432 | Trying to get menu from get
+[INFO ] 2018-01-04 22:48:36:4558 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 115272 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4558 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 113816 | Trying to get language from get
+[INFO ] 2018-01-04 22:48:36:4559 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 115704 | Got this file
+[INFO ] 2018-01-04 22:48:36:4560 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 116192 | Got language from DB (default).Language is ru
+[DEBUG] 2018-01-04 22:48:36:4560 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 114216 | Trying to get all site messages from DB
+[DEBUG] 2018-01-04 22:48:36:4560 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 116096 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4568 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 141560 | Got 9 messages for this company
+[DEBUG] 2018-01-04 22:48:36:4569 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 139768 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-01-04 22:48:36:4569 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 139768 | Trying to insert SEND_LETTER function
+[INFO ] 2018-01-04 22:48:36:4570 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 143328 | Got this file
+[DEBUG] 2018-01-04 22:48:36:4571 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 139264 | REQUEST parameters: out_summ=1200;OutSum=1200;inv_id=34897614;InvId=34897614;crc=FA718B53CF98AC0E0F72CF200637565F;SignatureValue=FA718B53CF98AC0E0F72CF200637565F;PaymentMethod=BankCard;IncSum=1284.00;IncCurrLabel=QCardR;IsTest=1;
+[INFO ] 2018-01-04 22:48:36:4575 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 37 | 141536 | Good SIGN
+[INFO ] 2018-03-22 18:11:01:8047 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 66704 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=999.000000&OutSum=999.000000&inv_id=19771575&InvId=19771575&crc=95E3108DECF4B518F14A897A6A05D183&SignatureValue=95E3108DECF4B518F14A897A6A05D183&PaymentMethod=BankCard&IncSum=1068.930000&IncCurrLabel=QCardR [loglevel is DEBUG]----------------
+[INFO ] 2018-03-22 18:11:01:8061 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 65984 | Session id is e4cb9f6bd9f49a9a5866425e6a205686
+[DEBUG] 2018-03-22 18:11:01:8062 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 65848 | Trying to call insert_function_function.php
+[INFO ] 2018-03-22 18:11:01:8063 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 67856 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8064 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 66144 | Trying to insert insert_module function
+[INFO ] 2018-03-22 18:11:01:8065 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 68152 | Got this file
+[INFO ] 2018-03-22 18:11:01:8066 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 68488 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8066 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 66752 | Trying to check available modules
+[INFO ] 2018-03-22 18:11:01:8067 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 68744 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8073 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 100240 | Data about modules received: installed 39, enabled 39, cron enabled for 1
+[DEBUG] 2018-03-22 18:11:01:8073 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 98240 | Trying to get browser
+[INFO ] 2018-03-22 18:11:01:8074 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 100112 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8075 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 101336 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-03-22 18:11:01:8076 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 99600 | This is not bot, but simple user.
+[DEBUG] 2018-03-22 18:11:01:8077 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 99432 | Trying to found injection
+[INFO ] 2018-03-22 18:11:01:8078 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 101392 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8079 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 100696 | Trying to get template from get
+[INFO ] 2018-03-22 18:11:01:8080 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 102800 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8083 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 103912 | Sitetemplate has found in DB
+[DEBUG] 2018-03-22 18:11:01:8083 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 107984 | Template page is CTATbu
+[DEBUG] 2018-03-22 18:11:01:8084 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 106008 | Trying to get page from get
+[INFO ] 2018-03-22 18:11:01:8084 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 108080 | Got this file
+[INFO ] 2018-03-22 18:11:01:8085 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 110072 | Got this file
+[INFO ] 2018-03-22 18:11:01:8086 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 110968 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8086 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 198 | 110968 | Not found REQUEST or SESSION data
+[DEBUG] 2018-03-22 18:11:01:8086 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 201 | 111224 | Userrole is guest
+[DEBUG] 2018-03-22 18:11:01:8086 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 109008 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-03-22 18:11:01:8091 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 118240 | Page is CTATbu
+[DEBUG] 2018-03-22 18:11:01:8091 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 116432 | Trying to get mode from get
+[INFO ] 2018-03-22 18:11:01:8092 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 118280 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8093 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 116512 | Trying to get menu from get
+[INFO ] 2018-03-22 18:11:01:8094 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 118352 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8094 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 116896 | Trying to get language from get
+[INFO ] 2018-03-22 18:11:01:8095 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 118776 | Got this file
+[INFO ] 2018-03-22 18:11:01:8096 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 119280 | Got language from DB (default).Language is ru
+[DEBUG] 2018-03-22 18:11:01:8096 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 117296 | Trying to get all site messages from DB
+[DEBUG] 2018-03-22 18:11:01:8097 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 119176 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8106 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 146368 | Got 10 messages for this company
+[DEBUG] 2018-03-22 18:11:01:8106 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 144552 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-03-22 18:11:01:8107 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 144552 | Trying to insert SEND_LETTER function
+[INFO ] 2018-03-22 18:11:01:8108 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 148112 | Got this file
+[DEBUG] 2018-03-22 18:11:01:8108 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 144080 | REQUEST parameters: out_summ=999.000000;OutSum=999.000000;inv_id=19771575;InvId=19771575;crc=95E3108DECF4B518F14A897A6A05D183;SignatureValue=95E3108DECF4B518F14A897A6A05D183;PaymentMethod=BankCard;IncSum=1068.930000;IncCurrLabel=QCardR;
+[ERROR] 2018-03-22 18:11:01:8109 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 25 | 146696 | JJyiB16bGGwA4Vk1CS3UBAD SIGN. My CRC:BFEA0AEB58790DE09A6B6F261B980047 Received:95E3108DECF4B518F14A897A6A05D183. So, its bad sign
+[INFO ] 2018-03-22 18:12:01:9223 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 66760 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=999.000000&OutSum=999.000000&inv_id=19771575&InvId=19771575&crc=95E3108DECF4B518F14A897A6A05D183&SignatureValue=95E3108DECF4B518F14A897A6A05D183&PaymentMethod=BankCard&IncSum=1068.930000&IncCurrLabel=QCardR [loglevel is DEBUG]----------------
+[INFO ] 2018-03-22 18:12:01:9225 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 66016 | Session id is 06936e409b9e9bf36b12758ab622da5b
+[DEBUG] 2018-03-22 18:12:01:9225 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 65880 | Trying to call insert_function_function.php
+[INFO ] 2018-03-22 18:12:01:9226 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 67888 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9227 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 66176 | Trying to insert insert_module function
+[INFO ] 2018-03-22 18:12:01:9228 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 68184 | Got this file
+[INFO ] 2018-03-22 18:12:01:9229 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 68520 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9229 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 66784 | Trying to check available modules
+[INFO ] 2018-03-22 18:12:01:9230 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 68776 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9237 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 100272 | Data about modules received: installed 39, enabled 39, cron enabled for 1
+[DEBUG] 2018-03-22 18:12:01:9238 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 98272 | Trying to get browser
+[INFO ] 2018-03-22 18:12:01:9238 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 100144 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9240 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 101368 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-03-22 18:12:01:9241 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 99632 | This is not bot, but simple user.
+[DEBUG] 2018-03-22 18:12:01:9242 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 99464 | Trying to found injection
+[INFO ] 2018-03-22 18:12:01:9242 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 101424 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9244 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 100728 | Trying to get template from get
+[INFO ] 2018-03-22 18:12:01:9245 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 102832 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9248 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 103944 | Sitetemplate has found in DB
+[DEBUG] 2018-03-22 18:12:01:9248 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 108016 | Template page is CTATbu
+[DEBUG] 2018-03-22 18:12:01:9249 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 106040 | Trying to get page from get
+[INFO ] 2018-03-22 18:12:01:9250 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 108112 | Got this file
+[INFO ] 2018-03-22 18:12:01:9252 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 110104 | Got this file
+[INFO ] 2018-03-22 18:12:01:9253 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 111000 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9254 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 198 | 111000 | Not found REQUEST or SESSION data
+[DEBUG] 2018-03-22 18:12:01:9254 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 201 | 111256 | Userrole is guest
+[DEBUG] 2018-03-22 18:12:01:9255 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 109040 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-03-22 18:12:01:9259 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 118288 | Page is CTATbu
+[DEBUG] 2018-03-22 18:12:01:9260 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 116480 | Trying to get mode from get
+[INFO ] 2018-03-22 18:12:01:9261 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 118328 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9262 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 116560 | Trying to get menu from get
+[INFO ] 2018-03-22 18:12:01:9262 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 118400 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9263 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 116944 | Trying to get language from get
+[INFO ] 2018-03-22 18:12:01:9264 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 118824 | Got this file
+[INFO ] 2018-03-22 18:12:01:9264 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 119320 | Got language from DB (default).Language is ru
+[DEBUG] 2018-03-22 18:12:01:9264 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 117344 | Trying to get all site messages from DB
+[DEBUG] 2018-03-22 18:12:01:9265 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 119224 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9277 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 146416 | Got 10 messages for this company
+[DEBUG] 2018-03-22 18:12:01:9277 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 144600 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-03-22 18:12:01:9278 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 144600 | Trying to insert SEND_LETTER function
+[INFO ] 2018-03-22 18:12:01:9279 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 148160 | Got this file
+[DEBUG] 2018-03-22 18:12:01:9280 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 144128 | REQUEST parameters: out_summ=999.000000;OutSum=999.000000;inv_id=19771575;InvId=19771575;crc=95E3108DECF4B518F14A897A6A05D183;SignatureValue=95E3108DECF4B518F14A897A6A05D183;PaymentMethod=BankCard;IncSum=1068.930000;IncCurrLabel=QCardR;
+[ERROR] 2018-03-22 18:12:01:9281 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 25 | 146744 | JJyiB16bGGwA4Vk1CS3UBAD SIGN. My CRC:BFEA0AEB58790DE09A6B6F261B980047 Received:95E3108DECF4B518F14A897A6A05D183. So, its bad sign
+[INFO ] 2018-03-22 18:13:02:0017 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 66760 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=999.000000&OutSum=999.000000&inv_id=19771575&InvId=19771575&crc=95E3108DECF4B518F14A897A6A05D183&SignatureValue=95E3108DECF4B518F14A897A6A05D183&PaymentMethod=BankCard&IncSum=1068.930000&IncCurrLabel=QCardR [loglevel is DEBUG]----------------
+[INFO ] 2018-03-22 18:13:02:0019 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 66016 | Session id is c7201dbef63c5b6e7f9f2304d2c8e271
+[DEBUG] 2018-03-22 18:13:02:0020 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 65880 | Trying to call insert_function_function.php
+[INFO ] 2018-03-22 18:13:02:0022 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 67888 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0022 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 66176 | Trying to insert insert_module function
+[INFO ] 2018-03-22 18:13:02:0023 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 68184 | Got this file
+[INFO ] 2018-03-22 18:13:02:0024 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 68520 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0025 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 66784 | Trying to check available modules
+[INFO ] 2018-03-22 18:13:02:0026 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 68776 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0065 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 100272 | Data about modules received: installed 39, enabled 39, cron enabled for 1
+[DEBUG] 2018-03-22 18:13:02:0065 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 98272 | Trying to get browser
+[INFO ] 2018-03-22 18:13:02:0066 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 100144 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0067 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 101368 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-03-22 18:13:02:0069 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 99632 | This is not bot, but simple user.
+[DEBUG] 2018-03-22 18:13:02:0069 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 99464 | Trying to found injection
+[INFO ] 2018-03-22 18:13:02:0070 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 101424 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0071 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 100728 | Trying to get template from get
+[INFO ] 2018-03-22 18:13:02:0072 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 102832 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0074 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 103944 | Sitetemplate has found in DB
+[DEBUG] 2018-03-22 18:13:02:0075 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 108016 | Template page is CTATbu
+[DEBUG] 2018-03-22 18:13:02:0075 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 106040 | Trying to get page from get
+[INFO ] 2018-03-22 18:13:02:0076 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 108112 | Got this file
+[INFO ] 2018-03-22 18:13:02:0077 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 110104 | Got this file
+[INFO ] 2018-03-22 18:13:02:0077 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 111000 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0078 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 198 | 111000 | Not found REQUEST or SESSION data
+[DEBUG] 2018-03-22 18:13:02:0078 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 201 | 111256 | Userrole is guest
+[DEBUG] 2018-03-22 18:13:02:0078 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 109040 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-03-22 18:13:02:0081 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 118288 | Page is CTATbu
+[DEBUG] 2018-03-22 18:13:02:0082 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 116480 | Trying to get mode from get
+[INFO ] 2018-03-22 18:13:02:0083 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 118328 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0083 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 116560 | Trying to get menu from get
+[INFO ] 2018-03-22 18:13:02:0085 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 118400 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0086 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 116944 | Trying to get language from get
+[INFO ] 2018-03-22 18:13:02:0086 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 118824 | Got this file
+[INFO ] 2018-03-22 18:13:02:0087 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 119320 | Got language from DB (default).Language is ru
+[DEBUG] 2018-03-22 18:13:02:0088 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 117344 | Trying to get all site messages from DB
+[DEBUG] 2018-03-22 18:13:02:0089 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 119224 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0096 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 146416 | Got 10 messages for this company
+[DEBUG] 2018-03-22 18:13:02:0096 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 144600 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-03-22 18:13:02:0097 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 144600 | Trying to insert SEND_LETTER function
+[INFO ] 2018-03-22 18:13:02:0097 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 148160 | Got this file
+[DEBUG] 2018-03-22 18:13:02:0098 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 144128 | REQUEST parameters: out_summ=999.000000;OutSum=999.000000;inv_id=19771575;InvId=19771575;crc=95E3108DECF4B518F14A897A6A05D183;SignatureValue=95E3108DECF4B518F14A897A6A05D183;PaymentMethod=BankCard;IncSum=1068.930000;IncCurrLabel=QCardR;
+[ERROR] 2018-03-22 18:13:02:0099 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 25 | 146744 | JJyiB16bGGwA4Vk1CS3UBAD SIGN. My CRC:BFEA0AEB58790DE09A6B6F261B980047 Received:95E3108DECF4B518F14A897A6A05D183. So, its bad sign
+[INFO ] 2018-03-22 18:14:03:4971 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 40 | 66760 | ----- The new request to nlp-course.ru/modules/robokassa/callback.php?out_summ=999.000000&OutSum=999.000000&inv_id=19771575&InvId=19771575&crc=95E3108DECF4B518F14A897A6A05D183&SignatureValue=95E3108DECF4B518F14A897A6A05D183&PaymentMethod=BankCard&IncSum=1068.930000&IncCurrLabel=QCardR [loglevel is DEBUG]----------------
+[INFO ] 2018-03-22 18:14:03:4973 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 41 | 66016 | Session id is 1bf94eef497b6eeaca9dbed71f713933
+[DEBUG] 2018-03-22 18:14:03:4974 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 58 | 65880 | Trying to call insert_function_function.php
+[INFO ] 2018-03-22 18:14:03:4976 | nlp-course.ru | 212.24.63.49 | guest | core/insert_function_function.php | 12 | 67888 | Got this file
+[DEBUG] 2018-03-22 18:14:03:4976 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 61 | 66176 | Trying to insert insert_module function
+[INFO ] 2018-03-22 18:14:03:4977 | nlp-course.ru | 212.24.63.49 | guest | core/insert_module_function.php | 2 | 68184 | Got this file
+[INFO ] 2018-03-22 18:14:03:4977 | nlp-course.ru | 212.24.63.49 | guest | core/autoload_scripts_from_functions.php | 11 | 68520 | Got this file
+[DEBUG] 2018-03-22 18:14:03:4978 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 66 | 66784 | Trying to check available modules
+[INFO ] 2018-03-22 18:14:03:4978 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 10 | 68776 | Got this file
+[DEBUG] 2018-03-22 18:14:03:4984 | nlp-course.ru | 212.24.63.49 | guest | core/check_avail_modules.php | 22 | 100272 | Data about modules received: installed 39, enabled 39, cron enabled for 1
+[DEBUG] 2018-03-22 18:14:03:4985 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 69 | 98272 | Trying to get browser
+[INFO ] 2018-03-22 18:14:03:4986 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 15 | 100144 | Got this file
+[DEBUG] 2018-03-22 18:14:03:4987 | nlp-course.ru | 212.24.63.49 | guest | core/browser.php | 51 | 101368 | Browser matched:, version - .User agent was - .NET Framework/v4.0.30319
+[DEBUG] 2018-03-22 18:14:03:4988 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 77 | 99632 | This is not bot, but simple user.
+[DEBUG] 2018-03-22 18:14:03:4988 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 79 | 99464 | Trying to found injection
+[INFO ] 2018-03-22 18:14:03:4989 | nlp-course.ru | 212.24.63.49 | guest | core/check_injection.php | 3 | 101424 | Got this file
+[DEBUG] 2018-03-22 18:14:03:4990 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 82 | 100728 | Trying to get template from get
+[INFO ] 2018-03-22 18:14:03:4990 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 2 | 102832 | Got this file
+[DEBUG] 2018-03-22 18:14:03:4992 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 31 | 103944 | Sitetemplate has found in DB
+[DEBUG] 2018-03-22 18:14:03:4993 | nlp-course.ru | 212.24.63.49 | guest | core/templatefromget.php | 44 | 108016 | Template page is CTATbu
+[DEBUG] 2018-03-22 18:14:03:4993 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 85 | 106040 | Trying to get page from get
+[INFO ] 2018-03-22 18:14:03:4994 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 2 | 108112 | Got this file
+[INFO ] 2018-03-22 18:14:03:4994 | nlp-course.ru | 212.24.63.49 | guest | core/functions/process_user_data.php | 2 | 110104 | Got this file
+[INFO ] 2018-03-22 18:14:03:4995 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 2 | 111000 | Got this file
+[DEBUG] 2018-03-22 18:14:03:4995 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 198 | 111000 | Not found REQUEST or SESSION data
+[DEBUG] 2018-03-22 18:14:03:4995 | nlp-course.ru | 212.24.63.49 | guest | core/checkuserrole.php | 201 | 111256 | Userrole is guest
+[DEBUG] 2018-03-22 18:14:03:4996 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 13 | 109040 | Page from SESSION[] is CTATbu
+[DEBUG] 2018-03-22 18:14:03:5000 | nlp-course.ru | 212.24.63.49 | guest | core/pagefromget.php | 37 | 118288 | Page is CTATbu
+[DEBUG] 2018-03-22 18:14:03:5001 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 89 | 116480 | Trying to get mode from get
+[INFO ] 2018-03-22 18:14:03:5002 | nlp-course.ru | 212.24.63.49 | guest | core/modefromget.php | 2 | 118328 | Got this file
+[DEBUG] 2018-03-22 18:14:03:5002 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 92 | 116560 | Trying to get menu from get
+[INFO ] 2018-03-22 18:14:03:5003 | nlp-course.ru | 212.24.63.49 | guest | core/menufromget.php | 2 | 118400 | Got this file
+[DEBUG] 2018-03-22 18:14:03:5003 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 95 | 116944 | Trying to get language from get
+[INFO ] 2018-03-22 18:14:03:5004 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 2 | 118824 | Got this file
+[INFO ] 2018-03-22 18:14:03:5004 | nlp-course.ru | 212.24.63.49 | guest | core/langfromget.php | 18 | 119320 | Got language from DB (default).Language is ru
+[DEBUG] 2018-03-22 18:14:03:5004 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 99 | 117344 | Trying to get all site messages from DB
+[DEBUG] 2018-03-22 18:14:03:5005 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 11 | 119224 | Got this file
+[DEBUG] 2018-03-22 18:14:03:5015 | nlp-course.ru | 212.24.63.49 | guest | core/messages.php | 22 | 146416 | Got 10 messages for this company
+[DEBUG] 2018-03-22 18:14:03:5015 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 108 | 144600 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-03-22 18:14:03:5015 | nlp-course.ru | 212.24.63.49 | guest | core/start_platform_scripts.php | 112 | 144600 | Trying to insert SEND_LETTER function
+[INFO ] 2018-03-22 18:14:03:5016 | nlp-course.ru | 212.24.63.49 | guest | core/functions/send_letter.php | 3 | 148160 | Got this file
+[DEBUG] 2018-03-22 18:14:03:5017 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 8 | 144128 | REQUEST parameters: out_summ=999.000000;OutSum=999.000000;inv_id=19771575;InvId=19771575;crc=95E3108DECF4B518F14A897A6A05D183;SignatureValue=95E3108DECF4B518F14A897A6A05D183;PaymentMethod=BankCard;IncSum=1068.930000;IncCurrLabel=QCardR;
+[ERROR] 2018-03-22 18:14:03:5018 | nlp-course.ru | 212.24.63.49 | guest | modules/robokassa/callback.php | 25 | 146744 | JJyiB16bGGwA4Vk1CS3UBAD SIGN. My CRC:BFEA0AEB58790DE09A6B6F261B980047 Received:95E3108DECF4B518F14A897A6A05D183. So, its bad sign

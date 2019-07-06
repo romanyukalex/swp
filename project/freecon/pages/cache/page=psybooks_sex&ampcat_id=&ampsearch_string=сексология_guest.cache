@@ -1,0 +1,122 @@
+<!-- Страница psybooks_sex-->
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_sex">
+			<input type="hidden" name="cat_id" value="">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="сексология">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+	<script>
+fbq('track', 'Search', {
+search_string: 'сексология'
+});
+fbq('track', 'Search_book', {
+search_string: 'сексология'
+});
+</script>
+	
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Все категории книг по психологии</h2>
+<br><h4>Показаны результаты поиска: сексология [6 книг]</h4></div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+				Сексоло́гия — научная дисциплина, изучающая все проявления сексуальности человека, включая как попытки охарактеризовать нормальную сексуальность, так и изучение изменчивости сексуальных практик, включая и так называемые парафилии (или сексуальные девиации).
+			</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2013</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Семейная энциклопедия здоровья - Щеглов Л. М. - Интимная жизнь мужчины. Сексология [2013, PDF, RUS]" href="/?page=book&topic_id=5047945" onclick="yandex_target('all_books');return true;"><img src="http://i72.fastpic.ru/big/2015/0724/ea/06200bb727c0aef604635cf4102b78ea.jpg" width="100%" class="thumbnail" alt="Обложка книги Семейная энциклопедия здоровья - Щеглов Л. М. - Интимная жизнь мужчины. Сексология [2013, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Семейная энциклопедия здоровья - Щеглов Л. М. - Интимная жизнь мужчины. Сексология [2013, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5047945" target="_blank" onclick="yandex_target('all_books');return true;">Интимная жизнь мужчины. Сексология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Щеглов Л. М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Щеглов Л. М.">Щеглов Л. М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">PDF, BGR</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Проданов Г./Проданов Г. - Сексология за всички./Сексология для всех. [2010, PDF, BGR]" href="/?page=book&topic_id=5502147" onclick="yandex_target('all_books');return true;"><img src="https://b.radikal.ru/b32/1801/e4/479e73353f0a.jpg" width="100%" class="thumbnail" alt="Обложка книги Проданов Г./Проданов Г. - Сексология за всички./Сексология для всех. [2010, PDF, BGR]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Проданов Г./Проданов Г. - Сексология за всички./Сексология для всех. [2010, PDF, BGR]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5502147" target="_blank" onclick="yandex_target('all_books');return true;">Сексология за всички./Сексология для всех. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Проданов Г./Проданов Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Проданов Г./Проданов Г.">Проданов Г./Проданов Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дерягин Г. - Криминальная сексология [2008, PDF, RUS]" href="/?page=book&topic_id=4831476" onclick="yandex_target('all_books');return true;"><img src="http://i67.fastpic.ru/big/2014/0926/27/830b530968d387fee807a32488983627.png" width="100%" class="thumbnail" alt="Обложка книги Дерягин Г. - Криминальная сексология [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дерягин Г. - Криминальная сексология [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4831476" target="_blank" onclick="yandex_target('all_books');return true;">Криминальная сексология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дерягин Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дерягин Г.">Дерягин Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Крайдман Е. - Медицина и астрология. Астрология секса и сексология . [2008, PDF, RUS]" href="/?page=book&topic_id=4152844" onclick="yandex_target('all_books');return true;"><img src="http://i43.fastpic.ru/big/2012/0813/e9/9b70ee7b07b8a05eed9d34c2bfca30e9.jpg" width="100%" class="thumbnail" alt="Обложка книги Крайдман Е. - Медицина и астрология. Астрология секса и сексология . [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Крайдман Е. - Медицина и астрология. Астрология секса и сексология . [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4152844" target="_blank" onclick="yandex_target('all_books');return true;">Медицина и астрология. Астрология секса и сексология . </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Крайдман Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Крайдман Е.">Крайдман Е.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2007</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кочарян Г.С. - Современная сексология [2007, PDF, RUS]" href="/?page=book&topic_id=3756826" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2011/1002/4c/3cdd6f29b074a1903863a7a90fc1024c.jpg" width="100%" class="thumbnail" alt="Обложка книги Кочарян Г.С. - Современная сексология [2007, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кочарян Г.С. - Современная сексология [2007, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3756826" target="_blank" onclick="yandex_target('all_books');return true;">Современная сексология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кочарян Г.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кочарян Г.С.">Кочарян Г.С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Высшее профессиональное образование - Кон И.С. - Сексология [2004, DjVu, RUS]" href="/?page=book&topic_id=4244189" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2012/1109/51/a7a022d4df0c33b5f618f470ec950051.jpg" width="100%" class="thumbnail" alt="Обложка книги Высшее профессиональное образование - Кон И.С. - Сексология [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Высшее профессиональное образование - Кон И.С. - Сексология [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4244189" target="_blank" onclick="yandex_target('all_books');return true;">Сексология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кон И.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кон И.С.">Кон И.С.</a></p>
+									</div>
+			</div>
+		</div>
+</div>
+<div class="row">
+	<div class="col-md-10">
+<b>1</b></div>
+</div>
+
+<!-- // Страница psybooks_sex-->

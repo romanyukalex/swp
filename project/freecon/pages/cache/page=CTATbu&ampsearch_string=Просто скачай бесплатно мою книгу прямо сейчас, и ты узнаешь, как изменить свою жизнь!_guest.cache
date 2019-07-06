@@ -1,0 +1,37 @@
+<!-- Страница CTATbu-->
+
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+		<a href="javascript:history.back();" class="justlink"title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=CTATbu_srch">Ищите то, что интересует
+			<input type="hidden" name="page" value="CTATbu_srch">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="Просто скачай бесплатно мою книгу прямо сейчас, и ты узнаешь, как изменить свою жизнь!">
+			<a class="button large" style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Поиск по словам "Просто скачай бесплатно мою книгу прямо сейчас, и ты узнаешь, как изменить свою жизнь!" [0 статей]</h2>
+	</div>
+</div>
+
+
+<div class="row vp_block_row"></div>
+<!-- // Статьи -->
+
+<!-- // Страница CTATbu--><!-- Скрипт(ы) после страницы: show_likes.php--> <!-- Кнопки like -->
+ <div class="row flex-items-md-center" style="margin:20px 0 20px">
+	
+	<h4 style="font-weight: bold;">Поделиться:</h4><br>
+		
+		<script src="https://yastatic.net/share2/share.js" async="async"></script>
+		<div class="ya-share2" data-services="vkontakte,twitter,facebook,odnoklassniki" data-counter></div>
+		<div class="ya-share2" data-services="skype,telegram,viber,whatsapp" data-counter></div>
+	
+</div>
+<!-- // Кнопки like --><!-- // Скрипт после страницы -->

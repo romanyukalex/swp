@@ -1,0 +1,1251 @@
+<!-- Страница psybooks_business-->
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_business">
+			<input type="hidden" name="cat_id" value="764">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Книги по бизнесу и менеджменту [1837 книг]</h2>
+</div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+							</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-10"><a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=46"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=34"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=35">35</a> | <a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=34">34</a> | <b>33</b> | <a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=32">32</a> |  <a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=31">31</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=32">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2009</span><span class="hidden-sm-down">HTML</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Алексей Потанин - Успех на FOREX в 5 шагов [2009, HTML]" href="/?page=book&topic_id=1793211" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Алексей Потанин - Успех на FOREX в 5 шагов [2009, HTML]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Алексей Потанин - Успех на FOREX в 5 шагов [2009, HTML]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1793211" target="_blank" onclick="yandex_target('all_books');return true;">Успех на FOREX в 5 шагов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Алексей Потанин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Алексей Потанин">Алексей Потанин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2009</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Рогожин М.Ю. - Делопроизводство и документооборот в бухгалтерии [2009, PDF]" href="/?page=book&topic_id=1683824" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/b2/ef0af49fc2eaf901496bc95d5e450fb2.jpg" width="100%" class="thumbnail" alt="Обложка книги Рогожин М.Ю. - Делопроизводство и документооборот в бухгалтерии [2009, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Рогожин М.Ю. - Делопроизводство и документооборот в бухгалтерии [2009, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1683824" target="_blank" onclick="yandex_target('all_books');return true;">Делопроизводство и документооборот в бухгалтерии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рогожин М.Ю." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рогожин М.Ю.">Рогожин М.Ю.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2009</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Александр Левитас и Елена Меламори - Как сэкономить на персональных налогах в РФ [2009, PDF]" href="/?page=book&topic_id=1647778" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/51/160fe0330424ab3636917921e7920e51.gif" width="100%" class="thumbnail" alt="Обложка книги Александр Левитас и Елена Меламори - Как сэкономить на персональных налогах в РФ [2009, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Александр Левитас и Елена Меламори - Как сэкономить на персональных налогах в РФ [2009, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1647778" target="_blank" onclick="yandex_target('all_books');return true;">Как сэкономить на персональных налогах в РФ </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Александр Левитас и Елена Меламори" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Александр Левитас и Елена Меламори">Александр Левитас и Елена Меламори</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2009</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Александр Левитас - 124 способа сэкономить,не ущемляя себя [2009, PDF]" href="/?page=book&topic_id=1497085" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Александр Левитас - 124 способа сэкономить,не ущемляя себя [2009, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Александр Левитас - 124 способа сэкономить,не ущемляя себя [2009, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1497085" target="_blank" onclick="yandex_target('all_books');return true;">124 способа сэкономить,не ущемляя себя </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Александр Левитас" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Александр Левитас">Александр Левитас</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2009</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Борисов А.Н. - Защита прав налогоплательщика при проведении налоговых проверок: Практические рекомендации [2009, DOC]" href="/?page=book&topic_id=1472083" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Борисов А.Н. - Защита прав налогоплательщика при проведении налоговых проверок: Практические рекомендации [2009, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Борисов А.Н. - Защита прав налогоплательщика при проведении налоговых проверок: Практические рекомендации [2009, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1472083" target="_blank" onclick="yandex_target('all_books');return true;">Защита прав налогоплательщика при проведении налоговых проверок: Практические рекомендации </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Борисов А.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Борисов А.Н.">Борисов А.Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2009</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ф.Н. Филина - Годовой отчет &quot;Упрощенца&quot; [2009, DOC]" href="/?page=book&topic_id=1472010" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Ф.Н. Филина - Годовой отчет &quot;Упрощенца&quot; [2009, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ф.Н. Филина - Годовой отчет &quot;Упрощенца&quot; [2009, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1472010" target="_blank" onclick="yandex_target('all_books');return true;">Годовой отчет &quot;Упрощенца&quot; </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ф.Н. Филина" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ф.Н. Филина">Ф.Н. Филина</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2009</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Джеффри Гитомер - Звон монет! Маленькая платиновая книга: 32,5 стратегии привлечения денег и личного успеха [2009, DjVu]" href="/?page=book&topic_id=1394847" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/78/8ccb4a07e6120b8b7d2c278ad3425778.jpg" width="100%" class="thumbnail" alt="Обложка книги Джеффри Гитомер - Звон монет! Маленькая платиновая книга: 32,5 стратегии привлечения денег и личного успеха [2009, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Джеффри Гитомер - Звон монет! Маленькая платиновая книга: 32,5 стратегии привлечения денег и личного успеха [2009, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1394847" target="_blank" onclick="yandex_target('all_books');return true;">Звон монет! Маленькая платиновая книга: 32,5 стратегии привлечения денег и личного успеха </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джеффри Гитомер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джеффри Гитомер">Джеффри Гитомер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Муртаг Н. - Гайдзин на службе в Mitsubishi [2008, DjVu, RUS]" href="/?page=book&topic_id=5553120" onclick="yandex_target('all_books');return true;"><img src="https://a.radikal.ru/a00/1804/cc/59b0a5e94c96.jpg" width="100%" class="thumbnail" alt="Обложка книги Муртаг Н. - Гайдзин на службе в Mitsubishi [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Муртаг Н. - Гайдзин на службе в Mitsubishi [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5553120" target="_blank" onclick="yandex_target('all_books');return true;">Гайдзин на службе в Mitsubishi </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Муртаг Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Муртаг Н.">Муртаг Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Dan Kennedy / Дэн Кеннеди - Жесткий менеджмент. Заставьте людей работать на результат [2008, PDF, RUS]" href="/?page=book&topic_id=5517144" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2018/0206/15/527a84896be0d3198372f751735d4d15.jpg" width="100%" class="thumbnail" alt="Обложка книги Dan Kennedy / Дэн Кеннеди - Жесткий менеджмент. Заставьте людей работать на результат [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Dan Kennedy / Дэн Кеннеди - Жесткий менеджмент. Заставьте людей работать на результат [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5517144" target="_blank" onclick="yandex_target('all_books');return true;">Жесткий менеджмент. Заставьте людей работать на результат </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Dan Kennedy / Дэн Кеннеди" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Dan Kennedy / Дэн Кеннеди">Dan Kennedy / Дэн Кеннеди</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Классика Harvard Business Review - Уосс Д., Бруч Х., Лоэр Д. и др. - Как стать эффективным руководителем [2008, DjVu, RUS]" href="/?page=book&topic_id=5450053" onclick="yandex_target('all_books');return true;"><img src="http://i89.fastpic.ru/big/2017/0907/c4/3ca0a0e8b9a340fd87aef4c18d87b2c4.png" width="100%" class="thumbnail" alt="Обложка книги Классика Harvard Business Review - Уосс Д., Бруч Х., Лоэр Д. и др. - Как стать эффективным руководителем [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Классика Harvard Business Review - Уосс Д., Бруч Х., Лоэр Д. и др. - Как стать эффективным руководителем [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5450053" target="_blank" onclick="yandex_target('all_books');return true;">Как стать эффективным руководителем </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Уосс Д., Бруч Х., Лоэр Д. и др." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Уосс Д., Бруч Х., Лоэр Д. и др.">Уосс Д., Бруч Х., Лоэр Д. и др.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: TenStep, Inc. - Пользовательская библиотека шаблонов документов по управлению проектом (рус.) [2008, DOC]" href="/?page=book&topic_id=1469713" onclick="yandex_target('all_books');return true;"><img src="http://i031.radikal.ru/0908/69/c7f43bfbe264.jpg" width="100%" class="thumbnail" alt="Обложка книги TenStep, Inc. - Пользовательская библиотека шаблонов документов по управлению проектом (рус.) [2008, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: TenStep, Inc. - Пользовательская библиотека шаблонов документов по управлению проектом (рус.) [2008, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1469713" target="_blank" onclick="yandex_target('all_books');return true;">Пользовательская библиотека шаблонов документов по управлению проектом (рус.) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=TenStep, Inc." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: TenStep, Inc.">TenStep, Inc.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Свой бизнес №1 (66) [2008, PDF, RUS]" href="/?page=book&topic_id=2130545" onclick="yandex_target('all_books');return true;"><img src="http://i031.radikal.ru/0908/69/c7f43bfbe264.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Свой бизнес №1 (66) [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Свой бизнес №1 (66) [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2130545" target="_blank" onclick="yandex_target('all_books');return true;"> Свой бизнес №1 (66) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">EPUB, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кумар Н., Стенкамп Я. - Марки торговых сетей. Новые конкуренты традиционных брендов. [2008, EPUB, RUS]" href="/?page=book&topic_id=5126414" onclick="yandex_target('all_books');return true;"><img src="http://i73.fastpic.ru/big/2015/1201/2c/e35e0aefc9096f361750e7353ebbf72c.jpg" width="100%" class="thumbnail" alt="Обложка книги Кумар Н., Стенкамп Я. - Марки торговых сетей. Новые конкуренты традиционных брендов. [2008, EPUB, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кумар Н., Стенкамп Я. - Марки торговых сетей. Новые конкуренты традиционных брендов. [2008, EPUB, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5126414" target="_blank" onclick="yandex_target('all_books');return true;">Марки торговых сетей. Новые конкуренты традиционных брендов. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кумар Н., Стенкамп Я." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кумар Н., Стенкамп Я.">Кумар Н., Стенкамп Я.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Среднее профессиональное образование - Ёхина М.А. - Организация обслуживания в гостиницах [2008, PDF, RUS]" href="/?page=book&topic_id=5037564" onclick="yandex_target('all_books');return true;"><img src="http://i72.fastpic.ru/big/2015/0706/80/11faf1b3f97b79a799c321fe58013a80.jpg" width="100%" class="thumbnail" alt="Обложка книги Среднее профессиональное образование - Ёхина М.А. - Организация обслуживания в гостиницах [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Среднее профессиональное образование - Ёхина М.А. - Организация обслуживания в гостиницах [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5037564" target="_blank" onclick="yandex_target('all_books');return true;">Организация обслуживания в гостиницах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ёхина М.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ёхина М.А.">Ёхина М.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Михаленко Д. Г. - Практическое пособие по работе линейных руководителей [2008, DjVu, RUS]" href="/?page=book&topic_id=5019875" onclick="yandex_target('all_books');return true;"><img src="http://i71.fastpic.ru/big/2015/0607/3e/4d84c7b3bfc2322b7b66f473f064173e.jpg" width="100%" class="thumbnail" alt="Обложка книги Михаленко Д. Г. - Практическое пособие по работе линейных руководителей [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Михаленко Д. Г. - Практическое пособие по работе линейных руководителей [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5019875" target="_blank" onclick="yandex_target('all_books');return true;">Практическое пособие по работе линейных руководителей </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Михаленко Д. Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Михаленко Д. Г.">Михаленко Д. Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Панюшкин В., Зыгарь М. - Газпром. Новое русское оружие [2008, FB2, RUS]" href="/?page=book&topic_id=5012165" onclick="yandex_target('all_books');return true;"><img src="http://i72.fastpic.ru/big/2015/0525/e5/98e528e6b539fc44c824a87b0352a7e5.jpg" width="100%" class="thumbnail" alt="Обложка книги Панюшкин В., Зыгарь М. - Газпром. Новое русское оружие [2008, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Панюшкин В., Зыгарь М. - Газпром. Новое русское оружие [2008, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5012165" target="_blank" onclick="yandex_target('all_books');return true;">Газпром. Новое русское оружие </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Панюшкин В., Зыгарь М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Панюшкин В., Зыгарь М.">Панюшкин В., Зыгарь М.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Харви Маккей - Как плавать среди акул и не быть съеденным заживо / Как уцелеть среди акул [2008, FB2, RUS]" href="/?page=book&topic_id=4743856" onclick="yandex_target('all_books');return true;"><img src="http://i61.fastpic.ru/big/2014/0520/34/95f3f4e1002e9b18173168ce307af934.jpg" width="100%" class="thumbnail" alt="Обложка книги Харви Маккей - Как плавать среди акул и не быть съеденным заживо / Как уцелеть среди акул [2008, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Харви Маккей - Как плавать среди акул и не быть съеденным заживо / Как уцелеть среди акул [2008, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4743856" target="_blank" onclick="yandex_target('all_books');return true;">Как плавать среди акул и не быть съеденным заживо / Как уцелеть среди акул </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Харви Маккей" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Харви Маккей">Харви Маккей</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">009, PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Власова Н. - 10 книг серии &quot;Карманный советник Нелли Власовой&quot; [2008-2009, PDF]" href="/?page=book&topic_id=4733780" onclick="yandex_target('all_books');return true;"><img src="http://ftp.coollib.net/i/21/111921/cover.jpg" width="100%" class="thumbnail" alt="Обложка книги Власова Н. - 10 книг серии &quot;Карманный советник Нелли Власовой&quot; [2008-2009, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Власова Н. - 10 книг серии &quot;Карманный советник Нелли Власовой&quot; [2008-2009, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4733780" target="_blank" onclick="yandex_target('all_books');return true;">10 книг серии &quot;Карманный советник Нелли Власовой&quot; </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Власова Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Власова Н.">Власова Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Рябых Д., Гладкий А. - Бизнес-план на практике. Опыт успеха в России. 28 реализованных бизнес-планов [2008, PDF, RUS]" href="/?page=book&topic_id=4672733" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2014/0218/a8/b0ae0d42b4f0f59458ae34853bcc1fa8.png" width="100%" class="thumbnail" alt="Обложка книги Рябых Д., Гладкий А. - Бизнес-план на практике. Опыт успеха в России. 28 реализованных бизнес-планов [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Рябых Д., Гладкий А. - Бизнес-план на практике. Опыт успеха в России. 28 реализованных бизнес-планов [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4672733" target="_blank" onclick="yandex_target('all_books');return true;">Бизнес-план на практике. Опыт успеха в России. 28 реализованных бизнес-планов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рябых Д., Гладкий А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рябых Д., Гладкий А.">Рябых Д., Гладкий А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека Аркадия Новикова - Конран Т. - Первоклассный ресторан [2008, PDF, RUS]" href="/?page=book&topic_id=4656429" onclick="yandex_target('all_books');return true;"><img src="http://i57.fastpic.ru/big/2014/0131/6b/47b8c8fbd8c610d3a1812b23a53ff26b.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека Аркадия Новикова - Конран Т. - Первоклассный ресторан [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека Аркадия Новикова - Конран Т. - Первоклассный ресторан [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4656429" target="_blank" onclick="yandex_target('all_books');return true;">Первоклассный ресторан </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Конран Т." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Конран Т.">Конран Т.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Чижиков В.М., Чижиков В.В. - Теория и практика социокультурного менеджмента [2008, PDF, RUS]" href="/?page=book&topic_id=4573454" onclick="yandex_target('all_books');return true;"><img src="http://i59.fastpic.ru/big/2013/1028/be/4090e21f8cc86d119b7e3a3518ba5ebe.jpg" width="100%" class="thumbnail" alt="Обложка книги Чижиков В.М., Чижиков В.В. - Теория и практика социокультурного менеджмента [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Чижиков В.М., Чижиков В.В. - Теория и практика социокультурного менеджмента [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4573454" target="_blank" onclick="yandex_target('all_books');return true;">Теория и практика социокультурного менеджмента </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Чижиков В.М., Чижиков В.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Чижиков В.М., Чижиков В.В.">Чижиков В.М., Чижиков В.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Алина Смелянская - Реформатор [2008, PDF, RUS]" href="/?page=book&topic_id=4499411" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i638/1307/ae/0d9738b18071.jpg" width="100%" class="thumbnail" alt="Обложка книги Алина Смелянская - Реформатор [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Алина Смелянская - Реформатор [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4499411" target="_blank" onclick="yandex_target('all_books');return true;">Реформатор </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Алина Смелянская" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Алина Смелянская">Алина Смелянская</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бизнес на 100% - Иванова С.В. - Мотивация на 100%: А где же у него кнопка? [2008, DjVu, RUS]" href="/?page=book&topic_id=4457663" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2013/0605/cf/5461eee54e60d70627da08661b8f9fcf.jpg" width="100%" class="thumbnail" alt="Обложка книги Бизнес на 100% - Иванова С.В. - Мотивация на 100%: А где же у него кнопка? [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бизнес на 100% - Иванова С.В. - Мотивация на 100%: А где же у него кнопка? [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4457663" target="_blank" onclick="yandex_target('all_books');return true;">Мотивация на 100%: А где же у него кнопка? </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Иванова С.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Иванова С.В.">Иванова С.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Высшее образование 21 века - Кушнаренко Н.Н. - Документоведение [2008, PDF, RUS]" href="/?page=book&topic_id=4442813" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2013/0518/28/75c28d5a2fc56230f0802a2afd438928.jpg" width="100%" class="thumbnail" alt="Обложка книги Высшее образование 21 века - Кушнаренко Н.Н. - Документоведение [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Высшее образование 21 века - Кушнаренко Н.Н. - Документоведение [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4442813" target="_blank" onclick="yandex_target('all_books');return true;">Документоведение </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кушнаренко Н.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кушнаренко Н.Н.">Кушнаренко Н.Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">FB2/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Секретарское дело - Смирнова Е.П. - Делопроизводство для секретаря. Разработка, учет и хранение служебной документации [2008, FB2/PDF, RUS]" href="/?page=book&topic_id=4418258" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2013/0421/e2/0d95115c0cde35dad6d1189088a151e2.jpg" width="100%" class="thumbnail" alt="Обложка книги Секретарское дело - Смирнова Е.П. - Делопроизводство для секретаря. Разработка, учет и хранение служебной документации [2008, FB2/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Секретарское дело - Смирнова Е.П. - Делопроизводство для секретаря. Разработка, учет и хранение служебной документации [2008, FB2/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4418258" target="_blank" onclick="yandex_target('all_books');return true;">Делопроизводство для секретаря. Разработка, учет и хранение служебной документации </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Смирнова Е.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Смирнова Е.П.">Смирнова Е.П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">FB2/RTF/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Максвелл Д. - Как превратить неудачи в ступени к успеху [2008, FB2/RTF/PDF, RUS]" href="/?page=book&topic_id=4380408" onclick="yandex_target('all_books');return true;"><img src="http://i51.fastpic.ru/big/2013/0315/09/f3ae43a06f4fe3ce5801c01f5a9c7709.jpg" width="100%" class="thumbnail" alt="Обложка книги Максвелл Д. - Как превратить неудачи в ступени к успеху [2008, FB2/RTF/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Максвелл Д. - Как превратить неудачи в ступени к успеху [2008, FB2/RTF/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4380408" target="_blank" onclick="yandex_target('all_books');return true;">Как превратить неудачи в ступени к успеху </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Максвелл Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Максвелл Д.">Максвелл Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кляйн Р. - Секреты тайм-менеджмента для работающих женщин. Как совмещать личную жизнь, семью и карьеру [2008, PDF, RUS]" href="/?page=book&topic_id=4368023" onclick="yandex_target('all_books');return true;"><img src="http://i52.fastpic.ru/big/2013/0303/6e/edf9187790de729ea36bc93c5988f56e.jpg" width="100%" class="thumbnail" alt="Обложка книги Кляйн Р. - Секреты тайм-менеджмента для работающих женщин. Как совмещать личную жизнь, семью и карьеру [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кляйн Р. - Секреты тайм-менеджмента для работающих женщин. Как совмещать личную жизнь, семью и карьеру [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4368023" target="_blank" onclick="yandex_target('all_books');return true;">Секреты тайм-менеджмента для работающих женщин. Как совмещать личную жизнь, семью и карьеру </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кляйн Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кляйн Р.">Кляйн Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">FB2/RTF/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ходоренко А. - 10 гениев бизнеса [2008, FB2/RTF/PDF, RUS]" href="/?page=book&topic_id=4359110" onclick="yandex_target('all_books');return true;"><img src="http://i52.fastpic.ru/big/2013/0223/9d/d1928e8f217c5c66d3af8b48d0c7c79d.png" width="100%" class="thumbnail" alt="Обложка книги Ходоренко А. - 10 гениев бизнеса [2008, FB2/RTF/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ходоренко А. - 10 гениев бизнеса [2008, FB2/RTF/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4359110" target="_blank" onclick="yandex_target('all_books');return true;">10 гениев бизнеса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ходоренко А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ходоренко А.">Ходоренко А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Коносуке Мацусита - Коносуке Мацусита. Принципы успеха. [2008, PDF, RUS]" href="/?page=book&topic_id=4355475" onclick="yandex_target('all_books');return true;"><img src="http://i52.fastpic.ru/big/2013/0220/67/4dc23e60c4a974235938f93339f71367.jpg" width="100%" class="thumbnail" alt="Обложка книги Коносуке Мацусита - Коносуке Мацусита. Принципы успеха. [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Коносуке Мацусита - Коносуке Мацусита. Принципы успеха. [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4355475" target="_blank" onclick="yandex_target('all_books');return true;">Коносуке Мацусита. Принципы успеха. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Коносуке Мацусита" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Коносуке Мацусита">Коносуке Мацусита</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Грачева О. Ю., Маркова Ю. А., Мишина А. А., Мишунина Ю. В. - Организация туристического бизнеса. Технология создания турпродукта [2008, PDF, RUS]" href="/?page=book&topic_id=4312426" onclick="yandex_target('all_books');return true;"><img src="http://i54.fastpic.ru/big/2013/0111/4e/c0ef5e7985fe8048cd97cc37fff1464e.jpg" width="100%" class="thumbnail" alt="Обложка книги Грачева О. Ю., Маркова Ю. А., Мишина А. А., Мишунина Ю. В. - Организация туристического бизнеса. Технология создания турпродукта [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Грачева О. Ю., Маркова Ю. А., Мишина А. А., Мишунина Ю. В. - Организация туристического бизнеса. Технология создания турпродукта [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4312426" target="_blank" onclick="yandex_target('all_books');return true;">Организация туристического бизнеса. Технология создания турпродукта </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Грачева О. Ю., Маркова Ю. А., Мишина А. А., Мишунина Ю. В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Грачева О. Ю., Маркова Ю. А., Мишина А. А., Мишунина Ю. В.">Грачева О. Ю., Маркова Ю. А., Мишина А. А., Мишунина Ю. В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Практика менеджмента - Лошкарев В.Г. - Развитие бизнеса. Первые три года работы [2008, PDF, RUS]" href="/?page=book&topic_id=4311753" onclick="yandex_target('all_books');return true;"><img src="http://i53.fastpic.ru/big/2013/0110/a4/2e748ae238c8d13bee11461875e373a4.jpg" width="100%" class="thumbnail" alt="Обложка книги Практика менеджмента - Лошкарев В.Г. - Развитие бизнеса. Первые три года работы [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Практика менеджмента - Лошкарев В.Г. - Развитие бизнеса. Первые три года работы [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4311753" target="_blank" onclick="yandex_target('all_books');return true;">Развитие бизнеса. Первые три года работы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лошкарев В.Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лошкарев В.Г.">Лошкарев В.Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бэннет К. - Деловой этикет и протокол. Краткое руководство для профессионала [2008, PDF, RUS]" href="/?page=book&topic_id=4311720" onclick="yandex_target('all_books');return true;"><img src="http://i52.fastpic.ru/big/2013/0110/ec/105f60ae7d84c4a6d07475259b5161ec.jpg" width="100%" class="thumbnail" alt="Обложка книги Бэннет К. - Деловой этикет и протокол. Краткое руководство для профессионала [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бэннет К. - Деловой этикет и протокол. Краткое руководство для профессионала [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4311720" target="_blank" onclick="yandex_target('all_books');return true;">Деловой этикет и протокол. Краткое руководство для профессионала </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бэннет К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бэннет К.">Бэннет К.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Смитиенко Б.М., Поспелов В.К., Карпова С.В. - Внешне-экономическая деятельность [2008, PDF, RUS]" href="/?page=book&topic_id=4236610" onclick="yandex_target('all_books');return true;"><img src="http://s58.radikal.ru/i162/1211/6c/fb19b0e0512d.jpg" width="100%" class="thumbnail" alt="Обложка книги Смитиенко Б.М., Поспелов В.К., Карпова С.В. - Внешне-экономическая деятельность [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Смитиенко Б.М., Поспелов В.К., Карпова С.В. - Внешне-экономическая деятельность [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4236610" target="_blank" onclick="yandex_target('all_books');return true;">Внешне-экономическая деятельность </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Смитиенко Б.М., Поспелов В.К., Карпова С.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Смитиенко Б.М., Поспелов В.К., Карпова С.В.">Смитиенко Б.М., Поспелов В.К., Карпова С.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Веснин В.Р. - Корпоративное управление [2008, DjVu, RUS]" href="/?page=book&topic_id=3719112" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2011/0905/a3/2dab43928b479eee0d9ea34ceebd22a3.jpeg" width="100%" class="thumbnail" alt="Обложка книги Веснин В.Р. - Корпоративное управление [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Веснин В.Р. - Корпоративное управление [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3719112" target="_blank" onclick="yandex_target('all_books');return true;">Корпоративное управление </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Веснин В.Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Веснин В.Р.">Веснин В.Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Высшая школа менеджмента - Салимова Т.А. - Управление качеством [2008, PDF, RUS]" href="/?page=book&topic_id=4119820" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/big/2012/0708/f4/02be18ec7d16cb783101f33e28c980f4.jpg" width="100%" class="thumbnail" alt="Обложка книги Высшая школа менеджмента - Салимова Т.А. - Управление качеством [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Высшая школа менеджмента - Салимова Т.А. - Управление качеством [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4119820" target="_blank" onclick="yandex_target('all_books');return true;">Управление качеством </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Салимова Т.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Салимова Т.А.">Салимова Т.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Хилл Н. - Как стать богатым за один год [2008, PDF, RUS]" href="/?page=book&topic_id=4101020" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Хилл Н. - Как стать богатым за один год [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Хилл Н. - Как стать богатым за один год [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4101020" target="_blank" onclick="yandex_target('all_books');return true;">Как стать богатым за один год </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хилл Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хилл Н.">Хилл Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Трыкова Т.А. - Товароведение упаковочных материалов и тары [2008, PDF, RUS]" href="/?page=book&topic_id=4098250" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Трыкова Т.А. - Товароведение упаковочных материалов и тары [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Трыкова Т.А. - Товароведение упаковочных материалов и тары [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4098250" target="_blank" onclick="yandex_target('all_books');return true;">Товароведение упаковочных материалов и тары </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Трыкова Т.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Трыкова Т.А.">Трыкова Т.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Модели менеджмента ведущих корпораций - Канбан и точно вовремя на Toyota: Менеджмент начинается на рабочем месте. [2008, PDF, RUS]" href="/?page=book&topic_id=4091864" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2012/0611/46/70684f26df8f171ca2ff2b31daacb146.jpg" width="100%" class="thumbnail" alt="Обложка книги Модели менеджмента ведущих корпораций - Канбан и точно вовремя на Toyota: Менеджмент начинается на рабочем месте. [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Модели менеджмента ведущих корпораций - Канбан и точно вовремя на Toyota: Менеджмент начинается на рабочем месте. [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4091864" target="_blank" onclick="yandex_target('all_books');return true;">Канбан и точно вовремя на Toyota: Менеджмент начинается на рабочем месте. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Модели менеджмента ведущих корпораций" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Модели менеджмента ведущих корпораций">Модели менеджмента ведущих корпораций</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Никифоров В.В. - Никифоров В.В. - Логистика. Транспорт и склад в цепи поставок [2008, RTF, RUS]" href="/?page=book&topic_id=4074737" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i642/1205/ce/49b9a4c2ed78.jpg" width="100%" class="thumbnail" alt="Обложка книги Никифоров В.В. - Никифоров В.В. - Логистика. Транспорт и склад в цепи поставок [2008, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Никифоров В.В. - Никифоров В.В. - Логистика. Транспорт и склад в цепи поставок [2008, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4074737" target="_blank" onclick="yandex_target('all_books');return true;">Логистика. Транспорт и склад в цепи поставок </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Никифоров В.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Никифоров В.В.">Никифоров В.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Nancy Duarte / Нэнси Дуарте - Slide:ology: The Art and Science of Creating Great Presentation / Slide:ology. Искусство создания... [2008, PDF, ENG]" href="/?page=book&topic_id=3976002" onclick="yandex_target('all_books');return true;"><img src="http://i27.fastpic.ru/big/2012/0309/ab/f4c587788aa33ad0f89e5a7099cbe0ab.jpg" width="100%" class="thumbnail" alt="Обложка книги Nancy Duarte / Нэнси Дуарте - Slide:ology: The Art and Science of Creating Great Presentation / Slide:ology. Искусство создания... [2008, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Nancy Duarte / Нэнси Дуарте - Slide:ology: The Art and Science of Creating Great Presentation / Slide:ology. Искусство создания... [2008, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3976002" target="_blank" onclick="yandex_target('all_books');return true;">Slide:ology: The Art and Science of Creating Great Presentation / Slide:ology. Искусство создания... </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Nancy Duarte / Нэнси Дуарте" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Nancy Duarte / Нэнси Дуарте">Nancy Duarte / Нэнси Дуарте</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Высшая школа менеджмента - Фрейдина Е.В. - Исследование систем управления [2008, DjVu, RUS]" href="/?page=book&topic_id=4019512" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2012/0411/6d/7b7cedc0fcbd1c88635d9b01df4d3c6d.jpg" width="100%" class="thumbnail" alt="Обложка книги Высшая школа менеджмента - Фрейдина Е.В. - Исследование систем управления [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Высшая школа менеджмента - Фрейдина Е.В. - Исследование систем управления [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4019512" target="_blank" onclick="yandex_target('all_books');return true;">Исследование систем управления </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фрейдина Е.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фрейдина Е.В.">Фрейдина Е.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Васильев Г.Л., Полякова В.А. - Рекламный маркетинг: Учебное пособие [2008, PDF/DjVu, RUS]" href="/?page=book&topic_id=4002370" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Васильев Г.Л., Полякова В.А. - Рекламный маркетинг: Учебное пособие [2008, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Васильев Г.Л., Полякова В.А. - Рекламный маркетинг: Учебное пособие [2008, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4002370" target="_blank" onclick="yandex_target('all_books');return true;">Рекламный маркетинг: Учебное пособие </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Васильев Г.Л., Полякова В.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Васильев Г.Л., Полякова В.А.">Васильев Г.Л., Полякова В.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Акимов В. - Стоматологическая клиника с нуля [2008, PDF, RUS]" href="/?page=book&topic_id=4002173" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2012/0329/dd/b59c090576677612472840a9fe0bf3dd.jpg" width="100%" class="thumbnail" alt="Обложка книги Акимов В. - Стоматологическая клиника с нуля [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Акимов В. - Стоматологическая клиника с нуля [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4002173" target="_blank" onclick="yandex_target('all_books');return true;">Стоматологическая клиника с нуля </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Акимов В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Акимов В.">Акимов В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Dirk Zeller/Дирк Зеллер - Success as a Real Estate Agent for Dummies/Как стать успешным агентом по недвижимости для &quot;чайников&quot; [2008, PDF, RUS]" href="/?page=book&topic_id=3992054" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2012/0322/d2/fd3e613b4fb35cdd53b971568bd2f3d2.jpg" width="100%" class="thumbnail" alt="Обложка книги Dirk Zeller/Дирк Зеллер - Success as a Real Estate Agent for Dummies/Как стать успешным агентом по недвижимости для &quot;чайников&quot; [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Dirk Zeller/Дирк Зеллер - Success as a Real Estate Agent for Dummies/Как стать успешным агентом по недвижимости для &quot;чайников&quot; [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3992054" target="_blank" onclick="yandex_target('all_books');return true;">Success as a Real Estate Agent for Dummies/Как стать успешным агентом по недвижимости для &quot;чайников&quot; </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Dirk Zeller/Дирк Зеллер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Dirk Zeller/Дирк Зеллер">Dirk Zeller/Дирк Зеллер</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu/PDF/DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бизнес-технологии - Димитриева 3. М. - Школа менеджмента. Книга практикующего руководителя и бизнес-тренера [2008, DjVu/PDF/DOC, RUS]" href="/?page=book&topic_id=3952698" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2012/0221/b2/bb7e229ca5eaaa5c90e1d20dbc1e71b2.jpg" width="100%" class="thumbnail" alt="Обложка книги Бизнес-технологии - Димитриева 3. М. - Школа менеджмента. Книга практикующего руководителя и бизнес-тренера [2008, DjVu/PDF/DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бизнес-технологии - Димитриева 3. М. - Школа менеджмента. Книга практикующего руководителя и бизнес-тренера [2008, DjVu/PDF/DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3952698" target="_blank" onclick="yandex_target('all_books');return true;">Школа менеджмента. Книга практикующего руководителя и бизнес-тренера </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Димитриева 3. М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Димитриева 3. М.">Димитриева 3. М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, PDF, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Учебные пособия для вузов - Зельдович, Б.З. - Ситуационное обучение управленческим дисциплинам: учебное пособие [2008, DjVu, PDF, DOC, RUS]" href="/?page=book&topic_id=3952691" onclick="yandex_target('all_books');return true;"><img src="http://i28.fastpic.ru/big/2012/0221/ed/92743000686bd3916877db20369a01ed.jpg" width="100%" class="thumbnail" alt="Обложка книги Учебные пособия для вузов - Зельдович, Б.З. - Ситуационное обучение управленческим дисциплинам: учебное пособие [2008, DjVu, PDF, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Учебные пособия для вузов - Зельдович, Б.З. - Ситуационное обучение управленческим дисциплинам: учебное пособие [2008, DjVu, PDF, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3952691" target="_blank" onclick="yandex_target('all_books');return true;">Ситуационное обучение управленческим дисциплинам: учебное пособие </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Зельдович, Б.З." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Зельдович, Б.З.">Зельдович, Б.З.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Тимур Гагин - Руководитель-эксперт. Руководство по эксплуатации человека человеком [2008, PDF, RUS]" href="/?page=book&topic_id=3946952" onclick="yandex_target('all_books');return true;"><img src="http://i28.fastpic.ru/big/2012/0217/e6/e29439bdd3a076663803366263ea98e6.jpg" width="100%" class="thumbnail" alt="Обложка книги Тимур Гагин - Руководитель-эксперт. Руководство по эксплуатации человека человеком [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Тимур Гагин - Руководитель-эксперт. Руководство по эксплуатации человека человеком [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3946952" target="_blank" onclick="yandex_target('all_books');return true;">Руководитель-эксперт. Руководство по эксплуатации человека человеком </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тимур Гагин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тимур Гагин">Тимур Гагин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">RTF, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Коротко и по делу - Кобьёлл Клаус - Мотивация в стиле ЭКШН. Восторг заразителен [2008, RTF, PDF, RUS]" href="/?page=book&topic_id=3880281" onclick="yandex_target('all_books');return true;"><img src="http://i30.fastpic.ru/big/2011/1229/24/e2cb26fc259bec5246f9dfb8cf930124.jpg" width="100%" class="thumbnail" alt="Обложка книги Коротко и по делу - Кобьёлл Клаус - Мотивация в стиле ЭКШН. Восторг заразителен [2008, RTF, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Коротко и по делу - Кобьёлл Клаус - Мотивация в стиле ЭКШН. Восторг заразителен [2008, RTF, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3880281" target="_blank" onclick="yandex_target('all_books');return true;">Мотивация в стиле ЭКШН. Восторг заразителен </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кобьёлл Клаус" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кобьёлл Клаус">Кобьёлл Клаус</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Профессиональное издание для бизнеса - Лапыгин Ю.Н. - Системное решение проблем [2008, PDF, RUS]" href="/?page=book&topic_id=3848236" onclick="yandex_target('all_books');return true;"><img src="http://i32.fastpic.ru/big/2011/1205/46/b5667587ea7f345e02bc1a7bcf667c46.jpg" width="100%" class="thumbnail" alt="Обложка книги Профессиональное издание для бизнеса - Лапыгин Ю.Н. - Системное решение проблем [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Профессиональное издание для бизнеса - Лапыгин Ю.Н. - Системное решение проблем [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3848236" target="_blank" onclick="yandex_target('all_books');return true;">Системное решение проблем </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лапыгин Ю.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лапыгин Ю.Н.">Лапыгин Ю.Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гэвин Кеннеди - Договориться можно обо всем! Как добиваться максимума в любых переговорах [2008, PDF, RUS]" href="/?page=book&topic_id=3824545" onclick="yandex_target('all_books');return true;"><img src="http://i32.fastpic.ru/big/2011/1118/7c/4d9f0e2403b61a4ebf13ba467364917c.jpg" width="100%" class="thumbnail" alt="Обложка книги Гэвин Кеннеди - Договориться можно обо всем! Как добиваться максимума в любых переговорах [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гэвин Кеннеди - Договориться можно обо всем! Как добиваться максимума в любых переговорах [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3824545" target="_blank" onclick="yandex_target('all_books');return true;">Договориться можно обо всем! Как добиваться максимума в любых переговорах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гэвин Кеннеди" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гэвин Кеннеди">Гэвин Кеннеди</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Макашева З. М. - Исследование систем управления: учебное пособие [2008, PDF, RUS]" href="/?page=book&topic_id=3811882" onclick="yandex_target('all_books');return true;"><img src="http://s017.radikal.ru/i417/1111/ab/c71d89b9a86c.jpg" width="100%" class="thumbnail" alt="Обложка книги Макашева З. М. - Исследование систем управления: учебное пособие [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Макашева З. М. - Исследование систем управления: учебное пособие [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3811882" target="_blank" onclick="yandex_target('all_books');return true;">Исследование систем управления: учебное пособие </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Макашева З. М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Макашева З. М.">Макашева З. М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лысенко О. - Одноглазый король, или Путешествие начинается [2008, DOC, RUS]" href="/?page=book&topic_id=3771047" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i620/1603/c0/f44ff130bc70.jpg" width="100%" class="thumbnail" alt="Обложка книги Лысенко О. - Одноглазый король, или Путешествие начинается [2008, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лысенко О. - Одноглазый король, или Путешествие начинается [2008, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3771047" target="_blank" onclick="yandex_target('all_books');return true;">Одноглазый король, или Путешествие начинается </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лысенко О." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лысенко О.">Лысенко О.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Всяких Е. И. - Практика и проблематика моделирования бизнес-процессов [2008, PDF, RUS]" href="/?page=book&topic_id=3748552" onclick="yandex_target('all_books');return true;"><img src="http://s54.radikal.ru/i145/1109/99/2f70cfb1866f.jpg" width="100%" class="thumbnail" alt="Обложка книги Всяких Е. И. - Практика и проблематика моделирования бизнес-процессов [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Всяких Е. И. - Практика и проблематика моделирования бизнес-процессов [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3748552" target="_blank" onclick="yandex_target('all_books');return true;">Практика и проблематика моделирования бизнес-процессов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Всяких Е. И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Всяких Е. И.">Всяких Е. И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Seth Godin / Годин Сет - The Dip: A Little Book That Teaches You When to Quit (and When to Stick) / Яма. Как научиться выбираться и стать победителем [2008, PDF, RUS]" href="/?page=book&topic_id=3735155" onclick="yandex_target('all_books');return true;"><img src="http://i075.radikal.ru/1109/13/c852d5c3f71b.jpg" width="100%" class="thumbnail" alt="Обложка книги Seth Godin / Годин Сет - The Dip: A Little Book That Teaches You When to Quit (and When to Stick) / Яма. Как научиться выбираться и стать победителем [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Seth Godin / Годин Сет - The Dip: A Little Book That Teaches You When to Quit (and When to Stick) / Яма. Как научиться выбираться и стать победителем [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3735155" target="_blank" onclick="yandex_target('all_books');return true;">The Dip: A Little Book That Teaches You When to Quit (and When to Stick) / Яма. Как научиться выбираться и стать победителем </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Seth Godin / Годин Сет" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Seth Godin / Годин Сет">Seth Godin / Годин Сет</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Энциклопедия ресторатора - Кадрина Айситулина - Тренинги персонала в ресторане [2008, PDF, RUS]" href="/?page=book&topic_id=3729862" onclick="yandex_target('all_books');return true;"><img src="http://s44.radikal.ru/i103/1109/73/a8febeba5175.jpg" width="100%" class="thumbnail" alt="Обложка книги Энциклопедия ресторатора - Кадрина Айситулина - Тренинги персонала в ресторане [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Энциклопедия ресторатора - Кадрина Айситулина - Тренинги персонала в ресторане [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3729862" target="_blank" onclick="yandex_target('all_books');return true;">Тренинги персонала в ресторане </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кадрина Айситулина" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кадрина Айситулина">Кадрина Айситулина</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Хэлдман Ким - Управление проектами [2008, PDF, RUS]" href="/?page=book&topic_id=3675082" onclick="yandex_target('all_books');return true;"><img src="http://s61.radikal.ru/i174/1108/c6/bb7800629883.jpg" width="100%" class="thumbnail" alt="Обложка книги Хэлдман Ким - Управление проектами [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Хэлдман Ким - Управление проектами [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3675082" target="_blank" onclick="yandex_target('all_books');return true;">Управление проектами </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хэлдман Ким" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хэлдман Ким">Хэлдман Ким</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Для чайников - Фокс С. - Деловой этикет для чайников [2008, DjVu, RUS]" href="/?page=book&topic_id=3666035" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2011/0724/86/ae44839ae3fa4841c5a2070ed5180386.jpeg" width="100%" class="thumbnail" alt="Обложка книги Для чайников - Фокс С. - Деловой этикет для чайников [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Для чайников - Фокс С. - Деловой этикет для чайников [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3666035" target="_blank" onclick="yandex_target('all_books');return true;">Деловой этикет для чайников </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фокс С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фокс С.">Фокс С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Как заработать - Салбер А. - Как открыть интернет-магазин [2008, DjVu, RUS]" href="/?page=book&topic_id=3597875" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Как заработать - Салбер А. - Как открыть интернет-магазин [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Как заработать - Салбер А. - Как открыть интернет-магазин [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3597875" target="_blank" onclick="yandex_target('all_books');return true;">Как открыть интернет-магазин </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Салбер А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Салбер А.">Салбер А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Chris Anderson / Крис Андерсон - The Long Tail Why the Future of Business is Selling Less of More (Revised and Updated Edition) / Длинный хвост [2008, PDF, ENG]" href="/?page=book&topic_id=3550508" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Chris Anderson / Крис Андерсон - The Long Tail Why the Future of Business is Selling Less of More (Revised and Updated Edition) / Длинный хвост [2008, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Chris Anderson / Крис Андерсон - The Long Tail Why the Future of Business is Selling Less of More (Revised and Updated Edition) / Длинный хвост [2008, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3550508" target="_blank" onclick="yandex_target('all_books');return true;">The Long Tail Why the Future of Business is Selling Less of More (Revised and Updated Edition) / Длинный хвост </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Chris Anderson / Крис Андерсон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Chris Anderson / Крис Андерсон">Chris Anderson / Крис Андерсон</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ицхак Адизес - Развитие лидеров [2008, PDF, RUS]" href="/?page=book&topic_id=3415165" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Ицхак Адизес - Развитие лидеров [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ицхак Адизес - Развитие лидеров [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3415165" target="_blank" onclick="yandex_target('all_books');return true;">Развитие лидеров </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ицхак Адизес" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ицхак Адизес">Ицхак Адизес</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Иванова C., Болдогоев Д., Борчанинова Э., Глотова А., Жигилий О. - Развитие потенциала сотрудников [2008, PDF, RUS]" href="/?page=book&topic_id=3409303" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Иванова C., Болдогоев Д., Борчанинова Э., Глотова А., Жигилий О. - Развитие потенциала сотрудников [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Иванова C., Болдогоев Д., Борчанинова Э., Глотова А., Жигилий О. - Развитие потенциала сотрудников [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3409303" target="_blank" onclick="yandex_target('all_books');return true;">Развитие потенциала сотрудников </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Иванова C., Болдогоев Д., Борчанинова Э., Глотова А., Жигилий О." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Иванова C., Болдогоев Д., Борчанинова Э., Глотова А., Жигилий О.">Иванова C., Болдогоев Д., Борчанинова Э., Глотова А., Жигилий О.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">010, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Свой бизнес №1 2008 №11 2009 №9-12 2010 [2008-2010, PDF, RUS] Обновлено 09,01 2011" href="/?page=book&topic_id=3128555" onclick="yandex_target('all_books');return true;"><img src="http://funkyimg.com/u2/159/307/1294528057_svoybiz.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Свой бизнес №1 2008 №11 2009 №9-12 2010 [2008-2010, PDF, RUS] Обновлено 09,01 2011"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Свой бизнес №1 2008 №11 2009 №9-12 2010 [2008-2010, PDF, RUS] Обновлено 09,01 2011"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3128555" target="_blank" onclick="yandex_target('all_books');return true;"> Свой бизнес №1 2008 №11 2009 №9-12 2010 </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DJVU, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Труд и зарплата - Касьянова Г. Ю. - Больничные - 2008 [2008, DJVU, RUS]" href="/?page=book&topic_id=3269396" onclick="yandex_target('all_books');return true;"><img src="http://i12.fastpic.ru/big/2010/1118/68/8a3bc997ad55a156a2fcf8b307d9ff68.jpg" width="100%" class="thumbnail" alt="Обложка книги Труд и зарплата - Касьянова Г. Ю. - Больничные - 2008 [2008, DJVU, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Труд и зарплата - Касьянова Г. Ю. - Больничные - 2008 [2008, DJVU, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3269396" target="_blank" onclick="yandex_target('all_books');return true;">Больничные - 2008 </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Касьянова Г. Ю." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Касьянова Г. Ю.">Касьянова Г. Ю.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Классика MBA - Пол Кит, Филип Янг - Управленческая экономика. Инструментарий руководителя / Managerial Economics: Economic Tools for Today's Decision Makers [2008, PDF, RUS]" href="/?page=book&topic_id=3264751" onclick="yandex_target('all_books');return true;"><img src="http://i12.fastpic.ru/big/2010/1116/b2/9307cf4e8ca7ad1a58b388ef3391e2b2.jpg" width="100%" class="thumbnail" alt="Обложка книги Классика MBA - Пол Кит, Филип Янг - Управленческая экономика. Инструментарий руководителя / Managerial Economics: Economic Tools for Today's Decision Makers [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Классика MBA - Пол Кит, Филип Янг - Управленческая экономика. Инструментарий руководителя / Managerial Economics: Economic Tools for Today's Decision Makers [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3264751" target="_blank" onclick="yandex_target('all_books');return true;">Управленческая экономика. Инструментарий руководителя / Managerial Economics: Economic Tools for Today's Decision Makers </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Пол Кит, Филип Янг" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Пол Кит, Филип Янг">Пол Кит, Филип Янг</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Robert H. Hagstrom / Роберт Г. Хагстром - The Warrent Buffet Way / Как $5 долларов превратить в 50 миллиардов. [2008, PDF, RUS]" href="/?page=book&topic_id=3263573" onclick="yandex_target('all_books');return true;"><img src="http://i12.fastpic.ru/big/2010/1115/56/a861ef6eaa280ec060a6184ecbe5da56.jpg" width="100%" class="thumbnail" alt="Обложка книги Robert H. Hagstrom / Роберт Г. Хагстром - The Warrent Buffet Way / Как $5 долларов превратить в 50 миллиардов. [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Robert H. Hagstrom / Роберт Г. Хагстром - The Warrent Buffet Way / Как $5 долларов превратить в 50 миллиардов. [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3263573" target="_blank" onclick="yandex_target('all_books');return true;">The Warrent Buffet Way / Как $5 долларов превратить в 50 миллиардов. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Robert H. Hagstrom / Роберт Г. Хагстром" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Robert H. Hagstrom / Роберт Г. Хагстром">Robert H. Hagstrom / Роберт Г. Хагстром</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шапиро С.А. - Мотивация [2008, PDF, RUS]" href="/?page=book&topic_id=3242782" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Шапиро С.А. - Мотивация [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шапиро С.А. - Мотивация [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3242782" target="_blank" onclick="yandex_target('all_books');return true;">Мотивация </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шапиро С.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шапиро С.А.">Шапиро С.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Учебное пособие - Кане М.М., Иванов Б.В., Корешков В.Н., Схиртладзе А.Г. - Системы, методы и инструменты менеджмента качества [2008, PDF, RUS]" href="/?page=book&topic_id=3222506" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Учебное пособие - Кане М.М., Иванов Б.В., Корешков В.Н., Схиртладзе А.Г. - Системы, методы и инструменты менеджмента качества [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Учебное пособие - Кане М.М., Иванов Б.В., Корешков В.Н., Схиртладзе А.Г. - Системы, методы и инструменты менеджмента качества [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3222506" target="_blank" onclick="yandex_target('all_books');return true;">Системы, методы и инструменты менеджмента качества </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кане М.М., Иванов Б.В., Корешков В.Н., Схиртладзе А.Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кане М.М., Иванов Б.В., Корешков В.Н., Схиртладзе А.Г.">Кане М.М., Иванов Б.В., Корешков В.Н., Схиртладзе А.Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">RTF/FB2/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Краткая история - Остальский А.В. - Краткая история денег [2008, RTF/FB2/PDF, RUS]" href="/?page=book&topic_id=3220552" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Краткая история - Остальский А.В. - Краткая история денег [2008, RTF/FB2/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Краткая история - Остальский А.В. - Краткая история денег [2008, RTF/FB2/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3220552" target="_blank" onclick="yandex_target('all_books');return true;">Краткая история денег </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Остальский А.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Остальский А.В.">Остальский А.В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Joseph A. Michelli / Джозеф А. Мичелли - The New Gold Standard / Золотой Стандарт Гостиничного Бизнеса [2008, PDF, ENG]" href="/?page=book&topic_id=3219987" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Joseph A. Michelli / Джозеф А. Мичелли - The New Gold Standard / Золотой Стандарт Гостиничного Бизнеса [2008, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Joseph A. Michelli / Джозеф А. Мичелли - The New Gold Standard / Золотой Стандарт Гостиничного Бизнеса [2008, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3219987" target="_blank" onclick="yandex_target('all_books');return true;">The New Gold Standard / Золотой Стандарт Гостиничного Бизнеса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Joseph A. Michelli / Джозеф А. Мичелли" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Joseph A. Michelli / Джозеф А. Мичелли">Joseph A. Michelli / Джозеф А. Мичелли</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Robert B. Tucker / Роберт Б. Такер - Driving Growth Through Innovation / Инновации как формула роста. 2-е издание [2008, PDF, ENG]" href="/?page=book&topic_id=3219364" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Robert B. Tucker / Роберт Б. Такер - Driving Growth Through Innovation / Инновации как формула роста. 2-е издание [2008, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Robert B. Tucker / Роберт Б. Такер - Driving Growth Through Innovation / Инновации как формула роста. 2-е издание [2008, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3219364" target="_blank" onclick="yandex_target('all_books');return true;">Driving Growth Through Innovation / Инновации как формула роста. 2-е издание </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Robert B. Tucker / Роберт Б. Такер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Robert B. Tucker / Роберт Б. Такер">Robert B. Tucker / Роберт Б. Такер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Учебник для вузов - Глухов В.В. - Менеджмент (3-е изд.) [2008, PDF, RUS]" href="/?page=book&topic_id=3205720" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Учебник для вузов - Глухов В.В. - Менеджмент (3-е изд.) [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Учебник для вузов - Глухов В.В. - Менеджмент (3-е изд.) [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3205720" target="_blank" onclick="yandex_target('all_books');return true;">Менеджмент (3-е изд.) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Глухов В.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Глухов В.В.">Глухов В.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Высшее образование - Переверзев М.П., Шайденко Н.А., Басовский Л.Е. - Менеджмент (2-е изд.) [2008, PDF, RUS]" href="/?page=book&topic_id=3205704" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Высшее образование - Переверзев М.П., Шайденко Н.А., Басовский Л.Е. - Менеджмент (2-е изд.) [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Высшее образование - Переверзев М.П., Шайденко Н.А., Басовский Л.Е. - Менеджмент (2-е изд.) [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3205704" target="_blank" onclick="yandex_target('all_books');return true;">Менеджмент (2-е изд.) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Переверзев М.П., Шайденко Н.А., Басовский Л.Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Переверзев М.П., Шайденко Н.А., Басовский Л.Е.">Переверзев М.П., Шайденко Н.А., Басовский Л.Е.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Деловой квартал № 14 (Самара) (Апрель) [2008, PDF, RUS]" href="/?page=book&topic_id=3195904" onclick="yandex_target('all_books');return true;"><img src="http://s45.radikal.ru/i108/1603/a5/b33adabadf5c.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Деловой квартал № 14 (Самара) (Апрель) [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Деловой квартал № 14 (Самара) (Апрель) [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3195904" target="_blank" onclick="yandex_target('all_books');return true;"> Деловой квартал № 14 (Самара) (Апрель) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Владельцам бизнеса - Левитас Александр - Больше денег от вашего бизнеса [2008, PDF, RUS]" href="/?page=book&topic_id=3191397" onclick="yandex_target('all_books');return true;"><img src="http://s013.radikal.ru/i322/1603/72/a45f8bcf475d.jpg" width="100%" class="thumbnail" alt="Обложка книги Владельцам бизнеса - Левитас Александр - Больше денег от вашего бизнеса [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Владельцам бизнеса - Левитас Александр - Больше денег от вашего бизнеса [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3191397" target="_blank" onclick="yandex_target('all_books');return true;">Больше денег от вашего бизнеса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Левитас Александр" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Левитас Александр">Левитас Александр</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Рош Джулиан - Стоимость компании: От желаемого к действительному [2008, DjVu, RUS]" href="/?page=book&topic_id=3176219" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Рош Джулиан - Стоимость компании: От желаемого к действительному [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Рош Джулиан - Стоимость компании: От желаемого к действительному [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3176219" target="_blank" onclick="yandex_target('all_books');return true;">Стоимость компании: От желаемого к действительному </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рош Джулиан" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рош Джулиан">Рош Джулиан</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Такеда Х. - Синхронизированное производство [2008, PDF, RUS]" href="/?page=book&topic_id=3141822" onclick="yandex_target('all_books');return true;"><img src="http://s41.radikal.ru/i094/1009/85/9e3be68c3609.jpg" width="100%" class="thumbnail" alt="Обложка книги Такеда Х. - Синхронизированное производство [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Такеда Х. - Синхронизированное производство [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3141822" target="_blank" onclick="yandex_target('all_books');return true;">Синхронизированное производство </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Такеда Х." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Такеда Х.">Такеда Х.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В курсе! - Покудов А.В. - Как управлять дебиторской задолженностью [2008, PDF, RUS]" href="/?page=book&topic_id=3112438" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги В курсе! - Покудов А.В. - Как управлять дебиторской задолженностью [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В курсе! - Покудов А.В. - Как управлять дебиторской задолженностью [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3112438" target="_blank" onclick="yandex_target('all_books');return true;">Как управлять дебиторской задолженностью </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Покудов А.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Покудов А.В.">Покудов А.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Практика менеджмента - Хромов М.Ю - Дебиторка: возврат, управление, факторинг [2008, DjVu, RUS]" href="/?page=book&topic_id=3112298" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Практика менеджмента - Хромов М.Ю - Дебиторка: возврат, управление, факторинг [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Практика менеджмента - Хромов М.Ю - Дебиторка: возврат, управление, факторинг [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3112298" target="_blank" onclick="yandex_target('all_books');return true;">Дебиторка: возврат, управление, факторинг </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хромов М.Ю" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хромов М.Ю">Хромов М.Ю</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: А.В. Камянчук и В.Н. Басков - Сельское сообщество 21 века: Пути развития. [2008, DOC, RUS]" href="/?page=book&topic_id=2928105" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги А.В. Камянчук и В.Н. Басков - Сельское сообщество 21 века: Пути развития. [2008, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: А.В. Камянчук и В.Н. Басков - Сельское сообщество 21 века: Пути развития. [2008, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2928105" target="_blank" onclick="yandex_target('all_books');return true;">Сельское сообщество 21 века: Пути развития. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=А.В. Камянчук и В.Н. Басков" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: А.В. Камянчук и В.Н. Басков">А.В. Камянчук и В.Н. Басков</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Норка Д.И. - Управление отделом продаж малого предприятия, стратегии и тактики успеха [2008, PDF]" href="/?page=book&topic_id=3047213" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Норка Д.И. - Управление отделом продаж малого предприятия, стратегии и тактики успеха [2008, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Норка Д.И. - Управление отделом продаж малого предприятия, стратегии и тактики успеха [2008, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3047213" target="_blank" onclick="yandex_target('all_books');return true;">Управление отделом продаж малого предприятия, стратегии и тактики успеха </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Норка Д.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Норка Д.И.">Норка Д.И.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF/RTF/FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Высшее образование - Бондаренко В.В., Резник С.Д., Соколов С.Н. - Персональный менеджмент. Тесты и конкретные ситуации: практикум ( 2-е издание) [2008, PDF/RTF/FB2, RUS]" href="/?page=book&topic_id=3032053" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Высшее образование - Бондаренко В.В., Резник С.Д., Соколов С.Н. - Персональный менеджмент. Тесты и конкретные ситуации: практикум ( 2-е издание) [2008, PDF/RTF/FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Высшее образование - Бондаренко В.В., Резник С.Д., Соколов С.Н. - Персональный менеджмент. Тесты и конкретные ситуации: практикум ( 2-е издание) [2008, PDF/RTF/FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3032053" target="_blank" onclick="yandex_target('all_books');return true;">Персональный менеджмент. Тесты и конкретные ситуации: практикум ( 2-е издание) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бондаренко В.В., Резник С.Д., Соколов С.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бондаренко В.В., Резник С.Д., Соколов С.Н.">Бондаренко В.В., Резник С.Д., Соколов С.Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF/FB2/RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Высшее образование - Мухамедьяров А. М. - Инновационный менеджмент. Учебное пособие (2-е издание) [2008, PDF/FB2/RTF, RUS]" href="/?page=book&topic_id=3031814" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Высшее образование - Мухамедьяров А. М. - Инновационный менеджмент. Учебное пособие (2-е издание) [2008, PDF/FB2/RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Высшее образование - Мухамедьяров А. М. - Инновационный менеджмент. Учебное пособие (2-е издание) [2008, PDF/FB2/RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3031814" target="_blank" onclick="yandex_target('all_books');return true;">Инновационный менеджмент. Учебное пособие (2-е издание) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мухамедьяров А. М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мухамедьяров А. М.">Мухамедьяров А. М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF / RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бакалавр - Шевчук Д.А. - Управление качеством [2008, PDF / RTF, RUS]" href="/?page=book&topic_id=3017697" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Бакалавр - Шевчук Д.А. - Управление качеством [2008, PDF / RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бакалавр - Шевчук Д.А. - Управление качеством [2008, PDF / RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3017697" target="_blank" onclick="yandex_target('all_books');return true;">Управление качеством </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шевчук Д.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шевчук Д.А.">Шевчук Д.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Агаркова Л.Н. - Пошаговое руководство по открытию частного бизнеса. Российский опыт [2008, PDF, RUS]" href="/?page=book&topic_id=2958137" onclick="yandex_target('all_books');return true;"><img src="http://i4.fastpic.ru/big/2010/0525/c2/0093f3a3c0532a18aa1f9a2ec46f04c2.jpg" width="100%" class="thumbnail" alt="Обложка книги Агаркова Л.Н. - Пошаговое руководство по открытию частного бизнеса. Российский опыт [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Агаркова Л.Н. - Пошаговое руководство по открытию частного бизнеса. Российский опыт [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2958137" target="_blank" onclick="yandex_target('all_books');return true;">Пошаговое руководство по открытию частного бизнеса. Российский опыт </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Агаркова Л.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Агаркова Л.Н.">Агаркова Л.Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] РИА Стандарты и качество - Стандарты и Качество [2008, PDF]" href="/?page=book&topic_id=2922581" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги [Журнал] РИА Стандарты и качество - Стандарты и Качество [2008, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] РИА Стандарты и качество - Стандарты и Качество [2008, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2922581" target="_blank" onclick="yandex_target('all_books');return true;"> РИА Стандарты и качество - Стандарты и Качество </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: АМИКО - Типовой бизнес-плана турагентства [2008, PDF]" href="/?page=book&topic_id=2907973" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги АМИКО - Типовой бизнес-плана турагентства [2008, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: АМИКО - Типовой бизнес-плана турагентства [2008, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2907973" target="_blank" onclick="yandex_target('all_books');return true;">Типовой бизнес-плана турагентства </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=АМИКО" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: АМИКО">АМИКО</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сидорова Н.А., Анисинкова Е.Б. - Тайм-менеджмент [2008, PDF, RUS]" href="/?page=book&topic_id=2905835" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Сидорова Н.А., Анисинкова Е.Б. - Тайм-менеджмент [2008, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сидорова Н.А., Анисинкова Е.Б. - Тайм-менеджмент [2008, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2905835" target="_blank" onclick="yandex_target('all_books');return true;">Тайм-менеджмент </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сидорова Н.А., Анисинкова Е.Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сидорова Н.А., Анисинкова Е.Б.">Сидорова Н.А., Анисинкова Е.Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Miles Burke / Майлз Бёрк. - The Principles Of Successful Freelancing / Принципы Успешного Фрилансинга [2008, PDF, ENG]" href="/?page=book&topic_id=2865822" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Miles Burke / Майлз Бёрк. - The Principles Of Successful Freelancing / Принципы Успешного Фрилансинга [2008, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Miles Burke / Майлз Бёрк. - The Principles Of Successful Freelancing / Принципы Успешного Фрилансинга [2008, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2865822" target="_blank" onclick="yandex_target('all_books');return true;">The Principles Of Successful Freelancing / Принципы Успешного Фрилансинга </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Miles Burke / Майлз Бёрк." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Miles Burke / Майлз Бёрк.">Miles Burke / Майлз Бёрк.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Alice Schroeder / Элис Шродер - The Snowball: Warren Buffett and the Business of Life / Снежный ком: Уоррен Баффет и бизнес жизни [2008, PDF, ENG]" href="/?page=book&topic_id=2831673" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Alice Schroeder / Элис Шродер - The Snowball: Warren Buffett and the Business of Life / Снежный ком: Уоррен Баффет и бизнес жизни [2008, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Alice Schroeder / Элис Шродер - The Snowball: Warren Buffett and the Business of Life / Снежный ком: Уоррен Баффет и бизнес жизни [2008, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2831673" target="_blank" onclick="yandex_target('all_books');return true;">The Snowball: Warren Buffett and the Business of Life / Снежный ком: Уоррен Баффет и бизнес жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Alice Schroeder / Элис Шродер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Alice Schroeder / Элис Шродер">Alice Schroeder / Элис Шродер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Project Management Institute PMI - PMBOK (4th Edition) / Руководство к Своду знаний по управлению проектами (4-е издание) [2008, PDF, ENG] Исправления 2009 г." href="/?page=book&topic_id=2831128" onclick="yandex_target('all_books');return true;"><img src="http://i2.fastpic.ru/big/2010/0318/62/de683b44b464473c320c74c795855162.jpg" width="100%" class="thumbnail" alt="Обложка книги Project Management Institute PMI - PMBOK (4th Edition) / Руководство к Своду знаний по управлению проектами (4-е издание) [2008, PDF, ENG] Исправления 2009 г."></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Project Management Institute PMI - PMBOK (4th Edition) / Руководство к Своду знаний по управлению проектами (4-е издание) [2008, PDF, ENG] Исправления 2009 г."><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2831128" target="_blank" onclick="yandex_target('all_books');return true;">PMBOK (4th Edition) / Руководство к Своду знаний по управлению проектами (4-е издание) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Project Management Institute PMI" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Project Management Institute PMI">Project Management Institute PMI</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">RTF/FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Карманный советник - Власова Н. М. - Курс молодого талантливого менеджера [2008, RTF/FB2, RUS]" href="/?page=book&topic_id=2797202" onclick="yandex_target('all_books');return true;"><img src="http://i2.fastpic.ru/big/2010/0302/cd/776ab554e324aa97c8a983fcc517a0cd.jpg" width="100%" class="thumbnail" alt="Обложка книги Карманный советник - Власова Н. М. - Курс молодого талантливого менеджера [2008, RTF/FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Карманный советник - Власова Н. М. - Курс молодого талантливого менеджера [2008, RTF/FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2797202" target="_blank" onclick="yandex_target('all_books');return true;">Курс молодого талантливого менеджера </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Власова Н. М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Власова Н. М.">Власова Н. М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">RTF/FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Карманный советник - Власова Н. М. - Искусство быть лидером [2008, RTF/FB2, RUS]" href="/?page=book&topic_id=2797090" onclick="yandex_target('all_books');return true;"><img src="http://i2.fastpic.ru/big/2010/0302/74/20dc238b23b796099771bd88d4b7cf74.jpg" width="100%" class="thumbnail" alt="Обложка книги Карманный советник - Власова Н. М. - Искусство быть лидером [2008, RTF/FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Карманный советник - Власова Н. М. - Искусство быть лидером [2008, RTF/FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2797090" target="_blank" onclick="yandex_target('all_books');return true;">Искусство быть лидером </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Власова Н. М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Власова Н. М.">Власова Н. М.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">009, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Управление персоналом (39 номеров) [2008-2009, PDF, RUS]" href="/?page=book&topic_id=2778705" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/2c/936fa9be9c71a7ea2765520caec04a2c.gif" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Управление персоналом (39 номеров) [2008-2009, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Управление персоналом (39 номеров) [2008-2009, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2778705" target="_blank" onclick="yandex_target('all_books');return true;"> Управление персоналом (39 номеров) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Михаил Гороховский - Наш клиент - продавец квартиры [2008, PDF RUS]" href="/?page=book&topic_id=2741260" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Михаил Гороховский - Наш клиент - продавец квартиры [2008, PDF RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Михаил Гороховский - Наш клиент - продавец квартиры [2008, PDF RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2741260" target="_blank" onclick="yandex_target('all_books');return true;">продавец квартиры </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Наш клиент" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Наш клиент">Наш клиент</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Б.А. Хейфец - Офшорные юрисдикции в глобальной и национальной экономике [2008, DjVu, RUS]" href="/?page=book&topic_id=2727539" onclick="yandex_target('all_books');return true;"><img src="http://i1.fastpic.ru/big/2010/0207/b4/40756697c16cb1c4c522c2956f7f57b4.jpg" width="100%" class="thumbnail" alt="Обложка книги Б.А. Хейфец - Офшорные юрисдикции в глобальной и национальной экономике [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Б.А. Хейфец - Офшорные юрисдикции в глобальной и национальной экономике [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2727539" target="_blank" onclick="yandex_target('all_books');return true;">Офшорные юрисдикции в глобальной и национальной экономике </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Б.А. Хейфец" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Б.А. Хейфец">Б.А. Хейфец</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: А.Г. Варжапетян - Современные инструменты менеджмента качества. Робастное проектирование. Учебное пособие. [2008, DjVu, RUS]" href="/?page=book&topic_id=2686265" onclick="yandex_target('all_books');return true;"><img src="http://i2.fastpic.ru/big/2010/0211/fd/5e8c9a41a8af42d2c82dc310e2cfd9fd.jpeg" width="100%" class="thumbnail" alt="Обложка книги А.Г. Варжапетян - Современные инструменты менеджмента качества. Робастное проектирование. Учебное пособие. [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: А.Г. Варжапетян - Современные инструменты менеджмента качества. Робастное проектирование. Учебное пособие. [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2686265" target="_blank" onclick="yandex_target('all_books');return true;">Современные инструменты менеджмента качества. Робастное проектирование. Учебное пособие. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=А.Г. Варжапетян" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: А.Г. Варжапетян">А.Г. Варжапетян</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2008</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Елена Ивановна Мазилкина - Конкурентная разведка [2008, DOC, RUS]" href="/?page=book&topic_id=2667790" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2010/0122/3a/a6035099e49752651fc331428d2ac23a.jpg" width="100%" class="thumbnail" alt="Обложка книги Елена Ивановна Мазилкина - Конкурентная разведка [2008, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Елена Ивановна Мазилкина - Конкурентная разведка [2008, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2667790" target="_blank" onclick="yandex_target('all_books');return true;">Конкурентная разведка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Елена Ивановна Мазилкина" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Елена Ивановна Мазилкина">Елена Ивановна Мазилкина</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF,RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Драган З. Милошевич - Набор инструментов для управления проектами [2008, PDF,RUS]" href="/?page=book&topic_id=2649965" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Драган З. Милошевич - Набор инструментов для управления проектами [2008, PDF,RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Драган З. Милошевич - Набор инструментов для управления проектами [2008, PDF,RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2649965" target="_blank" onclick="yandex_target('all_books');return true;">Набор инструментов для управления проектами </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Драган З. Милошевич" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Драган З. Милошевич">Драган З. Милошевич</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Kathleen R. Allen - Complete MBA For Dummies®, 2nd Edition [2008, PDF]" href="/?page=book&topic_id=2613088" onclick="yandex_target('all_books');return true;"><img src="http://i1.fastpic.ru/big/2010/0108/08/d187062b33ac2186464fd76f1c2d3908.png" width="100%" class="thumbnail" alt="Обложка книги Kathleen R. Allen - Complete MBA For Dummies®, 2nd Edition [2008, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Kathleen R. Allen - Complete MBA For Dummies®, 2nd Edition [2008, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2613088" target="_blank" onclick="yandex_target('all_books');return true;">Complete MBA For Dummies®, 2nd Edition </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Kathleen R. Allen" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Kathleen R. Allen">Kathleen R. Allen</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2008</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Михасева Н. , Андрусь О. - Единый налог: вопросы и ответы (2-е издание) [2008, DjVu, RUS]" href="/?page=book&topic_id=2462768" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Михасева Н. , Андрусь О. - Единый налог: вопросы и ответы (2-е издание) [2008, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Михасева Н. , Андрусь О. - Единый налог: вопросы и ответы (2-е издание) [2008, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2462768" target="_blank" onclick="yandex_target('all_books');return true;">Единый налог: вопросы и ответы (2-е издание) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Михасева Н. , Андрусь О." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Михасева Н. , Андрусь О.">Михасева Н. , Андрусь О.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row"></div>
+<div class="row">
+	<div class="col-md-10">
+<a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=46"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=34"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=35">35</a> | <a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=34">34</a> | <b>33</b> | <a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=32">32</a> |  <a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=31">31</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=32">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_business&cat_id=764&lang=ru&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div>
+
+<!-- // Страница psybooks_business-->

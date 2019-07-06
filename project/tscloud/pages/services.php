@@ -1,0 +1,1 @@
+<? insert_module("swpshop","show_product_list");

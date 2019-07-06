@@ -1,0 +1,11 @@
+1. Подключить JS файл в конце страницы
+<script type="application/javascript" src="/commenton/js/last_comments.js"></script>
+
+2. Подключить CSS файл в HEAD страницы
+<link type="text/css" rel="stylesheet" href="/commenton/style/last_comments.css">
+
+3. В месте вывода комментариев вставить
+<div class="commentonLast" data-cn-limit="5"></div>
+где data-cn-limit="" - атрибут принимающий кол-во необходимых для вывода комментариев,
+если добавить атрибут data-cn-type="main" - будут выводится только главные комментарии,
+по умолчанию выводятся и главные комментарии, и ответы на комментарии

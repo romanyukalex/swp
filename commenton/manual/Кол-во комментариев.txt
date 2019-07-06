@@ -1,0 +1,13 @@
+Количество комментариев в списке постов
+
+1. Подключить файл в конце страницы
+<script type="application/javascript" src="/commenton/js/count_comments.js"></script>
+
+2. В месте вывода кол-ва комментариев вставить
+<span class="commentonCount" data-cn-url="адрес страницы без домена">0</span>
+где data-cn-url="" - атрибут принимающий url страницы с комментариями
+
+Пример:
+урл - http://site.ru/category/page.html
+без домена - /category/page.html
+указываем data-cn-url="/category/page.html" 

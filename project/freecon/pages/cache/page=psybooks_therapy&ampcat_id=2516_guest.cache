@@ -1,0 +1,1265 @@
+<!-- Страница psybooks_therapy--><div class="row flex-items-md-center">
+
+	<div class="blockquote">
+		
+			<p>
+				Найди книгу по психологии, философии и эзотерике (1076-2017) за 1 секунду<br>Можно ввести название книги, имя автора или год (посвежее или  раритетное)<br><br>
+				
+				В меню можно выбрать интересующий раздел
+ 
+			</p>
+			<small>Команда Psy-space</small>
+		
+	</div>
+
+
+</div>
+
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_therapy">
+			<input type="hidden" name="cat_id" value="2516">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Книги по психотерапии и консультированию [787 книг]</h2>
+</div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+							</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-10"><b>20</b> | <a class="justlink" href= "/?page=psybooks_therapy&cat_id=2516&page_num=19">19</a> |  <a class="justlink" href= "/?page=psybooks_therapy&cat_id=2516&page_num=18">18</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_therapy&cat_id=2516&page_num=19">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_therapy&cat_id=2516&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2019</span><span class="hidden-sm-down">PDF/FB2/EPUB, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: David D. Burns / Дэвид Бернс - Терапия настроения. Клинически доказанный способ победить депрессию без таблеток [2019, PDF/FB2/EPUB, RUS]" href="/?page=book&topic_id=5699970" onclick="yandex_target('all_books');return true;"><img src="https://i109.fastpic.ru/big/2019/0306/2d/cca13918ff5ba2f9f9c708b500a6562d.jpg" width="100%" class="thumbnail" alt="Обложка книги David D. Burns / Дэвид Бернс - Терапия настроения. Клинически доказанный способ победить депрессию без таблеток [2019, PDF/FB2/EPUB, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: David D. Burns / Дэвид Бернс - Терапия настроения. Клинически доказанный способ победить депрессию без таблеток [2019, PDF/FB2/EPUB, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5699970" target="_blank" onclick="yandex_target('all_books');return true;">Терапия настроения. Клинически доказанный способ победить депрессию без таблеток </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=David D. Burns / Дэвид Бернс" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: David D. Burns / Дэвид Бернс">David D. Burns / Дэвид Бернс</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Александр Стражный - Неврозы, в которые играют люди [2019, DjVu, RUS]" href="/?page=book&topic_id=5717052" onclick="yandex_target('all_books');return true;"><img src="https://i109.fastpic.ru/big/2019/0411/d7/1b6c79767f8ca29daf850d73951589d7.jpg" width="100%" class="thumbnail" alt="Обложка книги Александр Стражный - Неврозы, в которые играют люди [2019, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Александр Стражный - Неврозы, в которые играют люди [2019, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5717052" target="_blank" onclick="yandex_target('all_books');return true;">Неврозы, в которые играют люди </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Александр Стражный" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Александр Стражный">Александр Стражный</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Marsha M. Linehan / Марша М. Лайнен - Руководство по тренингу навыков при терапии пограничного расстройства личности [2018, PDF, RUS]" href="/?page=book&topic_id=5704726" onclick="yandex_target('all_books');return true;"><img src="https://i110.fastpic.ru/big/2019/0316/48/c59b573d97e4120ae7549d51ea292748.jpg" width="100%" class="thumbnail" alt="Обложка книги Marsha M. Linehan / Марша М. Лайнен - Руководство по тренингу навыков при терапии пограничного расстройства личности [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Marsha M. Linehan / Марша М. Лайнен - Руководство по тренингу навыков при терапии пограничного расстройства личности [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5704726" target="_blank" onclick="yandex_target('all_books');return true;">Руководство по тренингу навыков при терапии пограничного расстройства личности </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Marsha M. Linehan / Марша М. Лайнен" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Marsha M. Linehan / Марша М. Лайнен">Marsha M. Linehan / Марша М. Лайнен</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: История психологии в памятниках - Джонс Э. - Жизнь и творения Зигмунда Фрейда. [2018, DjVu, RUS]" href="/?page=book&topic_id=5642694" onclick="yandex_target('all_books');return true;"><img src="http://i97.fastpic.ru/big/2018/1111/aa/d46db88fff445d331c3a29875130b9aa.jpg" width="100%" class="thumbnail" alt="Обложка книги История психологии в памятниках - Джонс Э. - Жизнь и творения Зигмунда Фрейда. [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: История психологии в памятниках - Джонс Э. - Жизнь и творения Зигмунда Фрейда. [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5642694" target="_blank" onclick="yandex_target('all_books');return true;">Жизнь и творения Зигмунда Фрейда. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джонс Э." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джонс Э.">Джонс Э.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Виктор Франкл - Воля к смыслу [2018, PDF, RUS]" href="/?page=book&topic_id=5605690" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2018/0826/f3/0c9ad0cac95050baca915617eea581f3.jpg" width="100%" class="thumbnail" alt="Обложка книги Виктор Франкл - Воля к смыслу [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Виктор Франкл - Воля к смыслу [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5605690" target="_blank" onclick="yandex_target('all_books');return true;">Воля к смыслу </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Виктор Франкл" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Виктор Франкл">Виктор Франкл</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Александр Граница - Безумие ли? Как психиатры выставляют диагноз? [2018, PDF, RUS]" href="/?page=book&topic_id=5599136" onclick="yandex_target('all_books');return true;"><img src="http://i103.fastpic.ru/big/2018/0811/8b/0249a4e61fa7408c06dff49965985e8b.jpg" width="100%" class="thumbnail" alt="Обложка книги Александр Граница - Безумие ли? Как психиатры выставляют диагноз? [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Александр Граница - Безумие ли? Как психиатры выставляют диагноз? [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5599136" target="_blank" onclick="yandex_target('all_books');return true;">Безумие ли? Как психиатры выставляют диагноз? </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Александр Граница" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Александр Граница">Александр Граница</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мастера психологии (Питер) - Зигмунд Фрейд - Толкование сновидений. Полное издание [2018, PDF, RTF, RUS]" href="/?page=book&topic_id=5599098" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2018/0811/6f/5be815ab608dcaded3e1ab93ed0fc86f.jpg" width="100%" class="thumbnail" alt="Обложка книги Мастера психологии (Питер) - Зигмунд Фрейд - Толкование сновидений. Полное издание [2018, PDF, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мастера психологии (Питер) - Зигмунд Фрейд - Толкование сновидений. Полное издание [2018, PDF, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5599098" target="_blank" onclick="yandex_target('all_books');return true;">Толкование сновидений. Полное издание </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Зигмунд Фрейд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Зигмунд Фрейд">Зигмунд Фрейд</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Eric Berne / Эрик Берн - Beyond Games and Scripts / За пределами игр и сценариев [2018, PDF, RUS]" href="/?page=book&topic_id=5593632" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0729/84/bdc6ff362d26d9f8871b7bbc4b3a5d84.jpg" width="100%" class="thumbnail" alt="Обложка книги Eric Berne / Эрик Берн - Beyond Games and Scripts / За пределами игр и сценариев [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Eric Berne / Эрик Берн - Beyond Games and Scripts / За пределами игр и сценариев [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5593632" target="_blank" onclick="yandex_target('all_books');return true;">Beyond Games and Scripts / За пределами игр и сценариев </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Eric Berne / Эрик Берн" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Eric Berne / Эрик Берн">Eric Berne / Эрик Берн</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Oliver Sacks / Оливер Сакс - The River of Consciousness / Река сознания [2018, PDF, RUS]" href="/?page=book&topic_id=5593124" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0728/26/785bc584e0d1af0cda5c6d6be6b11426.jpg" width="100%" class="thumbnail" alt="Обложка книги Oliver Sacks / Оливер Сакс - The River of Consciousness / Река сознания [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Oliver Sacks / Оливер Сакс - The River of Consciousness / Река сознания [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5593124" target="_blank" onclick="yandex_target('all_books');return true;">The River of Consciousness / Река сознания </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Oliver Sacks / Оливер Сакс" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Oliver Sacks / Оливер Сакс">Oliver Sacks / Оливер Сакс</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Oliver Korn, Sebastian Rudolf / Оливер Корн, Себастьян Рудольф - Sorgenlos und grubelfrei. I Wie der Ausstieg aus der Grubelfalle.../Не бойся будущего и не живи прошлым. Как научиться думать по-другому. Применение метакогнитивной... [2018, DjVu, RUS]" href="/?page=book&topic_id=5572057" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Oliver Korn, Sebastian Rudolf / Оливер Корн, Себастьян Рудольф - Sorgenlos und grubelfrei. I Wie der Ausstieg aus der Grubelfalle.../Не бойся будущего и не живи прошлым. Как научиться думать по-другому. Применение метакогнитивной... [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Oliver Korn, Sebastian Rudolf / Оливер Корн, Себастьян Рудольф - Sorgenlos und grubelfrei. I Wie der Ausstieg aus der Grubelfalle.../Не бойся будущего и не живи прошлым. Как научиться думать по-другому. Применение метакогнитивной... [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5572057" target="_blank" onclick="yandex_target('all_books');return true;">Sorgenlos und grubelfrei. I Wie der Ausstieg aus der Grubelfalle.../Не бойся будущего и не живи прошлым. Как научиться думать по-другому. Применение метакогнитивной... </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Oliver Korn, Sebastian Rudolf / Оливер Корн, Себастьян Рудольф" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Oliver Korn, Sebastian Rudolf / Оливер Корн, Себастьян Рудольф">Oliver Korn, Sebastian Rudolf / Оливер Корн, Себастьян Рудольф</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психология. Мозговой штурм - Joseph A. Annibali / Джозеф А. Аннибали - Reclaim Your Brain / Тревожный мозг. Как успокоить мысли, исцелить разум и вернуть контроль над собственной жизнью [2018, DjVu, RUS]" href="/?page=book&topic_id=5486080" onclick="yandex_target('all_books');return true;"><img src="http://i97.fastpic.ru/big/2017/1127/9e/255d593af6cc0bc286805d8d0e20969e.jpg" width="100%" class="thumbnail" alt="Обложка книги Психология. Мозговой штурм - Joseph A. Annibali / Джозеф А. Аннибали - Reclaim Your Brain / Тревожный мозг. Как успокоить мысли, исцелить разум и вернуть контроль над собственной жизнью [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психология. Мозговой штурм - Joseph A. Annibali / Джозеф А. Аннибали - Reclaim Your Brain / Тревожный мозг. Как успокоить мысли, исцелить разум и вернуть контроль над собственной жизнью [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5486080" target="_blank" onclick="yandex_target('all_books');return true;">Reclaim Your Brain / Тревожный мозг. Как успокоить мысли, исцелить разум и вернуть контроль над собственной жизнью </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Joseph A. Annibali / Джозеф А. Аннибали" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Joseph A. Annibali / Джозеф А. Аннибали">Joseph A. Annibali / Джозеф А. Аннибали</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Jay Earley / Джей Уорли - Self-Therapy: A Step-By-Step Guide to Creating Wholeness and Healing Your Inner.../Селф-терапия. Разбуди Внутреннего Ребёнка [2018, DjVu, RUS]" href="/?page=book&topic_id=5470671" onclick="yandex_target('all_books');return true;"><img src="http://i91.fastpic.ru/big/2017/1024/57/04d58cdaf3e1d64a2f9b3544d1d64357.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Jay Earley / Джей Уорли - Self-Therapy: A Step-By-Step Guide to Creating Wholeness and Healing Your Inner.../Селф-терапия. Разбуди Внутреннего Ребёнка [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Jay Earley / Джей Уорли - Self-Therapy: A Step-By-Step Guide to Creating Wholeness and Healing Your Inner.../Селф-терапия. Разбуди Внутреннего Ребёнка [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5470671" target="_blank" onclick="yandex_target('all_books');return true;">Self-Therapy: A Step-By-Step Guide to Creating Wholeness and Healing Your Inner.../Селф-терапия. Разбуди Внутреннего Ребёнка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Jay Earley / Джей Уорли" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Jay Earley / Джей Уорли">Jay Earley / Джей Уорли</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мария-Луиза фон Франц / Marie-Louise Von Franz - Архетипическое измерение психики [2017, PDF, RUS]" href="/?page=book&topic_id=5523981" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0221/5f/f12db6266fb792244a9d527686c1055f.jpg" width="100%" class="thumbnail" alt="Обложка книги Мария-Луиза фон Франц / Marie-Louise Von Franz - Архетипическое измерение психики [2017, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мария-Луиза фон Франц / Marie-Louise Von Franz - Архетипическое измерение психики [2017, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5523981" target="_blank" onclick="yandex_target('all_books');return true;">Архетипическое измерение психики </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мария-Луиза фон Франц / Marie-Louise Von Franz" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мария-Луиза фон Франц / Marie-Louise Von Franz">Мария-Луиза фон Франц / Marie-Louise Von Franz</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эдвард Эдингер / Edward F. Edinger - Анатомия души. Алхимический символизм в психотерапии [2017, PDF, RUS]" href="/?page=book&topic_id=5520901" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0214/34/5b274c69317014aacdb42c082c8ff634.jpg" width="100%" class="thumbnail" alt="Обложка книги Эдвард Эдингер / Edward F. Edinger - Анатомия души. Алхимический символизм в психотерапии [2017, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эдвард Эдингер / Edward F. Edinger - Анатомия души. Алхимический символизм в психотерапии [2017, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5520901" target="_blank" onclick="yandex_target('all_books');return true;">Анатомия души. Алхимический символизм в психотерапии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эдвард Эдингер / Edward F. Edinger" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эдвард Эдингер / Edward F. Edinger">Эдвард Эдингер / Edward F. Edinger</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Leopold Szondi / Леопольд Зонди - Ich-Analyse / Я-анализ [2017, PDF, RUS]" href="/?page=book&topic_id=5350373" onclick="yandex_target('all_books');return true;"><img src="http://i91.fastpic.ru/big/2017/0201/d8/3838586d17ad3d35cea43a308ffa15d8.jpg" width="100%" class="thumbnail" alt="Обложка книги Leopold Szondi / Леопольд Зонди - Ich-Analyse / Я-анализ [2017, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Leopold Szondi / Леопольд Зонди - Ich-Analyse / Я-анализ [2017, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5350373" target="_blank" onclick="yandex_target('all_books');return true;">Ich-Analyse / Я-анализ </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Leopold Szondi / Леопольд Зонди" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Leopold Szondi / Леопольд Зонди">Leopold Szondi / Леопольд Зонди</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Свиридкина Т.Л. - Шагни из прошлого. Руководство по психотерапии травмы [2017, DjVu, RUS]" href="/?page=book&topic_id=5418540" onclick="yandex_target('all_books');return true;"><img src="http://i96.fastpic.ru/big/2017/0619/2d/f1f81bcfd4c9733dd649ffe593fe052d.jpg" width="100%" class="thumbnail" alt="Обложка книги Свиридкина Т.Л. - Шагни из прошлого. Руководство по психотерапии травмы [2017, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Свиридкина Т.Л. - Шагни из прошлого. Руководство по психотерапии травмы [2017, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5418540" target="_blank" onclick="yandex_target('all_books');return true;">Шагни из прошлого. Руководство по психотерапии травмы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Свиридкина Т.Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Свиридкина Т.Л.">Свиридкина Т.Л.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Stephen Karpman / Стивен Карпман - A Game Free Life / Жизнь, свободная от игр [2016, PDF, RUS]" href="/?page=book&topic_id=5538946" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0323/be/affd62723fde36b09ce57ba21da96ebe.jpg" width="100%" class="thumbnail" alt="Обложка книги Stephen Karpman / Стивен Карпман - A Game Free Life / Жизнь, свободная от игр [2016, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Stephen Karpman / Стивен Карпман - A Game Free Life / Жизнь, свободная от игр [2016, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5538946" target="_blank" onclick="yandex_target('all_books');return true;">A Game Free Life / Жизнь, свободная от игр </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Stephen Karpman / Стивен Карпман" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Stephen Karpman / Стивен Карпман">Stephen Karpman / Стивен Карпман</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мария-Луиза фон Франц / Marie-Louise Von Franz - Алхимическое активное воображение [2016, PDF, RUS]" href="/?page=book&topic_id=5520576" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0213/22/2b1d2ecb28dce2a4aa8683a3fb1b5022.jpg" width="100%" class="thumbnail" alt="Обложка книги Мария-Луиза фон Франц / Marie-Louise Von Franz - Алхимическое активное воображение [2016, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мария-Луиза фон Франц / Marie-Louise Von Franz - Алхимическое активное воображение [2016, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5520576" target="_blank" onclick="yandex_target('all_books');return true;">Алхимическое активное воображение </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мария-Луиза фон Франц / Marie-Louise Von Franz" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мария-Луиза фон Франц / Marie-Louise Von Franz">Мария-Луиза фон Франц / Marie-Louise Von Franz</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Stossel, Scott / Стоссел, Скотт - My Age of Anxiety / Век тревожности [2016, PDF, RUS]" href="/?page=book&topic_id=5358519" onclick="yandex_target('all_books');return true;"><img src="http://i91.fastpic.ru/big/2017/0217/7a/88c9da9a013e38b181b964e136be647a.png" width="100%" class="thumbnail" alt="Обложка книги Stossel, Scott / Стоссел, Скотт - My Age of Anxiety / Век тревожности [2016, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Stossel, Scott / Стоссел, Скотт - My Age of Anxiety / Век тревожности [2016, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5358519" target="_blank" onclick="yandex_target('all_books');return true;">My Age of Anxiety / Век тревожности </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Stossel, Scott / Стоссел, Скотт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Stossel, Scott / Стоссел, Скотт">Stossel, Scott / Стоссел, Скотт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Elizabeth Wilde McCormick / Элизабет Уайлд МакКормик - Change for the Better. Self-Help through Practical Psychotherapy / Самотерапия. Изменим жизнь к лучшему [2016, DjVu, RUS]" href="/?page=book&topic_id=5422430" onclick="yandex_target('all_books');return true;"><img src="http://i92.fastpic.ru/big/2017/0629/fb/68d7e724bc9f1f84facc004da655f9fb.jpg" width="100%" class="thumbnail" alt="Обложка книги Elizabeth Wilde McCormick / Элизабет Уайлд МакКормик - Change for the Better. Self-Help through Practical Psychotherapy / Самотерапия. Изменим жизнь к лучшему [2016, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Elizabeth Wilde McCormick / Элизабет Уайлд МакКормик - Change for the Better. Self-Help through Practical Psychotherapy / Самотерапия. Изменим жизнь к лучшему [2016, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5422430" target="_blank" onclick="yandex_target('all_books');return true;">Change for the Better. Self-Help through Practical Psychotherapy / Самотерапия. Изменим жизнь к лучшему </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Elizabeth Wilde McCormick / Элизабет Уайлд МакКормик" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Elizabeth Wilde McCormick / Элизабет Уайлд МакКормик">Elizabeth Wilde McCormick / Элизабет Уайлд МакКормик</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бакалавр и магистр. Академический курс - Решетников М.М. - Психоанализ [2016, PDF/DjVu, RUS]" href="/?page=book&topic_id=5085647" onclick="yandex_target('all_books');return true;"><img src="http://114.imagebam.com/download/c6MOwZ_uPAXSyKwVGN-5RQ/43782/437813942/p0001.jpg" width="100%" class="thumbnail" alt="Обложка книги Бакалавр и магистр. Академический курс - Решетников М.М. - Психоанализ [2016, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бакалавр и магистр. Академический курс - Решетников М.М. - Психоанализ [2016, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5085647" target="_blank" onclick="yandex_target('all_books');return true;">Психоанализ </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Решетников М.М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Решетников М.М.">Решетников М.М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2015</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Paul David / Дэвид П. - At Last A Life / Возвращение к жизни. Продолжение [2015, FB2, RUS]" href="/?page=book&topic_id=5653619" onclick="yandex_target('all_books');return true;"><img src="https://i108.fastpic.ru/big/2018/1202/55/27b6da733426f3630c651fc08b31b155.jpg" width="100%" class="thumbnail" alt="Обложка книги Paul David / Дэвид П. - At Last A Life / Возвращение к жизни. Продолжение [2015, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Paul David / Дэвид П. - At Last A Life / Возвращение к жизни. Продолжение [2015, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5653619" target="_blank" onclick="yandex_target('all_books');return true;">At Last A Life / Возвращение к жизни. Продолжение </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Paul David / Дэвид П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Paul David / Дэвид П.">Paul David / Дэвид П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2015</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ирвин Ялом - Вглядываясь в солнце. Жизнь без страха смерти [2015, PDF, RUS]" href="/?page=book&topic_id=5646087" onclick="yandex_target('all_books');return true;"><img src="http://i106.fastpic.ru/big/2018/1117/93/1a24d7f3a9ad7e5d68db0d89ab4a0c93.png" width="100%" class="thumbnail" alt="Обложка книги Ирвин Ялом - Вглядываясь в солнце. Жизнь без страха смерти [2015, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ирвин Ялом - Вглядываясь в солнце. Жизнь без страха смерти [2015, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5646087" target="_blank" onclick="yandex_target('all_books');return true;">Вглядываясь в солнце. Жизнь без страха смерти </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ирвин Ялом" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ирвин Ялом">Ирвин Ялом</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2015</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Eric Berne / Эрик Берн - Transactional Analysis in Psychotherapy / Трансакционный анализ в психотерапии [2015, FB2, RUS]" href="/?page=book&topic_id=5579745" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0626/0a/62a1e5ce4a81d4830e45421d82a8d00a.jpg" width="100%" class="thumbnail" alt="Обложка книги Eric Berne / Эрик Берн - Transactional Analysis in Psychotherapy / Трансакционный анализ в психотерапии [2015, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Eric Berne / Эрик Берн - Transactional Analysis in Psychotherapy / Трансакционный анализ в психотерапии [2015, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5579745" target="_blank" onclick="yandex_target('all_books');return true;">Transactional Analysis in Psychotherapy / Трансакционный анализ в психотерапии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Eric Berne / Эрик Берн" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Eric Berne / Эрик Берн">Eric Berne / Эрик Берн</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2015</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Forward S., Craig B. / Форвард С., Крэйг Б. - Toxic Parents / Вредные родители [2015, DjVu, RUS]" href="/?page=book&topic_id=5188267" onclick="yandex_target('all_books');return true;"><img src="http://i73.fastpic.ru/big/2016/0312/60/deac7a8e954d65584255447a70a27360.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Forward S., Craig B. / Форвард С., Крэйг Б. - Toxic Parents / Вредные родители [2015, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Forward S., Craig B. / Форвард С., Крэйг Б. - Toxic Parents / Вредные родители [2015, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5188267" target="_blank" onclick="yandex_target('all_books');return true;">Toxic Parents / Вредные родители </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Forward S., Craig B. / Форвард С., Крэйг Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Forward S., Craig B. / Форвард С., Крэйг Б.">Forward S., Craig B. / Форвард С., Крэйг Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2015</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Фрейд Зигмунд - Собрание сочинений в 26 томах. Том 6. Любовь и сексуальность. Закат Эдипова комплекса [2015, PDF/DjVu, RUS]" href="/?page=book&topic_id=5230362" onclick="yandex_target('all_books');return true;"><img src="http://116.imagebam.com/download/GD3y0fZTdYoAQ8redTqmbQ/48539/485385915/p0001.jpg" width="100%" class="thumbnail" alt="Обложка книги Фрейд Зигмунд - Собрание сочинений в 26 томах. Том 6. Любовь и сексуальность. Закат Эдипова комплекса [2015, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Фрейд Зигмунд - Собрание сочинений в 26 томах. Том 6. Любовь и сексуальность. Закат Эдипова комплекса [2015, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5230362" target="_blank" onclick="yandex_target('all_books');return true;">Собрание сочинений в 26 томах. Том 6. Любовь и сексуальность. Закат Эдипова комплекса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фрейд Зигмунд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фрейд Зигмунд">Фрейд Зигмунд</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2015</span><span class="hidden-sm-down">FB2, EPUB, RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психология. Советы мастера - Капранов А.В. - За что мне такому хорошему такая хреновая жизнь? Креативный антивирус для мозга [2015, FB2, EPUB, RTF, RUS]" href="/?page=book&topic_id=5365023" onclick="yandex_target('all_books');return true;"><img src="http://i89.fastpic.ru/big/2017/0228/03/4572985121381796deba286f4ce2a503.png" width="100%" class="thumbnail" alt="Обложка книги Психология. Советы мастера - Капранов А.В. - За что мне такому хорошему такая хреновая жизнь? Креативный антивирус для мозга [2015, FB2, EPUB, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психология. Советы мастера - Капранов А.В. - За что мне такому хорошему такая хреновая жизнь? Креативный антивирус для мозга [2015, FB2, EPUB, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5365023" target="_blank" onclick="yandex_target('all_books');return true;">За что мне такому хорошему такая хреновая жизнь? Креативный антивирус для мозга </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Капранов А.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Капранов А.В.">Капранов А.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2015</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ермошин А.Ф. - Фобии, утраты, разочарования: как исцелиться от психологических травм [2015, DjVu, RUS]" href="/?page=book&topic_id=5416011" onclick="yandex_target('all_books');return true;"><img src="http://i93.fastpic.ru/big/2017/0613/0e/ce43f52a4d998891835aca1ae415560e.jpg" width="100%" class="thumbnail" alt="Обложка книги Ермошин А.Ф. - Фобии, утраты, разочарования: как исцелиться от психологических травм [2015, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ермошин А.Ф. - Фобии, утраты, разочарования: как исцелиться от психологических травм [2015, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5416011" target="_blank" onclick="yandex_target('all_books');return true;">Фобии, утраты, разочарования: как исцелиться от психологических травм </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ермошин А.Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ермошин А.Ф.">Ермошин А.Ф.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2015</span><span class="hidden-sm-down">fb2, epub, mobi, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Религия. История Бога - Майкл Шермер - Тайны мозга. Почему мы во все верим [2015, fb2, epub, mobi, RUS]" href="/?page=book&topic_id=5114598" onclick="yandex_target('all_books');return true;"><img src="http://i73.fastpic.ru/big/2015/1111/43/5a60c8a96bdeb32596817701c586aa43.jpg" width="100%" class="thumbnail" alt="Обложка книги Религия. История Бога - Майкл Шермер - Тайны мозга. Почему мы во все верим [2015, fb2, epub, mobi, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Религия. История Бога - Майкл Шермер - Тайны мозга. Почему мы во все верим [2015, fb2, epub, mobi, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5114598" target="_blank" onclick="yandex_target('all_books');return true;">Тайны мозга. Почему мы во все верим </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Майкл Шермер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Майкл Шермер">Майкл Шермер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2015</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Современная психотерапия - К. Бейкер, А. Я. Варга - Теория семейных систем Мюррея Боуэна: Основные понятия, методы и клиническая практика [2015, PDF/DjVu, RUS]" href="/?page=book&topic_id=5041191" onclick="yandex_target('all_books');return true;"><img src="http://i69.fastpic.ru/big/2015/0712/59/22510ef4dad1e24c333417ea095fe859.jpg" width="100%" class="thumbnail" alt="Обложка книги Современная психотерапия - К. Бейкер, А. Я. Варга - Теория семейных систем Мюррея Боуэна: Основные понятия, методы и клиническая практика [2015, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Современная психотерапия - К. Бейкер, А. Я. Варга - Теория семейных систем Мюррея Боуэна: Основные понятия, методы и клиническая практика [2015, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5041191" target="_blank" onclick="yandex_target('all_books');return true;">Теория семейных систем Мюррея Боуэна: Основные понятия, методы и клиническая практика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=К. Бейкер, А. Я. Варга" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: К. Бейкер, А. Я. Варга">К. Бейкер, А. Я. Варга</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2014</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психология общения - Берн Эрик Леннард - Игры, в которые играют люди. Люди, которые играют в игры [2014, FB2, RUS]" href="/?page=book&topic_id=5693472" onclick="yandex_target('all_books');return true;"><img src="https://i110.fastpic.ru/big/2019/0222/a9/eedaf8fbaf19c6e752a7e6fd9436fba9.jpg" width="100%" class="thumbnail" alt="Обложка книги Психология общения - Берн Эрик Леннард - Игры, в которые играют люди. Люди, которые играют в игры [2014, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психология общения - Берн Эрик Леннард - Игры, в которые играют люди. Люди, которые играют в игры [2014, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5693472" target="_blank" onclick="yandex_target('all_books');return true;">Игры, в которые играют люди. Люди, которые играют в игры </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Берн Эрик Леннард" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Берн Эрик Леннард">Берн Эрик Леннард</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2014</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Oliver Sacks / Оливер Сакс - Hallucinations / Галлюцинации [2014, FB2, RUS]" href="/?page=book&topic_id=5596454" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2018/0804/99/12113267a926513ef93a393eb6898599.jpg" width="100%" class="thumbnail" alt="Обложка книги Oliver Sacks / Оливер Сакс - Hallucinations / Галлюцинации [2014, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Oliver Sacks / Оливер Сакс - Hallucinations / Галлюцинации [2014, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5596454" target="_blank" onclick="yandex_target('all_books');return true;">Hallucinations / Галлюцинации </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Oliver Sacks / Оливер Сакс" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Oliver Sacks / Оливер Сакс">Oliver Sacks / Оливер Сакс</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2014</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Волшебная сила семейных расстановок - Надежда Маркова - Мамочка, пожалуйста... [2014, DjVu, RUS]" href="/?page=book&topic_id=5133980" onclick="yandex_target('all_books');return true;"><img src="http://i73.fastpic.ru/big/2015/1215/3a/abe0e4764e128604c60e47161b038d3a.jpg" width="100%" class="thumbnail" alt="Обложка книги Волшебная сила семейных расстановок - Надежда Маркова - Мамочка, пожалуйста... [2014, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Волшебная сила семейных расстановок - Надежда Маркова - Мамочка, пожалуйста... [2014, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5133980" target="_blank" onclick="yandex_target('all_books');return true;">Мамочка, пожалуйста... </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Надежда Маркова" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Надежда Маркова">Надежда Маркова</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2014</span><span class="hidden-sm-down">PDF, RUS/ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Афанасьев С.В. / Sergey V. Afanasyev - Влияние медитации: как она может улучшить эмоциональный интеллект / The Impact T Of Meditation: How It Can Improve Emotional Intelligence [2014, PDF, RUS/ENG]" href="/?page=book&topic_id=4957676" onclick="yandex_target('all_books');return true;"><img src="http://s008.radikal.ru/i304/1503/7b/6d1a6fd23696.jpg" width="100%" class="thumbnail" alt="Обложка книги Афанасьев С.В. / Sergey V. Afanasyev - Влияние медитации: как она может улучшить эмоциональный интеллект / The Impact T Of Meditation: How It Can Improve Emotional Intelligence [2014, PDF, RUS/ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Афанасьев С.В. / Sergey V. Afanasyev - Влияние медитации: как она может улучшить эмоциональный интеллект / The Impact T Of Meditation: How It Can Improve Emotional Intelligence [2014, PDF, RUS/ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4957676" target="_blank" onclick="yandex_target('all_books');return true;">Влияние медитации: как она может улучшить эмоциональный интеллект / The Impact T Of Meditation: How It Can Improve Emotional Intelligence </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Афанасьев С.В. / Sergey V. Afanasyev" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Афанасьев С.В. / Sergey V. Afanasyev">Афанасьев С.В. / Sergey V. Afanasyev</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2014</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Емельянова Е.В. - Кризис в созависимых отношениях. Принципы и алгоритмы консультирования [2014, DjVu, RUS]" href="/?page=book&topic_id=4930383" onclick="yandex_target('all_books');return true;"><img src="http://i63.fastpic.ru/big/2015/0202/87/d69f1b1236ee8e653e82125cc26ffd87.jpg" width="100%" class="thumbnail" alt="Обложка книги Емельянова Е.В. - Кризис в созависимых отношениях. Принципы и алгоритмы консультирования [2014, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Емельянова Е.В. - Кризис в созависимых отношениях. Принципы и алгоритмы консультирования [2014, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4930383" target="_blank" onclick="yandex_target('all_books');return true;">Кризис в созависимых отношениях. Принципы и алгоритмы консультирования </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Емельянова Е.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Емельянова Е.В.">Емельянова Е.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2014</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека Института практической психологии и психоанализа - Константин Ягнюк - Анатомия терапевтической коммуникации. Базовые навыки и техники. Учебное пособие [2014, PDF/DjVu, RUS]" href="/?page=book&topic_id=4917682" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2015/0117/fa/8e4db588e0b519f68b81ffda09e2b5fa.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека Института практической психологии и психоанализа - Константин Ягнюк - Анатомия терапевтической коммуникации. Базовые навыки и техники. Учебное пособие [2014, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека Института практической психологии и психоанализа - Константин Ягнюк - Анатомия терапевтической коммуникации. Базовые навыки и техники. Учебное пособие [2014, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4917682" target="_blank" onclick="yandex_target('all_books');return true;">Анатомия терапевтической коммуникации. Базовые навыки и техники. Учебное пособие </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Константин Ягнюк" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Константин Ягнюк">Константин Ягнюк</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2014</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Современная психотерапия - Александр Бадхен - Лирическая философия психотерапии [2014, DjVu, RUS]" href="/?page=book&topic_id=4917668" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2015/0117/de/029885317a3e15360420f56addef45de.jpg" width="100%" class="thumbnail" alt="Обложка книги Современная психотерапия - Александр Бадхен - Лирическая философия психотерапии [2014, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Современная психотерапия - Александр Бадхен - Лирическая философия психотерапии [2014, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4917668" target="_blank" onclick="yandex_target('all_books');return true;">Лирическая философия психотерапии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Александр Бадхен" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Александр Бадхен">Александр Бадхен</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2014</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Помоги себе сам - Weinhold B.К., Weinhold J.В. / Уайнхолд Б.К., Уайнхолд Д.Б. - Breaking free of the co-dependency trap / Освобождение из ловушки созависимости [2014, DjVu, RUS]" href="/?page=book&topic_id=4902776" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Помоги себе сам - Weinhold B.К., Weinhold J.В. / Уайнхолд Б.К., Уайнхолд Д.Б. - Breaking free of the co-dependency trap / Освобождение из ловушки созависимости [2014, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Помоги себе сам - Weinhold B.К., Weinhold J.В. / Уайнхолд Б.К., Уайнхолд Д.Б. - Breaking free of the co-dependency trap / Освобождение из ловушки созависимости [2014, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4902776" target="_blank" onclick="yandex_target('all_books');return true;">Breaking free of the co-dependency trap / Освобождение из ловушки созависимости </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Weinhold B.К., Weinhold J.В. / Уайнхолд Б.К., Уайнхолд Д.Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Weinhold B.К., Weinhold J.В. / Уайнхолд Б.К., Уайнхолд Д.Б.">Weinhold B.К., Weinhold J.В. / Уайнхолд Б.К., Уайнхолд Д.Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2014</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ирвин Ялом - Все мы творения на день и другие истории [2014, PDF/DjVu, RUS]" href="/?page=book&topic_id=4874736" onclick="yandex_target('all_books');return true;"><img src="http://i63.fastpic.ru/big/2014/1122/5b/2057c2cccff53a21b9f9ced66940e25b.jpg" width="100%" class="thumbnail" alt="Обложка книги Ирвин Ялом - Все мы творения на день и другие истории [2014, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ирвин Ялом - Все мы творения на день и другие истории [2014, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4874736" target="_blank" onclick="yandex_target('all_books');return true;">Все мы творения на день и другие истории </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ирвин Ялом" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ирвин Ялом">Ирвин Ялом</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2014</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Современная психотерапия - Вамик Волкан, Элизабет Зинтл - Жизнь после утраты. Психология горевания [2014, PDF/DjVu, RUS]" href="/?page=book&topic_id=4827118" onclick="yandex_target('all_books');return true;"><img src="http://i66.fastpic.ru/big/2014/0919/ca/2ff14fd6c273ecade736e9fbbad22aca.jpg" width="100%" class="thumbnail" alt="Обложка книги Современная психотерапия - Вамик Волкан, Элизабет Зинтл - Жизнь после утраты. Психология горевания [2014, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Современная психотерапия - Вамик Волкан, Элизабет Зинтл - Жизнь после утраты. Психология горевания [2014, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4827118" target="_blank" onclick="yandex_target('all_books');return true;">Жизнь после утраты. Психология горевания </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вамик Волкан, Элизабет Зинтл" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вамик Волкан, Элизабет Зинтл">Вамик Волкан, Элизабет Зинтл</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2014</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психологический практикум - Равич Л. - Юмор как психотерапия. Забавные случаи на пути к просветлению [2014, DjVu, RUS]" href="/?page=book&topic_id=4691889" onclick="yandex_target('all_books');return true;"><img src="http://i58.fastpic.ru/big/2014/0313/42/a745053a65575d16db79dbeb4a6e8042.jpg" width="100%" class="thumbnail" alt="Обложка книги Психологический практикум - Равич Л. - Юмор как психотерапия. Забавные случаи на пути к просветлению [2014, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психологический практикум - Равич Л. - Юмор как психотерапия. Забавные случаи на пути к просветлению [2014, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4691889" target="_blank" onclick="yandex_target('all_books');return true;">Юмор как психотерапия. Забавные случаи на пути к просветлению </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Равич Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Равич Л.">Равич Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2013</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Практическая психотерапия - Eugene T. Gendlin / Юджин Т. Джендлин - Focusing / Фокусинг [2013, DjVu, RUS]" href="/?page=book&topic_id=5551299" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0420/fa/76ee2bad005e911bf2c7166354d926fa.jpg" width="100%" class="thumbnail" alt="Обложка книги Практическая психотерапия - Eugene T. Gendlin / Юджин Т. Джендлин - Focusing / Фокусинг [2013, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Практическая психотерапия - Eugene T. Gendlin / Юджин Т. Джендлин - Focusing / Фокусинг [2013, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5551299" target="_blank" onclick="yandex_target('all_books');return true;">Focusing / Фокусинг </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Eugene T. Gendlin / Юджин Т. Джендлин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Eugene T. Gendlin / Юджин Т. Джендлин">Eugene T. Gendlin / Юджин Т. Джендлин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2013</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Суверенное Юнгианство - Мария-Луиза фон Франц / Marie-Louise Von Franz - Психэ и материя [2013, PDF, RUS]" href="/?page=book&topic_id=5523986" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0221/93/854625a67479d54b298d2ecd74ac2493.jpg" width="100%" class="thumbnail" alt="Обложка книги Суверенное Юнгианство - Мария-Луиза фон Франц / Marie-Louise Von Franz - Психэ и материя [2013, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Суверенное Юнгианство - Мария-Луиза фон Франц / Marie-Louise Von Franz - Психэ и материя [2013, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5523986" target="_blank" onclick="yandex_target('all_books');return true;">Психэ и материя </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мария-Луиза фон Франц / Marie-Louise Von Franz" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мария-Луиза фон Франц / Marie-Louise Von Franz">Мария-Луиза фон Франц / Marie-Louise Von Franz</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2013</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Келтон Кин - Пути целостности. Глубинная психология и западный оккультизм [2013, PDF, RUS]" href="/?page=book&topic_id=5525945" onclick="yandex_target('all_books');return true;"><img src="http://i4.imageban.ru/out/2018/02/25/652e0c5a5f6bd923dd9aac04d77f2b93.jpg" width="100%" class="thumbnail" alt="Обложка книги Келтон Кин - Пути целостности. Глубинная психология и западный оккультизм [2013, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Келтон Кин - Пути целостности. Глубинная психология и западный оккультизм [2013, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5525945" target="_blank" onclick="yandex_target('all_books');return true;">Пути целостности. Глубинная психология и западный оккультизм </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Келтон Кин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Келтон Кин">Келтон Кин</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2013</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ковпак Д.В., Третьяк Л.Л. - Депрессия. Современные подходы к диагностике и лечению [2013, DjVu, RUS]" href="/?page=book&topic_id=5216025" onclick="yandex_target('all_books');return true;"><img src="http://i79.fastpic.ru/big/2016/0427/bb/dd5ccf5a66ab50bdb15ed25da124d0bb.jpg" width="100%" class="thumbnail" alt="Обложка книги Ковпак Д.В., Третьяк Л.Л. - Депрессия. Современные подходы к диагностике и лечению [2013, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ковпак Д.В., Третьяк Л.Л. - Депрессия. Современные подходы к диагностике и лечению [2013, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5216025" target="_blank" onclick="yandex_target('all_books');return true;">Депрессия. Современные подходы к диагностике и лечению </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ковпак Д.В., Третьяк Л.Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ковпак Д.В., Третьяк Л.Л.">Ковпак Д.В., Третьяк Л.Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2013</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психологические технологии - Бруно Беттельхейм - Пустая крепость. Детский аутизм и рождение Я [2013, PDF/DjVu, RUS]" href="/?page=book&topic_id=4917677" onclick="yandex_target('all_books');return true;"><img src="http://i66.fastpic.ru/big/2015/0117/42/2d402c95a35d3b4e3652c5f713194542.jpg" width="100%" class="thumbnail" alt="Обложка книги Психологические технологии - Бруно Беттельхейм - Пустая крепость. Детский аутизм и рождение Я [2013, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психологические технологии - Бруно Беттельхейм - Пустая крепость. Детский аутизм и рождение Я [2013, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4917677" target="_blank" onclick="yandex_target('all_books');return true;">Пустая крепость. Детский аутизм и рождение Я </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бруно Беттельхейм" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бруно Беттельхейм">Бруно Беттельхейм</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2013</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Хухлаева О.В., Хухлаев О.Е. - Терапевтические сказки в коррекционной работе с детьми [2013, DjVu, RUS]" href="/?page=book&topic_id=4843760" onclick="yandex_target('all_books');return true;"><img src="http://i67.fastpic.ru/big/2014/1012/95/5afd75bf5d1c403aeb33c4204e607795.jpg" width="100%" class="thumbnail" alt="Обложка книги Хухлаева О.В., Хухлаев О.Е. - Терапевтические сказки в коррекционной работе с детьми [2013, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Хухлаева О.В., Хухлаев О.Е. - Терапевтические сказки в коррекционной работе с детьми [2013, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4843760" target="_blank" onclick="yandex_target('all_books');return true;">Терапевтические сказки в коррекционной работе с детьми </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хухлаева О.В., Хухлаев О.Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хухлаева О.В., Хухлаев О.Е.">Хухлаева О.В., Хухлаев О.Е.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2013</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психологические технологии - Алис Миллер - В начале было воспитание [2013, PDF/DjVu, RUS]" href="/?page=book&topic_id=4820000" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2014/0909/e8/edc8f083eb7ad7a62b08be4b5dfee1e8.jpg" width="100%" class="thumbnail" alt="Обложка книги Психологические технологии - Алис Миллер - В начале было воспитание [2013, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психологические технологии - Алис Миллер - В начале было воспитание [2013, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4820000" target="_blank" onclick="yandex_target('all_books');return true;">В начале было воспитание </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Алис Миллер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Алис Миллер">Алис Миллер</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2013</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Брэнди Энглер - Мужчины на моей кушетке [2013, FB2, RUS]" href="/?page=book&topic_id=4652559" onclick="yandex_target('all_books');return true;"><img src="http://images.vfl.ru/ii/1390843879/98015b60/4090004.jpg" width="100%" class="thumbnail" alt="Обложка книги Брэнди Энглер - Мужчины на моей кушетке [2013, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Брэнди Энглер - Мужчины на моей кушетке [2013, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4652559" target="_blank" onclick="yandex_target('all_books');return true;">Мужчины на моей кушетке </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Брэнди Энглер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Брэнди Энглер">Брэнди Энглер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2013</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Татарина Е. - Практикум по аот-терапии: шкатулка мастера [2013, PDF, RUS]" href="/?page=book&topic_id=4599183" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2013/1126/ac/70009463c2edeb07d873c2e98f0af8ac.jpg" width="100%" class="thumbnail" alt="Обложка книги Татарина Е. - Практикум по аот-терапии: шкатулка мастера [2013, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Татарина Е. - Практикум по аот-терапии: шкатулка мастера [2013, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4599183" target="_blank" onclick="yandex_target('all_books');return true;">Практикум по аот-терапии: шкатулка мастера </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Татарина Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Татарина Е.">Татарина Е.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2013</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Antonio Meneghetti / Антонио Менегетти - Pronuntuario Onirico / Мир Образов [2013, DjVu, RUS]" href="/?page=book&topic_id=4523081" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Antonio Meneghetti / Антонио Менегетти - Pronuntuario Onirico / Мир Образов [2013, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Antonio Meneghetti / Антонио Менегетти - Pronuntuario Onirico / Мир Образов [2013, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4523081" target="_blank" onclick="yandex_target('all_books');return true;">Pronuntuario Onirico / Мир Образов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Antonio Meneghetti / Антонио Менегетти" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Antonio Meneghetti / Антонио Менегетти">Antonio Meneghetti / Антонио Менегетти</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Суверенное Юнгианство - Мария-Луиза фон Франц / Marie-Louise Von Franz - Космогонические мифы [2012, PDF, RUS]" href="/?page=book&topic_id=5521720" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0216/11/61c13f1f9d5e0c5b69c7808da66fac11.jpg" width="100%" class="thumbnail" alt="Обложка книги Суверенное Юнгианство - Мария-Луиза фон Франц / Marie-Louise Von Franz - Космогонические мифы [2012, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Суверенное Юнгианство - Мария-Луиза фон Франц / Marie-Louise Von Franz - Космогонические мифы [2012, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5521720" target="_blank" onclick="yandex_target('all_books');return true;">Космогонические мифы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мария-Луиза фон Франц / Marie-Louise Von Franz" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мария-Луиза фон Франц / Marie-Louise Von Franz">Мария-Луиза фон Франц / Marie-Louise Von Franz</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2012</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мастерская практического психолога - Михаил Львович Покрасс - Терапия поведением [2012, FB2, RUS]" href="/?page=book&topic_id=5263143" onclick="yandex_target('all_books');return true;"><img src="http://i77.fastpic.ru/big/2016/0803/43/4a6b16172a21cb8f7343839dab95b343.jpeg" width="100%" class="thumbnail" alt="Обложка книги Мастерская практического психолога - Михаил Львович Покрасс - Терапия поведением [2012, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мастерская практического психолога - Михаил Львович Покрасс - Терапия поведением [2012, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5263143" target="_blank" onclick="yandex_target('all_books');return true;">Терапия поведением </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Михаил Львович Покрасс" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Михаил Львович Покрасс">Михаил Львович Покрасс</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">docx, pfd, ppt, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Зинкевич-Евстигнеева Т.Д. - Мастер сказок 50 сюжетов в помощь размышлениям о жизни, людях и себе для взрослых и детей старше семи лет. Книга + 50 карт [2012, docx, pfd, ppt, RUS]" href="/?page=book&topic_id=5286521" onclick="yandex_target('all_books');return true;"><img src="http://i84.fastpic.ru/big/2016/0924/93/4cc9654c83049396962d5c730f870993.jpg" width="100%" class="thumbnail" alt="Обложка книги Зинкевич-Евстигнеева Т.Д. - Мастер сказок 50 сюжетов в помощь размышлениям о жизни, людях и себе для взрослых и детей старше семи лет. Книга + 50 карт [2012, docx, pfd, ppt, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Зинкевич-Евстигнеева Т.Д. - Мастер сказок 50 сюжетов в помощь размышлениям о жизни, людях и себе для взрослых и детей старше семи лет. Книга + 50 карт [2012, docx, pfd, ppt, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5286521" target="_blank" onclick="yandex_target('all_books');return true;">Мастер сказок 50 сюжетов в помощь размышлениям о жизни, людях и себе для взрослых и детей старше семи лет. Книга + 50 карт </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Зинкевич-Евстигнеева Т.Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Зинкевич-Евстигнеева Т.Д.">Зинкевич-Евстигнеева Т.Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сказкотерапия: теория и практика - Сакович Н.А. - Диалоги на Аидовом пороге. Сказкотерапия в профилактике и коррекции суицидального поведения подростков [2012, PDF/DjVu, RUS]" href="/?page=book&topic_id=5125096" onclick="yandex_target('all_books');return true;"><img src="http://114.imagebam.com/download/dyuOxlb4h9CT-6Mc6gv2VQ/44998/449970096/p0001.jpg" width="100%" class="thumbnail" alt="Обложка книги Сказкотерапия: теория и практика - Сакович Н.А. - Диалоги на Аидовом пороге. Сказкотерапия в профилактике и коррекции суицидального поведения подростков [2012, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сказкотерапия: теория и практика - Сакович Н.А. - Диалоги на Аидовом пороге. Сказкотерапия в профилактике и коррекции суицидального поведения подростков [2012, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5125096" target="_blank" onclick="yandex_target('all_books');return true;">Диалоги на Аидовом пороге. Сказкотерапия в профилактике и коррекции суицидального поведения подростков </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сакович Н.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сакович Н.А.">Сакович Н.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мастера психологии - Ревонсуо Антти - Consciousness: The Science of Subjectivity / Психология сознания [2012, FB2, RUS]" href="/?page=book&topic_id=5039363" onclick="yandex_target('all_books');return true;"><img src="http://i71.fastpic.ru/big/2015/0709/59/efb2b98d64d5d923ad831d404ba1e559.jpg" width="100%" class="thumbnail" alt="Обложка книги Мастера психологии - Ревонсуо Антти - Consciousness: The Science of Subjectivity / Психология сознания [2012, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мастера психологии - Ревонсуо Антти - Consciousness: The Science of Subjectivity / Психология сознания [2012, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5039363" target="_blank" onclick="yandex_target('all_books');return true;">Consciousness: The Science of Subjectivity / Психология сознания </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ревонсуо Антти" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ревонсуо Антти">Ревонсуо Антти</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2012</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Seamands D. / Симандз Д. - Healing of Memories / Исцеление памяти [2012, DjVu, RUS]" href="/?page=book&topic_id=4927754" onclick="yandex_target('all_books');return true;"><img src="http://i59.fastpic.ru/big/2015/0130/b7/bb4d7387f63f8d96bb88e24f08794ab7.jpg" width="100%" class="thumbnail" alt="Обложка книги Seamands D. / Симандз Д. - Healing of Memories / Исцеление памяти [2012, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Seamands D. / Симандз Д. - Healing of Memories / Исцеление памяти [2012, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4927754" target="_blank" onclick="yandex_target('all_books');return true;">Healing of Memories / Исцеление памяти </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Seamands D. / Симандз Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Seamands D. / Симандз Д.">Seamands D. / Симандз Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вамик Волкан - Расширение психоаналитической техники. Руководство по психоаналитическому лечению [2012, PDF/DjVu, RUS]" href="/?page=book&topic_id=4827113" onclick="yandex_target('all_books');return true;"><img src="http://i66.fastpic.ru/big/2014/0919/b1/dc144c0a2006ecfb223039ab061265b1.jpg" width="100%" class="thumbnail" alt="Обложка книги Вамик Волкан - Расширение психоаналитической техники. Руководство по психоаналитическому лечению [2012, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вамик Волкан - Расширение психоаналитической техники. Руководство по психоаналитическому лечению [2012, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4827113" target="_blank" onclick="yandex_target('all_books');return true;">Расширение психоаналитической техники. Руководство по психоаналитическому лечению </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вамик Волкан" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вамик Волкан">Вамик Волкан</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека психоанализа - Р. Андерсон (ред.) - Клинические лекции по Кляйн и Биону [2012, PDF/DjVu, RUS]" href="/?page=book&topic_id=4682847" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2014/0302/34/280c6106b90f82ad84453fdb14b97034.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека психоанализа - Р. Андерсон (ред.) - Клинические лекции по Кляйн и Биону [2012, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека психоанализа - Р. Андерсон (ред.) - Клинические лекции по Кляйн и Биону [2012, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4682847" target="_blank" onclick="yandex_target('all_books');return true;">Клинические лекции по Кляйн и Биону </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Р. Андерсон (ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Р. Андерсон (ред.)">Р. Андерсон (ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вейкко Тэхкэ - Психика и ее лечение. Психоаналитический подход [2012, PDF/DjVu, RUS]" href="/?page=book&topic_id=4605179" onclick="yandex_target('all_books');return true;"><img src="http://i57.fastpic.ru/big/2013/1202/ab/422448da9f2f4d11245d903002e8faab.jpg" width="100%" class="thumbnail" alt="Обложка книги Вейкко Тэхкэ - Психика и ее лечение. Психоаналитический подход [2012, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вейкко Тэхкэ - Психика и ее лечение. Психоаналитический подход [2012, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4605179" target="_blank" onclick="yandex_target('all_books');return true;">Психика и ее лечение. Психоаналитический подход </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вейкко Тэхкэ" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вейкко Тэхкэ">Вейкко Тэхкэ</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2012</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Замалиева С. - Человек все решает сам. Логотерапия и экзистенциальная антропология Виктора Франкла [2012, DjVu, RUS]" href="/?page=book&topic_id=4540933" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2013/0921/79/eb3b89a86d144bfcd1acf62af24a2e79.jpg" width="100%" class="thumbnail" alt="Обложка книги Замалиева С. - Человек все решает сам. Логотерапия и экзистенциальная антропология Виктора Франкла [2012, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Замалиева С. - Человек все решает сам. Логотерапия и экзистенциальная антропология Виктора Франкла [2012, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4540933" target="_blank" onclick="yandex_target('all_books');return true;">Человек все решает сам. Логотерапия и экзистенциальная антропология Виктора Франкла </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Замалиева С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Замалиева С.">Замалиева С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека психоанализа - Жан-Мишель Кинодо - Читая Фрейда. Изучение трудов Фрейда в хронологической перспективе [2012, DjVu, RUS]" href="/?page=book&topic_id=4465030" onclick="yandex_target('all_books');return true;"><img src="http://i46.fastpic.ru/big/2013/0614/1e/94c562df862ecf212b21b5efdb0d1e1e.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека психоанализа - Жан-Мишель Кинодо - Читая Фрейда. Изучение трудов Фрейда в хронологической перспективе [2012, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека психоанализа - Жан-Мишель Кинодо - Читая Фрейда. Изучение трудов Фрейда в хронологической перспективе [2012, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4465030" target="_blank" onclick="yandex_target('all_books');return true;">Читая Фрейда. Изучение трудов Фрейда в хронологической перспективе </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Жан-Мишель Кинодо" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Жан-Мишель Кинодо">Жан-Мишель Кинодо</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">FB2/RTF/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Школа успеха - Смит С. - Как развить способность гипнотизировать и убеждать кого угодно [2012, FB2/RTF/PDF, RUS]" href="/?page=book&topic_id=4379666" onclick="yandex_target('all_books');return true;"><img src="http://i54.fastpic.ru/big/2013/0315/d6/36d99dacd4b870abcd4fce45cac5d2d6.jpg" width="100%" class="thumbnail" alt="Обложка книги Школа успеха - Смит С. - Как развить способность гипнотизировать и убеждать кого угодно [2012, FB2/RTF/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Школа успеха - Смит С. - Как развить способность гипнотизировать и убеждать кого угодно [2012, FB2/RTF/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4379666" target="_blank" onclick="yandex_target('all_books');return true;">Как развить способность гипнотизировать и убеждать кого угодно </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Смит С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Смит С.">Смит С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">FB2/RTF/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психология лжи - Зарецкий А.В. - Гипноз. Самоучитель. Управляй собой и окружающими [2012, FB2/RTF/PDF, RUS]" href="/?page=book&topic_id=4379298" onclick="yandex_target('all_books');return true;"><img src="http://i54.fastpic.ru/big/2013/0314/1c/7ac923d500403cff4694c2cd33e7a81c.jpg" width="100%" class="thumbnail" alt="Обложка книги Психология лжи - Зарецкий А.В. - Гипноз. Самоучитель. Управляй собой и окружающими [2012, FB2/RTF/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психология лжи - Зарецкий А.В. - Гипноз. Самоучитель. Управляй собой и окружающими [2012, FB2/RTF/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4379298" target="_blank" onclick="yandex_target('all_books');return true;">Гипноз. Самоучитель. Управляй собой и окружающими </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Зарецкий А.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Зарецкий А.В.">Зарецкий А.В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2012</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дэвид Либерман - Чужая душа потемки? Как прочесть мысли любого человека [2012, DjVu, RUS]" href="/?page=book&topic_id=4367746" onclick="yandex_target('all_books');return true;"><img src="http://i51.fastpic.ru/big/2013/0303/bc/5de2e9652109a895b72e6d2cebfb4abc.jpg" width="100%" class="thumbnail" alt="Обложка книги Дэвид Либерман - Чужая душа потемки? Как прочесть мысли любого человека [2012, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дэвид Либерман - Чужая душа потемки? Как прочесть мысли любого человека [2012, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4367746" target="_blank" onclick="yandex_target('all_books');return true;">Чужая душа потемки? Как прочесть мысли любого человека </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дэвид Либерман" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дэвид Либерман">Дэвид Либерман</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">pdf/doc, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Stanislav Grof, M.D. / Станислав Гроф - LSD Psychotherapy / ЛСД психотерапия [2012, pdf/doc, RUS]" href="/?page=book&topic_id=4284898" onclick="yandex_target('all_books');return true;"><img src="http://i51.fastpic.ru/big/2012/1215/f7/c7f79bf46425f8d80d8c012253b6e3f7.jpg" width="100%" class="thumbnail" alt="Обложка книги Stanislav Grof, M.D. / Станислав Гроф - LSD Psychotherapy / ЛСД психотерапия [2012, pdf/doc, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Stanislav Grof, M.D. / Станислав Гроф - LSD Psychotherapy / ЛСД психотерапия [2012, pdf/doc, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4284898" target="_blank" onclick="yandex_target('all_books');return true;">LSD Psychotherapy / ЛСД психотерапия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Stanislav Grof, M.D. / Станислав Гроф" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Stanislav Grof, M.D. / Станислав Гроф">Stanislav Grof, M.D. / Станислав Гроф</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психологический практикум - Гончаров Г.А. - Гипноз и самогипноз : 100 секретов вашего успеха [2012, DjVu, RUS]" href="/?page=book&topic_id=4215399" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Психологический практикум - Гончаров Г.А. - Гипноз и самогипноз : 100 секретов вашего успеха [2012, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психологический практикум - Гончаров Г.А. - Гипноз и самогипноз : 100 секретов вашего успеха [2012, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4215399" target="_blank" onclick="yandex_target('all_books');return true;">Гипноз и самогипноз : 100 секретов вашего успеха </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гончаров Г.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гончаров Г.А.">Гончаров Г.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2012</span><span class="hidden-sm-down">FB2/RTF/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философия. Психология - Erich Fromm / Эрих Фромм - The art of being/ Искусство быть [2012, FB2/RTF/PDF, RUS]" href="/?page=book&topic_id=4027848" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Философия. Психология - Erich Fromm / Эрих Фромм - The art of being/ Искусство быть [2012, FB2/RTF/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философия. Психология - Erich Fromm / Эрих Фромм - The art of being/ Искусство быть [2012, FB2/RTF/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4027848" target="_blank" onclick="yandex_target('all_books');return true;">The art of being/ Искусство быть </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Erich Fromm / Эрих Фромм" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Erich Fromm / Эрих Фромм">Erich Fromm / Эрих Фромм</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2012</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Практическая психотерапия - Ирвин Ялом - Проблема Спинозы [2012, DjVu, RUS]" href="/?page=book&topic_id=3954502" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2012/0222/d3/c9ca83ee29039b8aaf59aa3a3e0479d3.jpg" width="100%" class="thumbnail" alt="Обложка книги Практическая психотерапия - Ирвин Ялом - Проблема Спинозы [2012, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Практическая психотерапия - Ирвин Ялом - Проблема Спинозы [2012, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3954502" target="_blank" onclick="yandex_target('all_books');return true;">Проблема Спинозы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ирвин Ялом" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ирвин Ялом">Ирвин Ялом</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психотерапевтические технологии - Hamid Peseschkian, Connie Voigt / Хамид Пезешкиан, Конни Фойгт - Psychovampire / Психовампиры. О позитивном общении с теми, кто крадет у нас энергию. [2011, FB2, RUS]" href="/?page=book&topic_id=5538072" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0323/23/a8ae0c85172e09570c208c6be7656a23.jpg" width="100%" class="thumbnail" alt="Обложка книги Психотерапевтические технологии - Hamid Peseschkian, Connie Voigt / Хамид Пезешкиан, Конни Фойгт - Psychovampire / Психовампиры. О позитивном общении с теми, кто крадет у нас энергию. [2011, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психотерапевтические технологии - Hamid Peseschkian, Connie Voigt / Хамид Пезешкиан, Конни Фойгт - Psychovampire / Психовампиры. О позитивном общении с теми, кто крадет у нас энергию. [2011, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5538072" target="_blank" onclick="yandex_target('all_books');return true;">Psychovampire / Психовампиры. О позитивном общении с теми, кто крадет у нас энергию. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Hamid Peseschkian, Connie Voigt / Хамид Пезешкиан, Конни Фойгт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Hamid Peseschkian, Connie Voigt / Хамид Пезешкиан, Конни Фойгт">Hamid Peseschkian, Connie Voigt / Хамид Пезешкиан, Конни Фойгт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Практическая психотерапия - Ялом И. - Стационарная групповая психотерапия [2011, PDF, RUS]" href="/?page=book&topic_id=5193514" onclick="yandex_target('all_books');return true;"><img src="http://i74.fastpic.ru/big/2016/0321/1e/5d4a07fe9dad1ac3cc5cef81ec0d881e.jpg" width="100%" class="thumbnail" alt="Обложка книги Практическая психотерапия - Ялом И. - Стационарная групповая психотерапия [2011, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Практическая психотерапия - Ялом И. - Стационарная групповая психотерапия [2011, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5193514" target="_blank" onclick="yandex_target('all_books');return true;">Стационарная групповая психотерапия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ялом И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ялом И.">Ялом И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мастера психологии - Змановская Е.В. - Современный психоанализ. Теория и практика [2011, PDF/DjVu, RUS]" href="/?page=book&topic_id=5125113" onclick="yandex_target('all_books');return true;"><img src="http://114.imagebam.com/download/CjCPVY3q4uW2T_NBsK3jpA/44998/449972629/p0001.jpg" width="100%" class="thumbnail" alt="Обложка книги Мастера психологии - Змановская Е.В. - Современный психоанализ. Теория и практика [2011, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мастера психологии - Змановская Е.В. - Современный психоанализ. Теория и практика [2011, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5125113" target="_blank" onclick="yandex_target('all_books');return true;">Современный психоанализ. Теория и практика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Змановская Е.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Змановская Е.В.">Змановская Е.В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2011</span><span class="hidden-sm-down">DjVu, DOC, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сказкотерапия. Теория и практика - Наговицын А.Е., Пономарева В.И. - Типология сказки [2011, DjVu, DOC, PDF, RUS]" href="/?page=book&topic_id=4293981" onclick="yandex_target('all_books');return true;"><img src="http://s018.radikal.ru/i526/1212/46/e9ade8c4bb05.jpg" width="100%" class="thumbnail" alt="Обложка книги Сказкотерапия. Теория и практика - Наговицын А.Е., Пономарева В.И. - Типология сказки [2011, DjVu, DOC, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сказкотерапия. Теория и практика - Наговицын А.Е., Пономарева В.И. - Типология сказки [2011, DjVu, DOC, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4293981" target="_blank" onclick="yandex_target('all_books');return true;">Типология сказки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Наговицын А.Е., Пономарева В.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Наговицын А.Е., Пономарева В.И.">Наговицын А.Е., Пономарева В.И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">DjVu, DOC, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сказкотерапия. Теория и практика - Наговицын А.Е., Пономарева В.И. - Атлас сказочного мира [2011, DjVu, DOC, PDF, RUS]" href="/?page=book&topic_id=4293974" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i607/1212/ef/1f9acc56d074.jpg" width="100%" class="thumbnail" alt="Обложка книги Сказкотерапия. Теория и практика - Наговицын А.Е., Пономарева В.И. - Атлас сказочного мира [2011, DjVu, DOC, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сказкотерапия. Теория и практика - Наговицын А.Е., Пономарева В.И. - Атлас сказочного мира [2011, DjVu, DOC, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4293974" target="_blank" onclick="yandex_target('all_books');return true;">Атлас сказочного мира </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Наговицын А.Е., Пономарева В.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Наговицын А.Е., Пономарева В.И.">Наговицын А.Е., Пономарева В.И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лакан Ж. - Семинары. Книга 20. Еще [2011, RTF, RUS]" href="/?page=book&topic_id=4126821" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0716/e1/071ae42ecc02f9f9daf31fa3ae0e4ce1.jpg" width="100%" class="thumbnail" alt="Обложка книги Лакан Ж. - Семинары. Книга 20. Еще [2011, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лакан Ж. - Семинары. Книга 20. Еще [2011, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4126821" target="_blank" onclick="yandex_target('all_books');return true;">Семинары. Книга 20. Еще </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лакан Ж." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лакан Ж.">Лакан Ж.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">DjVu, PDF, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Копытин А.И., Корт Б. - Техники телесно-ориентированной арт-терапии [2011, DjVu, PDF, DOC, RUS]" href="/?page=book&topic_id=4112036" onclick="yandex_target('all_books');return true;"><img src="http://i42.fastpic.ru/big/2012/0630/45/604c851867e847eefb6dc9d2f50c0845.jpg" width="100%" class="thumbnail" alt="Обложка книги Копытин А.И., Корт Б. - Техники телесно-ориентированной арт-терапии [2011, DjVu, PDF, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Копытин А.И., Корт Б. - Техники телесно-ориентированной арт-терапии [2011, DjVu, PDF, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4112036" target="_blank" onclick="yandex_target('all_books');return true;">Техники телесно-ориентированной арт-терапии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Копытин А.И., Корт Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Копытин А.И., Корт Б.">Копытин А.И., Корт Б.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2011</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Пирогов А. Г. - Частные аспекты современного гипноза [2011, DOC, RUS]" href="/?page=book&topic_id=4027856" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Пирогов А. Г. - Частные аспекты современного гипноза [2011, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Пирогов А. Г. - Частные аспекты современного гипноза [2011, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4027856" target="_blank" onclick="yandex_target('all_books');return true;">Частные аспекты современного гипноза </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Пирогов А. Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Пирогов А. Г.">Пирогов А. Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Зигмунд Фрейд - Статьи о кокаине (Азбука-классика pocket-book) [2011, DjVu, RUS]" href="/?page=book&topic_id=4002506" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2012/0329/47/f4edf9967967a435b4568b1e2580df47.jpg" width="100%" class="thumbnail" alt="Обложка книги Зигмунд Фрейд - Статьи о кокаине (Азбука-классика pocket-book) [2011, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Зигмунд Фрейд - Статьи о кокаине (Азбука-классика pocket-book) [2011, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4002506" target="_blank" onclick="yandex_target('all_books');return true;">Статьи о кокаине (Азбука-классика pocket-book) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Зигмунд Фрейд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Зигмунд Фрейд">Зигмунд Фрейд</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Системная терапия и консультирование - Шлиппе А., Швайтцер Й. - Учебник по системной терапии и консультированию [2011, PDF, RUS]" href="/?page=book&topic_id=3793537" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2011/1028/7a/ae5e533806a7105b12c55e63f1ea247a.jpg" width="100%" class="thumbnail" alt="Обложка книги Системная терапия и консультирование - Шлиппе А., Швайтцер Й. - Учебник по системной терапии и консультированию [2011, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Системная терапия и консультирование - Шлиппе А., Швайтцер Й. - Учебник по системной терапии и консультированию [2011, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3793537" target="_blank" onclick="yandex_target('all_books');return true;">Учебник по системной терапии и консультированию </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шлиппе А., Швайтцер Й." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шлиппе А., Швайтцер Й.">Шлиппе А., Швайтцер Й.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2011</span><span class="hidden-sm-down">DjVu, PDF, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дугельная Татьяна - Улыбка души. Гармонизирующие сказки о радости и любви [2011, DjVu, PDF, DOC, RUS]" href="/?page=book&topic_id=3687533" onclick="yandex_target('all_books');return true;"><img src="http://s55.radikal.ru/i150/1108/fd/8473a0a0edd5.jpg" width="100%" class="thumbnail" alt="Обложка книги Дугельная Татьяна - Улыбка души. Гармонизирующие сказки о радости и любви [2011, DjVu, PDF, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дугельная Татьяна - Улыбка души. Гармонизирующие сказки о радости и любви [2011, DjVu, PDF, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3687533" target="_blank" onclick="yandex_target('all_books');return true;">Улыбка души. Гармонизирующие сказки о радости и любви </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дугельная Татьяна" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дугельная Татьяна">Дугельная Татьяна</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2010</span><span class="hidden-sm-down">PDF/FB2/EPUB, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Расширение горизонтов - Уайт М. - Карты нарративной практики. Введение в нарративную терапию [2010, PDF/FB2/EPUB, RUS]" href="/?page=book&topic_id=5150650" onclick="yandex_target('all_books');return true;"><img src="http://i76.fastpic.ru/big/2016/0114/3e/1bd7c6fcfe9efbaecabfa1b1d7fee73e.png" width="100%" class="thumbnail" alt="Обложка книги Расширение горизонтов - Уайт М. - Карты нарративной практики. Введение в нарративную терапию [2010, PDF/FB2/EPUB, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Расширение горизонтов - Уайт М. - Карты нарративной практики. Введение в нарративную терапию [2010, PDF/FB2/EPUB, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5150650" target="_blank" onclick="yandex_target('all_books');return true;">Карты нарративной практики. Введение в нарративную терапию </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Уайт М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Уайт М.">Уайт М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Золотой фонд психотерапии - Muriel Schiffman / Мюриэл Шиффман - Gestalt Self Therapy / Гештальт-самотерапия: Новые техники личностного роста [2010, DjVu, RUS]" href="/?page=book&topic_id=5221492" onclick="yandex_target('all_books');return true;"><img src="http://i79.fastpic.ru/big/2016/0507/dc/11990751b9a69bc63aca75c48d845bdc.jpg" width="100%" class="thumbnail" alt="Обложка книги Золотой фонд психотерапии - Muriel Schiffman / Мюриэл Шиффман - Gestalt Self Therapy / Гештальт-самотерапия: Новые техники личностного роста [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Золотой фонд психотерапии - Muriel Schiffman / Мюриэл Шиффман - Gestalt Self Therapy / Гештальт-самотерапия: Новые техники личностного роста [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5221492" target="_blank" onclick="yandex_target('all_books');return true;">Gestalt Self Therapy / Гештальт-самотерапия: Новые техники личностного роста </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Muriel Schiffman / Мюриэл Шиффман" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Muriel Schiffman / Мюриэл Шиффман">Muriel Schiffman / Мюриэл Шиффман</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, DOC, FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ключ к счастливой жизни - Семеник Д. - Освободи себя (Как преодолеть насилие и его последствия) [2010, DjVu, DOC, FB2, RUS] Обновлено 10.05.2016" href="/?page=book&topic_id=3655594" onclick="yandex_target('all_books');return true;"><img src="http://i80.fastpic.ru/big/2016/0516/b5/1ad70c62f4fd00aa35274346c9ed4db5.jpg" width="100%" class="thumbnail" alt="Обложка книги Ключ к счастливой жизни - Семеник Д. - Освободи себя (Как преодолеть насилие и его последствия) [2010, DjVu, DOC, FB2, RUS] Обновлено 10.05.2016"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ключ к счастливой жизни - Семеник Д. - Освободи себя (Как преодолеть насилие и его последствия) [2010, DjVu, DOC, FB2, RUS] Обновлено 10.05.2016"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3655594" target="_blank" onclick="yandex_target('all_books');return true;">Освободи себя (Как преодолеть насилие и его последствия) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Семеник Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Семеник Д.">Семеник Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">FB2, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Thierry Jansen / Тьерри Янсен - Испытание болезнью: как пережить рак груди [2010, FB2, PDF, RUS]" href="/?page=book&topic_id=5251647" onclick="yandex_target('all_books');return true;"><img src="http://i80.fastpic.ru/big/2016/0706/ce/66c9f8b36ea7782602a7e99654c03cce.jpg" width="100%" class="thumbnail" alt="Обложка книги Thierry Jansen / Тьерри Янсен - Испытание болезнью: как пережить рак груди [2010, FB2, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Thierry Jansen / Тьерри Янсен - Испытание болезнью: как пережить рак груди [2010, FB2, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5251647" target="_blank" onclick="yandex_target('all_books');return true;">Испытание болезнью: как пережить рак груди </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Thierry Jansen / Тьерри Янсен" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Thierry Jansen / Тьерри Янсен">Thierry Jansen / Тьерри Янсен</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лучшие психотехнологии мира - Ковалёв С.В. - Самоисправление «хромой» судьбы. Как взять бразды управления своей жизнью в собственные руки. НЛП... [2010, DjVu, RUS]" href="/?page=book&topic_id=4917014" onclick="yandex_target('all_books');return true;"><img src="http://i67.fastpic.ru/big/2015/0117/1a/3068d3196763eb1a0c70b288e4e8b21a.jpg" width="100%" class="thumbnail" alt="Обложка книги Лучшие психотехнологии мира - Ковалёв С.В. - Самоисправление «хромой» судьбы. Как взять бразды управления своей жизнью в собственные руки. НЛП... [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лучшие психотехнологии мира - Ковалёв С.В. - Самоисправление «хромой» судьбы. Как взять бразды управления своей жизнью в собственные руки. НЛП... [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4917014" target="_blank" onclick="yandex_target('all_books');return true;">Самоисправление «хромой» судьбы. Как взять бразды управления своей жизнью в собственные руки. НЛП... </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ковалёв С.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ковалёв С.В.">Ковалёв С.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Уилфред Р. Бион - Внимание и интерпретация [2010, DjVu, RUS]" href="/?page=book&topic_id=4752794" onclick="yandex_target('all_books');return true;"><img src="http://i63.fastpic.ru/big/2014/0601/54/daa4fa48ceffaeab2861e74de03ebe54.jpg" width="100%" class="thumbnail" alt="Обложка книги Уилфред Р. Бион - Внимание и интерпретация [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Уилфред Р. Бион - Внимание и интерпретация [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4752794" target="_blank" onclick="yandex_target('all_books');return true;">Внимание и интерпретация </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Уилфред Р. Бион" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Уилфред Р. Бион">Уилфред Р. Бион</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гарри Гантрип - Шизоидные явления, объектные отношения и самость [2010, PDF/DjVu, RUS]" href="/?page=book&topic_id=4737270" onclick="yandex_target('all_books');return true;"><img src="http://i64.fastpic.ru/big/2014/0511/b9/85de9f349a523eebb6a8ad6c9a3b2ab9.jpg" width="100%" class="thumbnail" alt="Обложка книги Гарри Гантрип - Шизоидные явления, объектные отношения и самость [2010, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гарри Гантрип - Шизоидные явления, объектные отношения и самость [2010, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4737270" target="_blank" onclick="yandex_target('all_books');return true;">Шизоидные явления, объектные отношения и самость </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гарри Гантрип" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гарри Гантрип">Гарри Гантрип</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Теория и практика психоанализа - Питер Блос - Психоанализ подросткового возраста [2010, PDF/DjVu, RUS]" href="/?page=book&topic_id=4715670" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2014/0413/34/5a5384764393064d28a6e6dd50206f34.jpg" width="100%" class="thumbnail" alt="Обложка книги Теория и практика психоанализа - Питер Блос - Психоанализ подросткового возраста [2010, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Теория и практика психоанализа - Питер Блос - Психоанализ подросткового возраста [2010, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4715670" target="_blank" onclick="yandex_target('all_books');return true;">Психоанализ подросткового возраста </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Питер Блос" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Питер Блос">Питер Блос</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2010</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека психоанализа - Джон Стайнер - Психические убежища. Патологические организации у психотических, невротических и пограничных пациентов [2010, PDF/DjVu, RUS]" href="/?page=book&topic_id=4715641" onclick="yandex_target('all_books');return true;"><img src="http://i58.fastpic.ru/big/2014/0413/1c/18ff7b0803db191c0ea92989b07aa21c.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека психоанализа - Джон Стайнер - Психические убежища. Патологические организации у психотических, невротических и пограничных пациентов [2010, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека психоанализа - Джон Стайнер - Психические убежища. Патологические организации у психотических, невротических и пограничных пациентов [2010, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4715641" target="_blank" onclick="yandex_target('all_books');return true;">Психические убежища. Патологические организации у психотических, невротических и пограничных пациентов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джон Стайнер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джон Стайнер">Джон Стайнер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Юнгианская психология - Натан Шварц-Салант - Пограничная личность. Видение и исцеление [2010, PDF/DjVu, RUS]" href="/?page=book&topic_id=4706816" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2014/0331/c9/c0b028db71ba846fcabec5f2c6b964c9.jpg" width="100%" class="thumbnail" alt="Обложка книги Юнгианская психология - Натан Шварц-Салант - Пограничная личность. Видение и исцеление [2010, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Юнгианская психология - Натан Шварц-Салант - Пограничная личность. Видение и исцеление [2010, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4706816" target="_blank" onclick="yandex_target('all_books');return true;">Пограничная личность. Видение и исцеление </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Натан Шварц-Салант" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Натан Шварц-Салант">Натан Шварц-Салант</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психотерапевтические технологии - Серж Гингер, Анн Гингер - Практическое пособие для психотерапевтов [2010, DjVu, RUS]" href="/?page=book&topic_id=4637292" onclick="yandex_target('all_books');return true;"><img src="http://i59.fastpic.ru/big/2014/0109/48/6355dfc1c3b8cb5214f42d7e6ac01048.jpg" width="100%" class="thumbnail" alt="Обложка книги Психотерапевтические технологии - Серж Гингер, Анн Гингер - Практическое пособие для психотерапевтов [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психотерапевтические технологии - Серж Гингер, Анн Гингер - Практическое пособие для психотерапевтов [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4637292" target="_blank" onclick="yandex_target('all_books');return true;">Практическое пособие для психотерапевтов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Серж Гингер, Анн Гингер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Серж Гингер, Анн Гингер">Серж Гингер, Анн Гингер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Авторитетные детские психологи - Франсуаза Дольто - На стороне подростка [2010, DjVu, RUS]" href="/?page=book&topic_id=4565835" onclick="yandex_target('all_books');return true;"><img src="http://i59.fastpic.ru/big/2013/1019/c3/a7286c9be3758248cde59b7db92587c3.jpg" width="100%" class="thumbnail" alt="Обложка книги Авторитетные детские психологи - Франсуаза Дольто - На стороне подростка [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Авторитетные детские психологи - Франсуаза Дольто - На стороне подростка [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4565835" target="_blank" onclick="yandex_target('all_books');return true;">На стороне подростка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Франсуаза Дольто" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Франсуаза Дольто">Франсуаза Дольто</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Авторитетные детские психологи - Франсуаза Дольто - На стороне ребенка [2010, DjVu, RUS]" href="/?page=book&topic_id=4565824" onclick="yandex_target('all_books');return true;"><img src="http://i57.fastpic.ru/big/2013/1019/3c/0f73fb0fae3bda07d6872bd5fe4a9b3c.jpg" width="100%" class="thumbnail" alt="Обложка книги Авторитетные детские психологи - Франсуаза Дольто - На стороне ребенка [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Авторитетные детские психологи - Франсуаза Дольто - На стороне ребенка [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4565824" target="_blank" onclick="yandex_target('all_books');return true;">На стороне ребенка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Франсуаза Дольто" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Франсуаза Дольто">Франсуаза Дольто</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: (ред.) Игорь Кадыров - Международный психоаналитический ежегодник. Выпуск 1 [2010, DjVu, RUS]" href="/?page=book&topic_id=4469088" onclick="yandex_target('all_books');return true;"><img src="http://i46.fastpic.ru/big/2013/0619/9d/0715b4f3048d09527a609d044708cc9d.jpg" width="100%" class="thumbnail" alt="Обложка книги (ред.) Игорь Кадыров - Международный психоаналитический ежегодник. Выпуск 1 [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: (ред.) Игорь Кадыров - Международный психоаналитический ежегодник. Выпуск 1 [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4469088" target="_blank" onclick="yandex_target('all_books');return true;">Международный психоаналитический ежегодник. Выпуск 1 </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=(ред.) Игорь Кадыров" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: (ред.) Игорь Кадыров">(ред.) Игорь Кадыров</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Копытин А.И. (ред.) - Арт-терапия женских проблем [2010, PDF, RUS]" href="/?page=book&topic_id=4449969" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2013/0526/d6/ed3c46a9ce9c24912a3e807267e278d6.jpg" width="100%" class="thumbnail" alt="Обложка книги Копытин А.И. (ред.) - Арт-терапия женских проблем [2010, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Копытин А.И. (ред.) - Арт-терапия женских проблем [2010, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4449969" target="_blank" onclick="yandex_target('all_books');return true;">Арт-терапия женских проблем </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Копытин А.И. (ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Копытин А.И. (ред.)">Копытин А.И. (ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Тела мысли - Мазин В.А. - Субъект Фрейда и Деррида [2010, DjVu, RUS]" href="/?page=book&topic_id=4395641" onclick="yandex_target('all_books');return true;"><img src="http://i51.fastpic.ru/big/2012/1210/fb/dbdf8513839ff6df233786b0d23d26fb.jpg" width="100%" class="thumbnail" alt="Обложка книги Тела мысли - Мазин В.А. - Субъект Фрейда и Деррида [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Тела мысли - Мазин В.А. - Субъект Фрейда и Деррида [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4395641" target="_blank" onclick="yandex_target('all_books');return true;">Субъект Фрейда и Деррида </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мазин В.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мазин В.А.">Мазин В.А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, DOC, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Пьюселик Р. Ф., МакБи А. Дж. - Войны реальности. Терапия диссоциированного состояния [2010, DjVu, DOC, PDF, RUS]" href="/?page=book&topic_id=4293996" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i612/1212/83/3363c48ff87c.jpg" width="100%" class="thumbnail" alt="Обложка книги Пьюселик Р. Ф., МакБи А. Дж. - Войны реальности. Терапия диссоциированного состояния [2010, DjVu, DOC, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Пьюселик Р. Ф., МакБи А. Дж. - Войны реальности. Терапия диссоциированного состояния [2010, DjVu, DOC, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4293996" target="_blank" onclick="yandex_target('all_books');return true;">Войны реальности. Терапия диссоциированного состояния </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Пьюселик Р. Ф., МакБи А. Дж." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Пьюселик Р. Ф., МакБи А. Дж.">Пьюселик Р. Ф., МакБи А. Дж.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Теория и практика экзистенциального анализа - Лэнгле А. - Дотянуться до жизни: Экзистенциальный анализ депрессии [2010, DjVu, RUS]" href="/?page=book&topic_id=4224468" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Теория и практика экзистенциального анализа - Лэнгле А. - Дотянуться до жизни: Экзистенциальный анализ депрессии [2010, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Теория и практика экзистенциального анализа - Лэнгле А. - Дотянуться до жизни: Экзистенциальный анализ депрессии [2010, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4224468" target="_blank" onclick="yandex_target('all_books');return true;">Дотянуться до жизни: Экзистенциальный анализ депрессии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лэнгле А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лэнгле А.">Лэнгле А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психология - Березкина-Орлова В.Б. (ред.) - Телесная психотерапия. Бодинамика [2010, PDF, RUS]" href="/?page=book&topic_id=4179112" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0909/81/a1eb5fa77c02468c2b9b9aad1ab29481.jpg" width="100%" class="thumbnail" alt="Обложка книги Психология - Березкина-Орлова В.Б. (ред.) - Телесная психотерапия. Бодинамика [2010, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психология - Березкина-Орлова В.Б. (ред.) - Телесная психотерапия. Бодинамика [2010, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4179112" target="_blank" onclick="yandex_target('all_books');return true;">Телесная психотерапия. Бодинамика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Березкина-Орлова В.Б. (ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Березкина-Орлова В.Б. (ред.)">Березкина-Орлова В.Б. (ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2010</span><span class="hidden-sm-down">DjVu, PDF, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Высшее профессиональное образование - Серебрякова К. А. - Психологическое консультирование в работе школьного психолога [2010, DjVu, PDF, DOC, RUS]" href="/?page=book&topic_id=4119448" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0708/32/a3d98a5a460717c3bf26afa413e81332.png" width="100%" class="thumbnail" alt="Обложка книги Высшее профессиональное образование - Серебрякова К. А. - Психологическое консультирование в работе школьного психолога [2010, DjVu, PDF, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Высшее профессиональное образование - Серебрякова К. А. - Психологическое консультирование в работе школьного психолога [2010, DjVu, PDF, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4119448" target="_blank" onclick="yandex_target('all_books');return true;">Психологическое консультирование в работе школьного психолога </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Серебрякова К. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Серебрякова К. А.">Серебрякова К. А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row"></div>
+<div class="row">
+	<div class="col-md-10">
+<b>20</b> | <a class="justlink" href= "/?page=psybooks_therapy&cat_id=2516&page_num=19">19</a> |  <a class="justlink" href= "/?page=psybooks_therapy&cat_id=2516&page_num=18">18</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_therapy&cat_id=2516&page_num=19">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_therapy&cat_id=2516&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div>
+
+<!-- // Страница psybooks_therapy-->

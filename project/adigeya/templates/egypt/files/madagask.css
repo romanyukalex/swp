@@ -1,0 +1,214 @@
+h1{
+    font-family:"ProximaNova Black", "Helvetica";
+    color:#3c3c3c;
+    font-size:36px;
+    text-transform:uppercase;
+    letter-spacing: 0.06em;
+    margin:0px;
+    padding:40px 0px;
+}
+h1.white{color:white}
+h1.black{color:black;}
+h2{
+    font-family:"Roboto Light";
+    font-size:29px;
+    color:white;
+    padding-top:0px;
+    padding-bottom:60px;
+    margin:0px;
+    line-height:33px;
+}
+h3{
+    font-family: "ProximaNova Black", "Helvetica";
+    font-size:25px;
+    color:#02d08e;
+}
+h4{
+    color: #02d08e;
+    font-family: ProximaNova Bold;
+    font-size: 16px;
+    letter-spacing: 0.08em;
+}
+.block1{
+    background: url("head0000.jpg") no-repeat scroll top center;
+    text-align:center;
+    padding-bottom:1px;
+}
+.block1 h1{
+    font-size:43px;
+    color:white;
+    padding-top:213px;
+    padding-bottom:3px;
+}
+.button {
+    background: none repeat scroll 0 0 #20c887;
+    border-bottom: 3px solid #1aa06c;
+    border-radius: 3px;
+    bottom: 63px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    display: block;
+    font: 21px/2.1 'ProximaNova Bold';
+    height: 46px;
+    margin:40px auto 40px auto;
+    text-align: center;
+    text-shadow: 0 1px 0 #858585;
+    width: 290px;
+}
+.button:hover{color:white;}
+.button.small{
+    width:190px;
+}
+.center{text-align:center;}
+p{
+    font-family: "ProximaNova Reg";
+    font-size:18px;
+    color:black;
+    letter-spacing: 0em;
+    width:620px;
+    margin:0px auto 40px auto;
+}
+p span{
+    font-family: "ProximaNova Reg";
+    font-style:italic;
+    font-size:18px;
+    color:black;
+    line-height:55px;
+}
+.sand{
+    background: url("sand0000.jpg") repeat-y scroll top center;
+    text-align:center;
+    padding:50px 0 20px;
+}
+.sand p{margin-bottom:20px;width:auto;}
+.square_block{
+    border:2px solid #02d08e;
+    padding:20px 20px 20px 20px;
+    width:580px;
+    margin:40px auto;
+}
+.square_block .text{
+    font-size:30px;
+}
+.square_block .bold_text{
+    font-family: "Helvetica";
+    font-size:24px;
+    font-weight:bold;
+}
+.block3{
+    background: url("block3_b.jpg") repeat-y scroll top center;
+    text-align:center;
+    padding-bottom:5px;
+    padding-top:40px;
+}
+.block3 h1{
+    padding:0px 0px 15px 0px;
+}
+.block3 p{width:820px}
+p.white{color:white}
+
+.block4{
+    background: url("sand2000.jpg") repeat scroll top center;
+    text-align:center;
+    padding-bottom:5px;
+}
+.block4 .square_block{margin-top:20px;padding-bottom:20px;}
+.block4 .square_block .bold_text{margin-bottom:0px;}
+p span.blue{
+    color:#0c68ed;
+    line-height:normal;
+}
+p span.green{
+    color:#02d08e;
+    line-height:normal;
+}
+
+.block5{
+    background: url("sand3000.jpg") no-repeat scroll top center;
+    text-align:center;
+    padding-bottom:50px;
+}
+.mark{
+    background: url("mark0000.png") no-repeat scroll top center;
+    float:left;
+    padding:40px 55px 6px;
+}
+.mark .mark_text{
+    font-family: "ProximaNova Reg";
+    font-size:25px;
+    color:black;
+    margin:0px;
+    padding:0px;
+    width:190px;
+    line-height:23px;
+}
+.mark .green{
+    font-family: "ProximaNova Black";
+    font-size:15px;
+    color:#02d08e;
+    margin:27px 0px 0px 0px;
+    padding:0px;
+    width:190px;
+}
+.mark .price{
+    font-family: "ProximaNova Bold";
+    font-size:40px;
+    color:black;
+    margin:27px 0px 0px 0px;
+    padding:0px;
+    width:190px;
+}
+.mark .button{margin-top:16px;}
+
+.block6{
+    background: url("") no-repeat scroll top center;
+    text-align:center;
+}
+.form_block{
+    background: url("end00000.jpg") no-repeat scroll top center;
+    text-align:center;
+    padding:60px 0px;
+}
+.b_form_content{
+    border-radius: 0px;
+    background-color: white;
+    padding:30px;
+    margin:0px;
+    box-shadow: none;
+}
+.b_form_content h1{
+    font-family:"ProximaNova Black";
+    font-size:30px;
+    text-transform: none;
+    text-align:center;
+    margin-top:0px;
+}
+.b_form_content .useragreement{
+    font-family: "ProximaNova Reg" !important;
+    font-size:15px !important;
+    line-height:20px !important;
+    color:#393939 !important;
+}
+.b_form_content .btn_yellow{
+    background: none repeat scroll 0 0 #20c887;
+    border-bottom: 3px solid #1aa06c;
+    border-radius: 3px;
+    bottom: 63px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    display: block;
+    font: 21px/2.1 'ProximaNova Bold';
+    height: auto;
+    margin:40px auto 40px auto;
+    text-align: center;
+    text-shadow: 0 1px 0 #858585;
+    width: 290px;
+    padding:10px 0px;
+}
+.b_form_content ul li .field_name{
+    font-family: "ProximaNova Reg" !important;
+    font-size:18px !important;
+}
+.post ul li {
+    margin-bottom: 12px !important;
+}

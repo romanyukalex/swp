@@ -1,0 +1,39 @@
+<!-- Страница who_is_who--><div class="row flex-items-md-center " style="padding-top:20px;">
+
+
+<div class="col-md-12">
+
+
+<!--div class="row">
+	<section class="col-md-9">
+		<form id="search_form" action="/?page=videos">Поиск по всей базе
+			<input type="hidden" name="page" value="who_is_who">
+			<input type="hidden" name="cat_id" value="">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<input type="submit" class="button" style="height:38px;padding-top:10px" value="Искать">
+		</form>
+	</section>
+	
+	<div class="col-md-2 vp_block" id="banner">
+	
+	<a href='http://get-in-line.ru/?ref=2234&key=0' target="_blank">Вы - психолог?<br><br>Инструмент для записи на Вашу консультацию.<br><br>Бесплатно!</a>
+	</div>
+</div-->
+
+
+ 
+		<div class="row flex-items-xs-center">
+	<div class="cols col-md-2 col-sm-12"><center><img width="150px"  style="border-radius: 75px;"  src="https://samopoznanie.ru/avatars/objects/1-17546_1_6.jpg"></center>
+	</div>
+	<div class="cols col-md-6 ">
+		<b>Копылов Владимир Михайлович</b><br>
+		[Москва]
+		<br>	Занятия на курсе &quot;Хорарная астрология&quot; рассчитаны на 36 занятий, и группа для занятий на этом курсе будет формироваться только из астрологов, обладающих крепкими знаниями основ астрологии. ...<br>		<div class="flex-md-bottom"><a class="bcgr_grey tag_circle" href="/?page=who_is_who&search_cat=trainers_by_tag&tag=Профессиональный астролог с опытом консультирования 25 лет">Профессиональный астролог с опытом консультирования 25 лет</a>&emsp;&emsp;<a class="bcgr_grey tag_circle" href="/?page=who_is_who&search_cat=trainers_by_tag&tag=Главный редактор газеты астролог и журнала астрология">Главный редактор газеты астролог и журнала астрология</a>&emsp;&emsp;</div>
+	</div>
+	</div>
+
+</div>
+</div>
+
+
+<!-- // Страница who_is_who-->

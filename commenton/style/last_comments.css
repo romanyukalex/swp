@@ -1,0 +1,118 @@
+.cn_last_comments_block {
+    font-size: 13px;
+    padding: 15px 20px;
+}
+
+.cn_last_comments_box {
+    background: #FFF;
+    margin: 5px 0;
+    padding: 10px;
+    border-bottom: #e4e4e4 solid 1px;
+}
+
+.cn_last_comments_avatar_box {
+    float: left;
+}
+
+.cn_last_comments_avatar {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #FFF;
+    position: relative;
+}
+
+.cn_last_comments {
+    margin-left: 50px;
+}
+
+.cn_last_comments_head {
+
+}
+
+.cn_last_comments_name {
+    color: #078ed1;
+    display: inline;
+    margin-right: 4px;
+}
+
+.cn_last_comments_date {
+    color: #939393;
+    font-size: 11px;
+    display: inline;
+    white-space: nowrap;
+}
+
+.cn_last_comments_content {
+    display: block;
+    word-wrap: break-word;
+    margin: 3px 0;
+}
+
+.cn_last_comments_footer {
+    text-align: right;
+}
+
+.cn_last_comments_footer a {
+    display: inline-block;
+    color: #939393;
+    font-size: 13px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.cn_last_comments_guest_identify, .cn_last_comments_admin_identify {
+    font-size: 8px;
+    text-align: center;
+    color: #FFF;
+}
+
+.cn_last_comments_guest_identify {
+    background: #bf2743;
+}
+
+.cn_last_comments_admin_identify {
+    background: #1999e6;
+}
+
+.cn_last_comments_avatar::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: -5px;
+    bottom: -5px;
+    border-radius: 20px;
+}
+
+.cn_icon_vkauth::after {
+    background: url(../img/s_icons.jpg) left top;
+}
+
+.cn_icon_okauth::after {
+    background: url(../img/s_icons.jpg) -20px top;
+}
+
+.cn_icon_fbauth::after {
+    background: url(../img/s_icons.jpg) -40px top;
+}
+
+.cn_icon_gauth::after {
+    background: url(../img/s_icons.jpg) -60px top;
+}
+
+.cn_icon_mailauth::after {
+    background: url(../img/s_icons.jpg) -80px top;
+}
+
+.cn_icon_yaauth::after {
+    background: url(../img/s_icons.jpg) -100px top;
+}
+
+.cn_icon_twauth::after {
+    background: url(../img/s_icons.jpg) -120px top;
+}

@@ -1,0 +1,683 @@
+<!-- Страница CTATbu-->
+
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+		<a href="javascript:history.back();" class="justlink"title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=CTATbu_srch">Ищите то, что интересует
+			<input type="hidden" name="page" value="CTATbu_srch">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large" style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Все статьи в одной ленте  [108325 статей]</h2>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="col-md-10"><b>2709</b> | <a class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=2708">2708</a> |  <a class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=2707">2707</a> |  <a class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=2706">2706</a>
+	<a title="Предыдущие 40" class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=2708"><i class="fas fa-caret-right"></i></a> 
+	<a class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			Пт 16:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Играть нельзя учиться!"
+			href="/?page=igrat-nel-zya-uchit-sya"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/143287.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Играть нельзя учиться!">
+				<a class="video_title" style="font-size:18px" href="/?page=igrat-nel-zya-uchit-sya" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Играть нельзя учиться!</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			Пт 15:26			</span>
+			<a target="_blank"
+			title="Смотреть статью: Депрессия… Модное слово нынче…"
+			href="/?page=depressiya-modnoe-slovo-nynche"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1559304344_239684.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Депрессия… Модное слово нынче…">
+				<a class="video_title" style="font-size:18px" href="/?page=depressiya-modnoe-slovo-nynche" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Депрессия… Модное слово нынче…</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			Пт 14:52			</span>
+			<a target="_blank"
+			title="Смотреть статью: Как изменяется человек после успешного завершения психотерапии."
+			href="/?page=kak-izmenyaetsya-chelovek-posle-uspeshnogo-zaversheniya-psihoterapii"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1559302529_363269.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Как изменяется человек после успешного завершения психотерапии.">
+				<a class="video_title" style="font-size:18px" href="/?page=kak-izmenyaetsya-chelovek-posle-uspeshnogo-zaversheniya-psihoterapii" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Как изменяется человек после успешного завершения психотерапии.</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			24 мая 15:02			</span>
+			<a target="_blank"
+			title="Смотреть статью: Зловещий культ или культура"
+			href="/?page=zloveschiy-kul-t-ili-kul-tura"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://cdn.hbr-russia.ru/image/2019/40/vkhcp/desktop__2x-14wv.jpeg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Зловещий культ или культура">
+				<a class="video_title" style="font-size:18px" href="/?page=zloveschiy-kul-t-ili-kul-tura" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Зловещий культ или культура</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1172">1172</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			24 мая 04:14			</span>
+			<a target="_blank"
+			title="Смотреть статью: Неразделенная любовь: как избавиться от безответной любви"
+			href="/?page=nerazdelennaya-lyubov-kak-izbavit-sya-ot-bezotvetnoy-lyubvi"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="http://mtdata.ru/u29/photo5727/20979195184-0/original.jpeg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Неразделенная любовь: как избавиться от безответной любви">
+				<a class="video_title" style="font-size:18px" href="/?page=nerazdelennaya-lyubov-kak-izbavit-sya-ot-bezotvetnoy-lyubvi" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Неразделенная любовь: как избавиться от безответной любви</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1107">1107</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			17 мая 15:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Нарциссизм и абьюзивные отношения"
+			href="/?page=narcissizm-i-ab-yuzivnye-otnosheniya"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1558091156_113446.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Нарциссизм и абьюзивные отношения">
+				<a class="video_title" style="font-size:18px" href="/?page=narcissizm-i-ab-yuzivnye-otnosheniya" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Нарциссизм и абьюзивные отношения</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			17 мая 14:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Замужество, как способ решить проблемы"
+			href="/?page=zamuzhestvo-kak-sposob-reshit-problemy"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/142058.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Замужество, как способ решить проблемы">
+				<a class="video_title" style="font-size:18px" href="/?page=zamuzhestvo-kak-sposob-reshit-problemy" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Замужество, как способ решить проблемы</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			17 мая 13:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: А нужен ли психологу кабинет? Как вы считаете?"
+			href="/?page=a-nuzhen-li-psihologu-kabinet-kak-vy-schitaete"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1558082891_250370.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: А нужен ли психологу кабинет? Как вы считаете?">
+				<a class="video_title" style="font-size:18px" href="/?page=a-nuzhen-li-psihologu-kabinet-kak-vy-schitaete" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>А нужен ли психологу кабинет? Как вы считаете?</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 23:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Как всё успеть и быть счастливой?!"
+			href="/?page=kak-vse-uspet-i-byt-schastlivoy"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141808.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Как всё успеть и быть счастливой?!">
+				<a class="video_title" style="font-size:18px" href="/?page=kak-vse-uspet-i-byt-schastlivoy" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Как всё успеть и быть счастливой?!</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			14 мая 22:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Самостоятельный курс психокоррекции при тревожных неврозах"
+			href="/?page=samostoyatel-nyy-kurs-psihokorrekcii-pri-trevozhnyh-nevrozah"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557856875_12116.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Самостоятельный курс психокоррекции при тревожных неврозах">
+				<a class="video_title" style="font-size:18px" href="/?page=samostoyatel-nyy-kurs-psihokorrekcii-pri-trevozhnyh-nevrozah" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Самостоятельный курс психокоррекции при тревожных неврозах</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 21:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Сказка"
+			href="/?page=skazka_1557856863"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141799.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Сказка">
+				<a class="video_title" style="font-size:18px" href="/?page=skazka_1557856863" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Сказка</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 20:16			</span>
+			<a target="_blank"
+			title="Смотреть статью: Помоги психологу!  День второй"
+			href="/?page=pomogi-psihologu-den-vtoroy"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/users/user_358054_300.jpg?v=140519" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Помоги психологу!  День второй">
+				<a class="video_title" style="font-size:18px" href="/?page=pomogi-psihologu-den-vtoroy" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Помоги психологу!  День второй</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 19:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Ценность роли домохозяйки"
+			href="/?page=cennost-roli-domohozyayki"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141786.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Ценность роли домохозяйки">
+				<a class="video_title" style="font-size:18px" href="/?page=cennost-roli-domohozyayki" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Ценность роли домохозяйки</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 18:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Как выйти из невроза с помощью здорового мышления"
+			href="/?page=kak-vyyti-iz-nevroza-s-pomosch-yu-zdorovogo-myshleniya"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557845306_171980.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Как выйти из невроза с помощью здорового мышления">
+				<a class="video_title" style="font-size:18px" href="/?page=kak-vyyti-iz-nevroza-s-pomosch-yu-zdorovogo-myshleniya" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Как выйти из невроза с помощью здорового мышления</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			14 мая 17:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Игра противоречий!"
+			href="/?page=igra-protivorechiy"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141771.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Игра противоречий!">
+				<a class="video_title" style="font-size:18px" href="/?page=igra-protivorechiy" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Игра противоречий!</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 16:16			</span>
+			<a target="_blank"
+			title="Смотреть статью: Молчание как способ психологической защиты или сопротивление к контакту?"
+			href="/?page=molchanie-kak-sposob-psihologicheskoy-zaschity-ili-soprotivlenie-k-kontaktu"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557836952_76491.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Молчание как способ психологической защиты или сопротивление к контакту?">
+				<a class="video_title" style="font-size:18px" href="/?page=molchanie-kak-sposob-psihologicheskoy-zaschity-ili-soprotivlenie-k-kontaktu" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Молчание как способ психологической защиты или сопротивление к контакту?</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 15:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Внутренняя пустота"
+			href="/?page=vnutrennyaya-pustota_1557835264"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557833896_22754.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Внутренняя пустота">
+				<a class="video_title" style="font-size:18px" href="/?page=vnutrennyaya-pustota_1557835264" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Внутренняя пустота</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 14:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Хронический опоздун. Кто он?"
+			href="/?page=hronicheskiy-opozdun-kto-on"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557829415_65032.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Хронический опоздун. Кто он?">
+				<a class="video_title" style="font-size:18px" href="/?page=hronicheskiy-opozdun-kto-on" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Хронический опоздун. Кто он?</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			14 мая 13:08			</span>
+			<a target="_blank"
+			title="Смотреть статью: Как быть, если близкие не поддерживают тебя в твоих проектах?"
+			href="/?page=kak-byt-esli-blizkie-ne-podderzhivayut-tebya-v-tvoih-proektah"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557827395_8958.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Как быть, если близкие не поддерживают тебя в твоих проектах?">
+				<a class="video_title" style="font-size:18px" href="/?page=kak-byt-esli-blizkie-ne-podderzhivayut-tebya-v-tvoih-proektah" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Как быть, если близкие не поддерживают тебя в твоих проектах?</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 12:35			</span>
+			<a target="_blank"
+			title="Смотреть статью: 5 секретов, как «обезопасить» себя в отношениях с мужчиной"
+			href="/?page=5-sekretov-kak-obezopasit-sebya-v-otnosheniyah-s-muzhchinoy"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557825959_329598.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: 5 секретов, как «обезопасить» себя в отношениях с мужчиной">
+				<a class="video_title" style="font-size:18px" href="/?page=5-sekretov-kak-obezopasit-sebya-v-otnosheniyah-s-muzhchinoy" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>5 секретов, как «обезопасить» себя в отношениях с мужчиной</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 11:08			</span>
+			<a target="_blank"
+			title="Смотреть статью: Измена, отсутствие любви или доказательство того, что она есть"
+			href="/?page=izmena-otsutstvie-lyubvi-ili-dokazatel-stvo-togo-chto-ona-est"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557819595_264779.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Измена, отсутствие любви или доказательство того, что она есть">
+				<a class="video_title" style="font-size:18px" href="/?page=izmena-otsutstvie-lyubvi-ili-dokazatel-stvo-togo-chto-ona-est" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Измена, отсутствие любви или доказательство того, что она есть</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			14 мая 10:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Особенности троллей на Б-17"
+			href="/?page=osobennosti-trolley-na-b-17"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/users/user_47343_300.jpg?v=140519" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Особенности троллей на Б-17">
+				<a class="video_title" style="font-size:18px" href="/?page=osobennosti-trolley-na-b-17" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Особенности троллей на Б-17</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 08:16			</span>
+			<a target="_blank"
+			title="Смотреть статью: Экспресс-диагностика личности и характера. Ч2. Психодинамика."
+			href="/?page=ekspress-diagnostika-lichnosti-i-haraktera-ch2-psihodinamika"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557802550_76043.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Экспресс-диагностика личности и характера. Ч2. Психодинамика.">
+				<a class="video_title" style="font-size:18px" href="/?page=ekspress-diagnostika-lichnosti-i-haraktera-ch2-psihodinamika" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Экспресс-диагностика личности и характера. Ч2. Психодинамика.</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 07:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Не виновны, но ответственны."
+			href="/?page=ne-vinovny-no-otvetstvenny"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557802659_157563.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Не виновны, но ответственны.">
+				<a class="video_title" style="font-size:18px" href="/?page=ne-vinovny-no-otvetstvenny" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Не виновны, но ответственны.</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 05:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Анализируй это: картина Рене Магритта &quot;Любовники II&quot;"
+			href="/?page=analiziruy-eto-kartina-rene-magritta-quot-lyubovniki-ii-quot"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557796796_185532.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Анализируй это: картина Рене Магритта &quot;Любовники II&quot;">
+				<a class="video_title" style="font-size:18px" href="/?page=analiziruy-eto-kartina-rene-magritta-quot-lyubovniki-ii-quot" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Анализируй это: картина Рене Магритта &quot;Любовники II&quot;</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			14 мая 04:16			</span>
+			<a target="_blank"
+			title="Смотреть статью: Автогеном через з*дницу"
+			href="/?page=avtogenom-cherez-z-dnicu"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557791477_17634.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Автогеном через з*дницу">
+				<a class="video_title" style="font-size:18px" href="/?page=avtogenom-cherez-z-dnicu" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Автогеном через з*дницу</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 01:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Немодная любовь"
+			href="/?page=nemodnaya-lyubov"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557782783_1569.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Немодная любовь">
+				<a class="video_title" style="font-size:18px" href="/?page=nemodnaya-lyubov" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Немодная любовь</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			14 мая 00:16			</span>
+			<a target="_blank"
+			title="Смотреть статью: Нужные люди."
+			href="/?page=nuzhnye-lyudi"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141708.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Нужные люди.">
+				<a class="video_title" style="font-size:18px" href="/?page=nuzhnye-lyudi" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Нужные люди.</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 23:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Отношения – это поиск баланса между своими интересами и потребностями других."
+			href="/?page=otnosheniya-eto-poisk-balansa-mezhdu-svoimi-interesami-i-potrebnostyami-drugih"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141697.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Отношения – это поиск баланса между своими интересами и потребностями других.">
+				<a class="video_title" style="font-size:18px" href="/?page=otnosheniya-eto-poisk-balansa-mezhdu-svoimi-interesami-i-potrebnostyami-drugih" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Отношения – это поиск баланса между своими интересами и потребностями других.</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 22:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Что вы знаете про стресс?"
+			href="/?page=chto-vy-znaete-pro-stress"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141693.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Что вы знаете про стресс?">
+				<a class="video_title" style="font-size:18px" href="/?page=chto-vy-znaete-pro-stress" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Что вы знаете про стресс?</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			13 мая 20:16			</span>
+			<a target="_blank"
+			title="Смотреть статью: Помоги психологу!"
+			href="/?page=pomogi-psihologu"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/users/user_358054_300.jpg?v=130519" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Помоги психологу!">
+				<a class="video_title" style="font-size:18px" href="/?page=pomogi-psihologu" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Помоги психологу!</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 19:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Ребенок не хочет учиться, не хочет убираться, не хочет..."
+			href="/?page=rebenok-ne-hochet-uchit-sya-ne-hochet-ubirat-sya-ne-hochet"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141684.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Ребенок не хочет учиться, не хочет убираться, не хочет...">
+				<a class="video_title" style="font-size:18px" href="/?page=rebenok-ne-hochet-uchit-sya-ne-hochet-ubirat-sya-ne-hochet" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Ребенок не хочет учиться, не хочет убираться, не хочет...</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 18:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Маска для мамы"
+			href="/?page=maska-dlya-mamy"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557757288_21818.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Маска для мамы">
+				<a class="video_title" style="font-size:18px" href="/?page=maska-dlya-mamy" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Маска для мамы</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 17:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: О женском удовольствии для мужчин"
+			href="/?page=o-zhenskom-udovol-stvii-dlya-muzhchin"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/users/user_414707_300.jpg?v=130519" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: О женском удовольствии для мужчин">
+				<a class="video_title" style="font-size:18px" href="/?page=o-zhenskom-udovol-stvii-dlya-muzhchin" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>О женском удовольствии для мужчин</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			13 мая 16:16			</span>
+			<a target="_blank"
+			title="Смотреть статью: Как замедлиться и начать жить осознанно. 10 проверенных способов."
+			href="/?page=kak-zamedlit-sya-i-nachat-zhit-osoznanno-10-proverennyh-sposobov"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141663.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Как замедлиться и начать жить осознанно. 10 проверенных способов.">
+				<a class="video_title" style="font-size:18px" href="/?page=kak-zamedlit-sya-i-nachat-zhit-osoznanno-10-proverennyh-sposobov" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Как замедлиться и начать жить осознанно. 10 проверенных способов.</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 15:41			</span>
+			<a target="_blank"
+			title="Смотреть статью: Как найти время на чтение 100 книг в год"
+			href="/?page=kak-nayti-vremya-na-chtenie-100-knig-v-god"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://cdn.hbr-russia.ru/image/2019/3p/s25rr/original-10d6.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Как найти время на чтение 100 книг в год">
+				<a class="video_title" style="font-size:18px" href="/?page=kak-nayti-vremya-na-chtenie-100-knig-v-god" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Как найти время на чтение 100 книг в год</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1172">1172</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 15:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Увлекательная история психолога о том, как котики спасают жизнь (с хэппи эндом)"
+			href="/?page=uvlekatel-naya-istoriya-psihologa-o-tom-kak-kotiki-spasayut-zhizn-s-heppi-endom"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/uploaded/upl_1557745622_53660.png" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Увлекательная история психолога о том, как котики спасают жизнь (с хэппи эндом)">
+				<a class="video_title" style="font-size:18px" href="/?page=uvlekatel-naya-istoriya-psihologa-o-tom-kak-kotiki-spasayut-zhizn-s-heppi-endom" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Увлекательная история психолога о том, как котики спасают жизнь (с хэппи эндом)</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 14:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: О наибольшей пользе от психотерапии."
+			href="/?page=o-naibol-shey-pol-ze-ot-psihoterapii"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/users/user_128241_300.jpg?v=130519" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: О наибольшей пользе от психотерапии.">
+				<a class="video_title" style="font-size:18px" href="/?page=o-naibol-shey-pol-ze-ot-psihoterapii" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>О наибольшей пользе от психотерапии.</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+		<div class="col col-md col-md-offset-1-my vp_block">
+			
+			<span>
+			13 мая 13:01			</span>
+			<a target="_blank"
+			title="Смотреть статью: Что значит полюбить себя?"
+			href="/?page=chto-znachit-polyubit-sebya"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141636.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Что значит полюбить себя?">
+				<a class="video_title" style="font-size:18px" href="/?page=chto-znachit-polyubit-sebya" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Что значит полюбить себя?</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col col-md  vp_block">
+			
+			<span>
+			13 мая 12:16			</span>
+			<a target="_blank"
+			title="Смотреть статью: Скрытый протест"
+			href="/?page=skrytyy-protest"
+			onclick="yandex_target('CTATbR_from_CTATbu');return true;"
+			><img src="https://www.b17.ru/foto/article/141633.jpg" width="100%" class="thumbnail art_img"></a>
+			
+			<div class="caption">
+				<h4 class="video_title" title="Смотреть статью: Скрытый протест">
+				<a class="video_title" style="font-size:18px" href="/?page=skrytyy-protest" target="_blank" onclick="yandex_target('CTATbR_from_CTATbu');return true;";>Скрытый протест</a></h4>
+				<!--p><a href="" class="yt-user-name" title="Подробнее об авторе - 1101">1101</a></p-->
+			</div>
+		</div>
+</div>
+<b>2709</b> | <a class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=2708">2708</a> |  <a class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=2707">2707</a> |  <a class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=2706">2706</a>
+	<a title="Предыдущие 40" class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=2708"><i class="fas fa-caret-right"></i></a> 
+	<a class="justlink" href= "/?auth_social=[?page=CTATbu|provider=vk]&code=aa97123b3dcb7645f1&page=CTATbu&provider=vk&page_num=1"><i class="fas fa-step-forward"></i></a><!-- // Статьи -->
+
+<!-- // Страница CTATbu--><!-- Скрипт(ы) после страницы: show_likes.php--> <!-- Кнопки like -->
+ <div class="row flex-items-md-center" style="margin:20px 0 20px">
+	
+	<h4 style="font-weight: bold;">Поделиться:</h4><br>
+		
+		<script src="https://yastatic.net/share2/share.js" async="async"></script>
+		<div class="ya-share2" data-services="vkontakte,twitter,facebook,odnoklassniki" data-counter></div>
+		<div class="ya-share2" data-services="skype,telegram,viber,whatsapp" data-counter></div>
+	
+</div>
+<!-- // Кнопки like --><!-- // Скрипт после страницы -->

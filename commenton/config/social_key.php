@@ -1,0 +1,20 @@
+<?php
+define('CN_VK_SWITCH', 'on');
+define('CN_SET_VK_CLIENT_ID', '6219018');
+define('CN_SET_VK_CLIENT_SECRET', '3aaSAL2Pe0phjYN3auKW');
+define('CN_OK_SWITCH', 'off');
+define('CN_SET_OK_CLIENT_ID', '');
+define('CN_SET_OK_PUBLIC_KEY', '');
+define('CN_SET_OK_CLIENT_SECRET', '');
+define('CN_FB_SWITCH', 'off');
+define('CN_SET_FB_CLIENT_ID', '');
+define('CN_SET_FB_CLIENT_SECRET', '');
+define('CN_G_SWITCH', 'off');
+define('CN_SET_G_CLIENT_ID', '');
+define('CN_SET_G_CLIENT_SECRET', '');
+define('CN_MM_SWITCH', 'on');
+define('CN_SET_MM_CLIENT_ID', '764312');
+define('CN_SET_MM_CLIENT_SECRET', 'a2c6abeacbf49f86a07e045ec33f0576');
+define('CN_YA_SWITCH', 'on');
+define('CN_SET_YA_CLIENT_ID', 'ec889e48dd88442aacd1d41c1cf6fc9c');
+define('CN_SET_YA_CLIENT_SECRET', '5042d900b76b4cbf99aebd8f928472a6');

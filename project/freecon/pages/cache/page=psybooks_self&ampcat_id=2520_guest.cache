@@ -1,0 +1,1265 @@
+<!-- Страница psybooks_self--><div class="row flex-items-md-center">
+
+	<div class="blockquote">
+		
+			<p>
+				Найди книгу по психологии, философии и эзотерике (1076-2017) за 1 секунду<br>Можно ввести название книги, имя автора или год (посвежее или  раритетное)<br><br>
+				
+				В меню можно выбрать интересующий раздел
+ 
+			</p>
+			<small>Команда Psy-space</small>
+		
+	</div>
+
+
+</div>
+
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_self">
+			<input type="hidden" name="cat_id" value="2520">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Книги по саморазвитию и самосовершенствованию [684 книги]</h2>
+</div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+							</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-10"><b>18</b> | <a class="justlink" href= "/?page=psybooks_self&cat_id=2520&page_num=17">17</a> |  <a class="justlink" href= "/?page=psybooks_self&cat_id=2520&page_num=16">16</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_self&cat_id=2520&page_num=17">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_self&cat_id=2520&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2019</span><span class="hidden-sm-down">FB2, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Жизнь на MAXIMUM - Калёнова Е. - Без пудры. Правила жизни интеллектуальной стервы [2019, FB2, PDF, RUS]" href="/?page=book&topic_id=5742037" onclick="yandex_target('all_books');return true;"><img src="https://i106.fastpic.ru/big/2019/0608/fa/710d92d80140941d0469924a238503fa.jpg" width="100%" class="thumbnail" alt="Обложка книги Жизнь на MAXIMUM - Калёнова Е. - Без пудры. Правила жизни интеллектуальной стервы [2019, FB2, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Жизнь на MAXIMUM - Калёнова Е. - Без пудры. Правила жизни интеллектуальной стервы [2019, FB2, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5742037" target="_blank" onclick="yandex_target('all_books');return true;">Без пудры. Правила жизни интеллектуальной стервы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Калёнова Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Калёнова Е.">Калёнова Е.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: МИФ. Личное развитие - Daniel Levitin / Дэниел Левитин - Организованный ум. Как мыслить и принимать решения в эпоху информационной перегрузки [2019, PDF, RUS]" href="/?page=book&topic_id=5741303" onclick="yandex_target('all_books');return true;"><img src="https://i4.imageban.ru/out/2019/06/06/5633ad4fcb0196368f756516b95992c1.gif" width="100%" class="thumbnail" alt="Обложка книги МИФ. Личное развитие - Daniel Levitin / Дэниел Левитин - Организованный ум. Как мыслить и принимать решения в эпоху информационной перегрузки [2019, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: МИФ. Личное развитие - Daniel Levitin / Дэниел Левитин - Организованный ум. Как мыслить и принимать решения в эпоху информационной перегрузки [2019, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5741303" target="_blank" onclick="yandex_target('all_books');return true;">Организованный ум. Как мыслить и принимать решения в эпоху информационной перегрузки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Daniel Levitin / Дэниел Левитин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Daniel Levitin / Дэниел Левитин">Daniel Levitin / Дэниел Левитин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">FB2, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ракицкий А. - Прощай, лишний вес. Психологические техники для похудения без диет и таблеток [2019, FB2, PDF, RUS]" href="/?page=book&topic_id=5738696" onclick="yandex_target('all_books');return true;"><img src="https://i106.fastpic.ru/big/2019/0531/e1/467528f76c3e0a93644bd3faf0113de1.jpg" width="100%" class="thumbnail" alt="Обложка книги Ракицкий А. - Прощай, лишний вес. Психологические техники для похудения без диет и таблеток [2019, FB2, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ракицкий А. - Прощай, лишний вес. Психологические техники для похудения без диет и таблеток [2019, FB2, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5738696" target="_blank" onclick="yandex_target('all_books');return true;">Прощай, лишний вес. Психологические техники для похудения без диет и таблеток </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ракицкий А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ракицкий А.">Ракицкий А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Подарочные издания. Психология - Albert Espinosa / Альберт Эспиноса - Секреты, которых вам никогда не рассказывали, как жить в этом мире и быть счастливым [2019, PDF, RUS]" href="/?page=book&topic_id=5739973" onclick="yandex_target('all_books');return true;"><img src="https://i6.imageban.ru/out/2019/06/03/9f8f06a4ac01877193a80a139a72106f.gif" width="100%" class="thumbnail" alt="Обложка книги Подарочные издания. Психология - Albert Espinosa / Альберт Эспиноса - Секреты, которых вам никогда не рассказывали, как жить в этом мире и быть счастливым [2019, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Подарочные издания. Психология - Albert Espinosa / Альберт Эспиноса - Секреты, которых вам никогда не рассказывали, как жить в этом мире и быть счастливым [2019, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5739973" target="_blank" onclick="yandex_target('all_books');return true;">Секреты, которых вам никогда не рассказывали, как жить в этом мире и быть счастливым </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Albert Espinosa / Альберт Эспиноса" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Albert Espinosa / Альберт Эспиноса">Albert Espinosa / Альберт Эспиноса</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2019</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Body and mind. Книги, которые меняют тебя и твое тело - Ёсия Хасэгава - Как легким движением пальцев прокачать свой мозг [2019, PDF, RUS]" href="/?page=book&topic_id=5731268" onclick="yandex_target('all_books');return true;"><img src="https://i6.imageban.ru/out/2019/05/12/72f08f9f538c7daeaa3c25eb63b5a3b2.gif" width="100%" class="thumbnail" alt="Обложка книги Body and mind. Книги, которые меняют тебя и твое тело - Ёсия Хасэгава - Как легким движением пальцев прокачать свой мозг [2019, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Body and mind. Книги, которые меняют тебя и твое тело - Ёсия Хасэгава - Как легким движением пальцев прокачать свой мозг [2019, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5731268" target="_blank" onclick="yandex_target('all_books');return true;">Как легким движением пальцев прокачать свой мозг </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ёсия Хасэгава" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ёсия Хасэгава">Ёсия Хасэгава</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Александр Потоцкий, Александр MGTOW, Илья Орлов и другие - MGTOW: Мужчины, идущие своим путём [2019, PDF, RUS]" href="/?page=book&topic_id=5724491" onclick="yandex_target('all_books');return true;"><img src="https://i109.fastpic.ru/big/2019/0427/e8/253ec3141a333d0dc5cfedba411af1e8.jpg" width="100%" class="thumbnail" alt="Обложка книги Александр Потоцкий, Александр MGTOW, Илья Орлов и другие - MGTOW: Мужчины, идущие своим путём [2019, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Александр Потоцкий, Александр MGTOW, Илья Орлов и другие - MGTOW: Мужчины, идущие своим путём [2019, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5724491" target="_blank" onclick="yandex_target('all_books');return true;">MGTOW: Мужчины, идущие своим путём </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Александр Потоцкий, Александр MGTOW, Илья Орлов и другие" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Александр Потоцкий, Александр MGTOW, Илья Орлов и другие">Александр Потоцкий, Александр MGTOW, Илья Орлов и другие</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">FB2/EPUB/MOBI, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Катерина Ленгольд - Просто Космос. Практикум по Agile-жизни, наполненной смыслом и энергией [2019, FB2/EPUB/MOBI, RUS]" href="/?page=book&topic_id=5720270" onclick="yandex_target('all_books');return true;"><img src="https://i109.fastpic.ru/big/2019/0418/ed/9ab50bde7ddb210c30fd316f9ab162ed.jpg" width="100%" class="thumbnail" alt="Обложка книги Катерина Ленгольд - Просто Космос. Практикум по Agile-жизни, наполненной смыслом и энергией [2019, FB2/EPUB/MOBI, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Катерина Ленгольд - Просто Космос. Практикум по Agile-жизни, наполненной смыслом и энергией [2019, FB2/EPUB/MOBI, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5720270" target="_blank" onclick="yandex_target('all_books');return true;">Просто Космос. Практикум по Agile-жизни, наполненной смыслом и энергией </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Катерина Ленгольд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Катерина Ленгольд">Катерина Ленгольд</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психология. Искусство лидера - Arianna Huffington / Арианна Хаффингтон - THRIVE: The Third Metric to Redefining Success and Creating A Life / Выдохшиеся. Когда кофе, шопинг и отпуск уже не работают [2019, FB2, RUS]" href="/?page=book&topic_id=5695710" onclick="yandex_target('all_books');return true;"><img src="https://i109.fastpic.ru/big/2019/0227/f5/c01c1022056210081300660cb707e9f5.jpg" width="100%" class="thumbnail" alt="Обложка книги Психология. Искусство лидера - Arianna Huffington / Арианна Хаффингтон - THRIVE: The Third Metric to Redefining Success and Creating A Life / Выдохшиеся. Когда кофе, шопинг и отпуск уже не работают [2019, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психология. Искусство лидера - Arianna Huffington / Арианна Хаффингтон - THRIVE: The Third Metric to Redefining Success and Creating A Life / Выдохшиеся. Когда кофе, шопинг и отпуск уже не работают [2019, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5695710" target="_blank" onclick="yandex_target('all_books');return true;">THRIVE: The Third Metric to Redefining Success and Creating A Life / Выдохшиеся. Когда кофе, шопинг и отпуск уже не работают </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Arianna Huffington / Арианна Хаффингтон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Arianna Huffington / Арианна Хаффингтон">Arianna Huffington / Арианна Хаффингтон</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2019</span><span class="hidden-sm-down">EPUB, AZW3, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Satinder Dhiman/ - Bhagavad G&#298;t&#257; And Leadership: A Catalyst for Organizational Transformation/ Бхагавад-грита и лидерство: катализатор организац [2019, EPUB, AZW3, ENG]" href="/?page=book&topic_id=5680387" onclick="yandex_target('all_books');return true;"><img src="https://i.ibb.co/pwtKXZ4/61-V6-Wqt4vk-L.jpg" width="100%" class="thumbnail" alt="Обложка книги Satinder Dhiman/ - Bhagavad G&#298;t&#257; And Leadership: A Catalyst for Organizational Transformation/ Бхагавад-грита и лидерство: катализатор организац [2019, EPUB, AZW3, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Satinder Dhiman/ - Bhagavad G&#298;t&#257; And Leadership: A Catalyst for Organizational Transformation/ Бхагавад-грита и лидерство: катализатор организац [2019, EPUB, AZW3, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5680387" target="_blank" onclick="yandex_target('all_books');return true;">Bhagavad G&#298;t&#257; And Leadership: A Catalyst for Organizational Transformation/ Бхагавад-грита и лидерство: катализатор организац </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Satinder Dhiman/" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Satinder Dhiman/">Satinder Dhiman/</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">EPUB, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Satinder Dhiman, A. D. Amar - Managing by the Bhagavad G&#299;t&#257;: Timeless Lessons for Today’s Managers/ Управление Бхагавад Гитой: вечные уроки для сегодняшних [2019, EPUB, ENG]" href="/?page=book&topic_id=5680385" onclick="yandex_target('all_books');return true;"><img src="https://i.ibb.co/KWrZPLN/61-VCIBgp-Q5-L.jpg" width="100%" class="thumbnail" alt="Обложка книги Satinder Dhiman, A. D. Amar - Managing by the Bhagavad G&#299;t&#257;: Timeless Lessons for Today’s Managers/ Управление Бхагавад Гитой: вечные уроки для сегодняшних [2019, EPUB, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Satinder Dhiman, A. D. Amar - Managing by the Bhagavad G&#299;t&#257;: Timeless Lessons for Today’s Managers/ Управление Бхагавад Гитой: вечные уроки для сегодняшних [2019, EPUB, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5680385" target="_blank" onclick="yandex_target('all_books');return true;">Managing by the Bhagavad G&#299;t&#257;: Timeless Lessons for Today’s Managers/ Управление Бхагавад Гитой: вечные уроки для сегодняшних </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Satinder Dhiman, A. D. Amar" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Satinder Dhiman, A. D. Amar">Satinder Dhiman, A. D. Amar</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2019</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Алекс Новак - Книга, которой нет. Alpha &amp; Omega Edition [2019, FB2, RUS]" href="/?page=book&topic_id=5597867" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0808/5e/500947bd2ac93dd8e0b74cd3a30cd35e.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Алекс Новак - Книга, которой нет. Alpha &amp; Omega Edition [2019, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Алекс Новак - Книга, которой нет. Alpha &amp; Omega Edition [2019, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5597867" target="_blank" onclick="yandex_target('all_books');return true;">Книга, которой нет. Alpha &amp; Omega Edition </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Алекс Новак" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Алекс Новак">Алекс Новак</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Marc Reklau / Марк Реклау - 30 дней. Измените привычки, измените жизнь [2018, PDF, RUS]" href="/?page=book&topic_id=5743901" onclick="yandex_target('all_books');return true;"><img src="https://i4.imageban.ru/out/2019/06/12/c13b84a0285eb7234dae78a365fbd3d2.gif" width="100%" class="thumbnail" alt="Обложка книги Marc Reklau / Марк Реклау - 30 дней. Измените привычки, измените жизнь [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Marc Reklau / Марк Реклау - 30 дней. Измените привычки, измените жизнь [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5743901" target="_blank" onclick="yandex_target('all_books');return true;">30 дней. Измените привычки, измените жизнь </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Marc Reklau / Марк Реклау" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Marc Reklau / Марк Реклау">Marc Reklau / Марк Реклау</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Терентьев Михаил - Альфа-статус. Невербальные сигналы лидера стаи [2018, FB2, PDF, RUS]" href="/?page=book&topic_id=5738177" onclick="yandex_target('all_books');return true;"><img src="https://i105.fastpic.ru/big/2018/0624/3a/e0bfcb2712ab54f3357b75c156d7c23a.jpg" width="100%" class="thumbnail" alt="Обложка книги Терентьев Михаил - Альфа-статус. Невербальные сигналы лидера стаи [2018, FB2, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Терентьев Михаил - Альфа-статус. Невербальные сигналы лидера стаи [2018, FB2, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5738177" target="_blank" onclick="yandex_target('all_books');return true;">Альфа-статус. Невербальные сигналы лидера стаи </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Терентьев Михаил" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Терентьев Михаил">Терентьев Михаил</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Петров В. - Думай иначе. Креативное мышление [2018, PDF, RUS]" href="/?page=book&topic_id=5689293" onclick="yandex_target('all_books');return true;"><img src="http://img10.lostpic.net/2019/02/13/3a10201d300d6ff299b0296a840d87c6.jpg" width="100%" class="thumbnail" alt="Обложка книги Петров В. - Думай иначе. Креативное мышление [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Петров В. - Думай иначе. Креативное мышление [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5689293" target="_blank" onclick="yandex_target('all_books');return true;">Думай иначе. Креативное мышление </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Петров В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Петров В.">Петров В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Филипп Богачев - Пространство целей [2018, PDF, RUS]" href="/?page=book&topic_id=5721344" onclick="yandex_target('all_books');return true;"><img src="https://i110.fastpic.ru/big/2019/0420/36/ba30fbd8883914c66415aa455eeaf036.jpg" width="100%" class="thumbnail" alt="Обложка книги Филипп Богачев - Пространство целей [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Филипп Богачев - Пространство целей [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5721344" target="_blank" onclick="yandex_target('all_books');return true;">Пространство целей </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Филипп Богачев" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Филипп Богачев">Филипп Богачев</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Максим Батырев - 45 татуировок личности. Правила моей жизни [2018, FB2, RUS]" href="/?page=book&topic_id=5720548" onclick="yandex_target('all_books');return true;"><img src="https://i110.fastpic.ru/big/2019/0418/16/c9d83edf3248b8a0f22de69a993fe616.jpg" width="100%" class="thumbnail" alt="Обложка книги Максим Батырев - 45 татуировок личности. Правила моей жизни [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Максим Батырев - 45 татуировок личности. Правила моей жизни [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5720548" target="_blank" onclick="yandex_target('all_books');return true;">45 татуировок личности. Правила моей жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Максим Батырев" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Максим Батырев">Максим Батырев</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Хамидулин Р. - Дневник мыслей [2018, PDF, RUS]" href="/?page=book&topic_id=5711565" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Хамидулин Р. - Дневник мыслей [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Хамидулин Р. - Дневник мыслей [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5711565" target="_blank" onclick="yandex_target('all_books');return true;">Дневник мыслей </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хамидулин Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хамидулин Р.">Хамидулин Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бранден Натаниэль - Шесть столпов самооценки [2018, FB2/EPUB, RUS]" href="/?page=book&topic_id=5709971" onclick="yandex_target('all_books');return true;"><img src="https://i109.fastpic.ru/big/2019/0326/95/f59c1ecc24fc33d905ffa755cb2adf95.jpg" width="100%" class="thumbnail" alt="Обложка книги Бранден Натаниэль - Шесть столпов самооценки [2018, FB2/EPUB, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бранден Натаниэль - Шесть столпов самооценки [2018, FB2/EPUB, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5709971" target="_blank" onclick="yandex_target('all_books');return true;">Шесть столпов самооценки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бранден Натаниэль" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бранден Натаниэль">Бранден Натаниэль</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF/DOC/FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Антон Авантюрист - Жизнь по Своим Правилам. Книга 1 - С чего все начиналось... [2018, PDF/DOC/FB2, RUS]" href="/?page=book&topic_id=5698524" onclick="yandex_target('all_books');return true;"><img src="https://i110.fastpic.ru/big/2019/0304/f2/fac0fa03f7216034241bc14ace5af9f2.png" width="100%" class="thumbnail" alt="Обложка книги Антон Авантюрист - Жизнь по Своим Правилам. Книга 1 - С чего все начиналось... [2018, PDF/DOC/FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Антон Авантюрист - Жизнь по Своим Правилам. Книга 1 - С чего все начиналось... [2018, PDF/DOC/FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5698524" target="_blank" onclick="yandex_target('all_books');return true;">С чего все начиналось... </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Жизнь по Своим Правилам. Книга 1" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Жизнь по Своим Правилам. Книга 1">Жизнь по Своим Правилам. Книга 1</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эспри Дэйв - Биохакинг мозга. Проверенный план максимальной прокачки вашего мозга за две недели [2018, FB2, RUS]" href="/?page=book&topic_id=5681771" onclick="yandex_target('all_books');return true;"><img src="https://d.radikal.ru/d40/1901/ad/64147bec486a.jpg" width="100%" class="thumbnail" alt="Обложка книги Эспри Дэйв - Биохакинг мозга. Проверенный план максимальной прокачки вашего мозга за две недели [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эспри Дэйв - Биохакинг мозга. Проверенный план максимальной прокачки вашего мозга за две недели [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5681771" target="_blank" onclick="yandex_target('all_books');return true;">Биохакинг мозга. Проверенный план максимальной прокачки вашего мозга за две недели </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эспри Дэйв" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эспри Дэйв">Эспри Дэйв</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Практический курс тайных искусств - Valerie Austin / Валери Остин - Self-Hypnosis: Reach Your Full Potential Using All of Your Mind / Самогипноз. Как раскрыть свой потенциал, используя скрытые возможности разума [2018, DjVu, RUS]" href="/?page=book&topic_id=5655088" onclick="yandex_target('all_books');return true;"><img src="https://i108.fastpic.ru/big/2018/1205/ae/d8ec425cbd86b02ae012761bf6eeceae.jpg" width="100%" class="thumbnail" alt="Обложка книги Практический курс тайных искусств - Valerie Austin / Валери Остин - Self-Hypnosis: Reach Your Full Potential Using All of Your Mind / Самогипноз. Как раскрыть свой потенциал, используя скрытые возможности разума [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Практический курс тайных искусств - Valerie Austin / Валери Остин - Self-Hypnosis: Reach Your Full Potential Using All of Your Mind / Самогипноз. Как раскрыть свой потенциал, используя скрытые возможности разума [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5655088" target="_blank" onclick="yandex_target('all_books');return true;">Self-Hypnosis: Reach Your Full Potential Using All of Your Mind / Самогипноз. Как раскрыть свой потенциал, используя скрытые возможности разума </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Valerie Austin / Валери Остин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Valerie Austin / Валери Остин">Valerie Austin / Валери Остин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Оуэйн Сервис/Owain Service, Рори Галлахер/Rory Gallagher - Начинай с малого. Научно доказанная система достижения больших целей [2018, FB2/EPUB/PDF, RUS]" href="/?page=book&topic_id=5646688" onclick="yandex_target('all_books');return true;"><img src="http://i98.fastpic.ru/big/2018/1118/e8/69aa03e44198cbc5190e34397a7a64e8.jpg" width="100%" class="thumbnail" alt="Обложка книги Оуэйн Сервис/Owain Service, Рори Галлахер/Rory Gallagher - Начинай с малого. Научно доказанная система достижения больших целей [2018, FB2/EPUB/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Оуэйн Сервис/Owain Service, Рори Галлахер/Rory Gallagher - Начинай с малого. Научно доказанная система достижения больших целей [2018, FB2/EPUB/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5646688" target="_blank" onclick="yandex_target('all_books');return true;">Начинай с малого. Научно доказанная система достижения больших целей </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Оуэйн Сервис/Owain Service, Рори Галлахер/Rory Gallagher" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Оуэйн Сервис/Owain Service, Рори Галлахер/Rory Gallagher">Оуэйн Сервис/Owain Service, Рори Галлахер/Rory Gallagher</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Книги-драйверы - Рой Баумайстер/Roy Baumeister, Джон Тирни/John Tierney - Сила воли. Возьми свою жизнь под контроль [2018, FB2/EPUB/PDF, RUS]" href="/?page=book&topic_id=5645699" onclick="yandex_target('all_books');return true;"><img src="http://i106.fastpic.ru/big/2018/1116/86/8eb2ac5e4ad559f9c1abc440b34c6e86.jpg" width="100%" class="thumbnail" alt="Обложка книги Книги-драйверы - Рой Баумайстер/Roy Baumeister, Джон Тирни/John Tierney - Сила воли. Возьми свою жизнь под контроль [2018, FB2/EPUB/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Книги-драйверы - Рой Баумайстер/Roy Baumeister, Джон Тирни/John Tierney - Сила воли. Возьми свою жизнь под контроль [2018, FB2/EPUB/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5645699" target="_blank" onclick="yandex_target('all_books');return true;">Сила воли. Возьми свою жизнь под контроль </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рой Баумайстер/Roy Baumeister, Джон Тирни/John Tierney" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рой Баумайстер/Roy Baumeister, Джон Тирни/John Tierney">Рой Баумайстер/Roy Baumeister, Джон Тирни/John Tierney</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Умный тренинг, меняющий жизнь - Сатья Дас - Нескучная книга о счастье, деньгах и своем предназначении [2018, PDF, RUS]" href="/?page=book&topic_id=5604317" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0824/18/8d7a7ae5f48c362dc25929511aeda118.jpg" width="100%" class="thumbnail" alt="Обложка книги Умный тренинг, меняющий жизнь - Сатья Дас - Нескучная книга о счастье, деньгах и своем предназначении [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Умный тренинг, меняющий жизнь - Сатья Дас - Нескучная книга о счастье, деньгах и своем предназначении [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5604317" target="_blank" onclick="yandex_target('all_books');return true;">Нескучная книга о счастье, деньгах и своем предназначении </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сатья Дас" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сатья Дас">Сатья Дас</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Top Business Awards - Генри Клауд - Сила других. Окружение определяет нас [2018, FB2, RUS]" href="/?page=book&topic_id=5600899" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2018/0815/59/2f7fab960187b83f9fb58a9e2efefc59.jpg" width="100%" class="thumbnail" alt="Обложка книги Top Business Awards - Генри Клауд - Сила других. Окружение определяет нас [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Top Business Awards - Генри Клауд - Сила других. Окружение определяет нас [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5600899" target="_blank" onclick="yandex_target('all_books');return true;">Сила других. Окружение определяет нас </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Генри Клауд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Генри Клауд">Генри Клауд</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: New concept - Джон Эйкафф - Закончи то, что начал. Как доводить дела до конца [2018, PDF, RUS]" href="/?page=book&topic_id=5600807" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2018/0815/09/46855e1832495c1cd719da6f22d9f509.jpg" width="100%" class="thumbnail" alt="Обложка книги New concept - Джон Эйкафф - Закончи то, что начал. Как доводить дела до конца [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: New concept - Джон Эйкафф - Закончи то, что начал. Как доводить дела до конца [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5600807" target="_blank" onclick="yandex_target('all_books');return true;">Закончи то, что начал. Как доводить дела до конца </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джон Эйкафф" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джон Эйкафф">Джон Эйкафф</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Рольф Добелли - Философия хорошей жизни. 52 Нетривиальные идеи о счастье и успехе [2018, FB2, RUS]" href="/?page=book&topic_id=5600822" onclick="yandex_target('all_books');return true;"><img src="http://i103.fastpic.ru/big/2018/0815/b5/fbfcab7a08de54e5fc466ed4523e8cb5.jpg" width="100%" class="thumbnail" alt="Обложка книги Рольф Добелли - Философия хорошей жизни. 52 Нетривиальные идеи о счастье и успехе [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Рольф Добелли - Философия хорошей жизни. 52 Нетривиальные идеи о счастье и успехе [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5600822" target="_blank" onclick="yandex_target('all_books');return true;">Философия хорошей жизни. 52 Нетривиальные идеи о счастье и успехе </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рольф Добелли" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рольф Добелли">Рольф Добелли</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Кевин Хорсли - Безграничная память. Запоминай быстро, помни долго [2018, FB2, RUS]" href="/?page=book&topic_id=5599073" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2018/0811/40/9d80c9e7908a6d70c13d982d9512db40.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Кевин Хорсли - Безграничная память. Запоминай быстро, помни долго [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Кевин Хорсли - Безграничная память. Запоминай быстро, помни долго [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5599073" target="_blank" onclick="yandex_target('all_books');return true;">Безграничная память. Запоминай быстро, помни долго </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кевин Хорсли" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кевин Хорсли">Кевин Хорсли</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Роберт Лихи - Лекарство от нервов. Как перестать волноваться и получить удовольствие от жизни [2018, PDF, RUS]" href="/?page=book&topic_id=5598713" onclick="yandex_target('all_books');return true;"><img src="http://i103.fastpic.ru/big/2018/0810/13/17d78670d503f36762dc6a4c2d63ef13.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Роберт Лихи - Лекарство от нервов. Как перестать волноваться и получить удовольствие от жизни [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Роберт Лихи - Лекарство от нервов. Как перестать волноваться и получить удовольствие от жизни [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5598713" target="_blank" onclick="yandex_target('all_books');return true;">Лекарство от нервов. Как перестать волноваться и получить удовольствие от жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Роберт Лихи" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Роберт Лихи">Роберт Лихи</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Книга-тренажер для вашего мозга - Антон Могучий - Развитие интеллекта, внимания, памяти. Секретные методы спецслужб [2018, PDF, RUS]" href="/?page=book&topic_id=5598460" onclick="yandex_target('all_books');return true;"><img src="http://i103.fastpic.ru/big/2018/0809/2c/5c09b1cdd3b6c15abea9b2b26909522c.jpg" width="100%" class="thumbnail" alt="Обложка книги Книга-тренажер для вашего мозга - Антон Могучий - Развитие интеллекта, внимания, памяти. Секретные методы спецслужб [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Книга-тренажер для вашего мозга - Антон Могучий - Развитие интеллекта, внимания, памяти. Секретные методы спецслужб [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5598460" target="_blank" onclick="yandex_target('all_books');return true;">Развитие интеллекта, внимания, памяти. Секретные методы спецслужб </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Антон Могучий" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Антон Могучий">Антон Могучий</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Джеймс Оллворт, Карен Диллон, Клейтон Кристенсен - Стратегия жизни [2018, FB2, RUS]" href="/?page=book&topic_id=5597388" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2018/0807/90/2e5751996eac5c7dd7bbaaacca3da790.jpg" width="100%" class="thumbnail" alt="Обложка книги Джеймс Оллворт, Карен Диллон, Клейтон Кристенсен - Стратегия жизни [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Джеймс Оллворт, Карен Диллон, Клейтон Кристенсен - Стратегия жизни [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5597388" target="_blank" onclick="yandex_target('all_books');return true;">Стратегия жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джеймс Оллворт, Карен Диллон, Клейтон Кристенсен" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джеймс Оллворт, Карен Диллон, Клейтон Кристенсен">Джеймс Оллворт, Карен Диллон, Клейтон Кристенсен</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сергей Фаер - Траблшутинг: Как решать нерешаемые задачи, посмотрев на проблему с другой стороны [2018, FB2, RUS]" href="/?page=book&topic_id=5597337" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0806/34/95687344777c42ea023b81e8ce1ec034.jpg" width="100%" class="thumbnail" alt="Обложка книги Сергей Фаер - Траблшутинг: Как решать нерешаемые задачи, посмотрев на проблему с другой стороны [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сергей Фаер - Траблшутинг: Как решать нерешаемые задачи, посмотрев на проблему с другой стороны [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5597337" target="_blank" onclick="yandex_target('all_books');return true;">Траблшутинг: Как решать нерешаемые задачи, посмотрев на проблему с другой стороны </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сергей Фаер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сергей Фаер">Сергей Фаер</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">EPUB/RTF/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лапина Ю. - Тело, еда, секс и тревога. Что беспокоит современную женщину. Исследование клинического психолога [2018, EPUB/RTF/PDF, RUS]" href="/?page=book&topic_id=5595954" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2018/0803/16/761611c20013d23b8370f54b4705fd16.jpg" width="100%" class="thumbnail" alt="Обложка книги Лапина Ю. - Тело, еда, секс и тревога. Что беспокоит современную женщину. Исследование клинического психолога [2018, EPUB/RTF/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лапина Ю. - Тело, еда, секс и тревога. Что беспокоит современную женщину. Исследование клинического психолога [2018, EPUB/RTF/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5595954" target="_blank" onclick="yandex_target('all_books');return true;">Тело, еда, секс и тревога. Что беспокоит современную женщину. Исследование клинического психолога </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лапина Ю." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лапина Ю.">Лапина Ю.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Звезда тренинга - Татьяна Мараховская - Войти в «Поток» [2018, PDF, RUS]" href="/?page=book&topic_id=5576986" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0620/9a/a33222e7a43257a0ed6baf0e07cc5d9a.jpg" width="100%" class="thumbnail" alt="Обложка книги Звезда тренинга - Татьяна Мараховская - Войти в «Поток» [2018, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Звезда тренинга - Татьяна Мараховская - Войти в «Поток» [2018, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5576986" target="_blank" onclick="yandex_target('all_books');return true;">Войти в «Поток» </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Татьяна Мараховская" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Татьяна Мараховская">Татьяна Мараховская</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Лихи Роберт - Свобода от тревоги. Справься с тревогой, пока она не расправилась с тобой [2018, FB2, RUS]" href="/?page=book&topic_id=5572542" onclick="yandex_target('all_books');return true;"><img src="https://i104.fastpic.ru/big/2018/0609/8d/93dd8d9b6308f2d1b5ec7fe96e15378d.png" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Лихи Роберт - Свобода от тревоги. Справься с тревогой, пока она не расправилась с тобой [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Лихи Роберт - Свобода от тревоги. Справься с тревогой, пока она не расправилась с тобой [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5572542" target="_blank" onclick="yandex_target('all_books');return true;">Свобода от тревоги. Справься с тревогой, пока она не расправилась с тобой </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лихи Роберт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лихи Роберт">Лихи Роберт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Тага Brach / Тара Брах - Radical Acceptance: Embracing Your Life with.../Радикальное принятие. Как исцелить психологическую травму и посмотреть... [2018, DjVu, RUS]" href="/?page=book&topic_id=5562248" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0515/11/8c4124a09438c2d3322ead38cb042b11.jpg" width="100%" class="thumbnail" alt="Обложка книги Тага Brach / Тара Брах - Radical Acceptance: Embracing Your Life with.../Радикальное принятие. Как исцелить психологическую травму и посмотреть... [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Тага Brach / Тара Брах - Radical Acceptance: Embracing Your Life with.../Радикальное принятие. Как исцелить психологическую травму и посмотреть... [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5562248" target="_blank" onclick="yandex_target('all_books');return true;">Radical Acceptance: Embracing Your Life with.../Радикальное принятие. Как исцелить психологическую травму и посмотреть... </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тага Brach / Тара Брах" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тага Brach / Тара Брах">Тага Brach / Тара Брах</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Loretta Graziano Breuning / Лоретта Грациано Бройнинг - The Sience of Positivity: Stop Negative Thought Patterns.../Управляй гормонами счастья. Как избавиться от негативных эмоций.. [2018, FB2, RUS]" href="/?page=book&topic_id=5557363" onclick="yandex_target('all_books');return true;"><img src="http://i105.fastpic.ru/big/2018/0504/84/f92acea017496ad8e8790db79fdda884.jpg" width="100%" class="thumbnail" alt="Обложка книги Loretta Graziano Breuning / Лоретта Грациано Бройнинг - The Sience of Positivity: Stop Negative Thought Patterns.../Управляй гормонами счастья. Как избавиться от негативных эмоций.. [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Loretta Graziano Breuning / Лоретта Грациано Бройнинг - The Sience of Positivity: Stop Negative Thought Patterns.../Управляй гормонами счастья. Как избавиться от негативных эмоций.. [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5557363" target="_blank" onclick="yandex_target('all_books');return true;">The Sience of Positivity: Stop Negative Thought Patterns.../Управляй гормонами счастья. Как избавиться от негативных эмоций.. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Loretta Graziano Breuning / Лоретта Грациано Бройнинг" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Loretta Graziano Breuning / Лоретта Грациано Бройнинг">Loretta Graziano Breuning / Лоретта Грациано Бройнинг</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB/MOBI, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: David Kessler / Дэвид Кесслер - Еще кусочек! Как взять под контроль зверский аппетит и перестать постоянно думать о том, что пожевать [2018, FB2/EPUB/MOBI, RUS]" href="/?page=book&topic_id=5555085" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0429/7a/6b6ad5028550180e3eca9f6bad61e57a.jpg" width="100%" class="thumbnail" alt="Обложка книги David Kessler / Дэвид Кесслер - Еще кусочек! Как взять под контроль зверский аппетит и перестать постоянно думать о том, что пожевать [2018, FB2/EPUB/MOBI, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: David Kessler / Дэвид Кесслер - Еще кусочек! Как взять под контроль зверский аппетит и перестать постоянно думать о том, что пожевать [2018, FB2/EPUB/MOBI, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5555085" target="_blank" onclick="yandex_target('all_books');return true;">Еще кусочек! Как взять под контроль зверский аппетит и перестать постоянно думать о том, что пожевать </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=David Kessler / Дэвид Кесслер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: David Kessler / Дэвид Кесслер">David Kessler / Дэвид Кесслер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Японский мозг - Такаси Цукияма - Как забыть все забывать. 15 простых привычек, чтобы не искать ключи по всей квартире [2018, FB2/EPUB/PDF, RUS]" href="/?page=book&topic_id=5536586" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0319/b9/0738d382362ff00385ed991fded234b9.jpg" width="100%" class="thumbnail" alt="Обложка книги Японский мозг - Такаси Цукияма - Как забыть все забывать. 15 простых привычек, чтобы не искать ключи по всей квартире [2018, FB2/EPUB/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Японский мозг - Такаси Цукияма - Как забыть все забывать. 15 простых привычек, чтобы не искать ключи по всей квартире [2018, FB2/EPUB/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5536586" target="_blank" onclick="yandex_target('all_books');return true;">Как забыть все забывать. 15 простых привычек, чтобы не искать ключи по всей квартире </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Такаси Цукияма" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Такаси Цукияма">Такаси Цукияма</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB/RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Елена Резанова - Никогда-нибудь. Как выйти из тупика и найти себя [2018, FB2/EPUB/RTF, RUS]" href="/?page=book&topic_id=5536328" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2018/0319/e4/39d021e63885b0670204863d54235ae4.jpg" width="100%" class="thumbnail" alt="Обложка книги Елена Резанова - Никогда-нибудь. Как выйти из тупика и найти себя [2018, FB2/EPUB/RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Елена Резанова - Никогда-нибудь. Как выйти из тупика и найти себя [2018, FB2/EPUB/RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5536328" target="_blank" onclick="yandex_target('all_books');return true;">Никогда-нибудь. Как выйти из тупика и найти себя </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Елена Резанова" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Елена Резанова">Елена Резанова</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB/RTF/MOBI, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: МИФ. Личное развитие - Mandie Holgate / Мэнди Холгейт - Победи свой страх. Как избавиться от негативных установок и добиться успеха [2018, FB2/EPUB/RTF/MOBI, RUS]" href="/?page=book&topic_id=5532401" onclick="yandex_target('all_books');return true;"><img src="http://i103.fastpic.ru/big/2018/0311/07/1132e96748ab3594863e12eb7e839907.jpg" width="100%" class="thumbnail" alt="Обложка книги МИФ. Личное развитие - Mandie Holgate / Мэнди Холгейт - Победи свой страх. Как избавиться от негативных установок и добиться успеха [2018, FB2/EPUB/RTF/MOBI, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: МИФ. Личное развитие - Mandie Holgate / Мэнди Холгейт - Победи свой страх. Как избавиться от негативных установок и добиться успеха [2018, FB2/EPUB/RTF/MOBI, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5532401" target="_blank" onclick="yandex_target('all_books');return true;">Победи свой страх. Как избавиться от негативных установок и добиться успеха </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Mandie Holgate / Мэнди Холгейт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Mandie Holgate / Мэнди Холгейт">Mandie Holgate / Мэнди Холгейт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB/RTF/MOBI, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Книги, которые нужно прочитать до 35 лет - Jen Sincero / Джен Синсеро - НИ СЫ. Восточная мудрость, которая гласит: будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед [2018, FB2/EPUB/RTF/MOBI, RUS]" href="/?page=book&topic_id=5529068" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0304/d0/6ad966a567e561352ac18dd8b11972d0.jpg" width="100%" class="thumbnail" alt="Обложка книги Книги, которые нужно прочитать до 35 лет - Jen Sincero / Джен Синсеро - НИ СЫ. Восточная мудрость, которая гласит: будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед [2018, FB2/EPUB/RTF/MOBI, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Книги, которые нужно прочитать до 35 лет - Jen Sincero / Джен Синсеро - НИ СЫ. Восточная мудрость, которая гласит: будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед [2018, FB2/EPUB/RTF/MOBI, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5529068" target="_blank" onclick="yandex_target('all_books');return true;">НИ СЫ. Восточная мудрость, которая гласит: будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Jen Sincero / Джен Синсеро" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Jen Sincero / Джен Синсеро">Jen Sincero / Джен Синсеро</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2/EPUB/MOBI, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кафе на краю земли - John Strelecky / Джон Стрелеки - Кафе на краю земли. Как перестать плыть по течению и вспомнить, зачем ты живешь [2018, FB2/EPUB/MOBI, RUS]" href="/?page=book&topic_id=5527239" onclick="yandex_target('all_books');return true;"><img src="https://c.radikal.ru/c27/1802/15/7c46fc53cc36.jpg" width="100%" class="thumbnail" alt="Обложка книги Кафе на краю земли - John Strelecky / Джон Стрелеки - Кафе на краю земли. Как перестать плыть по течению и вспомнить, зачем ты живешь [2018, FB2/EPUB/MOBI, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кафе на краю земли - John Strelecky / Джон Стрелеки - Кафе на краю земли. Как перестать плыть по течению и вспомнить, зачем ты живешь [2018, FB2/EPUB/MOBI, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5527239" target="_blank" onclick="yandex_target('all_books');return true;">Кафе на краю земли. Как перестать плыть по течению и вспомнить, зачем ты живешь </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=John Strelecky / Джон Стрелеки" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: John Strelecky / Джон Стрелеки">John Strelecky / Джон Стрелеки</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Jordan B. Peterson - 12 Rules for Life: An Antidote to Chaos [2018, PDF, ENG]" href="/?page=book&topic_id=5522547" onclick="yandex_target('all_books');return true;"><img src="https://images-na.ssl-images-amazon.com/images/I/41IPiFg1ymL._SX330_BO1,204,203,200_.jpg" width="100%" class="thumbnail" alt="Обложка книги Jordan B. Peterson - 12 Rules for Life: An Antidote to Chaos [2018, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Jordan B. Peterson - 12 Rules for Life: An Antidote to Chaos [2018, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5522547" target="_blank" onclick="yandex_target('all_books');return true;">12 Rules for Life: An Antidote to Chaos </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Jordan B. Peterson" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Jordan B. Peterson">Jordan B. Peterson</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Daniel Goleman, Richard J. Davidson / Дэниел Гоулман, Ричард Дэвидсон - Altered Traits. Science Reveals How Meditation... / Изменённые черты характера. Как медитация меняет ваш разум, мозг и тело [2018, DjVu, RUS]" href="/?page=book&topic_id=5519960" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0212/3f/3b2a2559dbcdf1cfb40e4b06e8b3923f.jpg" width="100%" class="thumbnail" alt="Обложка книги Daniel Goleman, Richard J. Davidson / Дэниел Гоулман, Ричард Дэвидсон - Altered Traits. Science Reveals How Meditation... / Изменённые черты характера. Как медитация меняет ваш разум, мозг и тело [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Daniel Goleman, Richard J. Davidson / Дэниел Гоулман, Ричард Дэвидсон - Altered Traits. Science Reveals How Meditation... / Изменённые черты характера. Как медитация меняет ваш разум, мозг и тело [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5519960" target="_blank" onclick="yandex_target('all_books');return true;">Altered Traits. Science Reveals How Meditation... / Изменённые черты характера. Как медитация меняет ваш разум, мозг и тело </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Daniel Goleman, Richard J. Davidson / Дэниел Гоулман, Ричард Дэвидсон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Daniel Goleman, Richard J. Davidson / Дэниел Гоулман, Ричард Дэвидсон">Daniel Goleman, Richard J. Davidson / Дэниел Гоулман, Ричард Дэвидсон</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Chade-Meng Tan / Чед-Менг Тан - Joy on Demand: The Art of Discovering the Happiness Within / Радость изнутри. Источник счастья, доступный каждому [2018, DjVu, RUS]" href="/?page=book&topic_id=5518498" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2018/0209/f7/0e6b342ee4a18b8ed6ab60930896d9f7.jpg" width="100%" class="thumbnail" alt="Обложка книги Chade-Meng Tan / Чед-Менг Тан - Joy on Demand: The Art of Discovering the Happiness Within / Радость изнутри. Источник счастья, доступный каждому [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Chade-Meng Tan / Чед-Менг Тан - Joy on Demand: The Art of Discovering the Happiness Within / Радость изнутри. Источник счастья, доступный каждому [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5518498" target="_blank" onclick="yandex_target('all_books');return true;">Joy on Demand: The Art of Discovering the Happiness Within / Радость изнутри. Источник счастья, доступный каждому </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Chade-Meng Tan / Чед-Менг Тан" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Chade-Meng Tan / Чед-Менг Тан">Chade-Meng Tan / Чед-Менг Тан</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Спорт изнутри - Карни С. - Всё в твоей голове. Экстремальные испытания возможностей человеческого тела и разума [2018, FB2, RUS]" href="/?page=book&topic_id=5516026" onclick="yandex_target('all_books');return true;"><img src="http://images.vfl.ru/ii/1517681282/dce05df4/20433890.jpg" width="100%" class="thumbnail" alt="Обложка книги Спорт изнутри - Карни С. - Всё в твоей голове. Экстремальные испытания возможностей человеческого тела и разума [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Спорт изнутри - Карни С. - Всё в твоей голове. Экстремальные испытания возможностей человеческого тела и разума [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5516026" target="_blank" onclick="yandex_target('all_books');return true;">Всё в твоей голове. Экстремальные испытания возможностей человеческого тела и разума </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Карни С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Карни С.">Карни С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бергер Й. - Скрытое влияние. Какие невидимые силы управляют нашими поступками [2018, FB2, RUS]" href="/?page=book&topic_id=5516036" onclick="yandex_target('all_books');return true;"><img src="http://images.vfl.ru/ii/1517682774/5fbcaa4e/20434218.jpg" width="100%" class="thumbnail" alt="Обложка книги Бергер Й. - Скрытое влияние. Какие невидимые силы управляют нашими поступками [2018, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бергер Й. - Скрытое влияние. Какие невидимые силы управляют нашими поступками [2018, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5516036" target="_blank" onclick="yandex_target('all_books');return true;">Скрытое влияние. Какие невидимые силы управляют нашими поступками </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бергер Й." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бергер Й.">Бергер Й.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Judson Brewer / Жадсон Брюер - The Craving Mind. From cigarettes to smartphones../Зависимый мозг. От курения до соцсетей: почему мы заводим вредные привычки [2018, DjVu, RUS]" href="/?page=book&topic_id=5495214" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2017/1218/94/fd3df3ef001b5f498182bfb0bd8f4194.jpg" width="100%" class="thumbnail" alt="Обложка книги Judson Brewer / Жадсон Брюер - The Craving Mind. From cigarettes to smartphones../Зависимый мозг. От курения до соцсетей: почему мы заводим вредные привычки [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Judson Brewer / Жадсон Брюер - The Craving Mind. From cigarettes to smartphones../Зависимый мозг. От курения до соцсетей: почему мы заводим вредные привычки [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5495214" target="_blank" onclick="yandex_target('all_books');return true;">The Craving Mind. From cigarettes to smartphones../Зависимый мозг. От курения до соцсетей: почему мы заводим вредные привычки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Judson Brewer / Жадсон Брюер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Judson Brewer / Жадсон Брюер">Judson Brewer / Жадсон Брюер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2018</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Robert L. Leahy / Роберт Лихи - Anxiety Free: Unravel Your Fears Before They.../Свобода от тревоги. Справься с тревогой, пока она не расправилась с тобой [2018, DjVu, RUS]" href="/?page=book&topic_id=5482393" onclick="yandex_target('all_books');return true;"><img src="http://i98.fastpic.ru/big/2017/1119/c2/387e314740e42059fa51d7eec3a988c2.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Robert L. Leahy / Роберт Лихи - Anxiety Free: Unravel Your Fears Before They.../Свобода от тревоги. Справься с тревогой, пока она не расправилась с тобой [2018, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Robert L. Leahy / Роберт Лихи - Anxiety Free: Unravel Your Fears Before They.../Свобода от тревоги. Справься с тревогой, пока она не расправилась с тобой [2018, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5482393" target="_blank" onclick="yandex_target('all_books');return true;">Anxiety Free: Unravel Your Fears Before They.../Свобода от тревоги. Справься с тревогой, пока она не расправилась с тобой </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Robert L. Leahy / Роберт Лихи" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Robert L. Leahy / Роберт Лихи">Robert L. Leahy / Роберт Лихи</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Троцкий Дмитрий - Пока-я-не-Я. Практическое руководство по трансформации судьбы [2017, FB2, RUS]" href="/?page=book&topic_id=5732943" onclick="yandex_target('all_books');return true;"><img src="https://d.radikal.ru/d02/1902/ac/59ba942493da.jpg" width="100%" class="thumbnail" alt="Обложка книги Троцкий Дмитрий - Пока-я-не-Я. Практическое руководство по трансформации судьбы [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Троцкий Дмитрий - Пока-я-не-Я. Практическое руководство по трансформации судьбы [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5732943" target="_blank" onclick="yandex_target('all_books');return true;">Пока-я-не-Я. Практическое руководство по трансформации судьбы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Троцкий Дмитрий" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Троцкий Дмитрий">Троцкий Дмитрий</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека Мир 2.0 - Гин Анатолий, Андржеевская Ирина - Однажды в истории [2017, PDF, RUS]" href="/?page=book&topic_id=5736651" onclick="yandex_target('all_books');return true;"><img src="https://i2.imageban.ru/out/2019/05/26/6be80ab4f45ab4fbc0699822f26e46a7.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека Мир 2.0 - Гин Анатолий, Андржеевская Ирина - Однажды в истории [2017, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека Мир 2.0 - Гин Анатолий, Андржеевская Ирина - Однажды в истории [2017, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5736651" target="_blank" onclick="yandex_target('all_books');return true;">Однажды в истории </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гин Анатолий, Андржеевская Ирина" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гин Анатолий, Андржеевская Ирина">Гин Анатолий, Андржеевская Ирина</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: GloriumBooks - Демчог Вадим - Феномен игры [2017, PDF, RUS]" href="/?page=book&topic_id=5731551" onclick="yandex_target('all_books');return true;"><img src="https://i3.imageban.ru/out/2019/05/13/27fc001f8ee12e07a8b60f10e9e5c28e.gif" width="100%" class="thumbnail" alt="Обложка книги GloriumBooks - Демчог Вадим - Феномен игры [2017, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: GloriumBooks - Демчог Вадим - Феномен игры [2017, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5731551" target="_blank" onclick="yandex_target('all_books');return true;">Феномен игры </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Демчог Вадим" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Демчог Вадим">Демчог Вадим</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Верещагин Александр - Жизнь с чистого листа. Двухнедельная программа по изменению себя до неузнаваемости [2017, PDF, RUS]" href="/?page=book&topic_id=5731452" onclick="yandex_target('all_books');return true;"><img src="https://i2.imageban.ru/out/2019/05/13/cd49ce4afee61d4f00d0337108d38b61.gif" width="100%" class="thumbnail" alt="Обложка книги Верещагин Александр - Жизнь с чистого листа. Двухнедельная программа по изменению себя до неузнаваемости [2017, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Верещагин Александр - Жизнь с чистого листа. Двухнедельная программа по изменению себя до неузнаваемости [2017, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5731452" target="_blank" onclick="yandex_target('all_books');return true;">Жизнь с чистого листа. Двухнедельная программа по изменению себя до неузнаваемости </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Верещагин Александр" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Верещагин Александр">Верещагин Александр</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Susan David / Сьюзан Дэвид - Emotional Agility / Эмоциональная гибкость [2017, FB2, RUS]" href="/?page=book&topic_id=5691096" onclick="yandex_target('all_books');return true;"><img src="https://i110.fastpic.ru/big/2019/0217/11/39913a75a40f5c94c615150691da8411.jpg" width="100%" class="thumbnail" alt="Обложка книги Susan David / Сьюзан Дэвид - Emotional Agility / Эмоциональная гибкость [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Susan David / Сьюзан Дэвид - Emotional Agility / Эмоциональная гибкость [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5691096" target="_blank" onclick="yandex_target('all_books');return true;">Emotional Agility / Эмоциональная гибкость </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Susan David / Сьюзан Дэвид" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Susan David / Сьюзан Дэвид">Susan David / Сьюзан Дэвид</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">fb2, epub, pdf, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Найджел Камберленд - 100Things Successful People Do / Не жалей ни о чем. И еще 99 правил счастливых людей [2017, fb2, epub, pdf, RUS]" href="/?page=book&topic_id=5684670" onclick="yandex_target('all_books');return true;"><img src="https://c.radikal.ru/c18/1902/c7/7abf02717de3.jpg" width="100%" class="thumbnail" alt="Обложка книги Найджел Камберленд - 100Things Successful People Do / Не жалей ни о чем. И еще 99 правил счастливых людей [2017, fb2, epub, pdf, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Найджел Камберленд - 100Things Successful People Do / Не жалей ни о чем. И еще 99 правил счастливых людей [2017, fb2, epub, pdf, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5684670" target="_blank" onclick="yandex_target('all_books');return true;">100Things Successful People Do / Не жалей ни о чем. И еще 99 правил счастливых людей </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Найджел Камберленд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Найджел Камберленд">Найджел Камберленд</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2/RTF/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Луиза Хей представляет - Louise L. Hay / Луиза Хей - LIFE! Reflections On Your Journey / Исцели свое тело любовью [2017, FB2/RTF/PDF, RUS]" href="/?page=book&topic_id=5674178" onclick="yandex_target('all_books');return true;"><img src="https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_330/22495736-luiza-hey-isceli-svoe-telo-lubovu.jpg" width="100%" class="thumbnail" alt="Обложка книги Луиза Хей представляет - Louise L. Hay / Луиза Хей - LIFE! Reflections On Your Journey / Исцели свое тело любовью [2017, FB2/RTF/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Луиза Хей представляет - Louise L. Hay / Луиза Хей - LIFE! Reflections On Your Journey / Исцели свое тело любовью [2017, FB2/RTF/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5674178" target="_blank" onclick="yandex_target('all_books');return true;">LIFE! Reflections On Your Journey / Исцели свое тело любовью </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Louise L. Hay / Луиза Хей" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Louise L. Hay / Луиза Хей">Louise L. Hay / Луиза Хей</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2/EPUB/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дмитрий Котенев - Как читать книги [2017, FB2/EPUB/PDF, RUS]" href="/?page=book&topic_id=5646733" onclick="yandex_target('all_books');return true;"><img src="http://i97.fastpic.ru/big/2018/1118/bf/8e89cf9ad07c26164bd7fb93464eaebf.jpg" width="100%" class="thumbnail" alt="Обложка книги Дмитрий Котенев - Как читать книги [2017, FB2/EPUB/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дмитрий Котенев - Как читать книги [2017, FB2/EPUB/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5646733" target="_blank" onclick="yandex_target('all_books');return true;">Как читать книги </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дмитрий Котенев" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дмитрий Котенев">Дмитрий Котенев</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Особенности национального счастья - Лилия Габо - Хюгге. Будь счастливым, как датчане. Волшебный блокнот Лилии Габо [2017, PDF, RUS]" href="/?page=book&topic_id=5599349" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2018/0811/ad/635f68831bc13d5fe20bedb1a41d25ad.jpg" width="100%" class="thumbnail" alt="Обложка книги Особенности национального счастья - Лилия Габо - Хюгге. Будь счастливым, как датчане. Волшебный блокнот Лилии Габо [2017, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Особенности национального счастья - Лилия Габо - Хюгге. Будь счастливым, как датчане. Волшебный блокнот Лилии Габо [2017, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5599349" target="_blank" onclick="yandex_target('all_books');return true;">Хюгге. Будь счастливым, как датчане. Волшебный блокнот Лилии Габо </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лилия Габо" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лилия Габо">Лилия Габо</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вадим Макишвили - Большая книга манипуляций. Изучаем секреты управления сознанием [2017, FB2, RTF, RUS]" href="/?page=book&topic_id=5597569" onclick="yandex_target('all_books');return true;"><img src="http://i103.fastpic.ru/big/2018/0807/ac/c25e09a12a1af767d749e237bbcab9ac.jpg" width="100%" class="thumbnail" alt="Обложка книги Вадим Макишвили - Большая книга манипуляций. Изучаем секреты управления сознанием [2017, FB2, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вадим Макишвили - Большая книга манипуляций. Изучаем секреты управления сознанием [2017, FB2, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5597569" target="_blank" onclick="yandex_target('all_books');return true;">Большая книга манипуляций. Изучаем секреты управления сознанием </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вадим Макишвили" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вадим Макишвили">Вадим Макишвили</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Дуглас Кенрик - Инстинкты и смысл жизни. Почему в нас так много животного [2017, FB2, RUS]" href="/?page=book&topic_id=5597031" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2018/0806/ff/fa593c31b4cd148abaa8e8fcb9bb8fff.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Дуглас Кенрик - Инстинкты и смысл жизни. Почему в нас так много животного [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Дуглас Кенрик - Инстинкты и смысл жизни. Почему в нас так много животного [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5597031" target="_blank" onclick="yandex_target('all_books');return true;">Инстинкты и смысл жизни. Почему в нас так много животного </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дуглас Кенрик" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дуглас Кенрик">Дуглас Кенрик</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down"> 2018, FB2/EPUB/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Радислав Гандапас - Полная Ж: жизнь как бизнес-проект [2017 - 2018, FB2/EPUB/PDF, RUS]" href="/?page=book&topic_id=5533637" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0313/8d/5909612033e6c8ad74f5da19174d958d.jpg" width="100%" class="thumbnail" alt="Обложка книги Радислав Гандапас - Полная Ж: жизнь как бизнес-проект [2017 - 2018, FB2/EPUB/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Радислав Гандапас - Полная Ж: жизнь как бизнес-проект [2017 - 2018, FB2/EPUB/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5533637" target="_blank" onclick="yandex_target('all_books');return true;">2018, FB2/EPUB/PDF, RUS]</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Полная Ж: жизнь как бизнес-проект [2017" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Полная Ж: жизнь как бизнес-проект [2017">Полная Ж: жизнь как бизнес-проект [2017</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">Epub/Fb2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Элизабет Гилберт - Большое волшебство [2017, Epub/Fb2, RUS]" href="/?page=book&topic_id=5505837" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2018/0112/93/e7ab08c9275b04ae041b68530b3ec093.jpeg" width="100%" class="thumbnail" alt="Обложка книги Элизабет Гилберт - Большое волшебство [2017, Epub/Fb2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Элизабет Гилберт - Большое волшебство [2017, Epub/Fb2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5505837" target="_blank" onclick="yandex_target('all_books');return true;">Большое волшебство </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Элизабет Гилберт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Элизабет Гилберт">Элизабет Гилберт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">EPUB/PDF/FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Скрытый Потенциал Развития Человека - Егоров И.А. - Очищение Ума [2017, EPUB/PDF/FB2, RUS]" href="/?page=book&topic_id=5517340" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0206/2e/1124ffb58ea5f1d3ee7c296373195c2e.png" width="100%" class="thumbnail" alt="Обложка книги Скрытый Потенциал Развития Человека - Егоров И.А. - Очищение Ума [2017, EPUB/PDF/FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Скрытый Потенциал Развития Человека - Егоров И.А. - Очищение Ума [2017, EPUB/PDF/FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5517340" target="_blank" onclick="yandex_target('all_books');return true;">Очищение Ума </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Егоров И.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Егоров И.А.">Егоров И.А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Джо Диспенза. Сила подсознания] Joe Dispenza / Джо Диспенза - Сверхъестественный разум. Как обычные люди делают невозможное с помощью силы подсознания [2017, FB2, RUS]" href="/?page=book&topic_id=5517567" onclick="yandex_target('all_books');return true;"><img src="https://a.radikal.ru/a14/1802/2a/2bec0f501c35.jpg" width="100%" class="thumbnail" alt="Обложка книги [Джо Диспенза. Сила подсознания] Joe Dispenza / Джо Диспенза - Сверхъестественный разум. Как обычные люди делают невозможное с помощью силы подсознания [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Джо Диспенза. Сила подсознания] Joe Dispenza / Джо Диспенза - Сверхъестественный разум. Как обычные люди делают невозможное с помощью силы подсознания [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5517567" target="_blank" onclick="yandex_target('all_books');return true;">Сверхъестественный разум. Как обычные люди делают невозможное с помощью силы подсознания </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=] Joe Dispenza / Джо Диспенза" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: ] Joe Dispenza / Джо Диспенза">] Joe Dispenza / Джо Диспенза</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Коротко и по делу - Mark Manson / Марк Мэнсон - Тонкое искусство пофигизма. Парадоксальный способ жить счастливо [2017, FB2, RUS]" href="/?page=book&topic_id=5513931" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0130/32/e10a8e45007b10876b1602c9a89a6232.jpg" width="100%" class="thumbnail" alt="Обложка книги Коротко и по делу - Mark Manson / Марк Мэнсон - Тонкое искусство пофигизма. Парадоксальный способ жить счастливо [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Коротко и по делу - Mark Manson / Марк Мэнсон - Тонкое искусство пофигизма. Парадоксальный способ жить счастливо [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5513931" target="_blank" onclick="yandex_target('all_books');return true;">Тонкое искусство пофигизма. Парадоксальный способ жить счастливо </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Mark Manson / Марк Мэнсон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Mark Manson / Марк Мэнсон">Mark Manson / Марк Мэнсон</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Ryuta Kawashima / Рюта Кавашима - No Wo Kitaeru Otona... Vol. 5/Тренируй свой мозг. Японская система развития интеллекта и памяти. Продвинутая версия [2017, DjVu, RUS]" href="/?page=book&topic_id=5514098" onclick="yandex_target('all_books');return true;"><img src="http://i100.fastpic.ru/big/2018/0130/10/e96baa837636765c9a39414b6f9d8c10.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Ryuta Kawashima / Рюта Кавашима - No Wo Kitaeru Otona... Vol. 5/Тренируй свой мозг. Японская система развития интеллекта и памяти. Продвинутая версия [2017, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Ryuta Kawashima / Рюта Кавашима - No Wo Kitaeru Otona... Vol. 5/Тренируй свой мозг. Японская система развития интеллекта и памяти. Продвинутая версия [2017, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5514098" target="_blank" onclick="yandex_target('all_books');return true;">No Wo Kitaeru Otona... Vol. 5/Тренируй свой мозг. Японская система развития интеллекта и памяти. Продвинутая версия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ryuta Kawashima / Рюта Кавашима" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ryuta Kawashima / Рюта Кавашима">Ryuta Kawashima / Рюта Кавашима</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">EPUB, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Антон Кротов - Решение проблем по-простейшему. Почти все жизненные проблемы имеют простые решения [2017, EPUB, RUS]" href="/?page=book&topic_id=5507936" onclick="yandex_target('all_books');return true;"><img src="https://www.libfox.ru/uploads/posts/books/28487692.jpg" width="100%" class="thumbnail" alt="Обложка книги Антон Кротов - Решение проблем по-простейшему. Почти все жизненные проблемы имеют простые решения [2017, EPUB, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Антон Кротов - Решение проблем по-простейшему. Почти все жизненные проблемы имеют простые решения [2017, EPUB, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5507936" target="_blank" onclick="yandex_target('all_books');return true;">Решение проблем по-простейшему. Почти все жизненные проблемы имеют простые решения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Антон Кротов" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Антон Кротов">Антон Кротов</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, BGR</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Аргов Ш. - Защо мъжете се женят за кучки. / Почему мужчины женятся сук. [2017, PDF, BGR]" href="/?page=book&topic_id=5499002" onclick="yandex_target('all_books');return true;"><img src="https://d.radikal.ru/d07/1712/aa/d2e3856179f6.jpg" width="100%" class="thumbnail" alt="Обложка книги Аргов Ш. - Защо мъжете се женят за кучки. / Почему мужчины женятся сук. [2017, PDF, BGR]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Аргов Ш. - Защо мъжете се женят за кучки. / Почему мужчины женятся сук. [2017, PDF, BGR]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5499002" target="_blank" onclick="yandex_target('all_books');return true;">Защо мъжете се женят за кучки. / Почему мужчины женятся сук. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Аргов Ш." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Аргов Ш.">Аргов Ш.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Талер Л., Коваль Р. - Железная хватка: Как развить в себе качества, необходимые для достижения успеха [2017, FB2, RUS]" href="/?page=book&topic_id=5333538" onclick="yandex_target('all_books');return true;"><img src="http://i87.fastpic.ru/big/2016/1229/41/b7d2a4266e3cac00f751c96315739d41.jpg" width="100%" class="thumbnail" alt="Обложка книги Талер Л., Коваль Р. - Железная хватка: Как развить в себе качества, необходимые для достижения успеха [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Талер Л., Коваль Р. - Железная хватка: Как развить в себе качества, необходимые для достижения успеха [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5333538" target="_blank" onclick="yandex_target('all_books');return true;">Железная хватка: Как развить в себе качества, необходимые для достижения успеха </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Талер Л., Коваль Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Талер Л., Коваль Р.">Талер Л., Коваль Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF/Djvu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Pop Science - Льюис М. - Биология желания. Зависимость — не болезнь [2017, PDF/Djvu, RUS]" href="/?page=book&topic_id=5374608" onclick="yandex_target('all_books');return true;"><img src="http://i89.fastpic.ru/big/2017/0318/46/3ab0395e1f7abd300618ff57f3f27846.jpg" width="100%" class="thumbnail" alt="Обложка книги Pop Science - Льюис М. - Биология желания. Зависимость — не болезнь [2017, PDF/Djvu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Pop Science - Льюис М. - Биология желания. Зависимость — не болезнь [2017, PDF/Djvu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5374608" target="_blank" onclick="yandex_target('all_books');return true;">Биология желания. Зависимость — не болезнь </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Льюис М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Льюис М.">Льюис М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Макгонигал К. - Хороший стресс как способ стать сильнее и лучше [2017, FB2/PDF, RUS]" href="/?page=book&topic_id=5376379" onclick="yandex_target('all_books');return true;"><img src="https://www.alpinabook.ru/upload/resize_cache/iblock/5b0/264_394_1/5b04862da9b3f3cf3bd141fa546a0087.jpg" width="100%" class="thumbnail" alt="Обложка книги Макгонигал К. - Хороший стресс как способ стать сильнее и лучше [2017, FB2/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Макгонигал К. - Хороший стресс как способ стать сильнее и лучше [2017, FB2/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5376379" target="_blank" onclick="yandex_target('all_books');return true;">Хороший стресс как способ стать сильнее и лучше </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Макгонигал К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Макгонигал К.">Макгонигал К.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Всё, что должен знать образованный человек - Спектор А. А. - Мудрые мысли великих людей, которые должен знать каждый образованный человек [2017, PDF, RUS]" href="/?page=book&topic_id=5394669" onclick="yandex_target('all_books');return true;"><img src="http://s018.radikal.ru/i517/1704/5c/07792bde5070.jpg" width="100%" class="thumbnail" alt="Обложка книги Всё, что должен знать образованный человек - Спектор А. А. - Мудрые мысли великих людей, которые должен знать каждый образованный человек [2017, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Всё, что должен знать образованный человек - Спектор А. А. - Мудрые мысли великих людей, которые должен знать каждый образованный человек [2017, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5394669" target="_blank" onclick="yandex_target('all_books');return true;">Мудрые мысли великих людей, которые должен знать каждый образованный человек </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Спектор А. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Спектор А. А.">Спектор А. А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">EPUB/MOBI/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дуэк К. - Гибкое сознание: новый взгляд на психологию развития взрослых и детей [2017, EPUB/MOBI/PDF, RUS]" href="/?page=book&topic_id=5400425" onclick="yandex_target('all_books');return true;"><img src="http://s018.radikal.ru/i514/1705/9c/5488f61d8e45.png" width="100%" class="thumbnail" alt="Обложка книги Дуэк К. - Гибкое сознание: новый взгляд на психологию развития взрослых и детей [2017, EPUB/MOBI/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дуэк К. - Гибкое сознание: новый взгляд на психологию развития взрослых и детей [2017, EPUB/MOBI/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5400425" target="_blank" onclick="yandex_target('all_books');return true;">Гибкое сознание: новый взгляд на психологию развития взрослых и детей </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дуэк К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дуэк К.">Дуэк К.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">EPUB/MOBI/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Джонс М. - Решение проблем по методикам спецслужб. 14 мощных инструментов [2017, EPUB/MOBI/PDF, RUS]" href="/?page=book&topic_id=5400440" onclick="yandex_target('all_books');return true;"><img src="http://s012.radikal.ru/i319/1705/d4/8f0f594ece77.png" width="100%" class="thumbnail" alt="Обложка книги Джонс М. - Решение проблем по методикам спецслужб. 14 мощных инструментов [2017, EPUB/MOBI/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Джонс М. - Решение проблем по методикам спецслужб. 14 мощных инструментов [2017, EPUB/MOBI/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5400440" target="_blank" onclick="yandex_target('all_books');return true;">Решение проблем по методикам спецслужб. 14 мощных инструментов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джонс М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джонс М.">Джонс М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лучший мировой опыт - Ричардс К. - Давай поговорим о твоих доходах и расходах [2017, FB2, RUS]" href="/?page=book&topic_id=5400780" onclick="yandex_target('all_books');return true;"><img src="http://s008.radikal.ru/i303/1705/a4/91d06074bd23.jpg" width="100%" class="thumbnail" alt="Обложка книги Лучший мировой опыт - Ричардс К. - Давай поговорим о твоих доходах и расходах [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лучший мировой опыт - Ричардс К. - Давай поговорим о твоих доходах и расходах [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5400780" target="_blank" onclick="yandex_target('all_books');return true;">Давай поговорим о твоих доходах и расходах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ричардс К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ричардс К.">Ричардс К.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лучший мировой опыт - Закхайм Н. - Все идеи Роберта Кийосаки в одной книге [2017, FB2, RUS]" href="/?page=book&topic_id=5400790" onclick="yandex_target('all_books');return true;"><img src="http://i056.radikal.ru/1705/3d/4442164f8712.jpg" width="100%" class="thumbnail" alt="Обложка книги Лучший мировой опыт - Закхайм Н. - Все идеи Роберта Кийосаки в одной книге [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лучший мировой опыт - Закхайм Н. - Все идеи Роберта Кийосаки в одной книге [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5400790" target="_blank" onclick="yandex_target('all_books');return true;">Все идеи Роберта Кийосаки в одной книге </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Закхайм Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Закхайм Н.">Закхайм Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2/EPUB/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дорофеев М. - Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо [2017, FB2/EPUB/PDF, RUS]" href="/?page=book&topic_id=5401378" onclick="yandex_target('all_books');return true;"><img src="http://s008.radikal.ru/i306/1705/2b/969a65b9a7eb.png" width="100%" class="thumbnail" alt="Обложка книги Дорофеев М. - Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо [2017, FB2/EPUB/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дорофеев М. - Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо [2017, FB2/EPUB/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5401378" target="_blank" onclick="yandex_target('all_books');return true;">Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дорофеев М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дорофеев М.">Дорофеев М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: civiliзация - Уилсон Би - Еда. Отправная точка. Какими мы станем в будущем, если не изменим себя в настоящем? [2017, FB2, RUS]" href="/?page=book&topic_id=5405370" onclick="yandex_target('all_books');return true;"><img src="http://s019.radikal.ru/i614/1705/61/57c4d70c3c0a.jpg" width="100%" class="thumbnail" alt="Обложка книги civiliзация - Уилсон Би - Еда. Отправная точка. Какими мы станем в будущем, если не изменим себя в настоящем? [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: civiliзация - Уилсон Би - Еда. Отправная точка. Какими мы станем в будущем, если не изменим себя в настоящем? [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5405370" target="_blank" onclick="yandex_target('all_books');return true;">Еда. Отправная точка. Какими мы станем в будущем, если не изменим себя в настоящем? </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Уилсон Би" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Уилсон Би">Уилсон Би</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">EPUB/MOBI/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Хиз Ч., Хиз Д. - Ловушки мышления. Как принимать решения, о которых вы не пожалеете [2017, EPUB/MOBI/PDF, RUS]" href="/?page=book&topic_id=5415161" onclick="yandex_target('all_books');return true;"><img src="http://s04.radikal.ru/i177/1706/03/fb5efc0507b8.png" width="100%" class="thumbnail" alt="Обложка книги Хиз Ч., Хиз Д. - Ловушки мышления. Как принимать решения, о которых вы не пожалеете [2017, EPUB/MOBI/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Хиз Ч., Хиз Д. - Ловушки мышления. Как принимать решения, о которых вы не пожалеете [2017, EPUB/MOBI/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5415161" target="_blank" onclick="yandex_target('all_books');return true;">Ловушки мышления. Как принимать решения, о которых вы не пожалеете </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хиз Ч., Хиз Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хиз Ч., Хиз Д.">Хиз Ч., Хиз Д.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2017</span><span class="hidden-sm-down">EPUB/FB2/MOBI/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бредберри Т., Гривз Дж. - Эмоциональный интеллект 2.0 [2017, EPUB/FB2/MOBI/PDF, RUS]" href="/?page=book&topic_id=5418054" onclick="yandex_target('all_books');return true;"><img src="http://s015.radikal.ru/i333/1706/05/107e1aefacf5.png" width="100%" class="thumbnail" alt="Обложка книги Бредберри Т., Гривз Дж. - Эмоциональный интеллект 2.0 [2017, EPUB/FB2/MOBI/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бредберри Т., Гривз Дж. - Эмоциональный интеллект 2.0 [2017, EPUB/FB2/MOBI/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5418054" target="_blank" onclick="yandex_target('all_books');return true;">Эмоциональный интеллект 2.0 </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бредберри Т., Гривз Дж." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бредберри Т., Гривз Дж.">Бредберри Т., Гривз Дж.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Паундстоун У. - Голова как решето. Зачем включать мозги в эпоху гаджетов и Google [2017, FB2, RUS]" href="/?page=book&topic_id=5420383" onclick="yandex_target('all_books');return true;"><img src="http://s010.radikal.ru/i313/1706/2c/610e1b7ffc7d.jpg" width="100%" class="thumbnail" alt="Обложка книги Паундстоун У. - Голова как решето. Зачем включать мозги в эпоху гаджетов и Google [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Паундстоун У. - Голова как решето. Зачем включать мозги в эпоху гаджетов и Google [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5420383" target="_blank" onclick="yandex_target('all_books');return true;">Голова как решето. Зачем включать мозги в эпоху гаджетов и Google </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Паундстоун У." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Паундстоун У.">Паундстоун У.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2/EPUB/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бахрах Э. - Гибкий ум. Как видеть вещи иначе и думать нестандартно [2017, FB2/EPUB/PDF, RUS]" href="/?page=book&topic_id=5421340" onclick="yandex_target('all_books');return true;"><img src="http://s015.radikal.ru/i333/1706/9a/f454bcb29df4.png" width="100%" class="thumbnail" alt="Обложка книги Бахрах Э. - Гибкий ум. Как видеть вещи иначе и думать нестандартно [2017, FB2/EPUB/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бахрах Э. - Гибкий ум. Как видеть вещи иначе и думать нестандартно [2017, FB2/EPUB/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5421340" target="_blank" onclick="yandex_target('all_books');return true;">Гибкий ум. Как видеть вещи иначе и думать нестандартно </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бахрах Э." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бахрах Э.">Бахрах Э.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2017</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сайед М. - Рывок. От отличного к гениальному [2017, FB2, RUS]" href="/?page=book&topic_id=5421916" onclick="yandex_target('all_books');return true;"><img src="http://s018.radikal.ru/i524/1706/ff/6a3b82c93f5d.jpg" width="100%" class="thumbnail" alt="Обложка книги Сайед М. - Рывок. От отличного к гениальному [2017, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сайед М. - Рывок. От отличного к гениальному [2017, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5421916" target="_blank" onclick="yandex_target('all_books');return true;">Рывок. От отличного к гениальному </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Сайед М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Сайед М.">Сайед М.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Подсознание может всё! - Фальковский Геннадий, Шапаренко Елена - Рефлексы идеального тела [2016, PDF, RUS]" href="/?page=book&topic_id=5740529" onclick="yandex_target('all_books');return true;"><img src="https://i4.imageban.ru/out/2019/06/04/be31f58ee562305813eb7f2afd541c84.jpg" width="100%" class="thumbnail" alt="Обложка книги Подсознание может всё! - Фальковский Геннадий, Шапаренко Елена - Рефлексы идеального тела [2016, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Подсознание может всё! - Фальковский Геннадий, Шапаренко Елена - Рефлексы идеального тела [2016, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5740529" target="_blank" onclick="yandex_target('all_books');return true;">Рефлексы идеального тела </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фальковский Геннадий, Шапаренко Елена" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фальковский Геннадий, Шапаренко Елена">Фальковский Геннадий, Шапаренко Елена</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">FB2/RTF/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Тетлок Ф., Гарднер Д - Тетлок Ф., Гарднер Д. - Думай медленно - предсказывай точно [2016, FB2/RTF/PDF, RUS]" href="/?page=book&topic_id=5685478" onclick="yandex_target('all_books');return true;"><img src="https://i110.fastpic.ru/big/2019/0205/63/9942852d917a90841ced84d64514c263.jpg" width="100%" class="thumbnail" alt="Обложка книги Тетлок Ф., Гарднер Д - Тетлок Ф., Гарднер Д. - Думай медленно - предсказывай точно [2016, FB2/RTF/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Тетлок Ф., Гарднер Д - Тетлок Ф., Гарднер Д. - Думай медленно - предсказывай точно [2016, FB2/RTF/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5685478" target="_blank" onclick="yandex_target('all_books');return true;">Думай медленно - предсказывай точно </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тетлок Ф., Гарднер Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тетлок Ф., Гарднер Д.">Тетлок Ф., Гарднер Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ермошин А.Ф. - Иностранные языки с лёгкостью и удовольствием: Приёмы саморегуляции для быстрого усвоения знаний [2016, DjVu, RUS]" href="/?page=book&topic_id=5619712" onclick="yandex_target('all_books');return true;"><img src="https://i89.fastpic.ru/big/2018/0927/a0/522b612eefc377886c5b4ee8c6d8d8a0.jpg" width="100%" class="thumbnail" alt="Обложка книги Ермошин А.Ф. - Иностранные языки с лёгкостью и удовольствием: Приёмы саморегуляции для быстрого усвоения знаний [2016, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ермошин А.Ф. - Иностранные языки с лёгкостью и удовольствием: Приёмы саморегуляции для быстрого усвоения знаний [2016, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5619712" target="_blank" onclick="yandex_target('all_books');return true;">Иностранные языки с лёгкостью и удовольствием: Приёмы саморегуляции для быстрого усвоения знаний </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ермошин А.Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ермошин А.Ф.">Ермошин А.Ф.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: МИФ. Личное развитие - Лоуренс Шортер - Книга Ленивого Гуру. Поток. Результаты. Без усилий [2016, PDF, RUS]" href="/?page=book&topic_id=5598094" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0808/a5/6380b6b71a1cd542f075e44e37efcca5.jpg" width="100%" class="thumbnail" alt="Обложка книги МИФ. Личное развитие - Лоуренс Шортер - Книга Ленивого Гуру. Поток. Результаты. Без усилий [2016, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: МИФ. Личное развитие - Лоуренс Шортер - Книга Ленивого Гуру. Поток. Результаты. Без усилий [2016, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5598094" target="_blank" onclick="yandex_target('all_books');return true;">Книга Ленивого Гуру. Поток. Результаты. Без усилий </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лоуренс Шортер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лоуренс Шортер">Лоуренс Шортер</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2016</span><span class="hidden-sm-down">FB2, RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Антон Могучий - Тренажер ума и памяти. Суперметодики спецслужб [2016, FB2, RTF, RUS]" href="/?page=book&topic_id=5597578" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0807/ec/557183c9678ba426bea260a6bbdeb3ec.jpg" width="100%" class="thumbnail" alt="Обложка книги Антон Могучий - Тренажер ума и памяти. Суперметодики спецслужб [2016, FB2, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Антон Могучий - Тренажер ума и памяти. Суперметодики спецслужб [2016, FB2, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5597578" target="_blank" onclick="yandex_target('all_books');return true;">Тренажер ума и памяти. Суперметодики спецслужб </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Антон Могучий" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Антон Могучий">Антон Могучий</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Даниэль Канеман - Думай медленно... решай быстро [2016, PDF, RUS]" href="/?page=book&topic_id=5543394" onclick="yandex_target('all_books');return true;"><img src="http://i99.fastpic.ru/big/2018/0402/57/d1e24b175fb0c5b88dbf25319f7a7a57.png" width="100%" class="thumbnail" alt="Обложка книги Даниэль Канеман - Думай медленно... решай быстро [2016, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Даниэль Канеман - Думай медленно... решай быстро [2016, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5543394" target="_blank" onclick="yandex_target('all_books');return true;">Думай медленно... решай быстро </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Даниэль Канеман" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Даниэль Канеман">Даниэль Канеман</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">FB2/EPUB/RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психоалхимия - Марина Комиссарова - Любовь. Секреты разморозки [2016, FB2/EPUB/RTF, RUS]" href="/?page=book&topic_id=5536330" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0319/11/33e4f3b8861e1e784c6d1f86c5aabf11.jpg" width="100%" class="thumbnail" alt="Обложка книги Психоалхимия - Марина Комиссарова - Любовь. Секреты разморозки [2016, FB2/EPUB/RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психоалхимия - Марина Комиссарова - Любовь. Секреты разморозки [2016, FB2/EPUB/RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5536330" target="_blank" onclick="yandex_target('all_books');return true;">Любовь. Секреты разморозки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Марина Комиссарова" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Марина Комиссарова">Марина Комиссарова</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: МИФ. Личное развитие - Hal Elrod / Хэл Элрод - Магия утра. Как первый час дня определяет ваш успех - 2016 [2016, FB2, RUS]" href="/?page=book&topic_id=5521848" onclick="yandex_target('all_books');return true;"><img src="https://a.radikal.ru/a09/1802/1c/935890d6e6f3.jpg" width="100%" class="thumbnail" alt="Обложка книги МИФ. Личное развитие - Hal Elrod / Хэл Элрод - Магия утра. Как первый час дня определяет ваш успех - 2016 [2016, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: МИФ. Личное развитие - Hal Elrod / Хэл Элрод - Магия утра. Как первый час дня определяет ваш успех - 2016 [2016, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5521848" target="_blank" onclick="yandex_target('all_books');return true;">Магия утра. Как первый час дня определяет ваш успех - 2016 </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Hal Elrod / Хэл Элрод" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Hal Elrod / Хэл Элрод">Hal Elrod / Хэл Элрод</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2016</span><span class="hidden-sm-down">FB2, RU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Джо Диспенза. Сила подсознания] Joe Dispenza / Джо Диспенза - Сам себе плацебо: как использовать силу подсознания для здоровья и процветания [2016, FB2, RUS]" href="/?page=book&topic_id=5515807" onclick="yandex_target('all_books');return true;"><img src="https://b.radikal.ru/b06/1802/cd/96f9ddde1be6.jpg" width="100%" class="thumbnail" alt="Обложка книги [Джо Диспенза. Сила подсознания] Joe Dispenza / Джо Диспенза - Сам себе плацебо: как использовать силу подсознания для здоровья и процветания [2016, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Джо Диспенза. Сила подсознания] Joe Dispenza / Джо Диспенза - Сам себе плацебо: как использовать силу подсознания для здоровья и процветания [2016, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5515807" target="_blank" onclick="yandex_target('all_books');return true;">Сам себе плацебо: как использовать силу подсознания для здоровья и процветания </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=] Joe Dispenza / Джо Диспенза" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: ] Joe Dispenza / Джо Диспенза">] Joe Dispenza / Джо Диспенза</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Азбука Бизнес - Нил Пасрич - Формула счастья. Ничего + кое-что = всё (The Happiness Equation: Want Nothing + Do Anything = Have Everything) [2016, FB2, RUS]" href="/?page=book&topic_id=5510880" onclick="yandex_target('all_books');return true;"><img src="http://i102.fastpic.ru/big/2018/0123/f7/0e6ff377fa8710481314b8bfeb7551f7.jpg" width="100%" class="thumbnail" alt="Обложка книги Азбука Бизнес - Нил Пасрич - Формула счастья. Ничего + кое-что = всё (The Happiness Equation: Want Nothing + Do Anything = Have Everything) [2016, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Азбука Бизнес - Нил Пасрич - Формула счастья. Ничего + кое-что = всё (The Happiness Equation: Want Nothing + Do Anything = Have Everything) [2016, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5510880" target="_blank" onclick="yandex_target('all_books');return true;">Формула счастья. Ничего + кое-что = всё (The Happiness Equation: Want Nothing + Do Anything = Have Everything) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Нил Пасрич" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Нил Пасрич">Нил Пасрич</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Милгрэм С. - Подчинение авторитету: Научный взгляд на власть и мораль [2016, FB2, RUS]" href="/?page=book&topic_id=5516046" onclick="yandex_target('all_books');return true;"><img src="http://images.vfl.ru/ii/1517683958/7b890f27/20434413.jpg" width="100%" class="thumbnail" alt="Обложка книги Милгрэм С. - Подчинение авторитету: Научный взгляд на власть и мораль [2016, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Милгрэм С. - Подчинение авторитету: Научный взгляд на власть и мораль [2016, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5516046" target="_blank" onclick="yandex_target('all_books');return true;">Подчинение авторитету: Научный взгляд на власть и мораль </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Милгрэм С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Милгрэм С.">Милгрэм С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Amy Cuddy / Эми Кадди - Присутствие духа. Как направить силы своей личности на достижение успеха [2016, FB2, RUS]" href="/?page=book&topic_id=5515151" onclick="yandex_target('all_books');return true;"><img src="http://i103.fastpic.ru/big/2018/0202/53/625aa498776e595dbe567d1c14f7d853.jpg" width="100%" class="thumbnail" alt="Обложка книги Amy Cuddy / Эми Кадди - Присутствие духа. Как направить силы своей личности на достижение успеха [2016, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Amy Cuddy / Эми Кадди - Присутствие духа. Как направить силы своей личности на достижение успеха [2016, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5515151" target="_blank" onclick="yandex_target('all_books');return true;">Присутствие духа. Как направить силы своей личности на достижение успеха </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Amy Cuddy / Эми Кадди" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Amy Cuddy / Эми Кадди">Amy Cuddy / Эми Кадди</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2016</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Susan M. Orsillo, Lizabeth Roemer / Сьюзан Орсильо, Лизабет Рёмер - The Mindful Way through Anxiety: Break Free from Chronic Worry.../Осознанность или тревога. Перестань беспокоиться и начни... [2016, DjVu, RUS]" href="/?page=book&topic_id=5480047" onclick="yandex_target('all_books');return true;"><img src="http://i97.fastpic.ru/big/2017/1113/d4/059dd96644dc9926792d09f63bc4f8d4.jpg" width="100%" class="thumbnail" alt="Обложка книги Susan M. Orsillo, Lizabeth Roemer / Сьюзан Орсильо, Лизабет Рёмер - The Mindful Way through Anxiety: Break Free from Chronic Worry.../Осознанность или тревога. Перестань беспокоиться и начни... [2016, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Susan M. Orsillo, Lizabeth Roemer / Сьюзан Орсильо, Лизабет Рёмер - The Mindful Way through Anxiety: Break Free from Chronic Worry.../Осознанность или тревога. Перестань беспокоиться и начни... [2016, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5480047" target="_blank" onclick="yandex_target('all_books');return true;">The Mindful Way through Anxiety: Break Free from Chronic Worry.../Осознанность или тревога. Перестань беспокоиться и начни... </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Susan M. Orsillo, Lizabeth Roemer / Сьюзан Орсильо, Лизабет Рёмер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Susan M. Orsillo, Lizabeth Roemer / Сьюзан Орсильо, Лизабет Рёмер">Susan M. Orsillo, Lizabeth Roemer / Сьюзан Орсильо, Лизабет Рёмер</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF, BGR</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лоундз Л./ Лоундз Л. - Изкуството да водим разговор - 92 хитрини за успешна комуникация./Искусство общения - 92 небольших трюка для успешного общения. [2016, PDF, BGR]" href="/?page=book&topic_id=5474553" onclick="yandex_target('all_books');return true;"><img src="http://s015.radikal.ru/i332/1711/54/944c22fd261c.jpg" width="100%" class="thumbnail" alt="Обложка книги Лоундз Л./ Лоундз Л. - Изкуството да водим разговор - 92 хитрини за успешна комуникация./Искусство общения - 92 небольших трюка для успешного общения. [2016, PDF, BGR]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лоундз Л./ Лоундз Л. - Изкуството да водим разговор - 92 хитрини за успешна комуникация./Искусство общения - 92 небольших трюка для успешного общения. [2016, PDF, BGR]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5474553" target="_blank" onclick="yandex_target('all_books');return true;">92 хитрини за успешна комуникация./Искусство общения - 92 небольших трюка для успешного общения. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Изкуството да водим разговор" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Изкуството да водим разговор">Изкуството да водим разговор</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">TXT/HTML/FB2/EPUB, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вычужанина Валентина - Приручи Женщину [2016, TXT/HTML/FB2/EPUB, RUS]" href="/?page=book&topic_id=5469416" onclick="yandex_target('all_books');return true;"><img src="http://i89.fastpic.ru/big/2017/1022/ef/ea7a467ee023e0fb83a8694c491f01ef.jpg" width="100%" class="thumbnail" alt="Обложка книги Вычужанина Валентина - Приручи Женщину [2016, TXT/HTML/FB2/EPUB, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вычужанина Валентина - Приручи Женщину [2016, TXT/HTML/FB2/EPUB, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5469416" target="_blank" onclick="yandex_target('all_books');return true;">Приручи Женщину </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вычужанина Валентина" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вычужанина Валентина">Вычужанина Валентина</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2016</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Marshall Goldsmith, Mark Reiter / Маршалл Голдсмит, Марк Рейтер - Triggers / Триггеры [2016, PDF, RUS]" href="/?page=book&topic_id=5451772" onclick="yandex_target('all_books');return true;"><img src="http://i94.fastpic.ru/big/2017/0911/f8/a5225f720db2f1600912eed2070256f8.png" width="100%" class="thumbnail" alt="Обложка книги Marshall Goldsmith, Mark Reiter / Маршалл Голдсмит, Марк Рейтер - Triggers / Триггеры [2016, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Marshall Goldsmith, Mark Reiter / Маршалл Голдсмит, Марк Рейтер - Triggers / Триггеры [2016, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5451772" target="_blank" onclick="yandex_target('all_books');return true;">Triggers / Триггеры </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Marshall Goldsmith, Mark Reiter / Маршалл Голдсмит, Марк Рейтер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Marshall Goldsmith, Mark Reiter / Маршалл Голдсмит, Марк Рейтер">Marshall Goldsmith, Mark Reiter / Маршалл Голдсмит, Марк Рейтер</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row"></div>
+<div class="row">
+	<div class="col-md-10">
+<b>18</b> | <a class="justlink" href= "/?page=psybooks_self&cat_id=2520&page_num=17">17</a> |  <a class="justlink" href= "/?page=psybooks_self&cat_id=2520&page_num=16">16</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_self&cat_id=2520&page_num=17">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_self&cat_id=2520&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div>
+
+<!-- // Страница psybooks_self-->

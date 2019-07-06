@@ -1,0 +1,133 @@
+[INFO ] 2018-07-11 15:57:35:8234 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 40 | 69128 | ----- The new request to soznanie.club/modules/yandex_money/callback.php [loglevel is DEBUG]----------------
+[INFO ] 2018-07-11 15:57:35:8235 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 41 | 68920 | Session id is 51f2c2aebbc79762a97107a538c05190
+[DEBUG] 2018-07-11 15:57:35:8236 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 58 | 68768 | Trying to call insert_function_function.php
+[INFO ] 2018-07-11 15:57:35:8237 | soznanie.club | 185.71.77.2 | guest | core/insert_function_function.php | 12 | 71144 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8238 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 61 | 69432 | Trying to insert insert_module function
+[INFO ] 2018-07-11 15:57:35:8239 | soznanie.club | 185.71.77.2 | guest | core/insert_module_function.php | 2 | 71800 | Got this file
+[INFO ] 2018-07-11 15:57:35:8240 | soznanie.club | 185.71.77.2 | guest | core/autoload_scripts_from_functions.php | 11 | 72592 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8240 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 66 | 70856 | Trying to check available modules
+[INFO ] 2018-07-11 15:57:35:8241 | soznanie.club | 185.71.77.2 | guest | core/check_avail_modules.php | 10 | 73184 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8245 | soznanie.club | 185.71.77.2 | guest | core/check_avail_modules.php | 22 | 106664 | Data about modules received: installed 42, enabled 42, cron enabled for 1
+[DEBUG] 2018-07-11 15:57:35:8246 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 69 | 104680 | Trying to get browser
+[INFO ] 2018-07-11 15:57:35:8246 | soznanie.club | 185.71.77.2 | guest | core/browser.php | 15 | 106656 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8247 | soznanie.club | 185.71.77.2 | guest | core/browser.php | 51 | 107904 | Browser matched:, version - .User agent was - Apache-HttpClient/4.5.1 (Java/1.8.0_77)
+[DEBUG] 2018-07-11 15:57:35:8248 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 77 | 106120 | This is not bot, but simple user.
+[DEBUG] 2018-07-11 15:57:35:8248 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 79 | 105952 | Trying to found injection
+[INFO ] 2018-07-11 15:57:35:8249 | soznanie.club | 185.71.77.2 | guest | core/check_injection.php | 3 | 108264 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8250 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 82 | 107208 | Trying to get template from get
+[INFO ] 2018-07-11 15:57:35:8250 | soznanie.club | 185.71.77.2 | guest | core/templatefromget.php | 2 | 109376 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8250 | soznanie.club | 185.71.77.2 | guest | core/templatefromget.php | 8 | 109744 | Sitetemplate is from $ SESSION - general2
+[DEBUG] 2018-07-11 15:57:35:8251 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 85 | 107736 | Trying to get page from get
+[INFO ] 2018-07-11 15:57:35:8251 | soznanie.club | 185.71.77.2 | guest | core/pagefromget.php | 2 | 109904 | Got this file
+[INFO ] 2018-07-11 15:57:35:8252 | soznanie.club | 185.71.77.2 | guest | core/functions/process_user_data.php | 2 | 112008 | Got this file
+[INFO ] 2018-07-11 15:57:35:8253 | soznanie.club | 185.71.77.2 | guest | core/checkuserrole.php | 2 | 112840 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8253 | soznanie.club | 185.71.77.2 | guest | core/checkuserrole.php | 198 | 112840 | Not found REQUEST or SESSION data
+[DEBUG] 2018-07-11 15:57:35:8253 | soznanie.club | 185.71.77.2 | guest | core/checkuserrole.php | 201 | 113096 | Userrole is guest
+[DEBUG] 2018-07-11 15:57:35:8253 | soznanie.club | 185.71.77.2 | guest | core/pagefromget.php | 13 | 111032 | Page from SESSION[] is swpshop
+[DEBUG] 2018-07-11 15:57:35:8257 | soznanie.club | 185.71.77.2 | guest | core/pagefromget.php | 37 | 120328 | Page is swpshop
+[DEBUG] 2018-07-11 15:57:35:8257 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 89 | 118528 | Trying to get mode from get
+[INFO ] 2018-07-11 15:57:35:8258 | soznanie.club | 185.71.77.2 | guest | core/modefromget.php | 2 | 120472 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8259 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 92 | 118712 | Trying to get menu from get
+[INFO ] 2018-07-11 15:57:35:8260 | soznanie.club | 185.71.77.2 | guest | core/menufromget.php | 2 | 120656 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8260 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 95 | 119200 | Trying to get language from get
+[INFO ] 2018-07-11 15:57:35:8260 | soznanie.club | 185.71.77.2 | guest | core/langfromget.php | 2 | 121184 | Got this file
+[INFO ] 2018-07-11 15:57:35:8261 | soznanie.club | 185.71.77.2 | guest | core/langfromget.php | 18 | 121584 | Got language from SESSION.Language is ru
+[DEBUG] 2018-07-11 15:57:35:8261 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 99 | 119608 | Trying to get all site messages from DB
+[DEBUG] 2018-07-11 15:57:35:8261 | soznanie.club | 185.71.77.2 | guest | core/messages.php | 11 | 121592 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8270 | soznanie.club | 185.71.77.2 | guest | core/messages.php | 22 | 149016 | Got 11 messages for this company
+[DEBUG] 2018-07-11 15:57:35:8270 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 108 | 147200 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-07-11 15:57:35:8270 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 112 | 147200 | Trying to insert SEND_LETTER function
+[INFO ] 2018-07-11 15:57:35:8271 | soznanie.club | 185.71.77.2 | guest | core/functions/send_letter.php | 3 | 150864 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8271 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 115 | 147568 | Trying to get amp type
+[INFO ] 2018-07-11 15:57:35:8272 | soznanie.club | 185.71.77.2 | guest | core/fromget_amp.php | 2 | 149520 | Got this file
+[DEBUG] 2018-07-11 15:57:35:8272 | soznanie.club | 185.71.77.2 | guest | modules/yandex_money/callback.php | 11 | 147424 | REQUEST parameters: notification_type=p2p-incoming;amount=649.75;datetime=2018-07-11T12:57:35Z;codepro=false;sender=41001000040;sha1_hash=be126cf76491c9eb12ae6f8f367d84ad887b2380;test_notification=true;operation_label=;operation_id=test-notification;currency=643;label=;PHPSESSID=51f2c2aebbc79762a97107a538c05190;
+[DEBUG] 2018-07-11 15:57:35:8272 | soznanie.club | 185.71.77.2 | guest | modules/yandex_money/callback.php | 77 | 148920 | CRC is OK
+[INFO ] 2018-07-11 16:14:07:7098 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 40 | 68720 | ----- The new request to soznanie.club/modules/yandex_money/callback.php [loglevel is DEBUG]----------------
+[INFO ] 2018-07-11 16:14:07:7099 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 41 | 68616 | Session id is 51f2c2aebbc79762a97107a538c05190
+[DEBUG] 2018-07-11 16:14:07:7099 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 58 | 68464 | Trying to call insert_function_function.php
+[INFO ] 2018-07-11 16:14:07:7101 | soznanie.club | 185.71.77.2 | guest | core/insert_function_function.php | 12 | 70840 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7101 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 61 | 69128 | Trying to insert insert_module function
+[INFO ] 2018-07-11 16:14:07:7102 | soznanie.club | 185.71.77.2 | guest | core/insert_module_function.php | 2 | 71496 | Got this file
+[INFO ] 2018-07-11 16:14:07:7103 | soznanie.club | 185.71.77.2 | guest | core/autoload_scripts_from_functions.php | 11 | 72288 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7103 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 66 | 70552 | Trying to check available modules
+[INFO ] 2018-07-11 16:14:07:7104 | soznanie.club | 185.71.77.2 | guest | core/check_avail_modules.php | 10 | 72880 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7109 | soznanie.club | 185.71.77.2 | guest | core/check_avail_modules.php | 22 | 106360 | Data about modules received: installed 42, enabled 42, cron enabled for 1
+[DEBUG] 2018-07-11 16:14:07:7109 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 69 | 104376 | Trying to get browser
+[INFO ] 2018-07-11 16:14:07:7110 | soznanie.club | 185.71.77.2 | guest | core/browser.php | 15 | 106352 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7111 | soznanie.club | 185.71.77.2 | guest | core/browser.php | 51 | 107600 | Browser matched:, version - .User agent was - Apache-HttpClient/4.5.1 (Java/1.8.0_77)
+[DEBUG] 2018-07-11 16:14:07:7112 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 77 | 105816 | This is not bot, but simple user.
+[DEBUG] 2018-07-11 16:14:07:7112 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 79 | 105648 | Trying to found injection
+[INFO ] 2018-07-11 16:14:07:7113 | soznanie.club | 185.71.77.2 | guest | core/check_injection.php | 3 | 107960 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7113 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 82 | 106904 | Trying to get template from get
+[INFO ] 2018-07-11 16:14:07:7114 | soznanie.club | 185.71.77.2 | guest | core/templatefromget.php | 2 | 109072 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7114 | soznanie.club | 185.71.77.2 | guest | core/templatefromget.php | 8 | 109440 | Sitetemplate is from $ SESSION - general2
+[DEBUG] 2018-07-11 16:14:07:7114 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 85 | 107432 | Trying to get page from get
+[INFO ] 2018-07-11 16:14:07:7115 | soznanie.club | 185.71.77.2 | guest | core/pagefromget.php | 2 | 109600 | Got this file
+[INFO ] 2018-07-11 16:14:07:7116 | soznanie.club | 185.71.77.2 | guest | core/functions/process_user_data.php | 2 | 111704 | Got this file
+[INFO ] 2018-07-11 16:14:07:7116 | soznanie.club | 185.71.77.2 | guest | core/checkuserrole.php | 2 | 112536 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7116 | soznanie.club | 185.71.77.2 | guest | core/checkuserrole.php | 198 | 112536 | Not found REQUEST or SESSION data
+[DEBUG] 2018-07-11 16:14:07:7117 | soznanie.club | 185.71.77.2 | guest | core/checkuserrole.php | 201 | 112792 | Userrole is guest
+[DEBUG] 2018-07-11 16:14:07:7117 | soznanie.club | 185.71.77.2 | guest | core/pagefromget.php | 13 | 110728 | Page from SESSION[] is swpshop
+[DEBUG] 2018-07-11 16:14:07:7120 | soznanie.club | 185.71.77.2 | guest | core/pagefromget.php | 37 | 120040 | Page is swpshop
+[DEBUG] 2018-07-11 16:14:07:7121 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 89 | 118240 | Trying to get mode from get
+[INFO ] 2018-07-11 16:14:07:7121 | soznanie.club | 185.71.77.2 | guest | core/modefromget.php | 2 | 120184 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7122 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 92 | 118424 | Trying to get menu from get
+[INFO ] 2018-07-11 16:14:07:7123 | soznanie.club | 185.71.77.2 | guest | core/menufromget.php | 2 | 120368 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7123 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 95 | 118912 | Trying to get language from get
+[INFO ] 2018-07-11 16:14:07:7124 | soznanie.club | 185.71.77.2 | guest | core/langfromget.php | 2 | 120896 | Got this file
+[INFO ] 2018-07-11 16:14:07:7124 | soznanie.club | 185.71.77.2 | guest | core/langfromget.php | 18 | 121296 | Got language from SESSION.Language is ru
+[DEBUG] 2018-07-11 16:14:07:7124 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 99 | 119320 | Trying to get all site messages from DB
+[DEBUG] 2018-07-11 16:14:07:7125 | soznanie.club | 185.71.77.2 | guest | core/messages.php | 11 | 121304 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7132 | soznanie.club | 185.71.77.2 | guest | core/messages.php | 22 | 148728 | Got 11 messages for this company
+[DEBUG] 2018-07-11 16:14:07:7132 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 108 | 146912 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-07-11 16:14:07:7132 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 112 | 146912 | Trying to insert SEND_LETTER function
+[INFO ] 2018-07-11 16:14:07:7133 | soznanie.club | 185.71.77.2 | guest | core/functions/send_letter.php | 3 | 150576 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7133 | soznanie.club | 185.71.77.2 | guest | core/start_platform_scripts.php | 115 | 147280 | Trying to get amp type
+[INFO ] 2018-07-11 16:14:07:7135 | soznanie.club | 185.71.77.2 | guest | core/fromget_amp.php | 2 | 149232 | Got this file
+[DEBUG] 2018-07-11 16:14:07:7136 | soznanie.club | 185.71.77.2 | guest | modules/yandex_money/callback.php | 11 | 147816 | REQUEST parameters: notification_type=card-incoming;zip=;amount=19.60;firstname=;codepro=false;withdraw_amount=20.00;city=;unaccepted=false;label=37708291;building=;lastname=;datetime=2018-07-11T13:14:03Z;suite=;sender=;phone=+7 915 2068811;sha1_hash=af75e2ee7ac0f70c519a6cd809592d0aebd2fb6a;street=;flat=;fathersname=;operation_label=22d81640-0011-5000-8000-1804cb14230f;operation_id=584630043523010012;currency=643;email=eva.raizman@mail.ru;PHPSESSID=51f2c2aebbc79762a97107a538c05190;
+[DEBUG] 2018-07-11 16:14:07:7137 | soznanie.club | 185.71.77.2 | guest | modules/yandex_money/callback.php | 77 | 148816 | CRC is OK
+[INFO ] 2018-07-11 17:01:34:9679 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 40 | 68480 | ----- The new request to soznanie.club/modules/yandex_money/callback.php [loglevel is DEBUG]----------------
+[INFO ] 2018-07-11 17:01:34:9680 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 41 | 68360 | Session id is 72cbf082fd6424a73f790baf35e6fb08
+[DEBUG] 2018-07-11 17:01:34:9680 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 58 | 68208 | Trying to call insert_function_function.php
+[INFO ] 2018-07-11 17:01:34:9681 | soznanie.club | 185.71.76.4 | guest | core/insert_function_function.php | 12 | 70584 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9681 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 61 | 68872 | Trying to insert insert_module function
+[INFO ] 2018-07-11 17:01:34:9682 | soznanie.club | 185.71.76.4 | guest | core/insert_module_function.php | 2 | 71240 | Got this file
+[INFO ] 2018-07-11 17:01:34:9683 | soznanie.club | 185.71.76.4 | guest | core/autoload_scripts_from_functions.php | 11 | 72032 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9683 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 66 | 70296 | Trying to check available modules
+[INFO ] 2018-07-11 17:01:34:9684 | soznanie.club | 185.71.76.4 | guest | core/check_avail_modules.php | 10 | 72624 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9689 | soznanie.club | 185.71.76.4 | guest | core/check_avail_modules.php | 22 | 106104 | Data about modules received: installed 42, enabled 42, cron enabled for 1
+[DEBUG] 2018-07-11 17:01:34:9689 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 69 | 104120 | Trying to get browser
+[INFO ] 2018-07-11 17:01:34:9690 | soznanie.club | 185.71.76.4 | guest | core/browser.php | 15 | 106096 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9690 | soznanie.club | 185.71.76.4 | guest | core/browser.php | 51 | 107344 | Browser matched:, version - .User agent was - Apache-HttpClient/4.5.1 (Java/1.8.0_77)
+[DEBUG] 2018-07-11 17:01:34:9691 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 77 | 105560 | This is not bot, but simple user.
+[DEBUG] 2018-07-11 17:01:34:9691 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 79 | 105392 | Trying to found injection
+[INFO ] 2018-07-11 17:01:34:9692 | soznanie.club | 185.71.76.4 | guest | core/check_injection.php | 3 | 107704 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9693 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 82 | 106648 | Trying to get template from get
+[INFO ] 2018-07-11 17:01:34:9693 | soznanie.club | 185.71.76.4 | guest | core/templatefromget.php | 2 | 108816 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9695 | soznanie.club | 185.71.76.4 | guest | core/templatefromget.php | 31 | 109216 | Sitetemplate has found in DB
+[DEBUG] 2018-07-11 17:01:34:9696 | soznanie.club | 185.71.76.4 | guest | core/templatefromget.php | 44 | 113312 | Template page is swpshop
+[DEBUG] 2018-07-11 17:01:34:9696 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 85 | 111352 | Trying to get page from get
+[INFO ] 2018-07-11 17:01:34:9697 | soznanie.club | 185.71.76.4 | guest | core/pagefromget.php | 2 | 113520 | Got this file
+[INFO ] 2018-07-11 17:01:34:9697 | soznanie.club | 185.71.76.4 | guest | core/functions/process_user_data.php | 2 | 115616 | Got this file
+[INFO ] 2018-07-11 17:01:34:9699 | soznanie.club | 185.71.76.4 | guest | core/checkuserrole.php | 2 | 116456 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9699 | soznanie.club | 185.71.76.4 | guest | core/checkuserrole.php | 198 | 116456 | Not found REQUEST or SESSION data
+[DEBUG] 2018-07-11 17:01:34:9699 | soznanie.club | 185.71.76.4 | guest | core/checkuserrole.php | 201 | 116712 | Userrole is guest
+[DEBUG] 2018-07-11 17:01:34:9700 | soznanie.club | 185.71.76.4 | guest | core/pagefromget.php | 13 | 114648 | Page from SESSION[] is swpshop
+[DEBUG] 2018-07-11 17:01:34:9704 | soznanie.club | 185.71.76.4 | guest | core/pagefromget.php | 37 | 124008 | Page is swpshop
+[DEBUG] 2018-07-11 17:01:34:9704 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 89 | 122208 | Trying to get mode from get
+[INFO ] 2018-07-11 17:01:34:9704 | soznanie.club | 185.71.76.4 | guest | core/modefromget.php | 2 | 124152 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9705 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 92 | 122392 | Trying to get menu from get
+[INFO ] 2018-07-11 17:01:34:9706 | soznanie.club | 185.71.76.4 | guest | core/menufromget.php | 2 | 124336 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9706 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 95 | 122880 | Trying to get language from get
+[INFO ] 2018-07-11 17:01:34:9707 | soznanie.club | 185.71.76.4 | guest | core/langfromget.php | 2 | 124864 | Got this file
+[INFO ] 2018-07-11 17:01:34:9707 | soznanie.club | 185.71.76.4 | guest | core/langfromget.php | 18 | 125360 | Got language from DB (default).Language is ru
+[DEBUG] 2018-07-11 17:01:34:9707 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 99 | 123384 | Trying to get all site messages from DB
+[DEBUG] 2018-07-11 17:01:34:9708 | soznanie.club | 185.71.76.4 | guest | core/messages.php | 11 | 125368 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9715 | soznanie.club | 185.71.76.4 | guest | core/messages.php | 22 | 152784 | Got 11 messages for this company
+[DEBUG] 2018-07-11 17:01:34:9715 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 108 | 150968 | Trying to call autoload_scripts_from_functions.php
+[DEBUG] 2018-07-11 17:01:34:9716 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 112 | 150968 | Trying to insert SEND_LETTER function
+[INFO ] 2018-07-11 17:01:34:9716 | soznanie.club | 185.71.76.4 | guest | core/functions/send_letter.php | 3 | 154632 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9717 | soznanie.club | 185.71.76.4 | guest | core/start_platform_scripts.php | 115 | 151336 | Trying to get amp type
+[INFO ] 2018-07-11 17:01:34:9717 | soznanie.club | 185.71.76.4 | guest | core/fromget_amp.php | 2 | 153288 | Got this file
+[DEBUG] 2018-07-11 17:01:34:9717 | soznanie.club | 185.71.76.4 | guest | modules/yandex_money/callback.php | 11 | 151008 | REQUEST parameters: notification_type=p2p-incoming;amount=167.38;datetime=2018-07-11T14:01:34Z;codepro=false;sender=41001000040;sha1_hash=733daf53c4a69e531109e40ad5c50f247354920d;test_notification=true;operation_label=;operation_id=test-notification;currency=643;label=;
+[DEBUG] 2018-07-11 17:01:34:9718 | soznanie.club | 185.71.76.4 | guest | modules/yandex_money/callback.php | 55 | 152600 | CRC is OK

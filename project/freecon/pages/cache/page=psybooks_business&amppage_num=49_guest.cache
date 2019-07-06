@@ -1,0 +1,1248 @@
+<!-- Страница psybooks_business-->
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_business">
+			<input type="hidden" name="cat_id" value="">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Все категории книг по психологии [18861 книга]</h2>
+</div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+							</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-10"><a class="justlink" href= "/?page=psybooks_business&page_num=472"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_business&page_num=50"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_business&page_num=51">51</a> | <a class="justlink" href= "/?page=psybooks_business&page_num=50">50</a> | <b>49</b> | <a class="justlink" href= "/?page=psybooks_business&page_num=48">48</a> |  <a class="justlink" href= "/?page=psybooks_business&page_num=47">47</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_business&page_num=48">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_business&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1970</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лурье С.Я. - Демокрит. Тексты. Перевод. Исследования [1970, DjVu, RUS]" href="/?page=book&topic_id=3958913" onclick="yandex_target('all_books');return true;"><img src="http://i32.fastpic.ru/big/2012/0225/56/e183cfcbd9ca6175864464706ca50e56.jpg" width="100%" class="thumbnail" alt="Обложка книги Лурье С.Я. - Демокрит. Тексты. Перевод. Исследования [1970, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лурье С.Я. - Демокрит. Тексты. Перевод. Исследования [1970, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3958913" target="_blank" onclick="yandex_target('all_books');return true;">Демокрит. Тексты. Перевод. Исследования </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лурье С.Я." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лурье С.Я.">Лурье С.Я.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кузнецов Б.Г. - Джоржано Бруно и генезис классической науки [1970, DjVu, RUS]" href="/?page=book&topic_id=3662841" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2011/0722/5b/569f20380ce80cb97ea7b4746732b35b.jpg" width="100%" class="thumbnail" alt="Обложка книги Кузнецов Б.Г. - Джоржано Бруно и генезис классической науки [1970, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кузнецов Б.Г. - Джоржано Бруно и генезис классической науки [1970, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3662841" target="_blank" onclick="yandex_target('all_books');return true;">Джоржано Бруно и генезис классической науки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кузнецов Б.Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кузнецов Б.Г.">Кузнецов Б.Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Против буржуазной идеологии - Баталов Э.Я., Никитич Л.А., Фогелер Я.Г. - Поход Маркузе против марксизма [1970, DjVu, RUS]" href="/?page=book&topic_id=3342407" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Против буржуазной идеологии - Баталов Э.Я., Никитич Л.А., Фогелер Я.Г. - Поход Маркузе против марксизма [1970, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Против буржуазной идеологии - Баталов Э.Я., Никитич Л.А., Фогелер Я.Г. - Поход Маркузе против марксизма [1970, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3342407" target="_blank" onclick="yandex_target('all_books');return true;">Поход Маркузе против марксизма </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Баталов Э.Я., Никитич Л.А., Фогелер Я.Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Баталов Э.Я., Никитич Л.А., Фогелер Я.Г.">Баталов Э.Я., Никитич Л.А., Фогелер Я.Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">972, DjVu/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философское наследие - Гегель Г.В.Ф. - Наука логики в 3-х томах [1970-1972, DjVu/PDF, RUS]" href="/?page=book&topic_id=2430367" onclick="yandex_target('all_books');return true;"><img src="http://i704.photobucket.com/albums/ww46/glasnaglarus/Books%201/Logik_Cover.jpg" width="100%" class="thumbnail" alt="Обложка книги Философское наследие - Гегель Г.В.Ф. - Наука логики в 3-х томах [1970-1972, DjVu/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философское наследие - Гегель Г.В.Ф. - Наука логики в 3-х томах [1970-1972, DjVu/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2430367" target="_blank" onclick="yandex_target('all_books');return true;">Наука логики в 3-х томах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гегель Г.В.Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гегель Г.В.Ф.">Гегель Г.В.Ф.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1970</span><span class="hidden-sm-down">1, DjVu/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философское наследие - Гегель Г.В.Ф. - Работы разных лет в 2-х томах [1970-71, DjVu/PDF, RUS]" href="/?page=book&topic_id=2582489" onclick="yandex_target('all_books');return true;"><img src="http://i704.photobucket.com/albums/ww46/glasnaglarus/Books%201/Hegel_Werke_Cover.jpg" width="100%" class="thumbnail" alt="Обложка книги Философское наследие - Гегель Г.В.Ф. - Работы разных лет в 2-х томах [1970-71, DjVu/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философское наследие - Гегель Г.В.Ф. - Работы разных лет в 2-х томах [1970-71, DjVu/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2582489" target="_blank" onclick="yandex_target('all_books');return true;">Работы разных лет в 2-х томах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гегель Г.В.Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гегель Г.В.Ф.">Гегель Г.В.Ф.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: А. Гулыга - Гегель [1970, DOC, RUS]" href="/?page=book&topic_id=1552199" onclick="yandex_target('all_books');return true;"><img src="http://www.knigaplus.ru/sale/bimages/8940/8940.jpg" width="100%" class="thumbnail" alt="Обложка книги А. Гулыга - Гегель [1970, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: А. Гулыга - Гегель [1970, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1552199" target="_blank" onclick="yandex_target('all_books');return true;">Гегель </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=А. Гулыга" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: А. Гулыга">А. Гулыга</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Арбат Ю.А. - Светлый Север. Рассказы и очерки о русском Севере, его людях и его народном искусстве [1970, PDF/DjVu, RUS]" href="/?page=book&topic_id=5073906" onclick="yandex_target('all_books');return true;"><img src="http://i67.fastpic.ru/big/2015/0907/2d/fb8e8004b31eb7b509297ac7276a3c2d.jpg" width="100%" class="thumbnail" alt="Обложка книги Арбат Ю.А. - Светлый Север. Рассказы и очерки о русском Севере, его людях и его народном искусстве [1970, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Арбат Ю.А. - Светлый Север. Рассказы и очерки о русском Севере, его людях и его народном искусстве [1970, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5073906" target="_blank" onclick="yandex_target('all_books');return true;">Светлый Север. Рассказы и очерки о русском Севере, его людях и его народном искусстве </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Арбат Ю.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Арбат Ю.А.">Арбат Ю.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Очерки истории и теории изобразительных искусств - Чубова А.П. - Искусство Европы I-IV веков [1970, PDF, RUS]" href="/?page=book&topic_id=5039873" onclick="yandex_target('all_books');return true;"><img src="http://i69.fastpic.ru/big/2015/0710/b0/a45084ff37b068fab625de70de129ab0.jpg" width="100%" class="thumbnail" alt="Обложка книги Очерки истории и теории изобразительных искусств - Чубова А.П. - Искусство Европы I-IV веков [1970, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Очерки истории и теории изобразительных искусств - Чубова А.П. - Искусство Европы I-IV веков [1970, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5039873" target="_blank" onclick="yandex_target('all_books');return true;">Искусство Европы I-IV веков </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Чубова А.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Чубова А.П.">Чубова А.П.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Публикация одного памятника - Плугин В., Александров А. - Храм Покрова на Нерли. Архитектура и скульптура церкви Покрова Богоматери XII века [1970, PDF, RUS]" href="/?page=book&topic_id=4898663" onclick="yandex_target('all_books');return true;"><img src="http://i63.fastpic.ru/big/2014/1224/b9/2866c73bcab4939e25cdc03e77df93b9.jpg" width="100%" class="thumbnail" alt="Обложка книги Публикация одного памятника - Плугин В., Александров А. - Храм Покрова на Нерли. Архитектура и скульптура церкви Покрова Богоматери XII века [1970, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Публикация одного памятника - Плугин В., Александров А. - Храм Покрова на Нерли. Архитектура и скульптура церкви Покрова Богоматери XII века [1970, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4898663" target="_blank" onclick="yandex_target('all_books');return true;">Храм Покрова на Нерли. Архитектура и скульптура церкви Покрова Богоматери XII века </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Плугин В., Александров А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Плугин В., Александров А.">Плугин В., Александров А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Челышев Борис Дмитриевич - В поисках редких книг [1970, PDF/DjVu, RUS]" href="/?page=book&topic_id=4780538" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2014/0710/cc/b215deaf6868d1903740857f71081dcc.jpg" width="100%" class="thumbnail" alt="Обложка книги Челышев Борис Дмитриевич - В поисках редких книг [1970, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Челышев Борис Дмитриевич - В поисках редких книг [1970, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4780538" target="_blank" onclick="yandex_target('all_books');return true;">В поисках редких книг </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Челышев Борис Дмитриевич" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Челышев Борис Дмитриевич">Челышев Борис Дмитриевич</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Барсамов Н.С. - Айвазовский в Крыму [1970, PDF, RUS]" href="/?page=book&topic_id=4513173" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2013/0818/88/a27a550247ac3dbcea2f7d3fc5a84088.jpg" width="100%" class="thumbnail" alt="Обложка книги Барсамов Н.С. - Айвазовский в Крыму [1970, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Барсамов Н.С. - Айвазовский в Крыму [1970, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4513173" target="_blank" onclick="yandex_target('all_books');return true;">Айвазовский в Крыму </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Барсамов Н.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Барсамов Н.С.">Барсамов Н.С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Виппер Б.Р. - Статьи об искусстве [1970, PDF/DjVu, RUS]" href="/?page=book&topic_id=4446338" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2013/0522/bc/44cdbc57607511f94d148edd82909bbc.jpg" width="100%" class="thumbnail" alt="Обложка книги Виппер Б.Р. - Статьи об искусстве [1970, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Виппер Б.Р. - Статьи об искусстве [1970, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4446338" target="_blank" onclick="yandex_target('all_books');return true;">Статьи об искусстве </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Виппер Б.Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Виппер Б.Р.">Виппер Б.Р.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, DEU</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Heinz L&#252;decke - Albrecht D&#252;rer / Хейнц Людеке - Альбрехт Дюрер [1970, PDF, DEU]" href="/?page=book&topic_id=4435540" onclick="yandex_target('all_books');return true;"><img src="http://i46.fastpic.ru/big/2013/0510/38/466dbcad9299a414ada81b7257873338.jpg" width="100%" class="thumbnail" alt="Обложка книги Heinz L&#252;decke - Albrecht D&#252;rer / Хейнц Людеке - Альбрехт Дюрер [1970, PDF, DEU]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Heinz L&#252;decke - Albrecht D&#252;rer / Хейнц Людеке - Альбрехт Дюрер [1970, PDF, DEU]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4435540" target="_blank" onclick="yandex_target('all_books');return true;">Альбрехт Дюрер </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Albrecht D&#252;rer / Хейнц Людеке" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Albrecht D&#252;rer / Хейнц Людеке">Albrecht D&#252;rer / Хейнц Людеке</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Куратова И.А. - Исаак Ильич Левитан [1970, PDF, RUS]" href="/?page=book&topic_id=4363656" onclick="yandex_target('all_books');return true;"><img src="http://i52.fastpic.ru/big/2013/0228/e4/3565d2ef809c399d451fb3c6dde4bfe4.jpg" width="100%" class="thumbnail" alt="Обложка книги Куратова И.А. - Исаак Ильич Левитан [1970, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Куратова И.А. - Исаак Ильич Левитан [1970, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4363656" target="_blank" onclick="yandex_target('all_books');return true;">Исаак Ильич Левитан </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Куратова И.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Куратова И.А.">Куратова И.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Звегинцева О. - Древнерусская книжная миниатюра / Miniatures From Old Russian Illuminated Manuscripts [1970, PDF, RUS]" href="/?page=book&topic_id=4146431" onclick="yandex_target('all_books');return true;"><img src="http://i42.fastpic.ru/big/2012/0806/15/1e0df656b5991cd4e5e35254e2c71215.jpg" width="100%" class="thumbnail" alt="Обложка книги Звегинцева О. - Древнерусская книжная миниатюра / Miniatures From Old Russian Illuminated Manuscripts [1970, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Звегинцева О. - Древнерусская книжная миниатюра / Miniatures From Old Russian Illuminated Manuscripts [1970, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4146431" target="_blank" onclick="yandex_target('all_books');return true;">Древнерусская книжная миниатюра / Miniatures From Old Russian Illuminated Manuscripts </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Звегинцева О." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Звегинцева О.">Звегинцева О.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гоберман Д.Н. - Каменный цветок Молдавии [1970, DjVu, RUS]" href="/?page=book&topic_id=4066434" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Гоберман Д.Н. - Каменный цветок Молдавии [1970, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гоберман Д.Н. - Каменный цветок Молдавии [1970, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4066434" target="_blank" onclick="yandex_target('all_books');return true;">Каменный цветок Молдавии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гоберман Д.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гоберман Д.Н.">Гоберман Д.Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1970</span><span class="hidden-sm-down">джпг, русский</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лауреаты Ленинской премии - Советская скульптура (советские скульпторы) [1970, джпг, русский]" href="/?page=book&topic_id=3885173" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/thumb/2012/0922/f9/_dbb1eb4b14341694c613d5ee76377af9.jpeg" width="100%" class="thumbnail" alt="Обложка книги Лауреаты Ленинской премии - Советская скульптура (советские скульпторы) [1970, джпг, русский]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лауреаты Ленинской премии - Советская скульптура (советские скульпторы) [1970, джпг, русский]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3885173" target="_blank" onclick="yandex_target('all_books');return true;">Советская скульптура (советские скульпторы) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лауреаты Ленинской премии" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лауреаты Ленинской премии">Лауреаты Ленинской премии</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Маврина Т.А. - Городецкая живопись [1970, PDF, RUS]" href="/?page=book&topic_id=3643303" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2011/0707/09/475721b7876539afe834ea43dea15c09.jpg" width="100%" class="thumbnail" alt="Обложка книги Маврина Т.А. - Городецкая живопись [1970, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Маврина Т.А. - Городецкая живопись [1970, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3643303" target="_blank" onclick="yandex_target('all_books');return true;">Городецкая живопись </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Маврина Т.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Маврина Т.А.">Маврина Т.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Тарановская Н.В., Мальцев Н.В. - Русские прялки [1970, PDF, RUS]" href="/?page=book&topic_id=3638136" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2011/0703/bd/944288ff414d13ccd4fd3a20908058bd.jpg" width="100%" class="thumbnail" alt="Обложка книги Тарановская Н.В., Мальцев Н.В. - Русские прялки [1970, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Тарановская Н.В., Мальцев Н.В. - Русские прялки [1970, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3638136" target="_blank" onclick="yandex_target('all_books');return true;">Русские прялки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тарановская Н.В., Мальцев Н.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тарановская Н.В., Мальцев Н.В.">Тарановская Н.В., Мальцев Н.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Очерки истории и теории изобразительных искусств - Ю. Колпинский - Искусство Венеции [1970, PDF, RUS]" href="/?page=book&topic_id=2023102" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/c7/bb27b94f0d52802135e173d41d5b2ec7.jpg" width="100%" class="thumbnail" alt="Обложка книги Очерки истории и теории изобразительных искусств - Ю. Колпинский - Искусство Венеции [1970, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Очерки истории и теории изобразительных искусств - Ю. Колпинский - Искусство Венеции [1970, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2023102" target="_blank" onclick="yandex_target('all_books');return true;">Искусство Венеции </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ю. Колпинский" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ю. Колпинский">Ю. Колпинский</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1970</span><span class="hidden-sm-down">�, JPG, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: (Исторический костюм) Серия &quot;The Gallery of English Costume&quot; [1970-е, JPG, ENG]" href="/?page=book&topic_id=1663812" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/71/d45b5825cb62a723cd91e24715459471.jpg" width="100%" class="thumbnail" alt="Обложка книги (Исторический костюм) Серия &quot;The Gallery of English Costume&quot; [1970-е, JPG, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: (Исторический костюм) Серия &quot;The Gallery of English Costume&quot; [1970-е, JPG, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1663812" target="_blank" onclick="yandex_target('all_books');return true;">(Исторический костюм) Серия &quot;The Gallery of English Costume&quot; </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Марк Эткинд - Мир как большая симфония. Книга о художнике Чюрлёнисе [1970, DjVu]" href="/?page=book&topic_id=1297581" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/c6/e816f4ac1104d843fd4ae7672039a2c6.jpg" width="100%" class="thumbnail" alt="Обложка книги Марк Эткинд - Мир как большая симфония. Книга о художнике Чюрлёнисе [1970, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Марк Эткинд - Мир как большая симфония. Книга о художнике Чюрлёнисе [1970, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1297581" target="_blank" onclick="yandex_target('all_books');return true;">Мир как большая симфония. Книга о художнике Чюрлёнисе </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Марк Эткинд" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Марк Эткинд">Марк Эткинд</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Киреева Е. В. - История костюма. Европейские костюмы от античности до XX века [1970, DjVu]" href="/?page=book&topic_id=1081605" onclick="yandex_target('all_books');return true;"><img src="http://ipicture.ru/uploads/080830/NGeVj6luRo.gif" width="100%" class="thumbnail" alt="Обложка книги Киреева Е. В. - История костюма. Европейские костюмы от античности до XX века [1970, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Киреева Е. В. - История костюма. Европейские костюмы от античности до XX века [1970, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1081605" target="_blank" onclick="yandex_target('all_books');return true;">История костюма. Европейские костюмы от античности до XX века </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Киреева Е. В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Киреева Е. В.">Киреева Е. В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1970</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В мире науки и техники - Хэнзел Ч. - Парапсихология [1970, DjVu, RUS]" href="/?page=book&topic_id=4576545" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2013/1031/48/d25192a23e71a7614909ec29ee42ee48.jpg" width="100%" class="thumbnail" alt="Обложка книги В мире науки и техники - Хэнзел Ч. - Парапсихология [1970, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В мире науки и техники - Хэнзел Ч. - Парапсихология [1970, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4576545" target="_blank" onclick="yandex_target('all_books');return true;">Парапсихология </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Хэнзел Ч." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Хэнзел Ч.">Хэнзел Ч.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">1989, 1990, 1995, 1996, 2002, 2008, 2010-2018, PDF, DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: [Журнал] Вопросы философии. 113 выпусков. [1969, 1989, 1990, 1995, 1996, 2002, 2008, 2010-2018, PDF, DjVu, RUS] обновлено 06.10.2018" href="/?page=book&topic_id=4277100" onclick="yandex_target('all_books');return true;"><img src="http://i54.fastpic.ru/big/2012/1209/53/3910ee77c8e3b016eeb2270e63b76f53.jpg" width="100%" class="thumbnail" alt="Обложка книги [Журнал] Вопросы философии. 113 выпусков. [1969, 1989, 1990, 1995, 1996, 2002, 2008, 2010-2018, PDF, DjVu, RUS] обновлено 06.10.2018"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: [Журнал] Вопросы философии. 113 выпусков. [1969, 1989, 1990, 1995, 1996, 2002, 2008, 2010-2018, PDF, DjVu, RUS] обновлено 06.10.2018"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4277100" target="_blank" onclick="yandex_target('all_books');return true;"> Вопросы философии. 113 выпусков. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Журнал" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Журнал">Журнал</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шерозия А.Е. - К проблеме сознания и бессознательного психического. Т. I. Опыт исследования на основе данных психологии установки [1969, DjVu, RUS]" href="/?page=book&topic_id=5624181" onclick="yandex_target('all_books');return true;"><img src="http://i89.fastpic.ru/big/2018/1006/0a/95daaf5aa1d6fd9e243282848e0b630a.png" width="100%" class="thumbnail" alt="Обложка книги Шерозия А.Е. - К проблеме сознания и бессознательного психического. Т. I. Опыт исследования на основе данных психологии установки [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шерозия А.Е. - К проблеме сознания и бессознательного психического. Т. I. Опыт исследования на основе данных психологии установки [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5624181" target="_blank" onclick="yandex_target('all_books');return true;">К проблеме сознания и бессознательного психического. Т. I. Опыт исследования на основе данных психологии установки </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шерозия А.Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шерозия А.Е.">Шерозия А.Е.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">009, FB2/DOCX/PDF/DjVu, ENG/RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Charles Tart / Чарльз Тарт - Собрание книг [1969-2009, FB2/DOCX/PDF/DjVu, ENG/RUS]" href="/?page=book&topic_id=5503315" onclick="yandex_target('all_books');return true;"><img src="http://img12.lostpic.net/2018/01/06/6688a6e486d3804be72f7a3f8c3a67d0.jpg" width="100%" class="thumbnail" alt="Обложка книги Charles Tart / Чарльз Тарт - Собрание книг [1969-2009, FB2/DOCX/PDF/DjVu, ENG/RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Charles Tart / Чарльз Тарт - Собрание книг [1969-2009, FB2/DOCX/PDF/DjVu, ENG/RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5503315" target="_blank" onclick="yandex_target('all_books');return true;">Собрание книг </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Charles Tart / Чарльз Тарт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Charles Tart / Чарльз Тарт">Charles Tart / Чарльз Тарт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Алтайский М., Георгиев В. - Антимарксистская сущность философских взглядов Мао Цзэ-дуна [1969, DjVu, RUS]" href="/?page=book&topic_id=5477261" onclick="yandex_target('all_books');return true;"><img src="http://i98.fastpic.ru/big/2017/1107/e6/3df811732a3202f6bcf272351b7cc9e6.jpg" width="100%" class="thumbnail" alt="Обложка книги Алтайский М., Георгиев В. - Антимарксистская сущность философских взглядов Мао Цзэ-дуна [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Алтайский М., Георгиев В. - Антимарксистская сущность философских взглядов Мао Цзэ-дуна [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5477261" target="_blank" onclick="yandex_target('all_books');return true;">Антимарксистская сущность философских взглядов Мао Цзэ-дуна </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Алтайский М., Георгиев В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Алтайский М., Георгиев В.">Алтайский М., Георгиев В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">FB2/RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Губерман И. - Чудеса и трагедии черного ящика [1969, FB2/RTF, RUS]" href="/?page=book&topic_id=3945647" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2012/0216/e0/5a0fa84a7994921bbd9242a571e0e8e0.jpeg" width="100%" class="thumbnail" alt="Обложка книги Губерман И. - Чудеса и трагедии черного ящика [1969, FB2/RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Губерман И. - Чудеса и трагедии черного ящика [1969, FB2/RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3945647" target="_blank" onclick="yandex_target('all_books');return true;">Чудеса и трагедии черного ящика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Губерман И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Губерман И.">Губерман И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Богданович Л.А. - Записки психиатра [1969, RTF, RUS]" href="/?page=book&topic_id=4049582" onclick="yandex_target('all_books');return true;"><img src="http://i3.imageban.ru/out/2012/05/06/667668f2fbff436f639bb03613dcf665.jpg" width="100%" class="thumbnail" alt="Обложка книги Богданович Л.А. - Записки психиатра [1969, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Богданович Л.А. - Записки психиатра [1969, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4049582" target="_blank" onclick="yandex_target('all_books');return true;">Записки психиатра </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Богданович Л.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Богданович Л.А.">Богданович Л.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Артамонов И.Д. - Иллюзии зрения (Изд. 3-е) [1969, PDF, RUS]" href="/?page=book&topic_id=3189401" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Артамонов И.Д. - Иллюзии зрения (Изд. 3-е) [1969, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Артамонов И.Д. - Иллюзии зрения (Изд. 3-е) [1969, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3189401" target="_blank" onclick="yandex_target('all_books');return true;">Иллюзии зрения (Изд. 3-е) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Артамонов И.Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Артамонов И.Д.">Артамонов И.Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Клибанов А.И. - Религиозное сектантство и современность (социологические и исторические очерки) [1969, DjVu, RUS]" href="/?page=book&topic_id=3711188" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2011/0829/6f/7c05dcd262a73728dd48aa658c8b3b6f.jpg" width="100%" class="thumbnail" alt="Обложка книги Клибанов А.И. - Религиозное сектантство и современность (социологические и исторические очерки) [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Клибанов А.И. - Религиозное сектантство и современность (социологические и исторические очерки) [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3711188" target="_blank" onclick="yandex_target('all_books');return true;">Религиозное сектантство и современность (социологические и исторические очерки) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Клибанов А.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Клибанов А.И.">Клибанов А.И.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека «Современные религии» - Бартошевич Э.М., Борисоглебский Е.И. - Свидетели Иеговы [1969, DjVu, RUS]" href="/?page=book&topic_id=3435632" onclick="yandex_target('all_books');return true;"><img src="http://i15.fastpic.ru/big/2011/0219/14/870b3533cfcaabfe01825df9ed6b4714.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека «Современные религии» - Бартошевич Э.М., Борисоглебский Е.И. - Свидетели Иеговы [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека «Современные религии» - Бартошевич Э.М., Борисоглебский Е.И. - Свидетели Иеговы [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3435632" target="_blank" onclick="yandex_target('all_books');return true;">Свидетели Иеговы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бартошевич Э.М., Борисоглебский Е.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бартошевич Э.М., Борисоглебский Е.И.">Бартошевич Э.М., Борисоглебский Е.И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Священное писание - Подстрочный перевод царства / The Kingdom Interlinear Translation of the Creek Scriptures [1969, PDF, ENG]" href="/?page=book&topic_id=2661614" onclick="yandex_target('all_books');return true;"><img src="http://i2.fastpic.ru/big/2010/0301/39/cfb1567df032c16dabd3f9aa25ec6939.jpg" width="100%" class="thumbnail" alt="Обложка книги Священное писание - Подстрочный перевод царства / The Kingdom Interlinear Translation of the Creek Scriptures [1969, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Священное писание - Подстрочный перевод царства / The Kingdom Interlinear Translation of the Creek Scriptures [1969, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2661614" target="_blank" onclick="yandex_target('all_books');return true;">Подстрочный перевод царства / The Kingdom Interlinear Translation of the Creek Scriptures </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Священное писание" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Священное писание">Священное писание</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: A. McDermott / А. Мак-Дермотт - An eleventh-century Buddhist logic of “exists” / Буддийская логика «бытия» (XI в.) [1969, PDF, ENG]" href="/?page=book&topic_id=5132470" onclick="yandex_target('all_books');return true;"><img src="http://i76.fastpic.ru/big/2015/1212/7e/de87db452b14a2542da4c39218d65f7e.jpg" width="100%" class="thumbnail" alt="Обложка книги A. McDermott / А. Мак-Дермотт - An eleventh-century Buddhist logic of “exists” / Буддийская логика «бытия» (XI в.) [1969, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: A. McDermott / А. Мак-Дермотт - An eleventh-century Buddhist logic of “exists” / Буддийская логика «бытия» (XI в.) [1969, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5132470" target="_blank" onclick="yandex_target('all_books');return true;">An eleventh-century Buddhist logic of “exists” / Буддийская логика «бытия» (XI в.) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=A. McDermott / А. Мак-Дермотт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: A. McDermott / А. Мак-Дермотт">A. McDermott / А. Мак-Дермотт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Збавител Д. (ред.). - Боги, брахманы, люди. Четыре тысячи лет индуизма. [1969, PDF, DjVu, RUS]" href="/?page=book&topic_id=4443760" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2013/0519/a9/cd048114f225ff768ea253b487e2e4a9.jpg" width="100%" class="thumbnail" alt="Обложка книги Збавител Д. (ред.). - Боги, брахманы, люди. Четыре тысячи лет индуизма. [1969, PDF, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Збавител Д. (ред.). - Боги, брахманы, люди. Четыре тысячи лет индуизма. [1969, PDF, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4443760" target="_blank" onclick="yandex_target('all_books');return true;">Боги, брахманы, люди. Четыре тысячи лет индуизма. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Збавител Д. (ред.)." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Збавител Д. (ред.).">Збавител Д. (ред.).</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">CHM, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Оптнер С. - Системный анализ для решения деловых и промышленных проблем [1969, CHM, RUS]" href="/?page=book&topic_id=2823202" onclick="yandex_target('all_books');return true;"><img src="http://www.ckp.ru/biblio/o/optner/optner1.files/image002.jpg" width="100%" class="thumbnail" alt="Обложка книги Оптнер С. - Системный анализ для решения деловых и промышленных проблем [1969, CHM, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Оптнер С. - Системный анализ для решения деловых и промышленных проблем [1969, CHM, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2823202" target="_blank" onclick="yandex_target('all_books');return true;">Системный анализ для решения деловых и промышленных проблем </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Оптнер С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Оптнер С.">Оптнер С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">CHM, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Н. Смеляков - Деловая Америка [1969, CHM, RUS]" href="/?page=book&topic_id=2279572" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/53/926f9d3b97fee50153468f080623fe53.jpg" width="100%" class="thumbnail" alt="Обложка книги Н. Смеляков - Деловая Америка [1969, CHM, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Н. Смеляков - Деловая Америка [1969, CHM, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2279572" target="_blank" onclick="yandex_target('all_books');return true;">Деловая Америка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Н. Смеляков" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Н. Смеляков">Н. Смеляков</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Агости Э. - Возрожденный Тантал [1969, DjVu, RUS]" href="/?page=book&topic_id=5074566" onclick="yandex_target('all_books');return true;"><img src="http://i70.fastpic.ru/big/2015/0908/85/b741f5f78f867d391834157cf4533185.jpg" width="100%" class="thumbnail" alt="Обложка книги Агости Э. - Возрожденный Тантал [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Агости Э. - Возрожденный Тантал [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5074566" target="_blank" onclick="yandex_target('all_books');return true;">Возрожденный Тантал </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Агости Э." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Агости Э.">Агости Э.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философская библиотечка для юношества - Жданов Д.А. - У истоков мышления [1969, DjVu, RUS]" href="/?page=book&topic_id=5017391" onclick="yandex_target('all_books');return true;"><img src="http://i69.fastpic.ru/big/2015/0603/ae/4323e837237ad8285bbd3d5dc8db8dae.jpg" width="100%" class="thumbnail" alt="Обложка книги Философская библиотечка для юношества - Жданов Д.А. - У истоков мышления [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философская библиотечка для юношества - Жданов Д.А. - У истоков мышления [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5017391" target="_blank" onclick="yandex_target('all_books');return true;">У истоков мышления </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Жданов Д.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Жданов Д.А.">Жданов Д.А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Горнштейн Т.Н. - Философия Николая Гартмана. (Критический анализ основных проблем онтологии) [1969, DjVu, RUS]" href="/?page=book&topic_id=4732937" onclick="yandex_target('all_books');return true;"><img src="http://i62.fastpic.ru/big/2014/0506/43/b710b9f333c8a7072760d2044861ee43.jpg" width="100%" class="thumbnail" alt="Обложка книги Горнштейн Т.Н. - Философия Николая Гартмана. (Критический анализ основных проблем онтологии) [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Горнштейн Т.Н. - Философия Николая Гартмана. (Критический анализ основных проблем онтологии) [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4732937" target="_blank" onclick="yandex_target('all_books');return true;">Философия Николая Гартмана. (Критический анализ основных проблем онтологии) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Горнштейн Т.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Горнштейн Т.Н.">Горнштейн Т.Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, DJVU, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мотрошилова Н.В. - Познание и общество [1969, PDF, DJVU, RUS]" href="/?page=book&topic_id=4677494" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2014/0224/c4/5d7c08a765562a52057f4d80497a7ec4.jpg" width="100%" class="thumbnail" alt="Обложка книги Мотрошилова Н.В. - Познание и общество [1969, PDF, DJVU, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мотрошилова Н.В. - Познание и общество [1969, PDF, DJVU, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4677494" target="_blank" onclick="yandex_target('all_books');return true;">Познание и общество </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мотрошилова Н.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мотрошилова Н.В.">Мотрошилова Н.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ясперс К. - Куда движется ФРГ? Факты. Опасности. Шансы [1969, PDF/DjVu, RUS]" href="/?page=book&topic_id=4596860" onclick="yandex_target('all_books');return true;"><img src="http://s020.radikal.ru/i715/1311/61/cffddd077348.jpg" width="100%" class="thumbnail" alt="Обложка книги Ясперс К. - Куда движется ФРГ? Факты. Опасности. Шансы [1969, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ясперс К. - Куда движется ФРГ? Факты. Опасности. Шансы [1969, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4596860" target="_blank" onclick="yandex_target('all_books');return true;">Куда движется ФРГ? Факты. Опасности. Шансы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ясперс К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ясперс К.">Ясперс К.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Субботин А.Л. (ред.) - От Эразма Роттердамского до Бертрана Рассела [1969, PDF/DjVu, RUS]" href="/?page=book&topic_id=4562474" onclick="yandex_target('all_books');return true;"><img src="http://i1.imageban.ru/out/2013/10/16/72ac538d95151d3f1898797d44355f11.jpg" width="100%" class="thumbnail" alt="Обложка книги Субботин А.Л. (ред.) - От Эразма Роттердамского до Бертрана Рассела [1969, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Субботин А.Л. (ред.) - От Эразма Роттердамского до Бертрана Рассела [1969, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4562474" target="_blank" onclick="yandex_target('all_books');return true;">От Эразма Роттердамского до Бертрана Рассела </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Субботин А.Л. (ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Субботин А.Л. (ред.)">Субботин А.Л. (ред.)</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Чуева И.П. - Антикоммунизм и русская религиозная философия [1969, DjVu, RUS]" href="/?page=book&topic_id=4434146" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2013/0508/78/4f032091428814c945a07354e8e99678.jpg" width="100%" class="thumbnail" alt="Обложка книги Чуева И.П. - Антикоммунизм и русская религиозная философия [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Чуева И.П. - Антикоммунизм и русская религиозная философия [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4434146" target="_blank" onclick="yandex_target('all_books');return true;">Антикоммунизм и русская религиозная философия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Чуева И.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Чуева И.П.">Чуева И.П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Копнин П.В. - Философские идеи В.И. Ленина и логика [1969, DjVu, RUS]" href="/?page=book&topic_id=4413753" onclick="yandex_target('all_books');return true;"><img src="http://i47.fastpic.ru/big/2013/0503/f7/896e4fe77304f5e4517c6703ee0093f7.jpeg" width="100%" class="thumbnail" alt="Обложка книги Копнин П.В. - Философские идеи В.И. Ленина и логика [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Копнин П.В. - Философские идеи В.И. Ленина и логика [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4413753" target="_blank" onclick="yandex_target('all_books');return true;">Философские идеи В.И. Ленина и логика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Копнин П.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Копнин П.В.">Копнин П.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down"> ..., PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Блауберг И.Г и др. (ред). - Системные исследования. Ежегодник [1969 - ..., PDF, RUS]" href="/?page=book&topic_id=4206982" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2012/1006/66/a63c484cb2557e2cb077376452200966.jpg" width="100%" class="thumbnail" alt="Обложка книги Блауберг И.Г и др. (ред). - Системные исследования. Ежегодник [1969 - ..., PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Блауберг И.Г и др. (ред). - Системные исследования. Ежегодник [1969 - ..., PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4206982" target="_blank" onclick="yandex_target('all_books');return true;">..., PDF, RUS]</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Системные исследования. Ежегодник [1969" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Системные исследования. Ежегодник [1969">Системные исследования. Ежегодник [1969</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Павлов Т. (гл. ред.) - Ленинская теория отражения и современность. - [1969, PDF, RUS]" href="/?page=book&topic_id=4025461" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Павлов Т. (гл. ред.) - Ленинская теория отражения и современность. - [1969, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Павлов Т. (гл. ред.) - Ленинская теория отражения и современность. - [1969, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4025461" target="_blank" onclick="yandex_target('all_books');return true;">[1969, PDF, RUS]</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ленинская теория отражения и современность." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ленинская теория отражения и современность.">Ленинская теория отражения и современность.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Zivkovic L. / Живкович Л. - Teorija socijalnog odrazavanja / Теория социального отражения [1969, PDF, RUS]" href="/?page=book&topic_id=3970440" onclick="yandex_target('all_books');return true;"><img src="http://i27.fastpic.ru/big/2012/0305/e4/13673b0ca3808cf1361f73c7c94d10e4.jpg" width="100%" class="thumbnail" alt="Обложка книги Zivkovic L. / Живкович Л. - Teorija socijalnog odrazavanja / Теория социального отражения [1969, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Zivkovic L. / Живкович Л. - Teorija socijalnog odrazavanja / Теория социального отражения [1969, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3970440" target="_blank" onclick="yandex_target('all_books');return true;">Teorija socijalnog odrazavanja / Теория социального отражения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Zivkovic L. / Живкович Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Zivkovic L. / Живкович Л.">Zivkovic L. / Живкович Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Проблема человека в современной философии [1969, PDF, RUS]" href="/?page=book&topic_id=3917836" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2012/0126/ca/2f9499467564377536f6fa119da479ca.jpg" width="100%" class="thumbnail" alt="Обложка книги Проблема человека в современной философии [1969, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Проблема человека в современной философии [1969, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3917836" target="_blank" onclick="yandex_target('all_books');return true;">Проблема человека в современной философии </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">8213;1972, DjVu/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философское наследие - Антология мировой философии в 4-х томах [1969&#8213;1972, DjVu/PDF, RUS]" href="/?page=book&topic_id=3607926" onclick="yandex_target('all_books');return true;"><img src="http://i704.photobucket.com/albums/ww46/glasnaglarus/Books%209/Anthology_Cover.jpg" width="100%" class="thumbnail" alt="Обложка книги Философское наследие - Антология мировой философии в 4-х томах [1969&#8213;1972, DjVu/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философское наследие - Антология мировой философии в 4-х томах [1969&#8213;1972, DjVu/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3607926" target="_blank" onclick="yandex_target('all_books');return true;">Антология мировой философии в 4-х томах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Философское наследие" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Философское наследие">Философское наследие</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Литературные памятники - Жан-Жак Руссо - Трактаты [1969, DjVu/PDF, RUS]" href="/?page=book&topic_id=3040459" onclick="yandex_target('all_books');return true;"><img src="http://i704.photobucket.com/albums/ww46/glasnaglarus/Books%201/Rousseau_Cover.jpg" width="100%" class="thumbnail" alt="Обложка книги Литературные памятники - Жан-Жак Руссо - Трактаты [1969, DjVu/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Литературные памятники - Жан-Жак Руссо - Трактаты [1969, DjVu/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3040459" target="_blank" onclick="yandex_target('all_books');return true;">Трактаты </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Жан-Жак Руссо" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Жан-Жак Руссо">Жан-Жак Руссо</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">971, PDF/DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философское наследие - Антология мировой философии (в 4-х томах) [1969-1971, PDF/DOC, RUS]" href="/?page=book&topic_id=3233410" onclick="yandex_target('all_books');return true;"><img src="http://s014.radikal.ru/i329/1010/ef/da9a08c1e9f9.jpg" width="100%" class="thumbnail" alt="Обложка книги Философское наследие - Антология мировой философии (в 4-х томах) [1969-1971, PDF/DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философское наследие - Антология мировой философии (в 4-х томах) [1969-1971, PDF/DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3233410" target="_blank" onclick="yandex_target('all_books');return true;">Антология мировой философии (в 4-х томах) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Философское наследие" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Философское наследие">Философское наследие</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ойзерман Т.И. - Проблемы историко-философской науки. [1969, DjVu, RUS]" href="/?page=book&topic_id=3219429" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Ойзерман Т.И. - Проблемы историко-философской науки. [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ойзерман Т.И. - Проблемы историко-философской науки. [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3219429" target="_blank" onclick="yandex_target('all_books');return true;">Проблемы историко-философской науки. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ойзерман Т.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ойзерман Т.И.">Ойзерман Т.И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Грюнбаум А. - Философские проблемы пространства и времени. [1969, PDF, RUS]" href="/?page=book&topic_id=3202659" onclick="yandex_target('all_books');return true;"><img src="http://i4.fastpic.ru/big/2010/1012/d4/baf4cdd4cd25cafb57810924fcddf9d4.jpg" width="100%" class="thumbnail" alt="Обложка книги Грюнбаум А. - Философские проблемы пространства и времени. [1969, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Грюнбаум А. - Философские проблемы пространства и времени. [1969, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3202659" target="_blank" onclick="yandex_target('all_books');return true;">Философские проблемы пространства и времени. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Грюнбаум А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Грюнбаум А.">Грюнбаум А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Келле В.Ж., Ковальзон М.Я. - Курс исторического материализма (Исторический материализм) [1969, DjVu]" href="/?page=book&topic_id=1655552" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/f4/1c29e58f05f8946a4307b7064442c5f4.jpg" width="100%" class="thumbnail" alt="Обложка книги Келле В.Ж., Ковальзон М.Я. - Курс исторического материализма (Исторический материализм) [1969, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Келле В.Ж., Ковальзон М.Я. - Курс исторического материализма (Исторический материализм) [1969, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1655552" target="_blank" onclick="yandex_target('all_books');return true;">Курс исторического материализма (Исторический материализм) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Келле В.Ж., Ковальзон М.Я." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Келле В.Ж., Ковальзон М.Я.">Келле В.Ж., Ковальзон М.Я.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гнедовский Б. - Зодчество Древней Руси [1969, PDF, RUS]" href="/?page=book&topic_id=5038956" onclick="yandex_target('all_books');return true;"><img src="http://i70.fastpic.ru/big/2015/0708/16/f356c3749a8f42b59d15a1f489227f16.jpg" width="100%" class="thumbnail" alt="Обложка книги Гнедовский Б. - Зодчество Древней Руси [1969, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гнедовский Б. - Зодчество Древней Руси [1969, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5038956" target="_blank" onclick="yandex_target('all_books');return true;">Зодчество Древней Руси </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гнедовский Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гнедовский Б.">Гнедовский Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Gillo Dorfles / Джилло Дорфлес - Kitsch. An Anthology of Bad Taste / Кич. Мир дурного вкуса [1969, PDF, ENG]" href="/?page=book&topic_id=4880222" onclick="yandex_target('all_books');return true;"><img src="http://i48.fastpic.ru/big/2015/0505/a7/4bf43d02c94ad3645444253b1f7ec5a7.jpg" width="100%" class="thumbnail" alt="Обложка книги Gillo Dorfles / Джилло Дорфлес - Kitsch. An Anthology of Bad Taste / Кич. Мир дурного вкуса [1969, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Gillo Dorfles / Джилло Дорфлес - Kitsch. An Anthology of Bad Taste / Кич. Мир дурного вкуса [1969, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4880222" target="_blank" onclick="yandex_target('all_books');return true;">Kitsch. An Anthology of Bad Taste / Кич. Мир дурного вкуса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Gillo Dorfles / Джилло Дорфлес" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Gillo Dorfles / Джилло Дорфлес">Gillo Dorfles / Джилло Дорфлес</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ривкин Б.И. - В долине Алфея. Олимпийские игры в искусстве Древней Греции. [1969, DjVu, RUS]" href="/?page=book&topic_id=4956729" onclick="yandex_target('all_books');return true;"><img src="http://i67.fastpic.ru/big/2015/0308/ea/a92f7d72f6c77d10d144799aad38deea.jpg" width="100%" class="thumbnail" alt="Обложка книги Ривкин Б.И. - В долине Алфея. Олимпийские игры в искусстве Древней Греции. [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ривкин Б.И. - В долине Алфея. Олимпийские игры в искусстве Древней Греции. [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4956729" target="_blank" onclick="yandex_target('all_books');return true;">В долине Алфея. Олимпийские игры в искусстве Древней Греции. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ривкин Б.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ривкин Б.И.">Ривкин Б.И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эткинд М. - Ленин говорит с броневика [1969, DjVu, RUS]" href="/?page=book&topic_id=4921311" onclick="yandex_target('all_books');return true;"><img src="http://i58.fastpic.ru/big/2015/0122/c4/fcae43763629a962a202e7da0672d0c4.jpg" width="100%" class="thumbnail" alt="Обложка книги Эткинд М. - Ленин говорит с броневика [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эткинд М. - Ленин говорит с броневика [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4921311" target="_blank" onclick="yandex_target('all_books');return true;">Ленин говорит с броневика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эткинд М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эткинд М.">Эткинд М.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Новое в жизни, науке, технике. Искусство - Можнягун С.Е. - «Массовое искусство» - против масс [1969, DjVu, RUS]" href="/?page=book&topic_id=4883018" onclick="yandex_target('all_books');return true;"><img src="http://i67.fastpic.ru/big/2014/1203/1f/82b2686997420219e6691b90cb50481f.jpg" width="100%" class="thumbnail" alt="Обложка книги Новое в жизни, науке, технике. Искусство - Можнягун С.Е. - «Массовое искусство» - против масс [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Новое в жизни, науке, технике. Искусство - Можнягун С.Е. - «Массовое искусство» - против масс [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4883018" target="_blank" onclick="yandex_target('all_books');return true;">«Массовое искусство» - против масс </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Можнягун С.Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Можнягун С.Е.">Можнягун С.Е.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кеменов В.С. - Против абстракционизма. В спорах о реализме (Изд. 2-е) [1969, DjVu, RUS]" href="/?page=book&topic_id=4804343" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Кеменов В.С. - Против абстракционизма. В спорах о реализме (Изд. 2-е) [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кеменов В.С. - Против абстракционизма. В спорах о реализме (Изд. 2-е) [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4804343" target="_blank" onclick="yandex_target('all_books');return true;">Против абстракционизма. В спорах о реализме (Изд. 2-е) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кеменов В.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кеменов В.С.">Кеменов В.С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кузнецова И.А. - Красота человека в искусстве [1969, PDF, RUS]" href="/?page=book&topic_id=4366925" onclick="yandex_target('all_books');return true;"><img src="http://i52.fastpic.ru/big/2013/0303/c1/89b57803dd7c304951cdc236f72b27c1.jpg" width="100%" class="thumbnail" alt="Обложка книги Кузнецова И.А. - Красота человека в искусстве [1969, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кузнецова И.А. - Красота человека в искусстве [1969, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4366925" target="_blank" onclick="yandex_target('all_books');return true;">Красота человека в искусстве </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кузнецова И.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кузнецова И.А.">Кузнецова И.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">doc/pdf</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: А. Тоникян (составитель) - &#1344;&#1377;&#1391;&#1400;&#1378; &#1344;&#1400;&#1406;&#1398;&#1377;&#1385;&#1377;&#1398;&#1397;&#1377;&#1398;/Акоп Овнатанян [1969, doc/pdf]" href="/?page=book&topic_id=4326989" onclick="yandex_target('all_books');return true;"><img src="http://i52.fastpic.ru/big/2013/0124/0c/4446d44e441a38de2d23c5a55c37910c.jpg" width="100%" class="thumbnail" alt="Обложка книги А. Тоникян (составитель) - &#1344;&#1377;&#1391;&#1400;&#1378; &#1344;&#1400;&#1406;&#1398;&#1377;&#1385;&#1377;&#1398;&#1397;&#1377;&#1398;/Акоп Овнатанян [1969, doc/pdf]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: А. Тоникян (составитель) - &#1344;&#1377;&#1391;&#1400;&#1378; &#1344;&#1400;&#1406;&#1398;&#1377;&#1385;&#1377;&#1398;&#1397;&#1377;&#1398;/Акоп Овнатанян [1969, doc/pdf]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4326989" target="_blank" onclick="yandex_target('all_books');return true;">&#1344;&#1377;&#1391;&#1400;&#1378; &#1344;&#1400;&#1406;&#1398;&#1377;&#1385;&#1377;&#1398;&#1397;&#1377;&#1398;/Акоп Овнатанян </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=А. Тоникян (составитель)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: А. Тоникян (составитель)">А. Тоникян (составитель)</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дороги к прекрасному - Тиц А.А - По окраинным землям Владимирским (Вязники, Мстера, Гороховец) [1969, PDF, RUS]" href="/?page=book&topic_id=4214087" onclick="yandex_target('all_books');return true;"><img src="http://i45.fastpic.ru/big/2012/1012/47/fe3e18bdad65d4ff24e80d7d5220b447.jpg" width="100%" class="thumbnail" alt="Обложка книги Дороги к прекрасному - Тиц А.А - По окраинным землям Владимирским (Вязники, Мстера, Гороховец) [1969, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дороги к прекрасному - Тиц А.А - По окраинным землям Владимирским (Вязники, Мстера, Гороховец) [1969, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4214087" target="_blank" onclick="yandex_target('all_books');return true;">По окраинным землям Владимирским (Вязники, Мстера, Гороховец) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тиц А.А" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тиц А.А">Тиц А.А</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF/DjVu, UKR</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вьюник А.А. (сост.) - Олена Кульчицька. Альбом / Елена Кульчицкая. Альбом [1969, PDF/DjVu, UKR]" href="/?page=book&topic_id=4188067" onclick="yandex_target('all_books');return true;"><img src="http://i40.fastpic.ru/big/2012/0918/bd/aafb0e09c7450d202e6d23cb848ea9bd.jpg" width="100%" class="thumbnail" alt="Обложка книги Вьюник А.А. (сост.) - Олена Кульчицька. Альбом / Елена Кульчицкая. Альбом [1969, PDF/DjVu, UKR]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вьюник А.А. (сост.) - Олена Кульчицька. Альбом / Елена Кульчицкая. Альбом [1969, PDF/DjVu, UKR]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4188067" target="_blank" onclick="yandex_target('all_books');return true;">Олена Кульчицька. Альбом / Елена Кульчицкая. Альбом </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вьюник А.А. (сост.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вьюник А.А. (сост.)">Вьюник А.А. (сост.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, UKR</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гуменюк А. И. - Украинские народные танцы / Українськi народнi танцi [1969, DjVu, UKR]" href="/?page=book&topic_id=3109580" onclick="yandex_target('all_books');return true;"><img src="http://i65.fastpic.ru/big/2014/0802/ee/1ce30ff19d779429c2472408f24e2eee.jpg" width="100%" class="thumbnail" alt="Обложка книги Гуменюк А. И. - Украинские народные танцы / Українськi народнi танцi [1969, DjVu, UKR]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гуменюк А. И. - Украинские народные танцы / Українськi народнi танцi [1969, DjVu, UKR]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3109580" target="_blank" onclick="yandex_target('all_books');return true;">Украинские народные танцы / Українськi народнi танцi </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гуменюк А. И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гуменюк А. И.">Гуменюк А. И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Серебренников Н. Н. - Поддержка в дуэтном танце [1969, DjVu, RUS]" href="/?page=book&topic_id=3094237" onclick="yandex_target('all_books');return true;"><img src="http://i89.fastpic.ru/big/2017/0315/21/b958ea2d7ea784983876c7627983ef21.jpg" width="100%" class="thumbnail" alt="Обложка книги Серебренников Н. Н. - Поддержка в дуэтном танце [1969, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Серебренников Н. Н. - Поддержка в дуэтном танце [1969, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3094237" target="_blank" onclick="yandex_target('all_books');return true;">Поддержка в дуэтном танце </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Серебренников Н. Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Серебренников Н. Н.">Серебренников Н. Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Путешествия по странам Востока - Шапошникова Л.В. - Тайна племени голубых гор [1969, PDF]" href="/?page=book&topic_id=2004828" onclick="yandex_target('all_books');return true;"><img src="http://i1.fastpic.ru/big/2010/0106/19/924d671c1647ab5f15f50d7606853b19.jpg" width="100%" class="thumbnail" alt="Обложка книги Путешествия по странам Востока - Шапошникова Л.В. - Тайна племени голубых гор [1969, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Путешествия по странам Востока - Шапошникова Л.В. - Тайна племени голубых гор [1969, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2004828" target="_blank" onclick="yandex_target('all_books');return true;">Тайна племени голубых гор </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шапошникова Л.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шапошникова Л.В.">Шапошникова Л.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1969</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Israel Regardie / Израэль Регарди - The Tree of Life: A Study in Magic / Древо Жизни [1969, PDF, ENG]" href="/?page=book&topic_id=3079710" onclick="yandex_target('all_books');return true;"><img src="http://img713.imageshack.us/img713/130/treeb.jpg" width="100%" class="thumbnail" alt="Обложка книги Israel Regardie / Израэль Регарди - The Tree of Life: A Study in Magic / Древо Жизни [1969, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Israel Regardie / Израэль Регарди - The Tree of Life: A Study in Magic / Древо Жизни [1969, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3079710" target="_blank" onclick="yandex_target('all_books');return true;">The Tree of Life: A Study in Magic / Древо Жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Israel Regardie / Израэль Регарди" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Israel Regardie / Израэль Регарди">Israel Regardie / Израэль Регарди</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Шляхтенко С. Г. - Категории качества и количества [1968, DjVu, RUS]" href="/?page=book&topic_id=5706199" onclick="yandex_target('all_books');return true;"><img src="https://i109.fastpic.ru/big/2019/0319/f2/49954ec6c6ca1333728c03e3bdf925f2.jpeg" width="100%" class="thumbnail" alt="Обложка книги Шляхтенко С. Г. - Категории качества и количества [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Шляхтенко С. Г. - Категории качества и количества [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5706199" target="_blank" onclick="yandex_target('all_books');return true;">Категории качества и количества </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шляхтенко С. Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шляхтенко С. Г.">Шляхтенко С. Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лобзин В.С. Решетников М.М. - Аутогенная тренировка. Справочное пособие для врачей [1968, PDF/DjVu, RUS]" href="/?page=book&topic_id=5682471" onclick="yandex_target('all_books');return true;"><img src="https://i106.fastpic.ru/big/2019/0131/80/ffba7c9b5b8058403237d2d1620c7780.jpg" width="100%" class="thumbnail" alt="Обложка книги Лобзин В.С. Решетников М.М. - Аутогенная тренировка. Справочное пособие для врачей [1968, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лобзин В.С. Решетников М.М. - Аутогенная тренировка. Справочное пособие для врачей [1968, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5682471" target="_blank" onclick="yandex_target('all_books');return true;">Аутогенная тренировка. Справочное пособие для врачей </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лобзин В.С. Решетников М.М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лобзин В.С. Решетников М.М.">Лобзин В.С. Решетников М.М.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: А. А. Леонтьев (отв. ред.) - Теория речевой деятельности [1968, PDF/DjVu, RUS]" href="/?page=book&topic_id=5599112" onclick="yandex_target('all_books');return true;"><img src="http://i101.fastpic.ru/big/2018/0811/6c/37727d89c0259b2265a0b88e2e03c16c.jpeg" width="100%" class="thumbnail" alt="Обложка книги А. А. Леонтьев (отв. ред.) - Теория речевой деятельности [1968, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: А. А. Леонтьев (отв. ред.) - Теория речевой деятельности [1968, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5599112" target="_blank" onclick="yandex_target('all_books');return true;">Теория речевой деятельности </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=А. А. Леонтьев (отв. ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: А. А. Леонтьев (отв. ред.)">А. А. Леонтьев (отв. ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Аркадин Л.И. - Индикатор таланта [1968, DjVu, RUS]" href="/?page=book&topic_id=5579209" onclick="yandex_target('all_books');return true;"><img src="http://i104.fastpic.ru/big/2018/0625/3c/110197e56f08bd1478815503c0800c3c.jpg" width="100%" class="thumbnail" alt="Обложка книги Аркадин Л.И. - Индикатор таланта [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Аркадин Л.И. - Индикатор таланта [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5579209" target="_blank" onclick="yandex_target('all_books');return true;">Индикатор таланта </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Аркадин Л.И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Аркадин Л.И.">Аркадин Л.И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мамардашвили М. К. - Формы и содержание мышления (К критике гегелевского учения о формах познания) [1968, DjVu, RUS]" href="/?page=book&topic_id=5546645" onclick="yandex_target('all_books');return true;"><img src="http://i105.fastpic.ru/big/2018/0409/01/4c9306351bee05ba8f30f38e41420b01.png" width="100%" class="thumbnail" alt="Обложка книги Мамардашвили М. К. - Формы и содержание мышления (К критике гегелевского учения о формах познания) [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мамардашвили М. К. - Формы и содержание мышления (К критике гегелевского учения о формах познания) [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5546645" target="_blank" onclick="yandex_target('all_books');return true;">Формы и содержание мышления (К критике гегелевского учения о формах познания) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мамардашвили М. К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мамардашвили М. К.">Мамардашвили М. К.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Дьюи Д. - Свобода и культура [1968, PDF/DjVu, RUS]" href="/?page=book&topic_id=5479356" onclick="yandex_target('all_books');return true;"><img src="http://i98.fastpic.ru/big/2017/1112/a9/d7a44c78b728315971422358b5dedba9.jpg" width="100%" class="thumbnail" alt="Обложка книги Дьюи Д. - Свобода и культура [1968, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Дьюи Д. - Свобода и культура [1968, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5479356" target="_blank" onclick="yandex_target('all_books');return true;">Свобода и культура </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дьюи Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дьюи Д.">Дьюи Д.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гусева Н.Р. - Джайнизм [1968, PDF/DjVu, RUS]" href="/?page=book&topic_id=5346658" onclick="yandex_target('all_books');return true;"><img src="http://i91.fastpic.ru/big/2017/0124/d2/b7a0e019a538f056751d24b4b91cb9d2.jpg" width="100%" class="thumbnail" alt="Обложка книги Гусева Н.Р. - Джайнизм [1968, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гусева Н.Р. - Джайнизм [1968, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5346658" target="_blank" onclick="yandex_target('all_books');return true;">Джайнизм </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гусева Н.Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гусева Н.Р.">Гусева Н.Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down"> 1998, PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Карлос Кастанеда, Флоринда Доннер, Тайша Абеляр. Собрание сочинений (16 книг) [1968 - 1998, PDF]" href="/?page=book&topic_id=574532" onclick="yandex_target('all_books');return true;"><img src="http://i72.fastpic.ru/big/2015/1008/8e/545c069205231277de5cb677d3158c8e.jpg" width="100%" class="thumbnail" alt="Обложка книги Карлос Кастанеда, Флоринда Доннер, Тайша Абеляр. Собрание сочинений (16 книг) [1968 - 1998, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Карлос Кастанеда, Флоринда Доннер, Тайша Абеляр. Собрание сочинений (16 книг) [1968 - 1998, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=574532" target="_blank" onclick="yandex_target('all_books');return true;">1998, PDF]</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Карлос Кастанеда, Флоринда Доннер, Тайша Абеляр. Собрание сочинений (16 книг) [1968" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Карлос Кастанеда, Флоринда Доннер, Тайша Абеляр. Собрание сочинений (16 книг) [1968">Карлос Кастанеда, Флоринда Доннер, Тайша Абеляр. Собрание сочинений (16 книг) [1968</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">003, DjVu/DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В.А.Лефевр - Алгебра конфликта / Конфликтующие структуры / Формула человека: Контуры фундаментальной психологии / Алгебра совести [1968-2003, DjVu/DOC, RUS]" href="/?page=book&topic_id=2959426" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги В.А.Лефевр - Алгебра конфликта / Конфликтующие структуры / Формула человека: Контуры фундаментальной психологии / Алгебра совести [1968-2003, DjVu/DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В.А.Лефевр - Алгебра конфликта / Конфликтующие структуры / Формула человека: Контуры фундаментальной психологии / Алгебра совести [1968-2003, DjVu/DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2959426" target="_blank" onclick="yandex_target('all_books');return true;">Алгебра конфликта / Конфликтующие структуры / Формула человека: Контуры фундаментальной психологии / Алгебра совести </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=В.А.Лефевр" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: В.А.Лефевр">В.А.Лефевр</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Уэллс Г. - Крах психоанализа (от Фрейда к Фромму) [1968, PDF/DjVu, RUS]" href="/?page=book&topic_id=4502317" onclick="yandex_target('all_books');return true;"><img src="http://i50.fastpic.ru/big/2013/0802/2e/bc71b825d2d513f27d5754e6cf50a62e.jpg" width="100%" class="thumbnail" alt="Обложка книги Уэллс Г. - Крах психоанализа (от Фрейда к Фромму) [1968, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Уэллс Г. - Крах психоанализа (от Фрейда к Фромму) [1968, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4502317" target="_blank" onclick="yandex_target('all_books');return true;">Крах психоанализа (от Фрейда к Фромму) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Уэллс Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Уэллс Г.">Уэллс Г.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бжалава И.Т. - Установка и поведение [1968, PDF, RUS]" href="/?page=book&topic_id=4949187" onclick="yandex_target('all_books');return true;"><img src="http://i63.fastpic.ru/big/2015/0227/0e/93495ab73fcf34ef3f7026fef02dec0e.jpg" width="100%" class="thumbnail" alt="Обложка книги Бжалава И.Т. - Установка и поведение [1968, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бжалава И.Т. - Установка и поведение [1968, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4949187" target="_blank" onclick="yandex_target('all_books');return true;">Установка и поведение </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бжалава И.Т." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бжалава И.Т.">Бжалава И.Т.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мейлах Б.С. (ред.) - Содружество наук и тайны творчества [1968, DjVu, RUS]" href="/?page=book&topic_id=4271957" onclick="yandex_target('all_books');return true;"><img src="http://i49.fastpic.ru/big/2012/1204/58/0a4cfb77f7d1d134a118ae5f31249c58.jpg" width="100%" class="thumbnail" alt="Обложка книги Мейлах Б.С. (ред.) - Содружество наук и тайны творчества [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мейлах Б.С. (ред.) - Содружество наук и тайны творчества [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4271957" target="_blank" onclick="yandex_target('all_books');return true;">Содружество наук и тайны творчества </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мейлах Б.С. (ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мейлах Б.С. (ред.)">Мейлах Б.С. (ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Лурия А.Р. - Маленькая книжка о большой памяти [1968, DjVu, RUS]" href="/?page=book&topic_id=3882664" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2011/1231/03/9872c915045287570e88cdb6dfc53903.jpeg" width="100%" class="thumbnail" alt="Обложка книги Лурия А.Р. - Маленькая книжка о большой памяти [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Лурия А.Р. - Маленькая книжка о большой памяти [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3882664" target="_blank" onclick="yandex_target('all_books');return true;">Маленькая книжка о большой памяти </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лурия А.Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лурия А.Р.">Лурия А.Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бассин Ф.В. - Проблема бессознательного [1968, DjVu, RUS]" href="/?page=book&topic_id=3850176" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2011/1206/46/9bd7b687fac874d6eec60a85fedc4e46.jpg" width="100%" class="thumbnail" alt="Обложка книги Бассин Ф.В. - Проблема бессознательного [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бассин Ф.В. - Проблема бессознательного [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3850176" target="_blank" onclick="yandex_target('all_books');return true;">Проблема бессознательного </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бассин Ф.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бассин Ф.В.">Бассин Ф.В.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1968</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Александр Романович Лурия - Маленькая книжка о большой памяти [1968, DOC]" href="/?page=book&topic_id=1645507" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/b6/cbb972ce7cc86e07f780256a7b8dabb6.jpg" width="100%" class="thumbnail" alt="Обложка книги Александр Романович Лурия - Маленькая книжка о большой памяти [1968, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Александр Романович Лурия - Маленькая книжка о большой памяти [1968, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1645507" target="_blank" onclick="yandex_target('all_books');return true;">Маленькая книжка о большой памяти </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Александр Романович Лурия" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Александр Романович Лурия">Александр Романович Лурия</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Dign&#257;ga / Дигнага - Dign&#257;ga on perception / Дигнага о восприятии [1968, PDF, ENG]" href="/?page=book&topic_id=5131270" onclick="yandex_target('all_books');return true;"><img src="http://i67.fastpic.ru/big/2015/1210/46/273669663a2102227998f648f7701646.jpg" width="100%" class="thumbnail" alt="Обложка книги Dign&#257;ga / Дигнага - Dign&#257;ga on perception / Дигнага о восприятии [1968, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Dign&#257;ga / Дигнага - Dign&#257;ga on perception / Дигнага о восприятии [1968, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5131270" target="_blank" onclick="yandex_target('all_books');return true;">Dign&#257;ga on perception / Дигнага о восприятии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Dign&#257;ga / Дигнага" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Dign&#257;ga / Дигнага">Dign&#257;ga / Дигнага</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Керженцев П. М. - Принципы организации [1968, PDF, RUS]" href="/?page=book&topic_id=4536537" onclick="yandex_target('all_books');return true;"><img src="http://i58.fastpic.ru/big/2013/0916/48/8d4e1547586937eeadf680cc30250648.jpg" width="100%" class="thumbnail" alt="Обложка книги Керженцев П. М. - Принципы организации [1968, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Керженцев П. М. - Принципы организации [1968, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4536537" target="_blank" onclick="yandex_target('all_books');return true;">Принципы организации </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Керженцев П. М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Керженцев П. М.">Керженцев П. М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF/DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Вазюлин В.А. - Логика «Капитала» Карла Маркса [1968, PDF/DjVu, RUS]" href="/?page=book&topic_id=5146477" onclick="yandex_target('all_books');return true;"><img src="http://i74.fastpic.ru/big/2016/0107/dd/e5560a717d74c23ce53ff6cd5d7f61dd.jpeg" width="100%" class="thumbnail" alt="Обложка книги Вазюлин В.А. - Логика «Капитала» Карла Маркса [1968, PDF/DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Вазюлин В.А. - Логика «Капитала» Карла Маркса [1968, PDF/DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5146477" target="_blank" onclick="yandex_target('all_books');return true;">Логика «Капитала» Карла Маркса </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вазюлин В.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вазюлин В.А.">Вазюлин В.А.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF/DjVu, SKT</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Bauddhabh&#257;rat&#299;grantham&#257;l&#257;, 1 - &#346;&#257;ntarak&#7779;ita / Шантаракшита - Tattvasa&#7749;graha. In 2 vols. / Таттвасанграха. В 2-х томах. [1968, PDF/DjVu, SKT]" href="/?page=book&topic_id=4994504" onclick="yandex_target('all_books');return true;"><img src="http://i58.fastpic.ru/big/2015/0426/7b/ecc3edd435f4d6c534ebf9a8197b607b.jpg" width="100%" class="thumbnail" alt="Обложка книги Bauddhabh&#257;rat&#299;grantham&#257;l&#257;, 1 - &#346;&#257;ntarak&#7779;ita / Шантаракшита - Tattvasa&#7749;graha. In 2 vols. / Таттвасанграха. В 2-х томах. [1968, PDF/DjVu, SKT]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Bauddhabh&#257;rat&#299;grantham&#257;l&#257;, 1 - &#346;&#257;ntarak&#7779;ita / Шантаракшита - Tattvasa&#7749;graha. In 2 vols. / Таттвасанграха. В 2-х томах. [1968, PDF/DjVu, SKT]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4994504" target="_blank" onclick="yandex_target('all_books');return true;">Tattvasa&#7749;graha. In 2 vols. / Таттвасанграха. В 2-х томах. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=&#346;&#257;ntarak&#7779;ita / Шантаракшита" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: &#346;&#257;ntarak&#7779;ita / Шантаракшита">&#346;&#257;ntarak&#7779;ita / Шантаракшита</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DJVU, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мотрошилова Н.В. - Принципы и противоречия феноменологической философии [1968, DJVU, RUS]" href="/?page=book&topic_id=4940023" onclick="yandex_target('all_books');return true;"><img src="http://i63.fastpic.ru/big/2015/0214/52/d20bdd8e404c33951ebfff95f9804a52.jpg" width="100%" class="thumbnail" alt="Обложка книги Мотрошилова Н.В. - Принципы и противоречия феноменологической философии [1968, DJVU, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мотрошилова Н.В. - Принципы и противоречия феноменологической философии [1968, DJVU, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4940023" target="_blank" onclick="yandex_target('all_books');return true;">Принципы и противоречия феноменологической философии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мотрошилова Н.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мотрошилова Н.В.">Мотрошилова Н.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мельвиль Ю.К. - Чарлз Пирс и прагматизм. (У истоков американской буржуазной философии XX века) [1968, DjVu, RUS]" href="/?page=book&topic_id=4723096" onclick="yandex_target('all_books');return true;"><img src="http://i55.fastpic.ru/big/2014/0423/37/ff7d121c737305059874df32722b5237.jpg" width="100%" class="thumbnail" alt="Обложка книги Мельвиль Ю.К. - Чарлз Пирс и прагматизм. (У истоков американской буржуазной философии XX века) [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мельвиль Ю.К. - Чарлз Пирс и прагматизм. (У истоков американской буржуазной философии XX века) [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4723096" target="_blank" onclick="yandex_target('all_books');return true;">Чарлз Пирс и прагматизм. (У истоков американской буржуазной философии XX века) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мельвиль Ю.К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мельвиль Ю.К.">Мельвиль Ю.К.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Науменко Л.К. - Монизм как принцип диалектической логики [1968, DjVu, RUS]" href="/?page=book&topic_id=4609544" onclick="yandex_target('all_books');return true;"><img src="http://i59.fastpic.ru/big/2013/1208/24/c8d294514464b03cdaa36e9f099c0324.jpg" width="100%" class="thumbnail" alt="Обложка книги Науменко Л.К. - Монизм как принцип диалектической логики [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Науменко Л.К. - Монизм как принцип диалектической логики [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4609544" target="_blank" onclick="yandex_target('all_books');return true;">Монизм как принцип диалектической логики </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Науменко Л.К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Науменко Л.К.">Науменко Л.К.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Новое в жизни, науке, технике. Философия - Науменко Л.К., Югай Г.А. - «Капитал» К. Маркса и методология научного исследования [1968, DjVu, RUS]" href="/?page=book&topic_id=4572789" onclick="yandex_target('all_books');return true;"><img src="http://i60.fastpic.ru/big/2013/1027/42/1fe0e52ac9dc48bd355472b671778e42.jpg" width="100%" class="thumbnail" alt="Обложка книги Новое в жизни, науке, технике. Философия - Науменко Л.К., Югай Г.А. - «Капитал» К. Маркса и методология научного исследования [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Новое в жизни, науке, технике. Философия - Науменко Л.К., Югай Г.А. - «Капитал» К. Маркса и методология научного исследования [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4572789" target="_blank" onclick="yandex_target('all_books');return true;">«Капитал» К. Маркса и методология научного исследования </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Науменко Л.К., Югай Г.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Науменко Л.К., Югай Г.А.">Науменко Л.К., Югай Г.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">988, DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Евграфов В.Е. (ред.) - История философии в СССР в пяти томах [1968-1988, DjVu, RUS]" href="/?page=book&topic_id=4540161" onclick="yandex_target('all_books');return true;"><img src="http://i59.fastpic.ru/big/2013/0928/ea/2d837ce34f304883cde4e7473e9e65ea.jpg" width="100%" class="thumbnail" alt="Обложка книги Евграфов В.Е. (ред.) - История философии в СССР в пяти томах [1968-1988, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Евграфов В.Е. (ред.) - История философии в СССР в пяти томах [1968-1988, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4540161" target="_blank" onclick="yandex_target('all_books');return true;">История философии в СССР в пяти томах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Евграфов В.Е. (ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Евграфов В.Е. (ред.)">Евграфов В.Е. (ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Борисов В.Н. (ред.) - Проблемы методологии научного познания [1968, PDF, RUS]" href="/?page=book&topic_id=4176264" onclick="yandex_target('all_books');return true;"><img src="http://i41.fastpic.ru/big/2012/0906/38/b85b911871b36bd36f451d945b0b5038.jpg" width="100%" class="thumbnail" alt="Обложка книги Борисов В.Н. (ред.) - Проблемы методологии научного познания [1968, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Борисов В.Н. (ред.) - Проблемы методологии научного познания [1968, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4176264" target="_blank" onclick="yandex_target('all_books');return true;">Проблемы методологии научного познания </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Борисов В.Н. (ред.)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Борисов В.Н. (ред.)">Борисов В.Н. (ред.)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Трубников Н.Н. - О категориях &quot;цель&quot;, &quot;средство&quot;, &quot;результат&quot; [1968, DjVu, RUS]" href="/?page=book&topic_id=3883675" onclick="yandex_target('all_books');return true;"><img src="http://s50.radikal.ru/i129/1201/e1/090a39403952.jpg" width="100%" class="thumbnail" alt="Обложка книги Трубников Н.Н. - О категориях &quot;цель&quot;, &quot;средство&quot;, &quot;результат&quot; [1968, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Трубников Н.Н. - О категориях &quot;цель&quot;, &quot;средство&quot;, &quot;результат&quot; [1968, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3883675" target="_blank" onclick="yandex_target('all_books');return true;">О категориях &quot;цель&quot;, &quot;средство&quot;, &quot;результат&quot; </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Трубников Н.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Трубников Н.Н.">Трубников Н.Н.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>1968</span><span class="hidden-sm-down">973, DjVu/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гегель Г.В.Ф. - Эстетика в 4-х томах [1968-1973, DjVu/PDF, RUS]" href="/?page=book&topic_id=3811350" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Гегель Г.В.Ф. - Эстетика в 4-х томах [1968-1973, DjVu/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гегель Г.В.Ф. - Эстетика в 4-х томах [1968-1973, DjVu/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3811350" target="_blank" onclick="yandex_target('all_books');return true;">Эстетика в 4-х томах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гегель Г.В.Ф." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гегель Г.В.Ф.">Гегель Г.В.Ф.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">EPUB, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Walter Benjamin / Вальтер Беньямин - Illuminations: Essays and Reflections / Озарения [1968, EPUB, ENG]" href="/?page=book&topic_id=3678815" onclick="yandex_target('all_books');return true;"><img src="http://i25.fastpic.ru/big/2011/0804/60/c23934287df004eacc9742ac640f4e60.jpg" width="100%" class="thumbnail" alt="Обложка книги Walter Benjamin / Вальтер Беньямин - Illuminations: Essays and Reflections / Озарения [1968, EPUB, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Walter Benjamin / Вальтер Беньямин - Illuminations: Essays and Reflections / Озарения [1968, EPUB, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3678815" target="_blank" onclick="yandex_target('all_books');return true;">Illuminations: Essays and Reflections / Озарения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Walter Benjamin / Вальтер Беньямин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Walter Benjamin / Вальтер Беньямин">Walter Benjamin / Вальтер Беньямин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">8213;69, DjVu/PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Философское наследие &#8213; Американские просветители. Избранные произведения в 2-х томах [1968&#8213;69, DjVu/PDF, RUS]" href="/?page=book&topic_id=3612371" onclick="yandex_target('all_books');return true;"><img src="http://i704.photobucket.com/albums/ww46/glasnaglarus/Books%209/Am_Enlightners_Cover.jpg" width="100%" class="thumbnail" alt="Обложка книги Философское наследие &#8213; Американские просветители. Избранные произведения в 2-х томах [1968&#8213;69, DjVu/PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Философское наследие &#8213; Американские просветители. Избранные произведения в 2-х томах [1968&#8213;69, DjVu/PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3612371" target="_blank" onclick="yandex_target('all_books');return true;">Философское наследие &#8213; Американские просветители. Избранные произведения в 2-х томах </a></h4>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>1968</span><span class="hidden-sm-down">994, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мамардашвили М. - Как я понимаю философию + 3 книги [1968-1994, DOC, RUS]" href="/?page=book&topic_id=2769565" onclick="yandex_target('all_books');return true;"><img src="http://i23.fastpic.ru/big/2011/0614/0a/897b85b7a44abf04f82d558aef94610a.jpg" width="100%" class="thumbnail" alt="Обложка книги Мамардашвили М. - Как я понимаю философию + 3 книги [1968-1994, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мамардашвили М. - Как я понимаю философию + 3 книги [1968-1994, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2769565" target="_blank" onclick="yandex_target('all_books');return true;">Как я понимаю философию + 3 книги </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мамардашвили М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мамардашвили М.">Мамардашвили М.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row"></div>
+<div class="row">
+	<div class="col-md-10">
+<a class="justlink" href= "/?page=psybooks_business&page_num=472"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_business&page_num=50"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_business&page_num=51">51</a> | <a class="justlink" href= "/?page=psybooks_business&page_num=50">50</a> | <b>49</b> | <a class="justlink" href= "/?page=psybooks_business&page_num=48">48</a> |  <a class="justlink" href= "/?page=psybooks_business&page_num=47">47</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_business&page_num=48">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_business&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div>
+
+<!-- // Страница psybooks_business-->

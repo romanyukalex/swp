@@ -1,0 +1,1250 @@
+<!-- Страница psybooks_popul-->
+<div class="row"  style="padding-right:0px;">
+	<div class="col-md-1">
+				<a href="javascript:history.back();" class="justlink" title="Назад"><i class="fas fa-undo-alt"></i></a>
+	</div>
+	<section class="col-md-11">
+		<form id="search_form" action="/?page=books">Поиск по названиям / году
+			<input type="hidden" name="page" value="psybooks_popul">
+			<input type="hidden" name="cat_id" value="1696">
+			<input name="search_string" id="search_string_id" placeholder="Введите слова для поиска" class="biginput" style="width:50%" value="">
+			<a class="button large"  style="height:38px;padding-top:10px;color:white;background-color:#36cdb6;" onclick="$('#search_form').submit()"><i class="fas fa-search" style="color:white"></i></a>
+		</form>
+	</section>
+</div>
+
+<div class="row"  style="padding-right:0px;">
+<div class="col-md-12">
+<h2 class="maintitle"><img width="60px" src="/project/freecon/files/ape_nosee.jpg"  title="Не пускай зло в сознание через глаза (яп.символ)" class="imgmiddle">Книги по популярной психологии [1154 книги]</h2>
+</div>
+
+
+<div class="row">
+
+	<div class="blockquote" style="margin-left:20px">
+		
+			<p style="margin:0px">
+							</p>
+			<small></small>
+		
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-10"><a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=29"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=13"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=14">14</a> | <a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=13">13</a> | <b>12</b> | <a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=11">11</a> |  <a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=10">10</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=11">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div><div class="row vp_block_row" style="padding-right:0px;">
+		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бородин С. - Биоэконометрика [2005, PDF, RUS]" href="/?page=book&topic_id=3757509" onclick="yandex_target('all_books');return true;"><img src="http://i32.fastpic.ru/big/2011/1002/87/3ba71bd4e7b78b8dd0c456709c271687.png" width="100%" class="thumbnail" alt="Обложка книги Бородин С. - Биоэконометрика [2005, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бородин С. - Биоэконометрика [2005, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3757509" target="_blank" onclick="yandex_target('all_books');return true;">Биоэконометрика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бородин С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бородин С.">Бородин С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ерышева О. - Как вести себя на первом свидании, чтобы выглядеть в наиболее выгодном свете [2005, PDF, RUS]" href="/?page=book&topic_id=3757246" onclick="yandex_target('all_books');return true;"><img src="http://i27.fastpic.ru/big/2011/1002/a2/a09498fd203bcdeadab271f7ee1133a2.jpg" width="100%" class="thumbnail" alt="Обложка книги Ерышева О. - Как вести себя на первом свидании, чтобы выглядеть в наиболее выгодном свете [2005, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ерышева О. - Как вести себя на первом свидании, чтобы выглядеть в наиболее выгодном свете [2005, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3757246" target="_blank" onclick="yandex_target('all_books');return true;">Как вести себя на первом свидании, чтобы выглядеть в наиболее выгодном свете </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ерышева О." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ерышева О.">Ерышева О.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Прикладная культурно-историческая психология - Скоморох И., Соколова Н. - Первая Ведогонь. Сон и его исследование [2005, FB2, RUS]" href="/?page=book&topic_id=3746137" onclick="yandex_target('all_books');return true;"><img src="http://i32.fastpic.ru/big/2011/0924/85/2947b53b8d6a9aeff9ec4fa5cc4cb485.jpg" width="100%" class="thumbnail" alt="Обложка книги Прикладная культурно-историческая психология - Скоморох И., Соколова Н. - Первая Ведогонь. Сон и его исследование [2005, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Прикладная культурно-историческая психология - Скоморох И., Соколова Н. - Первая Ведогонь. Сон и его исследование [2005, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3746137" target="_blank" onclick="yandex_target('all_books');return true;">Первая Ведогонь. Сон и его исследование </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Скоморох И., Соколова Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Скоморох И., Соколова Н.">Скоморох И., Соколова Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DjVu, PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Популярная психология - О'Коннор Дж. - НЛП. Практическое руководство для достижения желаемых результатов [2005, DjVu, PDF, RUS]" href="/?page=book&topic_id=3718121" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Популярная психология - О'Коннор Дж. - НЛП. Практическое руководство для достижения желаемых результатов [2005, DjVu, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Популярная психология - О'Коннор Дж. - НЛП. Практическое руководство для достижения желаемых результатов [2005, DjVu, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3718121" target="_blank" onclick="yandex_target('all_books');return true;">НЛП. Практическое руководство для достижения желаемых результатов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=О'Коннор Дж." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: О'Коннор Дж.">О'Коннор Дж.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">RTF, FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Киршбаум Э., Еремеева А. - Психологическая защита [2005, RTF, FB2, RUS]" href="/?page=book&topic_id=3669254" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Киршбаум Э., Еремеева А. - Психологическая защита [2005, RTF, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Киршбаум Э., Еремеева А. - Психологическая защита [2005, RTF, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3669254" target="_blank" onclick="yandex_target('all_books');return true;">Психологическая защита </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Киршбаум Э., Еремеева А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Киршбаум Э., Еремеева А.">Киршбаум Э., Еремеева А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Галушко Т. - Низкая самооценка [2005, PDF, RUS]" href="/?page=book&topic_id=3666794" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2011/0725/7b/97389816d673c1e34124ad1620c04b7b.png" width="100%" class="thumbnail" alt="Обложка книги Галушко Т. - Низкая самооценка [2005, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Галушко Т. - Низкая самооценка [2005, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3666794" target="_blank" onclick="yandex_target('all_books');return true;">Низкая самооценка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Галушко Т." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Галушко Т.">Галушко Т.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Трейси Б. - Привычки на миллионы долларов [2005, PDF, RUS]" href="/?page=book&topic_id=3594633" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Трейси Б. - Привычки на миллионы долларов [2005, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Трейси Б. - Привычки на миллионы долларов [2005, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3594633" target="_blank" onclick="yandex_target('all_books');return true;">Привычки на миллионы долларов </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Трейси Б." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Трейси Б.">Трейси Б.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Митник Кевин, Вильям Л. Саймон - The Art of Intrusion / Искусство вторжения [2005, FB2, RUS]" href="/?page=book&topic_id=3559762" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Митник Кевин, Вильям Л. Саймон - The Art of Intrusion / Искусство вторжения [2005, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Митник Кевин, Вильям Л. Саймон - The Art of Intrusion / Искусство вторжения [2005, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3559762" target="_blank" onclick="yandex_target('all_books');return true;">The Art of Intrusion / Искусство вторжения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Митник Кевин, Вильям Л. Саймон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Митник Кевин, Вильям Л. Саймон">Митник Кевин, Вильям Л. Саймон</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Доктор Курпатов. Бестселлер - Курпатов. А. - Три ошибки наших родителей.Конфликты и комплексы [2005, FB2, RUS]" href="/?page=book&topic_id=3550739" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Доктор Курпатов. Бестселлер - Курпатов. А. - Три ошибки наших родителей.Конфликты и комплексы [2005, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Доктор Курпатов. Бестселлер - Курпатов. А. - Три ошибки наших родителей.Конфликты и комплексы [2005, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3550739" target="_blank" onclick="yandex_target('all_books');return true;">Три ошибки наших родителей.Конфликты и комплексы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Курпатов. А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Курпатов. А.">Курпатов. А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">�од,docx, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека Cosmopolitan - Роберт Шварц - Диеты не работают![2005 год,docx, RUS]" href="/?page=book&topic_id=3403237" onclick="yandex_target('all_books');return true;"><img src="http://www.knigisosklada.ru/images/books/1864/big/1864415.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека Cosmopolitan - Роберт Шварц - Диеты не работают![2005 год,docx, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека Cosmopolitan - Роберт Шварц - Диеты не работают![2005 год,docx, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3403237" target="_blank" onclick="yandex_target('all_books');return true;">Диеты не работают!</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Роберт Шварц" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Роберт Шварц">Роберт Шварц</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Terra Mystica - Коста Данаос - Маг с Явы [2005, DOC, RUS]" href="/?page=book&topic_id=2835988" onclick="yandex_target('all_books');return true;"><img src="http://www.bookle.ru/cover/98516.jpg" width="100%" class="thumbnail" alt="Обложка книги Terra Mystica - Коста Данаос - Маг с Явы [2005, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Terra Mystica - Коста Данаос - Маг с Явы [2005, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2835988" target="_blank" onclick="yandex_target('all_books');return true;">Маг с Явы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Коста Данаос" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Коста Данаос">Коста Данаос</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека психологии и психотерапии - Рон Хофф / Ron Hoff - Я вижу вас голыми. Как подготовиться к презентации и с блеском провести её / I Can See You Naked [2005, PDF, RUS]" href="/?page=book&topic_id=2729069" onclick="yandex_target('all_books');return true;"><img src="http://i1.fastpic.ru/big/2010/0207/88/84bbdf0784fc6505355bbb164edc8f88.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека психологии и психотерапии - Рон Хофф / Ron Hoff - Я вижу вас голыми. Как подготовиться к презентации и с блеском провести её / I Can See You Naked [2005, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека психологии и психотерапии - Рон Хофф / Ron Hoff - Я вижу вас голыми. Как подготовиться к презентации и с блеском провести её / I Can See You Naked [2005, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2729069" target="_blank" onclick="yandex_target('all_books');return true;">Я вижу вас голыми. Как подготовиться к презентации и с блеском провести её / I Can See You Naked </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рон Хофф / Ron Hoff" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рон Хофф / Ron Hoff">Рон Хофф / Ron Hoff</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: За гранью непознанного - Секлитова Л.А., Стрельникова Л.Л. - Беседы о неизвестном [2005, PDF, RUS]" href="/?page=book&topic_id=2679504" onclick="yandex_target('all_books');return true;"><img src="http://i054.radikal.ru/1001/02/e26b16bfe564.jpg" width="100%" class="thumbnail" alt="Обложка книги За гранью непознанного - Секлитова Л.А., Стрельникова Л.Л. - Беседы о неизвестном [2005, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: За гранью непознанного - Секлитова Л.А., Стрельникова Л.Л. - Беседы о неизвестном [2005, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2679504" target="_blank" onclick="yandex_target('all_books');return true;">Беседы о неизвестном </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Секлитова Л.А., Стрельникова Л.Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Секлитова Л.А., Стрельникова Л.Л.">Секлитова Л.А., Стрельникова Л.Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF, ENG</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кристиан Картер / Christian Carter - Catch him and keep him / Поймать и удержать (мужика) [2005, PDF, ENG]" href="/?page=book&topic_id=2607873" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Кристиан Картер / Christian Carter - Catch him and keep him / Поймать и удержать (мужика) [2005, PDF, ENG]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кристиан Картер / Christian Carter - Catch him and keep him / Поймать и удержать (мужика) [2005, PDF, ENG]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2607873" target="_blank" onclick="yandex_target('all_books');return true;">Catch him and keep him / Поймать и удержать (мужика) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кристиан Картер / Christian Carter" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кристиан Картер / Christian Carter">Кристиан Картер / Christian Carter</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Чарльз Тарт - Практика внимательности в повседневной жизни [2005, RTF, RUS]" href="/?page=book&topic_id=2444043" onclick="yandex_target('all_books');return true;"><img src="http://img-fotki.yandex.ru/get/4105/ilyavinogradov.6/0_31185_ed1adf45_XL.jpg" width="100%" class="thumbnail" alt="Обложка книги Чарльз Тарт - Практика внимательности в повседневной жизни [2005, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Чарльз Тарт - Практика внимательности в повседневной жизни [2005, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2444043" target="_blank" onclick="yandex_target('all_books');return true;">Практика внимательности в повседневной жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Чарльз Тарт" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Чарльз Тарт">Чарльз Тарт</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Андрей Дорожкин - Прикольная жизнь [2005, PDF, RUS]" href="/?page=book&topic_id=2245826" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Андрей Дорожкин - Прикольная жизнь [2005, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Андрей Дорожкин - Прикольная жизнь [2005, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2245826" target="_blank" onclick="yandex_target('all_books');return true;">Прикольная жизнь </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Андрей Дорожкин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Андрей Дорожкин">Андрей Дорожкин</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">ISO</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мельник А.А. - Как читать человека? Жесты. Позы. Мимика. [2005, ISO]" href="/?page=book&topic_id=2185099" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Мельник А.А. - Как читать человека? Жесты. Позы. Мимика. [2005, ISO]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мельник А.А. - Как читать человека? Жесты. Позы. Мимика. [2005, ISO]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2185099" target="_blank" onclick="yandex_target('all_books');return true;">Как читать человека? Жесты. Позы. Мимика. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мельник А.А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мельник А.А.">Мельник А.А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Литвак М.Е. - Не нойте! Практикум по психологическому айкидо [2005, DjVu]" href="/?page=book&topic_id=1954682" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Литвак М.Е. - Не нойте! Практикум по психологическому айкидо [2005, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Литвак М.Е. - Не нойте! Практикум по психологическому айкидо [2005, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1954682" target="_blank" onclick="yandex_target('all_books');return true;">Не нойте! Практикум по психологическому айкидо </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Литвак М.Е." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Литвак М.Е.">Литвак М.Е.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Юрий Вагин - Страх. Тифоаналитический подход [2005, DOC]" href="/?page=book&topic_id=1952039" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/38/e8edf10c8ccfbef7d35194bb55627a38.jpg" width="100%" class="thumbnail" alt="Обложка книги Юрий Вагин - Страх. Тифоаналитический подход [2005, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Юрий Вагин - Страх. Тифоаналитический подход [2005, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1952039" target="_blank" onclick="yandex_target('all_books');return true;">Страх. Тифоаналитический подход </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Юрий Вагин" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Юрий Вагин">Юрий Вагин</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">rtf </span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: MCat78 - Андрей Владимирович Курпатов - Счастлив по собственному желанию. 12 шагов к душевному здоровью [2005, rtf ]" href="/?page=book&topic_id=1923270" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги MCat78 - Андрей Владимирович Курпатов - Счастлив по собственному желанию. 12 шагов к душевному здоровью [2005, rtf ]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: MCat78 - Андрей Владимирович Курпатов - Счастлив по собственному желанию. 12 шагов к душевному здоровью [2005, rtf ]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1923270" target="_blank" onclick="yandex_target('all_books');return true;">Счастлив по собственному желанию. 12 шагов к душевному здоровью </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Андрей Владимирович Курпатов" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Андрей Владимирович Курпатов">Андрей Владимирович Курпатов</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Виктор Орлов - Черная автоматика [2005, PDF]" href="/?page=book&topic_id=1907874" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Виктор Орлов - Черная автоматика [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Виктор Орлов - Черная автоматика [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1907874" target="_blank" onclick="yandex_target('all_books');return true;">Черная автоматика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Виктор Орлов" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Виктор Орлов">Виктор Орлов</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: М.Е. Литвак, Е.В. Золотухина-Аболина, М.О. Мирович - Бинтование душевных ран или психотерапия? [2005, DOC]" href="/?page=book&topic_id=1902521" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги М.Е. Литвак, Е.В. Золотухина-Аболина, М.О. Мирович - Бинтование душевных ран или психотерапия? [2005, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: М.Е. Литвак, Е.В. Золотухина-Аболина, М.О. Мирович - Бинтование душевных ран или психотерапия? [2005, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1902521" target="_blank" onclick="yandex_target('all_books');return true;">Бинтование душевных ран или психотерапия? </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=М.Е. Литвак, Е.В. Золотухина-Аболина, М.О. Мирович" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: М.Е. Литвак, Е.В. Золотухина-Аболина, М.О. Мирович">М.Е. Литвак, Е.В. Золотухина-Аболина, М.О. Мирович</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Норман Винсент Пил - Источник жизненной силы [2005, DOC]" href="/?page=book&topic_id=1884969" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Норман Винсент Пил - Источник жизненной силы [2005, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Норман Винсент Пил - Источник жизненной силы [2005, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1884969" target="_blank" onclick="yandex_target('all_books');return true;">Источник жизненной силы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Норман Винсент Пил" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Норман Винсент Пил">Норман Винсент Пил</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Боденхамер Б., Холл М. - Как оказывать влияние на людей. Как управлять сознанием / Mind-Lines. Lines for Chanding Minds [2005, DjVu]" href="/?page=book&topic_id=1801516" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/dd/d894337a7c29e3abfacac5189bd6addd.jpg" width="100%" class="thumbnail" alt="Обложка книги Боденхамер Б., Холл М. - Как оказывать влияние на людей. Как управлять сознанием / Mind-Lines. Lines for Chanding Minds [2005, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Боденхамер Б., Холл М. - Как оказывать влияние на людей. Как управлять сознанием / Mind-Lines. Lines for Chanding Minds [2005, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1801516" target="_blank" onclick="yandex_target('all_books');return true;">Как оказывать влияние на людей. Как управлять сознанием / Mind-Lines. Lines for Chanding Minds </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Боденхамер Б., Холл М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Боденхамер Б., Холл М.">Боденхамер Б., Холл М.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Курпатов А. - 21 правдивый ответ - как изменить отношение к жизни [2005, PDF]" href="/?page=book&topic_id=1716907" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/b8/eb68304beb7bc0f6ac8d04b53e4b9ab8.jpg" width="100%" class="thumbnail" alt="Обложка книги Курпатов А. - 21 правдивый ответ - как изменить отношение к жизни [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Курпатов А. - 21 правдивый ответ - как изменить отношение к жизни [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1716907" target="_blank" onclick="yandex_target('all_books');return true;">как изменить отношение к жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=21 правдивый ответ" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: 21 правдивый ответ">21 правдивый ответ</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Элдар Разроев - Физиономизм [2005, DOC]" href="/?page=book&topic_id=1664446" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Элдар Разроев - Физиономизм [2005, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Элдар Разроев - Физиономизм [2005, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1664446" target="_blank" onclick="yandex_target('all_books');return true;">Физиономизм </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Элдар Разроев" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Элдар Разроев">Элдар Разроев</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Котляров Андрей - Освобождение от зависимостей, или Школа успешного выбора [2005, PDF]" href="/?page=book&topic_id=1596188" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Котляров Андрей - Освобождение от зависимостей, или Школа успешного выбора [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Котляров Андрей - Освобождение от зависимостей, или Школа успешного выбора [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1596188" target="_blank" onclick="yandex_target('all_books');return true;">Освобождение от зависимостей, или Школа успешного выбора </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Котляров Андрей" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Котляров Андрей">Котляров Андрей</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Lis Burbo (Лиз Бурбо) - Listen to Your best Frend on Earth Your Body (Слушайте свое тело, вашего лучшего друга на земле) [2005, DOC]" href="/?page=book&topic_id=1591117" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Lis Burbo (Лиз Бурбо) - Listen to Your best Frend on Earth Your Body (Слушайте свое тело, вашего лучшего друга на земле) [2005, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Lis Burbo (Лиз Бурбо) - Listen to Your best Frend on Earth Your Body (Слушайте свое тело, вашего лучшего друга на земле) [2005, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1591117" target="_blank" onclick="yandex_target('all_books');return true;">Listen to Your best Frend on Earth Your Body (Слушайте свое тело, вашего лучшего друга на земле) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Lis Burbo (Лиз Бурбо)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Lis Burbo (Лиз Бурбо)">Lis Burbo (Лиз Бурбо)</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Том Батлер-Боудон - 50 книг и великих идей, которые помогут вам изменить свою жизнь [2005, PDF]" href="/?page=book&topic_id=1315572" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Том Батлер-Боудон - 50 книг и великих идей, которые помогут вам изменить свою жизнь [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Том Батлер-Боудон - 50 книг и великих идей, которые помогут вам изменить свою жизнь [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1315572" target="_blank" onclick="yandex_target('all_books');return true;">50 книг и великих идей, которые помогут вам изменить свою жизнь </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Том Батлер-Боудон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Том Батлер-Боудон">Том Батлер-Боудон</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: В. А. Винокур - Уловки в споре [2005, DjVu]" href="/?page=book&topic_id=1295662" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги В. А. Винокур - Уловки в споре [2005, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: В. А. Винокур - Уловки в споре [2005, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1295662" target="_blank" onclick="yandex_target('all_books');return true;">Уловки в споре </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=В. А. Винокур" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: В. А. Винокур">В. А. Винокур</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Джон Грэй - Как иметь то, что хочешь, и хотеть то, что имеешь [2005, PDF]" href="/?page=book&topic_id=1269781" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Джон Грэй - Как иметь то, что хочешь, и хотеть то, что имеешь [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Джон Грэй - Как иметь то, что хочешь, и хотеть то, что имеешь [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1269781" target="_blank" onclick="yandex_target('all_books');return true;">Как иметь то, что хочешь, и хотеть то, что имеешь </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Джон Грэй" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Джон Грэй">Джон Грэй</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Марк Мак-Кормак - Достижение результатов для &quot;чайников&quot; [2005, PDF]" href="/?page=book&topic_id=1148531" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Марк Мак-Кормак - Достижение результатов для &quot;чайников&quot; [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Марк Мак-Кормак - Достижение результатов для &quot;чайников&quot; [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1148531" target="_blank" onclick="yandex_target('all_books');return true;">Достижение результатов для &quot;чайников&quot; </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Марк Мак-Кормак" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Марк Мак-Кормак">Марк Мак-Кормак</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Борис Сахаров - Открытие третьего глаза [2005, PDF]" href="/?page=book&topic_id=1105083" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/51/96389be8a5a3f9d105ab1dff89e03351.jpg" width="100%" class="thumbnail" alt="Обложка книги Борис Сахаров - Открытие третьего глаза [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Борис Сахаров - Открытие третьего глаза [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1105083" target="_blank" onclick="yandex_target('all_books');return true;">Открытие третьего глаза </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Борис Сахаров" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Борис Сахаров">Борис Сахаров</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Г. Курлов - Путь Дурака и к Дураку все 3 книги. [2005, DOC]" href="/?page=book&topic_id=1050283" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Г. Курлов - Путь Дурака и к Дураку все 3 книги. [2005, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Г. Курлов - Путь Дурака и к Дураку все 3 книги. [2005, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1050283" target="_blank" onclick="yandex_target('all_books');return true;">Путь Дурака и к Дураку все 3 книги. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Г. Курлов" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Г. Курлов">Г. Курлов</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">Обычный текст</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ахмедов - Гипноз. Новейший справочник [2005, Обычный текст]" href="/?page=book&topic_id=904773" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Ахмедов - Гипноз. Новейший справочник [2005, Обычный текст]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ахмедов - Гипноз. Новейший справочник [2005, Обычный текст]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=904773" target="_blank" onclick="yandex_target('all_books');return true;">Гипноз. Новейший справочник </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ахмедов" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ахмедов">Ахмедов</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: М.М.Бубличенко - Гипнотические приемы в общении [2005, PDF]" href="/?page=book&topic_id=892794" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги М.М.Бубличенко - Гипнотические приемы в общении [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: М.М.Бубличенко - Гипнотические приемы в общении [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=892794" target="_blank" onclick="yandex_target('all_books');return true;">Гипнотические приемы в общении </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=М.М.Бубличенко" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: М.М.Бубличенко">М.М.Бубличенко</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Евтушенко В.Г. - Энциклопедия гипнотических техник [2005, PDF]" href="/?page=book&topic_id=826915" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Евтушенко В.Г. - Энциклопедия гипнотических техник [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Евтушенко В.Г. - Энциклопедия гипнотических техник [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=826915" target="_blank" onclick="yandex_target('all_books');return true;">Энциклопедия гипнотических техник </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Евтушенко В.Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Евтушенко В.Г.">Евтушенко В.Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">CHM</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эмиль Куэ - Сознательное самовнушение как путь к господству над собой [2005, CHM]" href="/?page=book&topic_id=764225" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Эмиль Куэ - Сознательное самовнушение как путь к господству над собой [2005, CHM]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эмиль Куэ - Сознательное самовнушение как путь к господству над собой [2005, CHM]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=764225" target="_blank" onclick="yandex_target('all_books');return true;">Сознательное самовнушение как путь к господству над собой </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эмиль Куэ" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эмиль Куэ">Эмиль Куэ</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Курт Теппервайн - &quot;Тайна денег. Мастер-класс для тех, кто хочет стать состоятельным&quot; [2005, PDF]" href="/?page=book&topic_id=666885" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Курт Теппервайн - &quot;Тайна денег. Мастер-класс для тех, кто хочет стать состоятельным&quot; [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Курт Теппервайн - &quot;Тайна денег. Мастер-класс для тех, кто хочет стать состоятельным&quot; [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=666885" target="_blank" onclick="yandex_target('all_books');return true;">&quot;Тайна денег. Мастер-класс для тех, кто хочет стать состоятельным&quot; </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Курт Теппервайн" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Курт Теппервайн">Курт Теппервайн</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Гагин Т. В., Уколов С. С. - Новый код НЛП, или Великий канцлер желает познакомиться! (4-е издание) [2005, PDF]" href="/?page=book&topic_id=531792" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Гагин Т. В., Уколов С. С. - Новый код НЛП, или Великий канцлер желает познакомиться! (4-е издание) [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Гагин Т. В., Уколов С. С. - Новый код НЛП, или Великий канцлер желает познакомиться! (4-е издание) [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=531792" target="_blank" onclick="yandex_target('all_books');return true;">Новый код НЛП, или Великий канцлер желает познакомиться! (4-е издание) </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гагин Т. В., Уколов С. С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гагин Т. В., Уколов С. С.">Гагин Т. В., Уколов С. С.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Йооп Сгрийверс - Как быть крысой. Искусство интриг и выживания на работе [2005, DOC]" href="/?page=book&topic_id=519226" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Йооп Сгрийверс - Как быть крысой. Искусство интриг и выживания на работе [2005, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Йооп Сгрийверс - Как быть крысой. Искусство интриг и выживания на работе [2005, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=519226" target="_blank" onclick="yandex_target('all_books');return true;">Как быть крысой. Искусство интриг и выживания на работе </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Йооп Сгрийверс" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Йооп Сгрийверс">Йооп Сгрийверс</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Михаил Ефимович Литвак - Принцип сперматозоида [2005, DOC]" href="/?page=book&topic_id=491045" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Михаил Ефимович Литвак - Принцип сперматозоида [2005, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Михаил Ефимович Литвак - Принцип сперматозоида [2005, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=491045" target="_blank" onclick="yandex_target('all_books');return true;">Принцип сперматозоида </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Михаил Ефимович Литвак" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Михаил Ефимович Литвак">Михаил Ефимович Литвак</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Анна Чудновская - Ваша жена. Руководство по разведению и уходу [2005, PDF]" href="/?page=book&topic_id=479048" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Анна Чудновская - Ваша жена. Руководство по разведению и уходу [2005, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Анна Чудновская - Ваша жена. Руководство по разведению и уходу [2005, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=479048" target="_blank" onclick="yandex_target('all_books');return true;">Ваша жена. Руководство по разведению и уходу </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Анна Чудновская" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Анна Чудновская">Анна Чудновская</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2005</span><span class="hidden-sm-down"></span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: НЛП. Нейролингвистическое программирование: Психологический практикум [2005]" href="/?page=book&topic_id=178338" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги НЛП. Нейролингвистическое программирование: Психологический практикум [2005]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: НЛП. Нейролингвистическое программирование: Психологический практикум [2005]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=178338" target="_blank" onclick="yandex_target('all_books');return true;">НЛП. Нейролингвистическое программирование: Психологический практикум </a></h4>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2005</span><span class="hidden-sm-down">DjVu</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Владимир Леви - Лекарство от лени [2005, DjVu]" href="/?page=book&topic_id=125875" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Владимир Леви - Лекарство от лени [2005, DjVu]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Владимир Леви - Лекарство от лени [2005, DjVu]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=125875" target="_blank" onclick="yandex_target('all_books');return true;">Лекарство от лени </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Владимир Леви" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Владимир Леви">Владимир Леви</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, HTML</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кришнананда (Томас Троуб) - Лицом к лицу со страхом, За пределы страха. [2004, DOC, HTML]" href="/?page=book&topic_id=1835480" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/ad/bdcac8677c41e4174dc7b1857f8a79ad.jpg" width="100%" class="thumbnail" alt="Обложка книги Кришнананда (Томас Троуб) - Лицом к лицу со страхом, За пределы страха. [2004, DOC, HTML]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кришнананда (Томас Троуб) - Лицом к лицу со страхом, За пределы страха. [2004, DOC, HTML]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1835480" target="_blank" onclick="yandex_target('all_books');return true;">Лицом к лицу со страхом, За пределы страха. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кришнананда (Томас Троуб)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кришнананда (Томас Троуб)">Кришнананда (Томас Троуб)</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психология общения - Щербатых Ю.В. - Психология успеха. Популярная энциклопедия [2004, DjVu, RUS]" href="/?page=book&topic_id=5137566" onclick="yandex_target('all_books');return true;"><img src="http://i74.fastpic.ru/big/2015/1222/4d/570f9be7a10848dc619fb698ed2eca4d.jpg" width="100%" class="thumbnail" alt="Обложка книги Психология общения - Щербатых Ю.В. - Психология успеха. Популярная энциклопедия [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психология общения - Щербатых Ю.В. - Психология успеха. Популярная энциклопедия [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=5137566" target="_blank" onclick="yandex_target('all_books');return true;">Психология успеха. Популярная энциклопедия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Щербатых Ю.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Щербатых Ю.В.">Щербатых Ю.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кушнер Г.С. - Когда с хорошими людьми случаются плохие вещи [2004, DjVu, RUS]" href="/?page=book&topic_id=4654628" onclick="yandex_target('all_books');return true;"><img src="http://i33.fastpic.ru/big/2014/0129/d0/71aabddd5c177350bb84ecb6ca33d8d0.jpg" width="100%" class="thumbnail" alt="Обложка книги Кушнер Г.С. - Когда с хорошими людьми случаются плохие вещи [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кушнер Г.С. - Когда с хорошими людьми случаются плохие вещи [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4654628" target="_blank" onclick="yandex_target('all_books');return true;">Когда с хорошими людьми случаются плохие вещи </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кушнер Г.С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кушнер Г.С.">Кушнер Г.С.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Фрумкин К.Г. - Философия и психология фантастики [2004, DOC, RUS]" href="/?page=book&topic_id=4303765" onclick="yandex_target('all_books');return true;"><img src="http://i5.imageban.ru/out/2013/01/03/73531756ec428b4b949fb8115e09feca.jpg" width="100%" class="thumbnail" alt="Обложка книги Фрумкин К.Г. - Философия и психология фантастики [2004, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Фрумкин К.Г. - Философия и психология фантастики [2004, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4303765" target="_blank" onclick="yandex_target('all_books');return true;">Философия и психология фантастики </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фрумкин К.Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фрумкин К.Г.">Фрумкин К.Г.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека практической психологии - Шейнов В.П. - Искусство управлять людьми [2004, PDF, RUS]" href="/?page=book&topic_id=4219158" onclick="yandex_target('all_books');return true;"><img src="http://i44.fastpic.ru/big/2012/1017/74/16dfdaa72a76ced0717b53bd077ad674.jpg" width="100%" class="thumbnail" alt="Обложка книги Библиотека практической психологии - Шейнов В.П. - Искусство управлять людьми [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека практической психологии - Шейнов В.П. - Искусство управлять людьми [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4219158" target="_blank" onclick="yandex_target('all_books');return true;">Искусство управлять людьми </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Шейнов В.П." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Шейнов В.П.">Шейнов В.П.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бирах А. - Психология мимики. Как читать мысли по лицу [2004, PDF, RUS]" href="/?page=book&topic_id=4214185" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Бирах А. - Психология мимики. Как читать мысли по лицу [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бирах А. - Психология мимики. Как читать мысли по лицу [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4214185" target="_blank" onclick="yandex_target('all_books');return true;">Психология мимики. Как читать мысли по лицу </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бирах А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бирах А.">Бирах А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психосексуальный портрет - Еникеева Д. - Диагноз: политик. Российская политическая элита глазами психиатра-сексопатолога [2004, PDF, RUS]" href="/?page=book&topic_id=4186754" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Психосексуальный портрет - Еникеева Д. - Диагноз: политик. Российская политическая элита глазами психиатра-сексопатолога [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психосексуальный портрет - Еникеева Д. - Диагноз: политик. Российская политическая элита глазами психиатра-сексопатолога [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4186754" target="_blank" onclick="yandex_target('all_books');return true;">Диагноз: политик. Российская политическая элита глазами психиатра-сексопатолога </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Еникеева Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Еникеева Д.">Еникеева Д.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Магия высшей практической психологии - Бэндлер Р., Джон Ла Валль - Технология убеждения [2004, DOC, RUS]" href="/?page=book&topic_id=4132289" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Магия высшей практической психологии - Бэндлер Р., Джон Ла Валль - Технология убеждения [2004, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Магия высшей практической психологии - Бэндлер Р., Джон Ла Валль - Технология убеждения [2004, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4132289" target="_blank" onclick="yandex_target('all_books');return true;">Технология убеждения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бэндлер Р., Джон Ла Валль" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бэндлер Р., Джон Ла Валль">Бэндлер Р., Джон Ла Валль</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Позитивная психология - Лищук Т. - Стань богатым - думай, как богатый [2004, PDF, RUS]" href="/?page=book&topic_id=4104691" onclick="yandex_target('all_books');return true;"><img src="http://i43.fastpic.ru/big/2012/0623/e4/dd8ef2cf8846a05889c129e4c98e2ce4.jpg" width="100%" class="thumbnail" alt="Обложка книги Позитивная психология - Лищук Т. - Стань богатым - думай, как богатый [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Позитивная психология - Лищук Т. - Стань богатым - думай, как богатый [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4104691" target="_blank" onclick="yandex_target('all_books');return true;">Стань богатым - думай, как богатый </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Лищук Т." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Лищук Т.">Лищук Т.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ирония судьбы - Борисова И. - Одинокое место Америка [2004, PDF, RTF, RUS] Обновлено 06.05.2012" href="/?page=book&topic_id=3807943" onclick="yandex_target('all_books');return true;"><img src="http://i31.fastpic.ru/big/2011/1106/47/140bb8437cabac98c6d2701350381247.png" width="100%" class="thumbnail" alt="Обложка книги Ирония судьбы - Борисова И. - Одинокое место Америка [2004, PDF, RTF, RUS] Обновлено 06.05.2012"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ирония судьбы - Борисова И. - Одинокое место Америка [2004, PDF, RTF, RUS] Обновлено 06.05.2012"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3807943" target="_blank" onclick="yandex_target('all_books');return true;">Одинокое место Америка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Борисова И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Борисова И.">Борисова И.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Глен Ю., Барсуков Д. - Правда о гипнозе, или Тайны искусственного сна [2004, DjVu, DOC, RUS] Обновлено 08.04.2012" href="/?page=book&topic_id=3901248" onclick="yandex_target('all_books');return true;"><img src="http://i27.fastpic.ru/big/2012/0114/5a/d3e9330dde72d9324c45339eea7b475a.jpg" width="100%" class="thumbnail" alt="Обложка книги Глен Ю., Барсуков Д. - Правда о гипнозе, или Тайны искусственного сна [2004, DjVu, DOC, RUS] Обновлено 08.04.2012"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Глен Ю., Барсуков Д. - Правда о гипнозе, или Тайны искусственного сна [2004, DjVu, DOC, RUS] Обновлено 08.04.2012"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3901248" target="_blank" onclick="yandex_target('all_books');return true;">Правда о гипнозе, или Тайны искусственного сна </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Глен Ю., Барсуков Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Глен Ю., Барсуков Д.">Глен Ю., Барсуков Д.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Библиотека эзотерической психологии - Каструбин Э. - Секреты исцеляющих программ. Практическое руководство по аудиотрансу, самогипнозу и гипнотерапии [2004, DOC, RUS]" href="/?page=book&topic_id=4013084" onclick="yandex_target('all_books');return true;"><img src="http://i2.imageban.ru/out/2012/04/06/199d010567000d18d16b210c272c59ea.jpeg" width="100%" class="thumbnail" alt="Обложка книги Библиотека эзотерической психологии - Каструбин Э. - Секреты исцеляющих программ. Практическое руководство по аудиотрансу, самогипнозу и гипнотерапии [2004, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Библиотека эзотерической психологии - Каструбин Э. - Секреты исцеляющих программ. Практическое руководство по аудиотрансу, самогипнозу и гипнотерапии [2004, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4013084" target="_blank" onclick="yandex_target('all_books');return true;">Секреты исцеляющих программ. Практическое руководство по аудиотрансу, самогипнозу и гипнотерапии </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Каструбин Э." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Каструбин Э.">Каструбин Э.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Карнеги Д. - Как быть счастливым в семье [2004, DjVu, RUS]" href="/?page=book&topic_id=4006196" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Карнеги Д. - Как быть счастливым в семье [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Карнеги Д. - Как быть счастливым в семье [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=4006196" target="_blank" onclick="yandex_target('all_books');return true;">Как быть счастливым в семье </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Карнеги Д." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Карнеги Д.">Карнеги Д.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психология для жизни - Нартова-Бочавер С.К. и др. - Семейный психолог отвечает [2004, PDF, RUS]" href="/?page=book&topic_id=3999664" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Психология для жизни - Нартова-Бочавер С.К. и др. - Семейный психолог отвечает [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психология для жизни - Нартова-Бочавер С.К. и др. - Семейный психолог отвечает [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3999664" target="_blank" onclick="yandex_target('all_books');return true;">Семейный психолог отвечает </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Нартова-Бочавер С.К. и др." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Нартова-Бочавер С.К. и др.">Нартова-Бочавер С.К. и др.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Cybertime/nonfiction - Беккер К. - Словарь тактической реальности. Культурная интеллигенция и социальный контроль [2004, DOC, RUS]" href="/?page=book&topic_id=3969189" onclick="yandex_target('all_books');return true;"><img src="http://i1.imageban.ru/out/2012/03/04/26a050f20b62eaa5261b247c989eb00a.jpg" width="100%" class="thumbnail" alt="Обложка книги Cybertime/nonfiction - Беккер К. - Словарь тактической реальности. Культурная интеллигенция и социальный контроль [2004, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Cybertime/nonfiction - Беккер К. - Словарь тактической реальности. Культурная интеллигенция и социальный контроль [2004, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3969189" target="_blank" onclick="yandex_target('all_books');return true;">Словарь тактической реальности. Культурная интеллигенция и социальный контроль </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Беккер К." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Беккер К.">Беккер К.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: The Complete Idiot's Guide - Тимс Р. - Гипноз [2004, DOC, RUS]" href="/?page=book&topic_id=3968810" onclick="yandex_target('all_books');return true;"><img src="http://i4.imageban.ru/out/2012/03/04/c1737b4d7fe635b04c70fd255af3a04d.jpg" width="100%" class="thumbnail" alt="Обложка книги The Complete Idiot's Guide - Тимс Р. - Гипноз [2004, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: The Complete Idiot's Guide - Тимс Р. - Гипноз [2004, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3968810" target="_blank" onclick="yandex_target('all_books');return true;">Гипноз </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тимс Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тимс Р.">Тимс Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Практическая психология - Кашапов Р. - Типология личности, или Какие мы разные [2004, DjVu, RUS]" href="/?page=book&topic_id=3960062" onclick="yandex_target('all_books');return true;"><img src="http://i4.imageban.ru/out/2012/02/26/4ac4e5054f9b5fa19339af7e3558e160.jpg" width="100%" class="thumbnail" alt="Обложка книги Практическая психология - Кашапов Р. - Типология личности, или Какие мы разные [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Практическая психология - Кашапов Р. - Типология личности, или Какие мы разные [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3960062" target="_blank" onclick="yandex_target('all_books');return true;">Типология личности, или Какие мы разные </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кашапов Р." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кашапов Р.">Кашапов Р.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Современный бизнес - Гэд Т., Розенкр А. - Создай свой бренд [2004, DjVu, RUS]" href="/?page=book&topic_id=3950143" onclick="yandex_target('all_books');return true;"><img src="http://i4.imageban.ru/out/2012/02/19/22b059e4b81d2601ecf8582bd1e3807c.jpg" width="100%" class="thumbnail" alt="Обложка книги Современный бизнес - Гэд Т., Розенкр А. - Создай свой бренд [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Современный бизнес - Гэд Т., Розенкр А. - Создай свой бренд [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3950143" target="_blank" onclick="yandex_target('all_books');return true;">Создай свой бренд </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Гэд Т., Розенкр А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Гэд Т., Розенкр А.">Гэд Т., Розенкр А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Без проблем - Черниговцев Г. - 100 способов найти работу [2004, RTF, RUS]" href="/?page=book&topic_id=3945596" onclick="yandex_target('all_books');return true;"><img src="http://i29.fastpic.ru/big/2012/0216/07/4c2d81fe96e394c8f60e778528957907.jpeg" width="100%" class="thumbnail" alt="Обложка книги Без проблем - Черниговцев Г. - 100 способов найти работу [2004, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Без проблем - Черниговцев Г. - 100 способов найти работу [2004, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3945596" target="_blank" onclick="yandex_target('all_books');return true;">100 способов найти работу </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Черниговцев Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Черниговцев Г.">Черниговцев Г.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Игнатенко.А.В. - Космогуманистическая цивилизация золотого века творца [2004, PDF, RUS]" href="/?page=book&topic_id=3873144" onclick="yandex_target('all_books');return true;"><img src="http://i30.fastpic.ru/big/2011/1224/05/dc09acc57a193ef4797f7535cc637d05.jpg" width="100%" class="thumbnail" alt="Обложка книги Игнатенко.А.В. - Космогуманистическая цивилизация золотого века творца [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Игнатенко.А.В. - Космогуманистическая цивилизация золотого века творца [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3873144" target="_blank" onclick="yandex_target('all_books');return true;">Космогуманистическая цивилизация золотого века творца </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Игнатенко.А.В." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Игнатенко.А.В.">Игнатенко.А.В.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Меняйлов А. - Теория стаи. Психоанализ Великой Борьбы [2004, DjVu, RUS]" href="/?page=book&topic_id=3898124" onclick="yandex_target('all_books');return true;"><img src="http://i30.fastpic.ru/big/2012/0112/b8/fd670686d70f32df98ab84dc712d61b8.png" width="100%" class="thumbnail" alt="Обложка книги Меняйлов А. - Теория стаи. Психоанализ Великой Борьбы [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Меняйлов А. - Теория стаи. Психоанализ Великой Борьбы [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3898124" target="_blank" onclick="yandex_target('all_books');return true;">Теория стаи. Психоанализ Великой Борьбы </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Меняйлов А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Меняйлов А.">Меняйлов А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu / PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Фулфер М. - Искусство чтения по лицу [2004, DjVu / PDF, RUS]" href="/?page=book&topic_id=3895378" onclick="yandex_target('all_books');return true;"><img src="http://i32.fastpic.ru/big/2012/0111/c7/82d969e32818219e7a126e4de65dfbc7.jpg" width="100%" class="thumbnail" alt="Обложка книги Фулфер М. - Искусство чтения по лицу [2004, DjVu / PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Фулфер М. - Искусство чтения по лицу [2004, DjVu / PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3895378" target="_blank" onclick="yandex_target('all_books');return true;">Искусство чтения по лицу </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Фулфер М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Фулфер М.">Фулфер М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Секреты Королевы - Муравьева Г. - Любовь - энергия жизни [2004, PDF, DOC, RUS]" href="/?page=book&topic_id=3796929" onclick="yandex_target('all_books');return true;"><img src="http://i30.fastpic.ru/big/2011/1030/3c/b1524d08da29a2af5e6a97744382313c.png" width="100%" class="thumbnail" alt="Обложка книги Секреты Королевы - Муравьева Г. - Любовь - энергия жизни [2004, PDF, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Секреты Королевы - Муравьева Г. - Любовь - энергия жизни [2004, PDF, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3796929" target="_blank" onclick="yandex_target('all_books');return true;">Любовь - энергия жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Муравьева Г." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Муравьева Г.">Муравьева Г.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Пиз А. - Ответы в вопросах [2004, PDF, RUS]" href="/?page=book&topic_id=3775607" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Пиз А. - Ответы в вопросах [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Пиз А. - Ответы в вопросах [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3775607" target="_blank" onclick="yandex_target('all_books');return true;">Ответы в вопросах </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Пиз А." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Пиз А.">Пиз А.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Макмиллан Л. - Мир наших эмоций [2004, PDF, RUS]" href="/?page=book&topic_id=3756816" onclick="yandex_target('all_books');return true;"><img src="http://i30.fastpic.ru/big/2011/1002/9f/7958f34da8b3f3ef0434ec60c65a319f.jpg" width="100%" class="thumbnail" alt="Обложка книги Макмиллан Л. - Мир наших эмоций [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Макмиллан Л. - Мир наших эмоций [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3756816" target="_blank" onclick="yandex_target('all_books');return true;">Мир наших эмоций </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Макмиллан Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Макмиллан Л.">Макмиллан Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Магия высшей практической психологии - Дэвид Гордон, Мэрибет Майерс-Андерсон - Феникс. Терапевтические паттерны Милтона Эриксона [2004, PDF, RUS]" href="/?page=book&topic_id=3731668" onclick="yandex_target('all_books');return true;"><img src="http://i28.fastpic.ru/big/2011/0914/95/c68c87e0034b5866ab5047646279d895.jpeg" width="100%" class="thumbnail" alt="Обложка книги Магия высшей практической психологии - Дэвид Гордон, Мэрибет Майерс-Андерсон - Феникс. Терапевтические паттерны Милтона Эриксона [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Магия высшей практической психологии - Дэвид Гордон, Мэрибет Майерс-Андерсон - Феникс. Терапевтические паттерны Милтона Эриксона [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3731668" target="_blank" onclick="yandex_target('all_books');return true;">Феникс. Терапевтические паттерны Милтона Эриксона </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Дэвид Гордон, Мэрибет Майерс-Андерсон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Дэвид Гордон, Мэрибет Майерс-Андерсон">Дэвид Гордон, Мэрибет Майерс-Андерсон</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Сам себе психолог - Вагин И. - Как из мухи сделать слона [2004, PDF, RUS]" href="/?page=book&topic_id=3724508" onclick="yandex_target('all_books');return true;"><img src="http://i28.fastpic.ru/big/2011/0909/d1/0d97e062bb1e5e3daf1dd6968c770dd1.jpg" width="100%" class="thumbnail" alt="Обложка книги Сам себе психолог - Вагин И. - Как из мухи сделать слона [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Сам себе психолог - Вагин И. - Как из мухи сделать слона [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3724508" target="_blank" onclick="yandex_target('all_books');return true;">Как из мухи сделать слона </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Вагин И." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Вагин И.">Вагин И.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">TXT, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Каструбин Э.М. - Секреты исцеляющих программ - [2004, TXT, RUS]" href="/?page=book&topic_id=3658933" onclick="yandex_target('all_books');return true;"><img src="http://mmedia.ozon.ru/multimedia/books_covers/1000260670.jpg" width="100%" class="thumbnail" alt="Обложка книги Каструбин Э.М. - Секреты исцеляющих программ - [2004, TXT, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Каструбин Э.М. - Секреты исцеляющих программ - [2004, TXT, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3658933" target="_blank" onclick="yandex_target('all_books');return true;">[2004, TXT, RUS]</a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Секреты исцеляющих программ" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Секреты исцеляющих программ">Секреты исцеляющих программ</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Психологический бестселлер - Биддалф С. - Нестандартные родители, или Секрет счастливого ребенка [2004, PDF, RUS]" href="/?page=book&topic_id=3709616" onclick="yandex_target('all_books');return true;"><img src="http://i26.fastpic.ru/big/2011/0828/82/a2ecbd4a1397939097f926d18de1a682.png" width="100%" class="thumbnail" alt="Обложка книги Психологический бестселлер - Биддалф С. - Нестандартные родители, или Секрет счастливого ребенка [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Психологический бестселлер - Биддалф С. - Нестандартные родители, или Секрет счастливого ребенка [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3709616" target="_blank" onclick="yandex_target('all_books');return true;">Нестандартные родители, или Секрет счастливого ребенка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Биддалф С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Биддалф С.">Биддалф С.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Холл М. - Игры, в которые играют худые люди. Стань стройным и здоровым [2004, DOC, RUS]" href="/?page=book&topic_id=3692348" onclick="yandex_target('all_books');return true;"><img src="http://s53.radikal.ru/i142/1108/44/f30c48f3ea41.jpg" width="100%" class="thumbnail" alt="Обложка книги Холл М. - Игры, в которые играют худые люди. Стань стройным и здоровым [2004, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Холл М. - Игры, в которые играют худые люди. Стань стройным и здоровым [2004, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3692348" target="_blank" onclick="yandex_target('all_books');return true;">Игры, в которые играют худые люди. Стань стройным и здоровым </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Холл М." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Холл М.">Холл М.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Магия высшей практической психологии - Андреас С. - Трансформация &quot;Я&quot;. Стань таким, каким ты хочешь быть [2004, DOC, RUS]" href="/?page=book&topic_id=3692318" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Магия высшей практической психологии - Андреас С. - Трансформация &quot;Я&quot;. Стань таким, каким ты хочешь быть [2004, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Магия высшей практической психологии - Андреас С. - Трансформация &quot;Я&quot;. Стань таким, каким ты хочешь быть [2004, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3692318" target="_blank" onclick="yandex_target('all_books');return true;">Трансформация &quot;Я&quot;. Стань таким, каким ты хочешь быть </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Андреас С." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Андреас С.">Андреас С.</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">FB2, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Кевин Митник - The Art of Deception / Искусство обмана [2004, FB2, RUS]" href="/?page=book&topic_id=3559275" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Кевин Митник - The Art of Deception / Искусство обмана [2004, FB2, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Кевин Митник - The Art of Deception / Искусство обмана [2004, FB2, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3559275" target="_blank" onclick="yandex_target('all_books');return true;">The Art of Deception / Искусство обмана </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Кевин Митник" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Кевин Митник">Кевин Митник</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Грей Джон - Марс и Венера. Диета и упражнения [2004, PDF, DOC, RUS]" href="/?page=book&topic_id=3536110" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Грей Джон - Марс и Венера. Диета и упражнения [2004, PDF, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Грей Джон - Марс и Венера. Диета и упражнения [2004, PDF, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3536110" target="_blank" onclick="yandex_target('all_books');return true;">Марс и Венера. Диета и упражнения </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Грей Джон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Грей Джон">Грей Джон</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Все что вы хотели бы знать о... - Mahesh Kapadia / Махеш Кападайя - Increasing Memory Power / Улучшение памяти [2004, PDF, RUS]" href="/?page=book&topic_id=3536074" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Все что вы хотели бы знать о... - Mahesh Kapadia / Махеш Кападайя - Increasing Memory Power / Улучшение памяти [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Все что вы хотели бы знать о... - Mahesh Kapadia / Махеш Кападайя - Increasing Memory Power / Улучшение памяти [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3536074" target="_blank" onclick="yandex_target('all_books');return true;">Increasing Memory Power / Улучшение памяти </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Mahesh Kapadia / Махеш Кападайя" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Mahesh Kapadia / Махеш Кападайя">Mahesh Kapadia / Махеш Кападайя</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Борис Сахаров (Аров) - Йога. Теория и практика [2004, DOC, RUS]" href="/?page=book&topic_id=3183433" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Борис Сахаров (Аров) - Йога. Теория и практика [2004, DOC, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Борис Сахаров (Аров) - Йога. Теория и практика [2004, DOC, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=3183433" target="_blank" onclick="yandex_target('all_books');return true;">Йога. Теория и практика </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Борис Сахаров (Аров)" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Борис Сахаров (Аров)">Борис Сахаров (Аров)</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">RTF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: За 90 минут. Просто о сложном - Темплтон Д. М. / Templeton J. M. - Всемирные законы жизни [2004, RTF, RUS]" href="/?page=book&topic_id=2406052" onclick="yandex_target('all_books');return true;"><img src="http://i4.fastpic.ru/big/2010/0525/8d/ec100c6d634dada31679031442dc0c8d.jpg" width="100%" class="thumbnail" alt="Обложка книги За 90 минут. Просто о сложном - Темплтон Д. М. / Templeton J. M. - Всемирные законы жизни [2004, RTF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: За 90 минут. Просто о сложном - Темплтон Д. М. / Templeton J. M. - Всемирные законы жизни [2004, RTF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2406052" target="_blank" onclick="yandex_target('all_books');return true;">Всемирные законы жизни </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Темплтон Д. М. / Templeton J. M." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Темплтон Д. М. / Templeton J. M.">Темплтон Д. М. / Templeton J. M.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Рудигер Дальке, Торвальд Детлефсен - Болезнь как путь. Значение и предназначение болезней [2004, PDF, RUS]" href="/?page=book&topic_id=2371670" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Рудигер Дальке, Торвальд Детлефсен - Болезнь как путь. Значение и предназначение болезней [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Рудигер Дальке, Торвальд Детлефсен - Болезнь как путь. Значение и предназначение болезней [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2371670" target="_blank" onclick="yandex_target('all_books');return true;">Болезнь как путь. Значение и предназначение болезней </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Рудигер Дальке, Торвальд Детлефсен" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Рудигер Дальке, Торвальд Детлефсен">Рудигер Дальке, Торвальд Детлефсен</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Андрей Яхонтов - Учебник жизни для дураков - Издание второе, переработанное и ещё как дополненное [2004, PDF, RUS]" href="/?page=book&topic_id=2258347" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/86/aff715e067c573bdc2404b6d7b5ea686.jpg" width="100%" class="thumbnail" alt="Обложка книги Андрей Яхонтов - Учебник жизни для дураков - Издание второе, переработанное и ещё как дополненное [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Андрей Яхонтов - Учебник жизни для дураков - Издание второе, переработанное и ещё как дополненное [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2258347" target="_blank" onclick="yandex_target('all_books');return true;">Издание второе, переработанное и ещё как дополненное </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Учебник жизни для дураков" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Учебник жизни для дураков">Учебник жизни для дураков</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Майкл Холл, Боб Боденхамер - Высшая магия НЛП [2004, DjVu, RUS]" href="/?page=book&topic_id=2146811" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/96/e7a8d4d7f5dd76f2b2f5db1f89ae2996.jpg" width="100%" class="thumbnail" alt="Обложка книги Майкл Холл, Боб Боденхамер - Высшая магия НЛП [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Майкл Холл, Боб Боденхамер - Высшая магия НЛП [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2146811" target="_blank" onclick="yandex_target('all_books');return true;">Высшая магия НЛП </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Майкл Холл, Боб Боденхамер" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Майкл Холл, Боб Боденхамер">Майкл Холл, Боб Боденхамер</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">DjVu, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Майкл Холл - Магия коммуникации. Использование структуры и значения языка. [2004, DjVu, RUS]" href="/?page=book&topic_id=2146603" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Майкл Холл - Магия коммуникации. Использование структуры и значения языка. [2004, DjVu, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Майкл Холл - Магия коммуникации. Использование структуры и значения языка. [2004, DjVu, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2146603" target="_blank" onclick="yandex_target('all_books');return true;">Магия коммуникации. Использование структуры и значения языка. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Майкл Холл" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Майкл Холл">Майкл Холл</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF, RUS</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Карнеги, Дейл - Как быть счастливым в семье [2004, PDF, RUS]" href="/?page=book&topic_id=2089989" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/7d/562d21c251653af1a07b18ae63767e7d.jpg" width="100%" class="thumbnail" alt="Обложка книги Карнеги, Дейл - Как быть счастливым в семье [2004, PDF, RUS]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Карнеги, Дейл - Как быть счастливым в семье [2004, PDF, RUS]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2089989" target="_blank" onclick="yandex_target('all_books');return true;">Как быть счастливым в семье </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Карнеги, Дейл" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Карнеги, Дейл">Карнеги, Дейл</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Калинаускас И.Н. - Хорошо Сидим! [2004, DOC]" href="/?page=book&topic_id=2009793" onclick="yandex_target('all_books');return true;"><img src="http://i150.photobucket.com/albums/s118/_tigrik_/torrent/horosho_sidim.jpg" width="100%" class="thumbnail" alt="Обложка книги Калинаускас И.Н. - Хорошо Сидим! [2004, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Калинаускас И.Н. - Хорошо Сидим! [2004, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=2009793" target="_blank" onclick="yandex_target('all_books');return true;">Хорошо Сидим! </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Калинаускас И.Н." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Калинаускас И.Н.">Калинаускас И.Н.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Наталья Правдина - Я привлекаю успех [2004, PDF]" href="/?page=book&topic_id=1876982" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Наталья Правдина - Я привлекаю успех [2004, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Наталья Правдина - Я привлекаю успех [2004, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1876982" target="_blank" onclick="yandex_target('all_books');return true;">Я привлекаю успех </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Наталья Правдина" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Наталья Правдина">Наталья Правдина</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Махно В.В. - Тесты - Кто рядом с Вами [2004, PDF]" href="/?page=book&topic_id=1866502" onclick="yandex_target('all_books');return true;"><img src="http://i3.fastpic.ru/big/2009/1023/59/11043fda18f318b908d63fa379ac3259.jpg" width="100%" class="thumbnail" alt="Обложка книги Махно В.В. - Тесты - Кто рядом с Вами [2004, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Махно В.В. - Тесты - Кто рядом с Вами [2004, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1866502" target="_blank" onclick="yandex_target('all_books');return true;">Кто рядом с Вами </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Тесты" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Тесты">Тесты</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Добротворский И.Л. - Постройте ваше будущее. Психология Успеха [2004, PDF]" href="/?page=book&topic_id=1808562" onclick="yandex_target('all_books');return true;"><img src="http://s58.radikal.ru/i161/0905/03/1e19fc7a579e.jpg" width="100%" class="thumbnail" alt="Обложка книги Добротворский И.Л. - Постройте ваше будущее. Психология Успеха [2004, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Добротворский И.Л. - Постройте ваше будущее. Психология Успеха [2004, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1808562" target="_blank" onclick="yandex_target('all_books');return true;">Постройте ваше будущее. Психология Успеха </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Добротворский И.Л." class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Добротворский И.Л.">Добротворский И.Л.</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Норман Винсент Пил - Живите всегда полноценной жизнью [2004, PDF]" href="/?page=book&topic_id=1745417" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Норман Винсент Пил - Живите всегда полноценной жизнью [2004, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Норман Винсент Пил - Живите всегда полноценной жизнью [2004, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1745417" target="_blank" onclick="yandex_target('all_books');return true;">Живите всегда полноценной жизнью </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Норман Винсент Пил" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Норман Винсент Пил">Норман Винсент Пил</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бланш Бартон - Закон запретного, Тайная жизнь сатаниста [2004, DOC]" href="/?page=book&topic_id=1742195" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Бланш Бартон - Закон запретного, Тайная жизнь сатаниста [2004, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бланш Бартон - Закон запретного, Тайная жизнь сатаниста [2004, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1742195" target="_blank" onclick="yandex_target('all_books');return true;">Закон запретного, Тайная жизнь сатаниста </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бланш Бартон" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бланш Бартон">Бланш Бартон</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Магия высшей практической психологии - Майкл Холл - Магия коммуникации. Использование структуры и значения языка [2004, PDF]" href="/?page=book&topic_id=1596747" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Магия высшей практической психологии - Майкл Холл - Магия коммуникации. Использование структуры и значения языка [2004, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Магия высшей практической психологии - Майкл Холл - Магия коммуникации. Использование структуры и значения языка [2004, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1596747" target="_blank" onclick="yandex_target('all_books');return true;">Магия коммуникации. Использование структуры и значения языка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Майкл Холл" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Майкл Холл">Майкл Холл</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Мигель Руис - Мастерство Любви [2004, DOC]" href="/?page=book&topic_id=1368941" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Мигель Руис - Мастерство Любви [2004, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Мигель Руис - Мастерство Любви [2004, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1368941" target="_blank" onclick="yandex_target('all_books');return true;">Мастерство Любви </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Мигель Руис" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Мигель Руис">Мигель Руис</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Эверетт Шостром - Человек-манипулятор. Внутреннее путешествие от манипуляции к актуализации [2004, DOC]" href="/?page=book&topic_id=1272063" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Эверетт Шостром - Человек-манипулятор. Внутреннее путешествие от манипуляции к актуализации [2004, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Эверетт Шостром - Человек-манипулятор. Внутреннее путешествие от манипуляции к актуализации [2004, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1272063" target="_blank" onclick="yandex_target('all_books');return true;">Человек-манипулятор. Внутреннее путешествие от манипуляции к актуализации </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Эверетт Шостром" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Эверетт Шостром">Эверетт Шостром</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Харнер Майкл - Путь шамана [2004, DOC]" href="/?page=book&topic_id=1092931" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Харнер Майкл - Путь шамана [2004, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Харнер Майкл - Путь шамана [2004, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1092931" target="_blank" onclick="yandex_target('all_books');return true;">Путь шамана </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Харнер Майкл" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Харнер Майкл">Харнер Майкл</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row">		<div class="col-md-3 ">
+			<div class=" vp_block">
+				<span>2004</span><span class="hidden-sm-down">fb2</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Бенджамен Хофф - Дао Винни-Пуха + Дэ Пятачка [2004, fb2]" href="/?page=book&topic_id=1071029" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Бенджамен Хофф - Дао Винни-Пуха + Дэ Пятачка [2004, fb2]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Бенджамен Хофф - Дао Винни-Пуха + Дэ Пятачка [2004, fb2]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1071029" target="_blank" onclick="yandex_target('all_books');return true;">Дао Винни-Пуха + Дэ Пятачка </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Бенджамен Хофф" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Бенджамен Хофф">Бенджамен Хофф</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Клаус Дж. ДЖОУЛ ( 2 книги) первая это Деньги - это любовь, вторая Самая постыдная тайна. [2004, PDF]" href="/?page=book&topic_id=1055633" onclick="yandex_target('all_books');return true;"><img src="http://i28.fastpic.ru/big/2011/0909/6f/91556375b33ad9b06360d29aca4ddc6f.jpg" width="100%" class="thumbnail" alt="Обложка книги Клаус Дж. ДЖОУЛ ( 2 книги) первая это Деньги - это любовь, вторая Самая постыдная тайна. [2004, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Клаус Дж. ДЖОУЛ ( 2 книги) первая это Деньги - это любовь, вторая Самая постыдная тайна. [2004, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1055633" target="_blank" onclick="yandex_target('all_books');return true;">это любовь, вторая Самая постыдная тайна. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Клаус Дж. ДЖОУЛ ( 2 книги) первая это Деньги" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Клаус Дж. ДЖОУЛ ( 2 книги) первая это Деньги">Клаус Дж. ДЖОУЛ ( 2 книги) первая это Деньги</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">PDF</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Ричард Кох - Принцип 80/20. [2004, PDF]" href="/?page=book&topic_id=1050319" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Ричард Кох - Принцип 80/20. [2004, PDF]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Ричард Кох - Принцип 80/20. [2004, PDF]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1050319" target="_blank" onclick="yandex_target('all_books');return true;">Принцип 80/20. </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Ричард Кох" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Ричард Кох">Ричард Кох</a></p>
+									</div>
+			</div>
+		</div>
+		<div class="col-md-3 ">
+			<div class="col-md-offset-1-my vp_block">
+				<span>2004</span><span class="hidden-sm-down">DOC</span>			
+				
+				<a target="_blank" title="Смотреть и скачать книгу: Брюс Голдберг - Гипноз третьего тысячелетия [2004, DOC]" href="/?page=book&topic_id=1039871" onclick="yandex_target('all_books');return true;"><img src="/project/freecon/files/no_oblojki.png" width="100%" class="thumbnail" alt="Обложка книги Брюс Голдберг - Гипноз третьего тысячелетия [2004, DOC]"></a>
+				
+				<div class="caption">
+					<h4 class="video_title" title="Смотреть и скачать книгу: Брюс Голдберг - Гипноз третьего тысячелетия [2004, DOC]"><a class="hvr-pulse-shrink" href="/?page=book&topic_id=1039871" target="_blank" onclick="yandex_target('all_books');return true;">Гипноз третьего тысячелетия </a></h4>
+										<p><a target="_blank" href="/?page=psybooks&search_string=Брюс Голдберг" class="yt-user-name hvr-wobble-vertical" title="Другие книги автора: Брюс Голдберг">Брюс Голдберг</a></p>
+									</div>
+			</div>
+		</div>
+</div><div class="row vp_block_row"></div>
+<div class="row">
+	<div class="col-md-10">
+<a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=29"><i class="fas fa-step-backward"></i></a>
+	<a title="Следующие 40" class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=13"><i class="fas fa-caret-left"></i></a><a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=14">14</a> | <a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=13">13</a> | <b>12</b> | <a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=11">11</a> |  <a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=10">10</a><a title="Предыдущие 40" class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=11">
+<i class="fas fa-caret-right"></i></a>
+
+<a class="justlink" href= "/?page=psybooks_popul&cat_id=1696&page_num=1"><i class="fas fa-step-forward"></i></a></div>
+</div>
+
+<!-- // Страница psybooks_popul-->
